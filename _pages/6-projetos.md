@@ -1,0 +1,172 @@
+---
+layout: page
+title: projetos de pesquisa
+permalink: /projetos
+order: 6
+lang: en
+lang-ref: satoru-projetos
+description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+
+profile:
+  align: right
+  image: satoru-site.png
+  address: >
+    <p>Niterói, Rio de Janeiro, Brazil</p>
+
+news: false  # includes a list of news items
+selected_papers: false      # includes a list of papers marked as "selected={true}" (only run locally!)
+selected_papers_cache: false # this can run on github pages
+social: true  # includes social icons at the bottom of the page
+news_limit: 5
+---
+projetos
+
+
+<ol>
+  
+<b>
+
+
+<li>
+<b> . 
+</b> Projeto FAPERJ: Centro de Excelência em Transformação Digital e Inteligência Artificial do Estado do Rio de Janeiro (Hub.Rio): Rede Tematica de Combate aos Efeitos da Covid-19 
+ </b> Edital: Chamada C,  Ação Emergencial Projetos para Combater os Efeitos da Covid-19 , Parceria Faperj/SES, 2020. 
+Coordenador: Roberto de Andrade Medronho-UFRJ). <b>Membros comitê de gestao:  Guilherme Travassos (UFRJ), Luiz Satoru Ochi (IC-UFF),  Marley Vellasco (PUC-Rio), Nivio Ziviani (LNCC),  Alberto Martin Rivera Davila (Fiocruz). 
+</li>
+<p>
+
+
+
+
+
+<li>
+<b> . 
+</b> Projeto FAPERJ: Otimização e Inteligencia Computacional para Resolução de Problemas de Planejamento e Decisao.
+ </b> Edital: Apoio as Instituições de Ensino e Pesquisa sediadas no Estado do Rio de Janeiro - Edital: E-11/2018, Periodo: 2019-2020.
+Coordenador: Luiz Satoru Ochi (IC-UFF) 
+</li>
+<p>
+
+
+<li>
+<b> SMART CITIES: Novas Tecnologias Para Melhorar Servicos Publicos e Privados. 
+</b> Projeto parcialmente financiado pelo CNPq - Edital UNIVERSAL 28/2018 - Faixa C.
+ </b> Edital UNIVERSAL 28/2018 - Faixa C. Vigencia: 2019 - 2021.
+Coordenador: Luiz Satoru Ochi (IC-UFF) 
+</li>
+<p>
+
+
+
+
+<li>
+<b> SMART CITIES: Novas Tecnologias Para Melhorar Servicos Publicos e Privados em Grandes Cidades. 
+</b> Projeto parcialmente financiado pela FAPERJ - GRANT Cientista do Nosso Estado (CNE).
+Edital CNE 2017 </b> edital FAPERJ CNE 2017. Vigencia: 01/2018 - 06/2021.
+Coordenador: Luiz Satoru Ochi (IC-UFF) 
+</li>
+<p>
+
+
+
+
+<li>
+  <b> Melhorando a qualidade de serviços através da Inteligência Computacional e Otimização.</b> Projeto parcialmente financiado pelo CNPq
+pelo Edital: <b> UNIVERSAL 14/2013 </b> edital MCT/CNPq/Faixa C. Processo CNPq:470909/2013-7. Período: 2013 - 2016. 
+Coordenador: Luiz Satoru Ochi (IC-UFF) 
+  </li>
+<p>
+
+
+<li>
+<b> Projeto de Pesquisa CNPq - Ciência sem Fronteira, edital: MEC/MCTI/CAPES/CNPq/FAPs No 71/2013 Pesquisador Visitante Especial - Linha 2, 
+"Métodos eficientes para Problemas de Roteamento de Veículos com Aplicações Reais ",
+ Professor visitante convidado: Christian Prins (Université de Technologie de Troyes (UTT)) - France </b>
+- Coordenador do Projeto: Luiz Satoru Ochi (Vigência: 2013 - 2016).
+
+</li>
+<p>
+
+
+<li>
+  <b> Gestão da Informação através da Inteligência Computacional (GINICOM)-Parte II. Projeto parcialmente 
+financiado pelo CNPq/MCT pelo Edital: CT-INFO 09/2010 - PDI-TI - 2010 - FAIXA C (Grande Porte).</b> 
+Período: 2011 - 2015. 
+Coordenador: Luiz Satoru Ochi (IC-UFF). 
+  </li>
+<p>
+
+<li>
+  <b>Novas Tecnologias para a melhoria da qualidade de serviços Públicos e Privados do Estado do Rio de Janeiro.</b> Projeto parcialmente financiado pelo FAPERJ
+pelo Edital: <b> Apoio às Instituições de Ensino e Pesquisa Sediadas no Estado do Rio de Janeiro - 2011</b>. 
+Período: 2011 - 2014. 
+Coordenador: Luiz Satoru Ochi (IC-UFF). 
+  </li>
+<p>
+
+<li>
+  <b>Melhorando a qualidade de serviços através da Inteligência Computacional e Otimização.</b> Projeto parcialmente financiado pelo CNPq
+pelo Edital: <b> UNIVERSAL </b> edital MCT/CNPq/Faixa B. Processo CNPq:470487/2010-0. Período: 2010 - 2013 (Projeto concluido em Janeiro 2013). 
+Coordenador: Luiz Satoru Ochi (IC-UFF). 
+  </li>
+<p>
+
+<li>
+  <b>Gestão da Informação através da Inteligência Computacional (GINICOM)- Parte I.</b> Projeto parcialmente financiado pelo CNPq
+pelo Edital: <b> "GRANDES DESAFIOS DA COMPUTAÇÃO NO BRASIL: 2006-1016" </b> edital MCT/CNPq/CT-INFO 07/2007. Período: 2008 - 2010. 
+Coordenador: Luiz Satoru Ochi (IC-UFF). 
+  </li>
+<p>
+<li>
+  <b>Soluções Eficientes para Problemas Reais agregando conceitos de Inteligência Computacional e Otimização.</b> 
+Projeto parcialmente financiado pelo CNPq pelo edital MCT/CNPq/CT - Universal 2007-Faixa B. Período: 2008 - 2009. 
+Coordenador: Luiz Satoru Ochi (IC-UFF). 
+  </li>
+<p>
+
+<li>
+  <b>Proposta de Intercâmbio Acadêmico entre a Universidade Federal Fluminense  UFF e a Universidade Federal da Paraíba  UFPB
+na área de Pesquisa Operacional.</b> Projeto de Pesquisa
+financiado parcialmente pela CAPES no edital: PRÓ-ENGENHARIAS 01/2007. Coordenador: Luiz Satoru Ochi. Período: 2008 - 2013.
+  </li>
+<p>
+
+<li>
+  <b>PROJETO PROCAD-NF "Otimização de consultas espaciais baseada em ontologias e clusterização", Instituições parceiras: UFPB, UFPE, IC-UFF (Coordenadora geral: Valéria Soares - UFPB)</b> Projeto de Pesquisa
+financiado parcialmente pela CAPES no edital: PROCAD-NF 2008. Coordenador Institucional (UFF): Luiz Satoru Ochi. Período: 2008 - 2013.
+  </li>
+<p>
+
+<li>
+  <b>Melhorando a qualidade de serviços através da Inteligência Computacional.</b> Projeto de Pesquisa
+financiado parcialmente pela FAPERJ no edital: "PENSA RIO". Coordenador: Luiz Satoru Ochi. Período: 2007 - 2009.
+  </li>
+<p>
+	<li>
+  <b>Metaheurísticas Eficientes em Otimização Combinatória.</b> Bolsa de Produtividade do
+  CNPq-CC. (2004-2007 e 2007-2010).
+  </li>
+  <p>
+  <li>
+  <b>Problemas de Clusterização via Programação Metaheurística (Cluster - ProMet)</b>,
+  CNPq-CC. (2004-2007).
+  </li>
+  <p>
+    <li>
+  <b>Tecnologia de Informações em Inteligência Computacional (MINERIC).</b> Projeto vinculado ao edital CT-Info -CNPq
+ (2005-2007). Coordenador: Luiz Satoru Ochi (IC-UFF). Pesquisadores: Fábio Proti (UFRJ), Carlile C. Lavor (IME-UNICAMP)
+  </li>
+<p>
+ <li>
+  <b> Projeto do edital UNIVERSAL 2005 - CNPq: Algoritmos Exatos e Heurísticos para Problemas Combinatórios
+em Biologia Computacional - </b> Coordenador: Elder M Macambira (UFPB). Pesquisadores: Luiz Satoru Ochi (IC-UFF) e 
+Cid Carvalho de Souza(IC-UNICAMP). CNPq (2005-2007).
+  </li>
+<p>
+<li>
+  <b>Projeto e Implementação de Metaheurística Sequenciais e Paralelas para Problemas de
+  Roteamento e Scheduling.</b> FAPERJ (2003-2005).
+  </li>
+</ol>
+
+
