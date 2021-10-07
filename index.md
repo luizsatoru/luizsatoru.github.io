@@ -20,6 +20,7 @@ social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
 
+## Prof. Dr. Luiz Satoru Ochi
 
 **D.Sc.**
 
