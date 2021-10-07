@@ -20,27 +20,23 @@ social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
 
-CV
+## CV
 
- 
-
-
-
-<b>O Prof. <b>Luiz Satoru Ochi, é Doutor em Engenharia de Sistemas e Computação. 
-Atualmente ele é Professor Titular no <a href="http://www.ic.uff.br"> IC-UFF, Instituto de Computação da Universidade Federal Fluminensen (UFF) </a> e 
-pesquisador do <a href="http://www.cnpq.br">CNPq</a>, <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787740E9">área de Ciência da Computação, nível 1C</a>.
-Algumas das funções atuais incluem: Editor Associado da revista Pesquisa Operacional da <a href="http://www.sobrapo.org.br/"> SOBRAPO</a> e da  Revista Electrônica 
-del Instituto Chileno de Investigación Operativa <a href="http://lia.dis.ufro.cl/pkp/ojs-2.2.4/index.php/ICHIO"> ICHIO</a>; Consultor Ad Hoc dos seguintes órgãos de fomento: <a href="http://www.cnpq.br">CNPq, <a href="http://www.capes.gov.br">CAPES</a>,
- <a href="http://www.faperj.br">FAPERJ-RJ</a>, FAPESP-SP, FAPEMIG-MG, FACEPE-PE, FAPEAL-AL, FAPERN-RN, FUNCAP-CE, FAPESB-BA, FINEP, FONCYT (Argentina) todos na 
+O Prof. **Luiz Satoru Ochi**, é Doutor em Engenharia de Sistemas e Computação. 
+Atualmente ele é Professor Titular no [IC-UFF](http://www.ic.uff.br) Instituto de Computação da Universidade Federal Fluminense (UFF) e 
+pesquisador do [CNPq](http://www.cnpq.br), [área de Ciência da Computação, nível 1C](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787740E9).
+Algumas das funções atuais incluem: Editor Associado da revista Pesquisa Operacional da [SOBRAPO](http://www.sobrapo.org.br/) e da  Revista Electrônica 
+del Instituto Chileno de Investigación Operativa [ICHIO](http://lia.dis.ufro.cl/pkp/ojs-2.2.4/index.php/ICHIO); Consultor Ad Hoc dos seguintes órgãos de fomento: [CNPq](http://www.cnpq.br), [CAPES](http://www.capes.gov.br),
+ [FAPERJ-RJ](http://www.faperj.br), FAPESP-SP, FAPEMIG-MG, 
+ FACEPE-PE, FAPEAL-AL, FAPERN-RN, FUNCAP-CE, FAPESB-BA, FINEP, FONCYT (Argentina) todos na 
 área de Computação.
-Orientador de dissertações de Mestrado e teses de Doutorado no IC/UFF e na <a href="http://www.coppe.ufrj.br">COPPE/UFRJ</a>; 
+
+Orientador de dissertações de Mestrado e teses de Doutorado no IC/UFF e na [COPPE/UFRJ](http://www.coppe.ufrj.br); 
 Supervisor de Pós-Doutorandos no IC/UFF; Membro de Comitês de Programas de eventos nacionais e internacionais anualmente. Desde 2008 recebe grant associado ao 
-Prêmio "Cientista do Estado do Rio de Janeiro" </b> concedido pela  <a href="http://www.faperj.br">FAPERJ (Fundação de Amparo à 
-Pesquisa do Estado do Rio de Janeiro) </a> (Grant:2009-2011; 2012-2014; e 2015-2017; 2018-2020).
+Prêmio "Cientista do Estado do Rio de Janeiro" concedido pela  [FAPERJ](http://www.faperj.br) (Fundação de Amparo à 
+Pesquisa do Estado do Rio de Janeiro) (Grant:2009-2011; 2012-2014; e 2015-2017; 2018-2020).
 
-Para acessar o Curriculun Vitae LATTES do CNPq, veja em:  <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787740E9"> CV-LATTES-CNPq </a>.
-
-<p>
+Para acessar o Curriculun Vitae LATTES do CNPq, veja em: [CV-LATTES-CNPq](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787740E9).
 
 
 
