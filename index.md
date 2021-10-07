@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prof. Dr. Luiz Satoru Ochi
+title: home
 order: 1
 #permalink: /home
 lang: en
@@ -19,6 +19,8 @@ selected_papers_cache: false # this can run on github pages
 social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
+
+## Prof. Dr. Luiz Satoru Ochi
 
 **D.Sc.**
 
