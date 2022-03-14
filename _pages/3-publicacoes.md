@@ -22,33 +22,17 @@ news_limit: 5
 
 Publicações
 
-<b>publications (by year)</b><br/><br/>
+**publications (by year)**
 	
 	
-<b>2021</b><br/><br/>
+**2021**
 
-<b>Accepted/Published</b>
+**Accepted/Published**
 
 
-<ol>
-
-<li>
-
-FADEL, AUGUSTO CESAR; Ochi, Luiz Satoru; BRITO, JOSE ANDRE DE MOURA; and  SEMAAN, GUSTAVO S. (2021). "Microaggregation heuristic applied to statistical disclosure control".<b> </b> INFORMATION SCIENCES, v. 548, p. 37-55, 2021.
-
- <a href="./conteudo/artigos/FADEL-INFSCINCE2021.pdf">|PDF|</a></li> 
-
-</li>
-
-<li>
+1. FADEL, AUGUSTO CESAR; Ochi, Luiz Satoru; BRITO, JOSE ANDRE DE MOURA; and  SEMAAN, GUSTAVO S. (2021). "Microaggregation heuristic applied to statistical disclosure control". INFORMATION SCIENCES, v. 548, p. 37-55, 2021. - <a href="./conteudo/artigos/FADEL-INFSCINCE2021.pdf">|PDF|</a></li> 
   
-Dias, Savio Soares ; Simonetti, Luidi ; Ochi, Luis Satoru (2021). "An ILS-based heuristic applied to the Car Renter Salesman Problem". <b>
-"
-  </b> in </b> RAIRO-OPERATIONS RESEARCH, v. 55, p. 1-22, 2021. 
-
- <a href="./conteudo/artigos/SAVIO-RAIRO2021.pdf">|PDF|</a></li> </li>
-
-</ol>
+1. Dias, Savio Soares ; Simonetti, Luidi ; Ochi, Luis Satoru (2021). "An ILS-based heuristic applied to the Car Renter Salesman Problem" in </b> RAIRO-OPERATIONS RESEARCH, v. 55, p. 1-22, 2021. - <a href="./conteudo/artigos/SAVIO-RAIRO2021.pdf">|PDF|</a></li> </li>
 
 
 
