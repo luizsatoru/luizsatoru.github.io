@@ -30,7 +30,7 @@ Publicações
 
 1. Elias Marques Júnior, Elias Marques Júnior, "Vitor Nazário Coelho, Igor Machado Coelho,Yuri Abitbol De Menezes Frota, Roozbeh Haghnazar Koochaksaraei, Luiz Satoru Ochi,  and Bruno Nazário Coelho (2022). "UAVs routes optimization on smart cities and regions". To appear in RAIRO – Operations Research
 
-1. Carlos Alberto Poncinelli Filho, Elias Lawrence Marques Júnior, Victor Chang, Leonardo Matsumoto Rosendo dos Santos, Flavia Bernardini, Luiz Satoru Ochi, Paulo de Figueiredo Pires,and  Flavia Coimbra Delicato (2022).  A Systematic Literature Review on Distributed Machine Learning in Edge Computing. To appear in Journal SENSORS (ISSN 1424-8220).
+1. Carlos Alberto Poncinelli Filho, Elias Lawrence Marques Júnior, Victor Chang, Leonardo Matsumoto Rosendo dos Santos, Flavia Bernardini, Luiz Satoru Ochi, Paulo de Figueiredo Pires,and  Flavia Coimbra Delicato (2022).  A Systematic Literature Review on Distributed Machine Learning in Edge Computing. To appear in Journal SENSORS (ISSN 1424-8220).Impact Factor: 3.576 (2020) ; 5-Year Impact Factor: 3.735 (2020)
 
 1. Couto Filho, M. B.; Braga Flor, Vinicius B.; Souza, J. C. S.; Ochi, Luis Satoru (2022). Strategic Observation of Power Grids for Reliable Monitoring. International Journal of Electrical Power and Energy Systems (Qualis A1) - Impact Factor: 4,630 (2022) , volume 138, 2022. Keywords: State Estimation, Criticalities, Optimization, Metaheuristics, Computational Intelligence.  https://doi.org/10.1016/j.ijepes.2022.107959.
 
