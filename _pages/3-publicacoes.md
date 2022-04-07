@@ -55,6 +55,109 @@ Publicações
 
 1. Fadel, Augusto César; Ochi, Luiz Satoru ; Brito, Jose André Moura ; Semaan, Gustavo S. (2021). Microaggregation heuristic applied to statistical disclosure control. INFORMATION SCIENCES , (Qualis A1) v. 548, p. 37-55, 2021.
 
+**2020**
+
+**Accepted/Published**
+
+1. Augusto César Fadel; Luiz Satoru Ochi, PhD; José André M Brito, PhD; Gustavo S Semaan, PhD (2020). Título: Microaggregation Heuristic Applied to Statistical Disclosure Control. To appear in Information Sciences – ELSEVIER.
+
+1. Silva, Andre. Renato. V. ; Ochi, Luiz Satoru. ; Barros, Bruno. J. S. ; Pinheiro, Rian. G. S. . Efficient approaches for the Flooding Problem on graphs. ANNALS OF OPERATIONS RESEARCH , v. 286, p. 33-54, 2020
+
+1. Gustavo S Semaan, Jose Andre M Brito, Igor Machado Coelho, Edelberto Franco Silva, Augusto Fadel and Luiz Satoru Ochi (2020). "A Brief History of Heuristics, from Bounded Rationality to Intractability". To appear in IEEE Latin America Transactions. 
+
+1. Savio Dias, Luidi Simonetti and Luiz Satoru Ochi (2020). " An ILS-based heuristic applied to the Car Renter Salesman Proble". To appear in RAIRO-Operations Research.  
+
+1. Janio Carlos Nascimento Silva, Uerveton dos Santos Souza, Luiz Satoru Ochi, Igor Machado Coelho, Vitor Nazario Coelho.(2020) " Finding the Maximum Multi Improvement on Neighborhood Exploration". To appear in Optimization Letters 2020 - SPRINGER. 
+
+1. Thays Aparecida de Oliveira, Yuri Gabrich, Helena Ramalhinho, Miquel Oliver, Miri W. Cohen, Luiz Satoru Ochi, Serigne Gueye, Fábio Protti, Alysson A. Pinto, Diógenes V. M. Ferreira, Igor M. Coelho and Vitor N. Coelho. (2020). “Mobility, Citizens, Innovation and Technology in Digital and Smart Cities”.  in FUTURE INTERNET, 12(2) - 2020, Switzerland. http://www.mdpi.com/journal/futureinternet/ - 2020, Switzerland. 
+
+1. Elias Lawrence Marques Junior, Vitor Nazario Coelho, Igor Machado Coelho, Bruno Nazario Coelho and Luiz Satoru Ochi (2020) "A Multi-objective Metaheuristic for a Green UAV Grid Routing Problem". Lecture Notes in Computer Science - LNCS 12010, 1-2, 2020, PP 152-166, SPRINGER. ISBN: 978-3-030-44931-5. 
+
+1. Silvio E Quincozes, Celio Albuquerque, Diego Passos, Luiz Satoru Ochi, and Daniel Mosse (2020). GRASP-based Feature Selection for Intrusion Detection in CPS Perception Layer) to appear in Proceedings of the 2020 4th Conference on Cloud and Internet of Things (CIoT). 2020.
+
+
+**2019**
+
+**Accepted/Published**
+
+1. Silva, Thiago. G. ; Queiroga, Eduardo ; Cabral, Lucidio A. F. ; Michelon, P. Y. P. ; Ochi, Luis Satoru ; Gueye, Serigne . A hybrid metaheuristic for the minimum labeling spanning tree problem. EUROPEAN JOURNAL OF OPERATIONAL RESEARCH , v. 274, p. 22-34, 2019.
+
+1. Puca Huachi Vaz Penna, Anand Subramanian, Luiz Satoru Ochi, Thibaut Vidal, and Christian Prins. (2019) "A Hybrid Heuristic for a Broad Class of Vehicle Routing Problems with Heterogeneous Fleet". in ANNALS OF OPERATIONS RESEARCH - ANOR - SPRINGER, Volume 273, Issue 1-2, pp. 5-74, 2019
+
+1. Gustavo Silva Semaan, Augusto Cesar Fadel, José André de Moura Brito, Luiz Satoru Ochi (2019). "A Hybrid Efficient Heuristic with Hopkins Statistic for the Automatic Clustering Problem". In IEEE Latin America Transactions, Volume 17(1), p. 7-17, (2019).
+
+1. Thiago  Gouveia da Silva; Serigne Gueye; Philippe Michelon; Luiz Satoru Ochi; and Lucidio dos Anjos Formiga Cabral. (2019). "A polyhedral approach to the generalized minimum labeling spanning tree problem",  in EURO Journal on Computational Optimization, volume 7, pages47–77(2019) - SPRINGER 
+
+1. Marques Moreira Sousa, Luiz Satoru Ochi, and Simone de Lima Martins (2019). "An Efficient Heuristic to the Traveling Salesperson Problem with Hotel Selection", In Hybrid Metaheuristics Book - Lecture Notes in Computer Science (LNCS) 11299, pp. 31-45 , SPRINGER, ISSN 0302-9743, https://doi.org/10.1007/978-3-030-05983-5.
+
+1. André Villela da Silva and Luiz Satoru Ochi (2019). " Local Search Methods for the MRCPSP-Energy", In Hybrid Metaheuristics Book - Lecture Notes in Computer Science (LNCS) 11299, pp. 172-179 , SPRINGER, ISSN 0302-9743, https://doi.org/10.1007/978-3-030-05983-5. 
+
+1. Coelho V.N.; Coelho, I.M.; Mladenovic, N.; Ramalhinho, H.; Ochi, L.S.; Guimarães, F.G.; Souza, M.J.F. (2019) Less Is More: The Neighborhood Guided Evolution Strategies Convergence on Some Classic Neighborhood Operators. In: Sifaleras A., Salhi S., Brimberg J. (eds). Variable Neighborhood Search. ICVNS 2018. Lecture Notes in Computer Science, vol 11328, pp. 77-88. Springer, DOI: 10.1007/978-3-030-15843-9_7.
+
+1.Thiago Gouveia da Silva (autor Tese Doutorado Co-tutela entre IC-UFF & University of Avignon), Philippe Michelon, Luiz Satoru Ochi, Lucidio Cabral, and Serigne Gueye (orientadores UFF & Univ Avignon), (2019) "The Minimum Labeling Spanning Tree and Related Problems - Tese de Doutorado classificada segundo lugar", Concurso de Teses & Dissertacoes do CTD-CSBC 2019.
+
+1. Elias Lawrence Marques Junior, Vitor Nazario Coelho, Igor Machado Coelho, Bruno Nazario Coelho and Luiz Satoru Ochi (2019) "A Multi-objective Metaheuristic for a Green UAV Grid Routing Problem". Aceito para ser publicado na serie LNCS 11299 - SPRINGER. 
+
+1. Vitor Nazario Coelho, Yuri B. Gabrich; Thays A. Oliveira; Luiz Satoru Ochi; Alexandre C Barbosa; and Igor Machado Coelho (2019) "When CI and Descentralized Systems Effectively Meet Smart Cities and Grids". Capitulo Livro: Serie: URBAN COMPUTING - Book: Smart and Digital Cities, pp. 239-249 - SPRINGER. ISSN: 2510-2575
+
+1. Marques Moreira Souza, Simone Martins e Luiz Satoru Ochi (2019) "O Problema do Caixeiro Viajante com Seleção de Hoteis: Uma Revisao Sistematica da Literatura", SBSI 2019 – Aracaju/SE.
+
+1. Fabiano Bhering, Célio V N Figueiredo, Luiz Satoru Ochi and Diego Passos (2019). "Multipath Selection Mechanism for Wireless Video-Surveillance Systems", LANOMS 2019 - Latin-American Network Operations and Management Symposium   
+
+1. Munhoz, Pablo L. A.; Carmo, F. P.; Souza, Ueverton. S.; Drummond, Lucia. M. A.; Gozalez, Pedro. H.; Ochi, Luiz Satoru.; and Michelon, P. (2019). “Locality Sensitive Algotrithms for Data Mule Routing Problem”. In: International Conference on Algorithmic Aspects in Information and Management, 2019, Beijing. 13th International Conference on Algorithmic Aspects in Information and Management (AAIM 2019), Lecture Notes in Computer Science, 2019. v. 11640. p. 236-248.
+
+1. Semaan, Gustavo S.; Ochi, Luiz Satoru; Alvernaz, Débora; Dembogurski, Bruno; Silva, Edelberto; Brito, J. A. M.; and Ribas, Savio. (2019). “Um panorama geral das contribuições e das redes de colaboração do SBIE”. Aceito para O Simpósio Brasileiro de Informática na Educação (SBIE 2019) – Brasília/DF.
+
+1. Barros, Bruno; Pinheiro, Rian and Ochi, Luiz Satoru. (2019). “A GRASP Approach for The Minimum Spanning Tree Under Conflict Constraints”. Aceito para O ENIAC 2019 - Salvador – BA.
+
+1. Beltrao, Augusto; Brito, Jose Andre.; and Luiz Satoru. (2019). “Heuristic Algorithm for the Travelling Salesman Problem With Hotel Selection”. Aceito para O ENIAC 2019 - Salvador – BA.
+
+1. Gustavo Semaan, Augusto Cesar Fadel, Victor Parada, José Brito and Luiz Satoru Ochi (2019). "OPTimistic Framework: An automatic generation of algorithms module". Proceedings of the OPTIMA 2019 - Chile.
+
+1. Anderson Zudio, Igor Machado Coelho, Paulo Eustaquio Duarte Pinto; and Ochi, Luiz Satoru. (2019). “Algoritmo Genetico para o Problema de Empacotamento 2D Classico. Anais do LI Simposio Brasileiro de Pesquisa Operacional - LI SBPO 2019, FCA-UNICAMP - Limeira SP.
+
+1. Rodolfo Pereira Araujo; Igor Machado Coelho, Luiz Satoru Ochi, Vitor Nazário Coelho. (2019). “LibBFT: a High-Performance Timed Automata Library Collection for Byzantine Faut-Tolerance”  Proceedings of the IEEE/SBAC-PAD 2019, p. 234-240. Campo Grande/MS – Brazil. DOI 10.1109/SBAC-PAD.2019.00045
+
+--------
+
+**2018**
+
+**Accepted/Published**
+
+01.	Título: "Efficient approaches for the Flooding Problem on graphs"; Autores: André Renato Villela da Silva, Rian Pinheiro, Bruno Barros and Luiz Satoru Ochi (2018). To appear in Annals of Operations Research – ANOR, SPRINGER, 2018. 
+
+02.	Título: "Fractal Triangular Search: A metaheuristic for image contente search"; Autores: Erick Oliveira, Aura Conci, Panos Liatsis and Luiz Satoru Ochi (2018). To appear in IET - IMAGE PROCESSING, PUBMED JOURNALS, v. 12(8), p. 1475-1484,  DOI:10.1049/iet-ipr.2017.0790 , Print ISSN 1751-9659, Online ISSN 1751-9667,  2018. 
+
+03.	Titulo: “A Matheuristic for the Cell Formation Problem”. Autores: Rian Gabriel Santos Pinheiro, Ivan César Martins, Fábio Protti, and Luiz Satoru Ochi (2018).  Optimization Letters, Volume 12, pp. 335-346, 2018 – Springer
+
+04.	Título: "A hybrid metaheuristic for the minimum labeling spanning tree problem", by Thiago Gouveia, Eduardo Queiroga, Lucidio Cabral, Luiz Satoru Ochi, Philippe Michelon, and Serigne Gueye. (2018). To appear in European Journal of Operational Research - EJOR - ELSEVIER 2018 
+
+05.	Título: "Large Neighborhood-Based Metaheuristic and Branch-and-Price for the Pickup and Delivery Problem with Split Loads", by Matheus Haddad, Rafael Martinelli, Thibaut Vidal, Richard Hartl, Simone de Lima Martins, Luiz Satoru Ochi, and Marcone J F Souza. (2018). in European Journal of Operational Research - EJOR - ELSEVIER, vol 270(3), p. 1014-1027 2018 
+
+06.	Título: “A study on exponential-size neighborhoods for the bin packing problem with conflicts" 
+ Autores: Renatha Capua, Yuri Abtibol, Luiz Satoru Ochi and Thibaut Vidal. in Journal of Heuristics. SPRINGER, Vol 24, p. 667-695, 2018.
+
+07.	Título: "Exploring parallel multi-GPU local search strategies in a metaheuristic framework", by Eyder Rios; Luiz Satoru Ochi; Cristina Boeres; Vitor Nazário; Igor Machado, and Ricardo Farias. (2018). Journal of Parallel and Distributed Computing, 111, pp. 39-55, ELSEVIER 2018 
+
+08.	Titulo:"A polyhedral approach to the generalized minimum labeling spanning tree problem", by Thiago Gouveia    da Silva; Serigne Gueye; Philippe Michelon; Luiz Satoru Ochi; and Lucidio dos Anjos Formiga Cabral. (2018) To appear in EURO Journal on Computational Optimization - SPRINGER 2018 
+
+09.	Titulo: “On the Complexity of Prize Collecting Path Problems”. Autores: Edcarllos Santos, Alfredo Candia-Véjar, Ueverton Santos Souza, Luiz Satoru Ochi, Luidi Simonetti and Eduardo Álvarez-Miranda. (2018) – Proc. of the EURO-ALIO 2018 – Bologna - Italy 2018.
+
+10.	Título: “Efficient techniques for the Free Flooding Problem on Graphs”. Autores: André Renato Silva, Luiz Satoru Ochi, Bruno José da Silva Barros, Rian Gabriel Pinheiros and Ueverton dos Santos Souza. (2018 – Proc of the EURO-ALIO 2018 – Bologna - Italy 2018.
+
+11.	Título: “Minimum Representation Spanning Tree Problem”. Autores: Ruben Interian, Elio David Zaldivar Linares, Luiz Satoru Ochi, Thiago Gouveia and Yuri Abitbol F Menezes. (2018 – Proc of the EURO-ALIO 2018 – Bologna - Italy 2018.
+
+12.	Titulo: “General Variable Neighborhood Search for the Data Mule Scheduling Problem”. Autores: Pablo Munhoz, Lucia Drummond, Ueverton dos Santos Souza, Pedro Henrique Gonzalez Silva, Luiz Satoru Ochi and Philippe Michelon  (2018).  Electronic Notes in Discrete Mathematics – ENDM, Vol 66, pp. 71-78, 2018 – ELSEVIER.
+13.	Titulo: “A Neighborhood Exploration Approach with Multi-Start for Extend Generalized Block-modeling”. Autores: Micheli Knechtel; Philippe Michelon; Serigne Gueye; and Luiz Satoru Ochi (2018).  Electronic Notes in Discrete Mathematics - ENDM, Vol 66, pp. 63-70, 2018 – ELSEVIER.
+14.	Titulo: “Efficient heuristics for the minimum labering global cut problem”. Autores: Thiago Gouveia da Silva; Gilberto F Souza Filho; Igor A M Barbosa; Nenad Mladenovic; Lucidio A F Cabral; Luiz Satoru Ochi; and Daniel Aloise (2018).  Electronic Notes in Discrete Mathematics - ENDM , Vol 66, pp. 23-30, 2018 – ELSEVIER.
+15.	Título: “Iterated Local Search for RGB Image Steganography”. Autores: Maira Beatriz Hernandez Moran, Luiz Satoru Ochi, Aura Conci, Adriel Santos Araújo and Débora Christina Muchaluat Saade. Proceedings of the “The 25th International Conference on Systems, Signals and Image Processing -  IWSSIP 2018, Maribor, Slovenia, in June, 2018. 
+16.	Título: “Implementation of a RVND, VNS, ILS heuristic for the Traveling Car Renter Problem”. Autores: Rogerio Ferreira de Moraes, Andre Renato Villela da Silva, Luiz Satoru Ochi and Luis Marti. (2018). Proceedings of the “2018 IEEE Congress on Evolutionary Computation (IEEE CEC 2018) , 08-13 July 2018, Rio de Janeiro, Brazil”,  2018.
+17.	Título: “Logistics SLA Optimization Service for Transportation in Smart Cities”. Autores: Edcarllos Santos, Puca Huachi Penna, Igor Machado Coelho, Heder Dorneles Soares, Luiz Satoru Ochi and Luidi Simonetti. (2018).  Proceedings of the “2018 International Joint Conference on Neural Networks (IJCNN 2018)”; co-sponsored by International Neural Network Society, 08-13 July 2018, Rio de Janeiro, Brazil”,  2018. 
+18.	Titulo: “Uma heurística eficiente para o Problema de Roteamento de Veículos com Coleta e Entrega Rentáveis”. Autores: Matheus Nohra Haddad, Luiz Satoru Ochi, Simone de Lima Martins, Marcone Jamilson Freitas Souza (2018).  Anais do “L Simpósio Brasileiro de Pesquisa Operacional – L SBPO”, Puc Rio, 06 a 09 Agosto 2018, Rio de Janeiro, Brazil”, 2018.
+19.	Título: “O Problema da Árvore Geradora de Representação Mínima”. Autores: Elio David Zaldivar Linares, Luiz Satoru Ochi, Thiago Gouveia Da Silva, Ruben Interian (2018).  Anais do “L Simpósio Brasileiro de Pesquisa Operacional – L SBPO”, Puc Rio, 06 a 09 Agosto 2018, Rio de Janeiro, Brazil”, 2018.
+
+20.	Título: “Proposta de Método heurístico aplicado ao Problema de Microagregação Multivariado”. Autores:  Augusto Fadel, Luiz Satoru Ochi, José André Moura Brito, Gustavo Silva Semaan. (2018).  Anais do “L Simpósio Brasileiro de Pesquisa Operacional – L SBPO”, Puc Rio, 06 a 09 Agôsto 2018, Rio de Janeiro, Brazil”, 2018
+
 
 --------
 	
