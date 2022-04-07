@@ -23,6 +23,40 @@ news_limit: 5
 Publicações
 
 **publications (by year)**
+
+**2022**
+
+**Accepted/Published**
+
+1. Elias Marques Júnior, Elias Marques Júnior, "Vitor Nazário Coelho, Igor Machado Coelho,Yuri Abitbol De Menezes Frota, Roozbeh Haghnazar Koochaksaraei, Luiz Satoru Ochi,  and Bruno Nazário Coelho (2022). "UAVs routes optimization on smart cities and regions". To appear in RAIRO – Operations Research
+
+1. Carlos Alberto Poncinelli Filho, Elias Lawrence Marques Júnior, Victor Chang, Leonardo Matsumoto Rosendo dos Santos, Flavia Bernardini, Luiz Satoru Ochi, Paulo de Figueiredo Pires,and  Flavia Coimbra Delicato (2022).  A Systematic Literature Review on Distributed Machine Learning in Edge Computing. To appear in Journal SENSORS (ISSN 1424-8220).
+
+1. Couto Filho, M. B.; Braga Flor, Vinicius B.; Souza, J. C. S.; Ochi, Luis Satoru (2022). Strategic Observation of Power Grids for Reliable Monitoring. International Journal of Electrical Power and Energy Systems (Qualis A1) - Impact Factor: 4,630 (2022) , volume 138, 2022. Keywords: State Estimation, Criticalities, Optimization, Metaheuristics, Computational Intelligence.  https://doi.org/10.1016/j.ijepes.2022.107959.
+
+1. Bhering, Fabiano; Passos, Diego; Ochi, Luis Satoru ; Obraczka, Katia ; Albuquerque, C. (2022). Wireless Multipath Video Transmission - When IoT Video Applications Meet Networking: A Survey. Multimedia Systems Qualis A2,  2022, v. 22, p. 1-15. https://doi.org/10.1007/s00530-021-00885-4
+
+1. Nascimento Silva, Janio Carlos ; Coelho, Igor M. ; Souza, Ueverton S. ; Ochi, Luiz Satoru ; Coelho, Vitor N. . Finding the Maximum Multi Improvement on neighborhood exploration (2022). Optimization Letters , v. 16, p. 97-115, 2022.
+
+1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). On the Performance of GRASP-Based Feature Selection for CPS Intrusion Detection. IEEE Transactions on Network and Service Management , 2022. : IEEE Transactions on Network and Service Management ( Volume: 19, Issue: 1, March 2022) Page(s): 614 – 626. ISSN Information: DOI: 10.1109/TNSM.2021.3088763
+
+1. Barros, B.; Ochi, Luiz. Satoru; Pinheiro, Rian ; Souza, Ueverton S. (2022). On Conflict-Free Spanning Tree: Algorithms and Complexity. In: International Conference on Algorithms and Discrete Applied Mathematics, CALDAM, 2022, Puducherry. 8th Annual International Conference on Algorithms and Discrete Applied Mathematics, Lecture Notes in Computer Science, 2022. v. 13179. p. 91-102
+
+
+**2021**
+
+**Accepted/Published**
+
+1. Souza, Marques Moreira; Gonzalez, Pedro H; Ochi, Luiz Satoru; Martins, Simone L. (2021). A hybrid iterated local search heuristic for the traveling salesperson problem with hotel selection. COMPUTERS & OPERATIONS RESEARCH , v. 129, p. 105229-145, 2021.
+
+1.  Gilberto Farias Sousa; Teobaldo Bulhões; Lucídio Cabral; Luiz Ochi; Fábio Protti; Rian Pinheiro (2021). “The Biclique Partitioning Polytope”, in Discrete Applied Mathematics, v. 301, p. 118-130, 2021.
+
+1. Dias, Savio Soares ; Simonetti, Luidi ; Ochi, Luis Satoru (2021) . “An ILS-based heuristic applied to the Car Renter Salesman Problem”. RAIRO-OPERATIONS RESEARCH , v. 55, p. 1-22, 2021.
+
+1. Fadel, Augusto César; Ochi, Luiz Satoru ; Brito, Jose André Moura ; Semaan, Gustavo S. (2021). Microaggregation heuristic applied to statistical disclosure control. INFORMATION SCIENCES , (Qualis A1) v. 548, p. 37-55, 2021.
+
+
+--------
 	
 	
 **2021**
@@ -35,25 +69,17 @@ Publicações
 1. Dias, Savio Soares ; Simonetti, Luidi ; Ochi, Luis Satoru (2021). "An ILS-based heuristic applied to the Car Renter Salesman Problem" in </b> RAIRO-OPERATIONS RESEARCH, v. 55, p. 1-22, 2021. - <a href="./conteudo/artigos/SAVIO-RAIRO2021.pdf">|PDF|</a></li> </li>
 
 
+**2020**
 
-<b>2020</b><br/><br/>
-
-<b>Accepted/Published</b>
-
-<ol>
+**Accepted/Published**
 
 
-
-<li>
-Augusto cesar Fadel;Luiz Satoru Ochi; Jose Andre Moura Brito; Gustavo Semaan (2020). "Microaggregation Heuristic Applied to Statistical Disclosure Control".
-"
-  <b> To appear in </b> INFORMATION SCIENCES - ELSEVIER - 2020. 
-
-<a  href="./conteudo/artigos/FADEL-INFSCINCE2020.pdf">|PDF|</a></li> 
+1. Augusto cesar Fadel;Luiz Satoru Ochi; Jose Andre Moura Brito; Gustavo Semaan (2020). "Microaggregation Heuristic Applied to Statistical Disclosure Control".
+<b> To appear in </b> INFORMATION SCIENCES - ELSEVIER - 2020
+[PDF](./conteudo/artigos/FADEL-INFSCINCE2020.pdf)
 
 
-<li>
-Savio Dias, Luidi Simonetti and Luiz Satoru Ochi (2020). " An ILS-based heuristic applied to the Car Renter Salesman Problem". 
+1. Savio Dias, Luidi Simonetti and Luiz Satoru Ochi (2020). " An ILS-based heuristic applied to the Car Renter Salesman Problem". 
 "
   <b> To appear in </b> RAIRO-Operations Research- 2020. 
 
@@ -81,8 +107,6 @@ Silva, Andre Renato Villela ; Ochi, Luiz Satoru ; Barros, Bruno J. S. ; Pinheiro
 "Efficient approaches for the Flooding Problem on graphs". </b> in <b> ANNALS OF OPERATIONS RESEARCH, SPRINGER,v. 286, p.33-54, 2020. 
 
 <a  href="./conteudo/artigos/ANDRE RENATAO & RIAN ANOR2020.pdf">|PDF|</a></li> 
-
-
 
 
 </li>
