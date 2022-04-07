@@ -25,115 +25,51 @@ Comitês
 <b>Minha participação em comitês de programa e/ou comitê organizador nos Congressos/Simpósios nos últimos anos</b>
 
 
-</ol>
-<li>
-<b> 2021 </b>
-</li>
 
+**2021** 
 
-</ol>
-
-<ol>
-<li>
 <a href="http://www.sobrapo.org.br/"> <b> LIII Simpósio Brasileiro de Pesquisa Operacional - LIII SBPO (Presidente do Comitê Científico)</a>   
 <b>, 03 a 05 Novembro de Outubro de 2021 - Joao Pessoa-PB. </b> </a>
 
 
-</ol>
 
-
-
-
-
-<ol>
-<li>
 <a href="https://csbc.ufsc.br/"> <b> CTD 2021 - XLI CONCURSO DE TESES E DISSERTACOES do CSBC 2021 - Membro Comissao de Avaliação</a>   
 <b>, 18 a 23 Julho - Evento Remoto - SBC </b> </a>
 
 
-</ol>
 
-
-<ol>
-<li>
 <a href="https://clei2021.cr/home"> <b> Program Commitee Member, SLIOIA 2021 (Latin American Symposium on Operations Research and Artificial Intelligence) Program Committee 
 (https://clei2021.cr/simplatioia), to be held in Costa Rica, as part of the CLEI 2021 (XLVII Latin American Conference on Informatics), in virtual mode.</b> </a>
 
 
-</ol>
 
+**2020**
 
-
-
-
-
-
-</ol>
-<li>
-<b> 2020 </b>
-</li>
-
-
-
-<ol>
-<li>
 <a href="http://www.icvns2020.info/"> <b> The 8th International Conference on Variable Neighborhood Search (ICVNS 2020) will be co-organized by the EURO Working Group on Metaheuristics (EWG EU/ME) - (Program Committee Member- PC )</a>   
 <b>, Khalifa University,Abu Dhabi, U.A.E. - October 22-25, 2020</b> </a>
 
 
-</ol>
 
-<ol>
-<li>
 <a href="http://www.sobrapo.org.br/"> <b> LII Simpósio Brasileiro de Pesquisa Operacional (evento online) - LII SBPO (Presidente do Comitê Científico)</a>   
 <b>, 03 a 05 Novembro de Outubro de 2020 - Centro de Convencoes - Joao Pessoa-PB </b> </a>
 
 
-</ol>
 
-
-<ol>
-<li>
 <a href="http://www2.sbc.org.br/csbc2020/ctd-2020-xxxiii-concurso-de-teses-e-dissertacoes/"> <b> CTD 2020 - XXXIII CONCURSO DE TESES E DISSERTACOES do CSBC 2020 - Membro Comissao de Avaliação</a>   
 <b>, 03 a 05 Novembro de Outubro de 2020 - Centro de Convencoes - Joao Pessoa-PB </b> </a>
 
 
-</ol>
-
-
-<ol>
-<li>
 <a href=""> <b> Program Committee of the Special Session - Signal and Image Processing for Smart Cities, WSSIP 2020 </a>   
 <b>, WSSIP 2020 will be held in UFF-Niter�i, metropolitan region of the city of Rio de Janeiro, Brazil, from June 03 to 05, 2020 </b> </a>
 
 
-</ol>
-
-
-
-<ol>
-<li>
 <a href="http://wscad.sbc.org.br/current/index.html"> <b> Membro Titular da Comissao de Avaliação no Concurso de Teses e Dissertacoes na XXI Edição do Simposio em Sistemas
 Computacionais de Alto Desempenho (WSCAD CTD 2020 2020 </a>   
 <b>, O XXI Simp�sio em Sistemas Computacionais de Alto Desempenho (WSCAD-2020), sera realizado remotamente de 21  23 Outubro 2020</b> </a>
 
 
-</ol>
+**2019**
 
-
-
-
-
-</ol>
-<li>
-<b> 2019 </b>
-</li>
-
-
-
-
-<ol>
-<li>
 <a href="https://creating.city/proceedings/whpcsc2019/"> <b> Workshop on High Performance Computing for Smart Cities - WHPCSC 2019 (Organization Committee Member) will be held as a workshop inside the SBAC PAD 2019</a>   
 <b>, October 15-18, Campo Grande, MS.</b> </a>
 
