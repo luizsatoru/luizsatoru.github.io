@@ -41,18 +41,18 @@ Comitês
 
 2. Comitê avaliação CTD - CSBC 2021 (evento remoto)
 
-3- Program Commitee Member, SLIOIA 2021 (Latin American Symposium on Operations Research and Artificial Intelligence) Program Committee (https://clei2021.cr/simplatioia), to be held in Costa Rica, as part of the CLEI 2021 (XLVII Latin American Conference on Informatics), in virtual mode.
+3. Program Commitee Member, SLIOIA 2021 (Latin American Symposium on Operations Research and Artificial Intelligence) Program Committee (https://clei2021.cr/simplatioia), to be held in Costa Rica, as part of the CLEI 2021 (XLVII Latin American Conference on Informatics), in virtual mode.
 
 
-[LIII Simpósio Brasileiro de Pesquisa Operacional - LIII SBPO (Presidente do Comitê Científico)](http://www.sobrapo.org.br/) 
-
-
-
-[CTD 2021 - XLI CONCURSO DE TESES E DISSERTACOES do CSBC 2021 - Membro Comissao de Avaliação , 18 a 23 Julho - Evento Remoto - SBC](https://csbc.ufsc.br/)
+4. [LIII Simpósio Brasileiro de Pesquisa Operacional - LIII SBPO (Presidente do Comitê Científico)](http://www.sobrapo.org.br/) 
 
 
 
-[Program Commitee Member, SLIOIA 2021 (Latin American Symposium on Operations Research and Artificial Intelligence) Program Committee](clei2021.cr/simplatioia)
+5. [CTD 2021 - XLI CONCURSO DE TESES E DISSERTACOES do CSBC 2021 - Membro Comissao de Avaliação , 18 a 23 Julho - Evento Remoto - SBC](https://csbc.ufsc.br/)
+
+
+
+6. [Program Commitee Member, SLIOIA 2021 (Latin American Symposium on Operations Research and Artificial Intelligence) Program Committee](clei2021.cr/simplatioia)
 
 
 
