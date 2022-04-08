@@ -1,4 +1,5 @@
-{% if page.author %} {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %} {% endif %}
+{% if page.author %} {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %} {%
+endif %}
 
 <div class="cover-card table-cell table-middle">
   {% if author.avatar %}
@@ -21,7 +22,7 @@
       {% for page in sorted_pages %} {% if page.title %}
       <li class="nav-item">
         <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
-      </li><br/>
+      </li><!-- <br class="special-break" /> -->
       {% endif %} {% endfor %}
     </ul>
   </nav>
