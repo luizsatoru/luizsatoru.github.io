@@ -29,59 +29,36 @@ PARA PROBLEMAS COMPLEXOS**; Bolsa de Produtividade PQ Nível 1C – CA-CC, Proce
 **TÍTULO: Projeto CAPES/PROCAD: Policia Federal, UFPB & IC-UFF: Desenvolvimento de tecnologias e formação de recursos humanos em Engenharia Legal destinadas à automatização aplicáveis a análises de Conformidade de Obras Públicas**, coordenado pelo Prof Dr Sandro Marden Torres. Coordenador Institucional pela UFF do Projeto: Luiz Satoru Ochi. Vigência: 2021-2024.
 
 
-Projeto FAPERJ: Centro de Excelência em Transformação Digital e Inteligência Artificial do Estado do Rio de Janeiro (Hub.Rio): Rede Tematica de Combate aos Efeitos da Covid-19 .  Edital: Chamada C,  Ação Emergencial Projetos para Combater os Efeitos da Covid-19 , Parceria Faperj/SES, 2020. 
+**Projeto FAPERJ: Centro de Excelência em Transformação Digital e Inteligência Artificial do Estado do Rio de Janeiro (Hub.Rio)**: Rede Tematica de Combate aos Efeitos da Covid-19 .  Edital: Chamada C,  Ação Emergencial Projetos para Combater os Efeitos da Covid-19 , Parceria Faperj/SES, 2020. 
 Coordenador: Roberto de Andrade Medronho-UFRJ). <b>Membros comitê de gestao:  Guilherme Travassos (UFRJ), Luiz Satoru Ochi (IC-UFF),  Marley Vellasco (PUC-Rio), Nivio Ziviani (LNCC),  Alberto Martin Rivera Davila (Fiocruz). 
 
-</b> Projeto FAPERJ: Otimização e Inteligencia Computacional para Resolução de Problemas de Planejamento e Decisao.
- </b> Edital: Apoio as Instituições de Ensino e Pesquisa sediadas no Estado do Rio de Janeiro - Edital: E-11/2018, Periodo: 2019-2020.
+**Projeto FAPERJ: Otimização e Inteligencia Computacional para Resolução de Problemas de Planejamento e Decisao**.
+ Edital: Apoio as Instituições de Ensino e Pesquisa sediadas no Estado do Rio de Janeiro - Edital: E-11/2018, Periodo: 2019-2020.
 Coordenador: Luiz Satoru Ochi (IC-UFF) 
-</li>
-<p>
 
-
-<li>
-<b> SMART CITIES: Novas Tecnologias Para Melhorar Servicos Publicos e Privados. 
-</b> Projeto parcialmente financiado pelo CNPq - Edital UNIVERSAL 28/2018 - Faixa C.
- </b> Edital UNIVERSAL 28/2018 - Faixa C. Vigencia: 2019 - 2021.
+**SMART CITIES: Novas Tecnologias Para Melhorar Servicos Publicos e Privados. 
+	Projeto parcialmente financiado pelo CNPq - Edital UNIVERSAL 28/2018 - Faixa C.
+ Edital UNIVERSAL 28/2018 - Faixa C. Vigencia: 2019 - 2021**.
 Coordenador: Luiz Satoru Ochi (IC-UFF) 
-</li>
-<p>
 
 
-
-
-<li>
-<b> SMART CITIES: Novas Tecnologias Para Melhorar Servicos Publicos e Privados em Grandes Cidades. 
-</b> Projeto parcialmente financiado pela FAPERJ - GRANT Cientista do Nosso Estado (CNE).
+**SMART CITIES: Novas Tecnologias Para Melhorar Servicos Publicos e Privados em Grandes Cidades**. 
+Projeto parcialmente financiado pela FAPERJ - GRANT Cientista do Nosso Estado (CNE).
 Edital CNE 2017 </b> edital FAPERJ CNE 2017. Vigencia: 01/2018 - 06/2021.
 Coordenador: Luiz Satoru Ochi (IC-UFF) 
-</li>
-<p>
 
-
-
-
-<li>
-  <b> Melhorando a qualidade de serviços através da Inteligência Computacional e Otimização.</b> Projeto parcialmente financiado pelo CNPq
+ **Melhorando a qualidade de serviços através da Inteligência Computacional e Otimização**. Projeto parcialmente financiado pelo CNPq
 pelo Edital: <b> UNIVERSAL 14/2013 </b> edital MCT/CNPq/Faixa C. Processo CNPq:470909/2013-7. Período: 2013 - 2016. 
 Coordenador: Luiz Satoru Ochi (IC-UFF) 
-  </li>
-<p>
-
-
-<li>
-<b> Projeto de Pesquisa CNPq - Ciência sem Fronteira, edital: MEC/MCTI/CAPES/CNPq/FAPs No 71/2013 Pesquisador Visitante Especial - Linha 2, 
-"Métodos eficientes para Problemas de Roteamento de Veículos com Aplicações Reais ",
+  
+**Projeto de Pesquisa CNPq - Ciência sem Fronteira, edital: MEC/MCTI/CAPES/CNPq/FAPs No 71/2013 Pesquisador Visitante Especial - Linha 2, 
+"Métodos eficientes para Problemas de Roteamento de Veículos com Aplicações Reais** ",
  Professor visitante convidado: Christian Prins (Université de Technologie de Troyes (UTT)) - France </b>
 - Coordenador do Projeto: Luiz Satoru Ochi (Vigência: 2013 - 2016).
 
-</li>
-<p>
 
-
-<li>
-  <b> Gestão da Informação através da Inteligência Computacional (GINICOM)-Parte II. Projeto parcialmente 
-financiado pelo CNPq/MCT pelo Edital: CT-INFO 09/2010 - PDI-TI - 2010 - FAIXA C (Grande Porte).</b> 
+ **Gestão da Informação através da Inteligência Computacional (GINICOM)-Parte II. Projeto parcialmente 
+financiado pelo CNPq/MCT pelo Edital: CT-INFO 09/2010 - PDI-TI - 2010 - FAIXA C (Grande Porte)**.</b> 
 Período: 2011 - 2015. 
 Coordenador: Luiz Satoru Ochi (IC-UFF). 
   </li>
