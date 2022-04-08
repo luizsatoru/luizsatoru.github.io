@@ -39,32 +39,47 @@ Em 2021 recebi a MEDALHA e o TÍTULO/DIPLOMA: "AMIGO DA MARINHA" – Distinção
 **•	2015 - Trabalho de Iniciação Científica (PIC) classificado entre os 5 melhores no XLVII SBPO, do aluno Victor Mouffron Carvalho Machado , orientador: Tiago A Neves, minha participação: co-autor., SOBRAPO**.
 
 **•	2014 - Cientista do Estado do Rio de Janeiro (Grant 2015 - 2017), FAPERJ: Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro**.
+
 2013
+
 **•	Tese de Doutorado sob minha orientação foi classificado entre as seis melhores Teses de Doutorado em Computação para o CTD-SBC 2013, Aluno: Anand Subramanian, Sociedade Brasileira de Computação - SBC & UFAL**.
+
 2013
 **•	Tese de Doutorado em Computação do Anand Subramanian sob a minha orientação recebeu Menção Honrosa no PRÊMIO CAPES DE TESES - 2013, CAPES - Ministério da Educação.
+
 2013**
 **•	Paper completo classificado entre os 6 melhores no Prêmio Roberto Diegues Galvão do XLV SBPO. Autores: Thibaut Vidal (MIT), Nelson Maculan (IFORS), Puca H V Penna (UFF), Luiz Satoru Ochi (UFF), SOBRAPO: Sociedade Brasileira de Pesquisa Operacional**..
+
 2011
 **•	Prêmio: Terceiro melhor paper completo - trilha de Computação no SBGames 2011 - Co-autor, Sociedade Brasileira de Computação - SBC.
+
 2011**
 **•	Cientista do Estado do Rio de Janeiro (Grant 2012-2014), Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro - FAPERJ.
+
 2009**
-**•	Primeiro lugar concurso público para Professor Titular-IC/UFF, UFF..
+**•	Primeiro lugar concurso público para Professor Titular-IC/UFF, UFF
+
 2009**
 **•	Cientista do Estado do Rio de Janeiro (Grant 2009-2011), Concedido pela Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro - FAPERJ.
+
 2009**
 **•	Prêmio melhor trabalho área Logística no XII SPOLM 2009 - autor principal: Márcio T. Mine, co-autores: Mathes S. A. Silva, Marcone J. F. Souza, Luiz Satoru Ochi, SPOLM.**
+
 2009
 **•	Prêmio CNT de Produção Acadêmica 2009 - Concedido pela Confederação Nacional de Transporte (CNT), CNT/XXIII ANPET: autores: Márcio Mine, Matheus Silva, Marcone J F Souza, Luiz Satoru Ochi**.
+
 2008
 •	Artigo completo selecionado entre os 5 melhores trabalhos do Simpósio no premio oferecido pela SOBRAPO no XL SBPO - 2008 (autores: Anand Subramanian, Lucidio A. F. Cabral, Luiz Satoru Ochi), Prêmio pela comemoração dos 40 anos de existencia da SOBRAPO.
+
 2007
 •	Trabalho de Iniciação Científica classificado entre os 5 melhores no XXXIX Simpósio Brasileiro de Pesquisa Operacional, como orientador dos alunos: Thiago S. Diogo, e Daniel Cavalcante, SOBRAPO.
+
 2006
 •	Trabalho de Iniciação Científica classificado entre os 5 melhores no XXXVIII Simpósio Brasileiro de Pesquisa Operacional (XXXVIII SBPO), como co-autor. Alunos: Matheus Silva, Marcio T. Mine(UFOP)., Orientadores: Marcone J F Souza (UFOP) e Gustavo P Silva (UFOP) - SOBRAPO.
+
 2005
 •	Trabalho de Iniciação Científica classificado entre os 5 melhores no XXXVII Simpósio Brasileiro de Pesquisa Operacional (XXXVII SBPO), como orientador dos alunos: Felipe N. Aguiar e Gustavo Honorato, SOBRAPO.
+
 2002
 •	Trabalho classificado entre os 5 melhores artigos de Iniciação científica do XXXIII SBPO, prêmio recebido pela orientanda Adria Ramos de Lyra., Sociedade Brasileira de Pesquisa Operacional (SOBRAPO).
 
