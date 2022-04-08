@@ -338,14 +338,7 @@ Previsão de término: 02/2023.
 **Marcos Souza**. Aluno de Doutorado em Computação IC/UFF. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Problemas de Logística Inteligente e Transportes: Métodos e Aplicações. Orientador: Luiz Satoru Ochi. Previsão término: 12/2025
 
 
-
-
-<a href="#inicio">&#171; Topo da página</a>
-
-</ol>
-
 **Orientação de dissertações de mestrado em andamento**
-
 
 
   1.**João Ricardo Weissmann Santos**, </a> <b> Aluno de Mestrado em Computação - IC/UFF </b> 
@@ -366,25 +359,14 @@ Previsão de término: 07/2021.
 
 
 
-<a href="#inicio">&#171; Topo da página</a>
-
-</ol>
-
-<b>Orientação de dissertações de mestrado concluídas</b>
-
-<ol>
+**Orientação de dissertações de mestrado concluídas**
 
 
-<li>
-  Augusto Beltrao, </a> <b> Aluno de Mestrado em Computação - IC/UFF </b> 
+Augusto Beltrao, </a> <b> Aluno de Mestrado em Computação - IC/UFF </b> 
 Orientadores: Luiz Satoru Ochi & Jose Andre M Brito; <b>Titulo:Heuristicas Hibridas aplicadas ao Problema do Caixeiro Viajante com Seleção de Hoteis . </b>;
 Defesa: 03/2020.
-  </li>
+ 
 
-
-
-
-<li>
   Elias Lawrence , </a> <b> Aluno de Mestrado em Computação - IC/UFF </b> 
 Orientador: Luiz Satoru Ochi; <b>Titulo: The Unmanned Aerial Vehicle (UAV) Fleet Routing Problem. </b>;
 Defesa: 02/2020.
