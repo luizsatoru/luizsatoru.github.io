@@ -325,10 +325,7 @@ Previsão de término: 12/2022.
   **Elias Lawrence** , </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> 
 Orientador: Luiz Satoru Ochi; <b>Tema: The Unmanned Aerial Vehicle (UAV) Fleet Routing Problem. </b>;
 Previsão de término: 02/2023.
-  </li>
-
-
-<li>
+  
   **Augusto Beltrao** , </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> 
 Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) <b>Tema (provisorio): Problemas de Otimização e Inteligencia Computacional . </b>;
 Previsão de término: 02/2023.
