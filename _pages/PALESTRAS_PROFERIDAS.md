@@ -30,9 +30,9 @@ news_limit: 5
 
 2022 – Palestra FAPERJ/CNE – Palestra proferida no IFRJ & UENF **Cidades Inteligentes e Sustentáveis**. 2022.
 
-2021 – [Palestra FAPERJ/CNE – PPGC-UFJF]: **Cidades Inteligentes & Sustentáveis: Metodologias e Aplicações**. A convite do Prof Mario Dantas (coordenador da Pós). Disponível em: (https://www.youtube.com/watch?v=sYX-C9cCMQw)
+2021 – [Palestra FAPERJ/CNE – PPGC-UFJF: **Cidades Inteligentes & Sustentáveis: Metodologias e Aplicações**. A convite do Prof Mario Dantas (coordenador da Pós). Disponível em:] (https://www.youtube.com/watch?v=sYX-C9cCMQw)
 
-2021 – [Palestra FAPERJ/CNE – Escola de Inverno – IC/UFF]: **Cidades Inteligentes e Sustentáveis**. A convite do Prof Viterbo. Video disponível em: (https://www.youtube.com/watch?v=Z4AXfsrQLrs)
+2021 – [Palestra FAPERJ/CNE – Escola de Inverno – IC/UFF: **Cidades Inteligentes e Sustentáveis**. A convite do Prof Viterbo. Video disponível em:] (https://www.youtube.com/watch?v=Z4AXfsrQLrs)
 
 2021 – Palestra FAPERJ/CNE – Seminarios da EIC 2021 – CEFET RJ. **Cidades Inteligentes & Sustentáveis: Metodologias e Aplicações**. A convite Prof Eduardo Ogasawara.
 
