@@ -1,3 +1,24 @@
+---
+layout: page
+title: Palestras Proferidas
+permalink: /palestras
+order: 3
+lang: en
+lang-ref: satoru-palestras
+description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+
+profile:
+  align: right
+  image: satoru-site.png
+  address: >
+    Niterói, Rio de Janeiro, Brazil</p>
+
+news: false  # includes a list of news items
+selected_papers: false      # includes a list of papers marked as "selected={true}" (only run locally!)
+selected_papers_cache: false # this can run on github pages
+social: true  # includes social icons at the bottom of the page
+news_limit: 5
+---
 
                                                      **APRESENTAÇÕES PALESTRAS CONVIDADAS NOS ÚLTIMOS ANOS**:
 
