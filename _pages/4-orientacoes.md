@@ -338,21 +338,21 @@ Previsão de término: 02/2023.
 **Orientação de dissertações de mestrado em andamento**
 
 
-  1.**João Ricardo Weissmann Santos**, </a> <b> Aluno de Mestrado em Computação - IC/UFF </b> 
+  1.João Ricardo Weissmann Santos, </a> <b> Aluno de Mestrado em Computação - IC/UFF </b> 
 Orientador: Luiz Satoru Ochi; <b>Tema (Provisorio): Problemas de Otimização na area de Petróleo & Gas. </b>;
 Previsão de término: 07/2021.
   
-  1.**Gabriel Otavio da Cunha Cota**, </a> <b> Aluno de Mestrado em Computação - IC/UFF </b> 
+  1.Gabriel Otavio da Cunha Cota, </a> <b> Aluno de Mestrado em Computação - IC/UFF </b> 
 Orientador: Luiz Satoru Ochi; <b>Tema (Provisorio): Problemas de Logistica & Planejamento de veiculos não tripulados. </b>;
 Previsão de término: 07/2021.
  
-1.**Silvana Nazaré de Freitas Ávila**. Aluna de Mestrado em Computação IC/UFF. Tema: Problemas de Coleta do Lixo Eletronico: Algoritmos e Variantes.  Orientadores: Luiz Satoru Ochi e Simone de Lima Martins. Previsão término: 07/2023.
+1.Silvana Nazaré de Freitas Ávila. Aluna de Mestrado em Computação IC/UFF. Tema: Problemas de Coleta do Lixo Eletronico: Algoritmos e Variantes.  Orientadores: Luiz Satoru Ochi e Simone de Lima Martins. Previsão término: 07/2023.
 
-1.**Renan Sies**. Aluno de Mestrado em Computação IC/UFF. Tema provisório: Logistica Reversa no Comércio Eletrônico. Previsão de término: 12/2023. Orientador: Luiz Satoru Ochi
+1.Renan Sies. Aluno de Mestrado em Computação IC/UFF. Tema provisório: Logistica Reversa no Comércio Eletrônico. Previsão de término: 12/2023. Orientador: Luiz Satoru Ochi
 
-1.**Alexandre dos Santos Mello**. Aluno de Mestrado em Computação IC/UFF. Tema provisório: Problemas de Roteamento com entregas fracionárias – Aplicações da empresa Loggi. Orientadores: Luiz Satoru Ochi e Matheus Haddad. Previsão de término: 12/ 2023
+1.Alexandre dos Santos Mello. Aluno de Mestrado em Computação IC/UFF. Tema provisório: Problemas de Roteamento com entregas fracionárias – Aplicações da empresa Loggi. Orientadores: Luiz Satoru Ochi e Matheus Haddad. Previsão de término: 12/ 2023
 
-1.**Herbeton Bispo**. Aluno de Mestrado em Computação IC/UFF. Tema provisório: Problemas de Roteamento e scheduling de veículos. Orientadores: Luiz Satoru Ochi e Igor Machado Coelho. Previsão término: 12/2022
+1.Herbeton Bispo. Aluno de Mestrado em Computação IC/UFF. Tema provisório: Problemas de Roteamento e scheduling de veículos. Orientadores: Luiz Satoru Ochi e Igor Machado Coelho. Previsão término: 12/2022
 
 
 
