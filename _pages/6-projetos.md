@@ -21,12 +21,12 @@ news_limit: 5
 ---
 **PROJETOS**
 
-TÍTULO: A INTELIGÊNCIA COMPUTACIONAL & OTIMIZAÇÃO NA BUSCA DE ALGORITMOS EFICIENTES
-PARA PROBLEMAS COMPLEXOS; Bolsa de Produtividade PQ Nível 1C – CA-CC, Processo 303492/2021-0, Modalidade/Nível: PQ-1C, Edital/Chamada: Chamada CNPq Nº 4/2021 - Bolsas de Produtividade em Pesquisa - PQCNPq/MCT-CNPq, Período: 2022 – 2026. Coordenador do Projeto: Luiz Satoru Ochi.
+**TÍTULO: A INTELIGÊNCIA COMPUTACIONAL & OTIMIZAÇÃO NA BUSCA DE ALGORITMOS EFICIENTES
+PARA PROBLEMAS COMPLEXOS**; Bolsa de Produtividade PQ Nível 1C – CA-CC, Processo 303492/2021-0, Modalidade/Nível: PQ-1C, Edital/Chamada: Chamada CNPq Nº 4/2021 - Bolsas de Produtividade em Pesquisa - PQCNPq/MCT-CNPq, Período: 2022 – 2026. Coordenador do Projeto: Luiz Satoru Ochi.
 
-TÍTULO: GRANT DE PESQUISA VINCULADO AO PRÊMIO “CIENTISTA DO ESTADO DO RIO DE JANEIRO 2022-2024” – Da Fundação de Amparo a Pesquisa no Estado do Rio de Janeiro (FAPERJ) - Projeto: Smart & Digital Cities: Novas Tecnologias Para Melhorar a Qualidade dos Serviços Públicos e Privados. Coordenador do Projeto: Luiz Satoru Ochi.
+**TÍTULO: GRANT DE PESQUISA VINCULADO AO PRÊMIO CIENTISTA DO ESTADO DO RIO DE JANEIRO 2022-2024** – Da Fundação de Amparo a Pesquisa no Estado do Rio de Janeiro (FAPERJ) - Projeto: Smart & Digital Cities: Novas Tecnologias Para Melhorar a Qualidade dos Serviços Públicos e Privados. Coordenador do Projeto: Luiz Satoru Ochi.
 
-TÍTULO: Projeto CAPES/PROCAD: Policia Federal, UFPB & IC-UFF: Desenvolvimento de tecnologias e formação de recursos humanos em Engenharia Legal destinadas à automatização aplicáveis a análises de Conformidade de Obras Públicas, coordenado pelo Prof Dr Sandro Marden Torres. Coordenador Institucional pela UFF do Projeto: Luiz Satoru Ochi. Vigência: 2021-2024.
+**TÍTULO: Projeto CAPES/PROCAD: Policia Federal, UFPB & IC-UFF: Desenvolvimento de tecnologias e formação de recursos humanos em Engenharia Legal destinadas à automatização aplicáveis a análises de Conformidade de Obras Públicas**, coordenado pelo Prof Dr Sandro Marden Torres. Coordenador Institucional pela UFF do Projeto: Luiz Satoru Ochi. Vigência: 2021-2024.
 
 
 Projeto FAPERJ: Centro de Excelência em Transformação Digital e Inteligência Artificial do Estado do Rio de Janeiro (Hub.Rio): Rede Tematica de Combate aos Efeitos da Covid-19 .  Edital: Chamada C,  Ação Emergencial Projetos para Combater os Efeitos da Covid-19 , Parceria Faperj/SES, 2020. 
