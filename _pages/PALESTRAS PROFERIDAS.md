@@ -1,6 +1,7 @@
 
-**APRESENTAÇÕES PALESTRAS CONVIDADAS NOS ÚLTIMOS ANOS**:
-**PALESTRAS**:
+                                                     **APRESENTAÇÕES PALESTRAS CONVIDADAS NOS ÚLTIMOS ANOS**:
+
+                                                                           **PALESTRAS**:
 
 2022 – Palestra FAPERJ/CNE – Palestra proferida na UFPB: **Cidades e Regiões Inteligentes & Sustentáveis** (a convite do Prof Lucidio Cabral-Diretor do Centro de Intormatica da UFPB). 2022.
 
