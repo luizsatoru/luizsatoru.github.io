@@ -20,29 +20,23 @@ social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
 
-Orientações
+**Orientações**
 
 
-<b>Supervisão de Pós-Doutorado em Andamento</b>
-<ol>
-  
+**Supervisão de Pós-Doutorado em Andamento**
+
+ Gustavo S Semaan (Doutorado pelo IC-UFF)  
+<a href="gustavosemaan@gmail.com"> e-mail; 
  
-
-<li>
- Gustavo S Semaan (Doutorado pelo IC-UFF) - </a> 
-<a href="gustavosemaan@gmail.com"> e-mail</a> </li>; 
- 
-<b>Assunto: Hiper-Heurísticas </b>; Período: 09/2017 a 08/2018.
+Assunto: Hiper-Heurísticas </b>; Período: 09/2017 a 08/2018.
  Orientador: Luiz Satoru Ochi (IC-UFF)
- </li>
+
 
 <a href="#inicio">&#171; Topo da página</a>
 
-</ol>
+<
 
-<li>
-
-<b>Supervisão de Pós-Doutorado Concluídas</b>
+**Supervisão de Pós-Doutorado Concluídas**
 <ol>
 
 
@@ -104,27 +98,21 @@ do CNPq.
 
 </ol>
 
-<b>Orientação ou Co-orientação de teses de doutorado concluídas</b>
+**Orientação ou Co-orientação de teses de doutorado concluídas**
 
-<ol>
-
-
-<li>
+ JANIO CARLOS NASCIMENTO SILVA ,  </a> <b> Aluno de Doutorado em Computação - IC/UFF </b>(orientadores: Luiz Satoru Ochi e Ueverton Souza;
+ Assunto:<b> Problemas de Otimização em Grafos </b>; 
+Previsão de término: 12/2019.  
+ 
+ 
   Marques M Souza,  </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> (orientadores: euiz Satoru Ochi e Simone Lima Martins):
   Titulo:<b> Heuristicas para a resolução do Problema do Caixeiro Viajante com Seleção de Hot�is </b>; 
 Defesa: 03/2020.  
-  </li>
-
-
-
-<li>
+  
   Edcarllos Santos,  </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> (orientadores: Luiz Satoru Ochi e Luidi Simonetti (UFRJ):
   Titulo:<b> On two logistic problems in Smart Cities </b>; 
 Defesa: 08/2019.  
-  </li>
-
-
-<li>
+  
   Thiago Gouveia da Silva,  </a> <b> Aluno de Doutorado (Cotutela) em Computação - IC/UFF &  UNIVERSITY OF AVIGNON - France</b> (orientadores da UFF: Luiz Satoru Ochi e Lucidio F Cabral (UFPB):
  Orientadores pela University of Avignon: Philippe Michelon and . Serigne Gueye, UAPV, France;
  Titulo:<b> The Minimum Labeling Spanning Tree and Related Problems - TESE PREMIADA COMO SEGUNDA MELHOR TESE DE DOUTORADO EM COMPUTA��O PELA SBC Sociedade Brasileira de Computação EM 2019 </b>; 
@@ -313,52 +301,42 @@ Luciana Roque Brito - Doutorado pela COPPE-SISTEMAS/UFRJ.
   via Metaheurísticas.</b> (Orientador principal: D.Sc. Nelson Maculan - COPPE/UFRJ). 2000. Tese
   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.
   </li> <a href="./conteudo/artigos/Tese doutorado Marcone.pdf">|PDF|</a>
-  </li> 
+  
 
-
-
- 
- 
-</ol>
-
-<b>Orientação/Co-orientação de teses de doutorado em andamento</b>
+**Orientação/Co-orientação de teses de doutorado em andamento**
 <ol>
     
 
 <li>
- Anderson Zudio de Moraes ,  </a> <b> Aluno de Doutorado em Computação - IC/UFF </b>(orientador: Luiz Satoru Ochi;Co-orientador: Igor Coelho Machado (UERJ)
+ **Anderson Zudio de Moraes** ,  </a> <b> Aluno de Doutorado em Computação - IC/UFF </b>(orientador: Luiz Satoru Ochi;Co-orientador: Igor Coelho Machado (UERJ)
  Assunto:<b> Processamento de Alto Desempenho em Problemas de Otimização & Inteligencia Computacional</b>; 
 Previsão de término: 12/2020.  
   </li>
 
 
 <li>
- JANIO CARLOS NASCIMENTO SILVA ,  </a> <b> Aluno de Doutorado em Computação - IC/UFF </b>(orientadores: Luiz Satoru Ochi e Ueverton Souza;
- Assunto:<b> Problemas de Otimização em Grafos </b>; 
-Previsão de término: 12/2019.  
-  </li>
-
-
-
-<li>
-  Bruno José da Silva Barros, </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> 
+  **Bruno José da Silva Barros**, </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> 
 Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); <b>Tema: Problemas de Arvore Geradora de Custo Minimo com Restrições de Conflito. </b>;
 Previsão de término: 12/2022.
   </li>
 
 
 <li>
-  Elias Lawrence , </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> 
+  **Elias Lawrence** , </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> 
 Orientador: Luiz Satoru Ochi; <b>Tema: The Unmanned Aerial Vehicle (UAV) Fleet Routing Problem. </b>;
 Previsão de término: 02/2023.
   </li>
 
 
 <li>
-  Augusto Beltrao , </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> 
+  **Augusto Beltrao** , </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> 
 Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) <b>Tema (provisorio): Problemas de Otimização e Inteligencia Computacional . </b>;
 Previsão de término: 02/2023.
-  </li>
+  
+  **Alfredo Lima Moura Silva**. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Problemas de Logística Reversa: Métodos e Aplicações. Orientadores: Luiz Satoru Ochi e Rian Pinheiro. Previsão de término: 12/2025.
+  
+**Marcos Souza. Aluno de Doutorado em Computação IC/UFF. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Problemas de Logística Inteligente e Transportes: Métodos e Aplicações. Orientador: Luiz Satoru Ochi. Previsão término: 12/2025
+
 
 
 
@@ -366,7 +344,7 @@ Previsão de término: 02/2023.
 
 </ol>
 
-<b>Orientação de dissertações de mestrado em andamento</b>
+**Orientação de dissertações de mestrado em andamento**
 
 
 <ol>
