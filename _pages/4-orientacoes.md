@@ -101,8 +101,8 @@ do CNPq.
 **Orientação ou Co-orientação de teses de doutorado concluídas**
 
  JANIO CARLOS NASCIMENTO SILVA ,  </a> <b> Aluno de Doutorado em Computação - IC/UFF </b>(orientadores: Luiz Satoru Ochi e Ueverton Souza;
- Assunto:<b> Problemas de Otimização em Grafos </b>; 
-Previsão de término: 12/2019.  
+ Assunto:Algorithmic Aspects of Problems Related to Optimization, Circuits, and Parameterized Complexity; 
+Defesa: 2021.  
  
  
   Marques M Souza,  </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> (orientadores: euiz Satoru Ochi e Simone Lima Martins):
@@ -303,7 +303,7 @@ Luciana Roque Brito - Doutorado pela COPPE-SISTEMAS/UFRJ.
   </li> <a href="./conteudo/artigos/Tese doutorado Marcone.pdf">|PDF|</a>
   
 
-**Orientação/Co-orientação de teses de doutorado em andamento**
+                  **Orientação/Co-orientação de teses de doutorado em andamento**
 <ol>
     
 
@@ -328,7 +328,7 @@ Previsão de término: 02/2023.
   
   **Augusto Beltrao** , </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> 
 Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) <b>Tema (provisorio): Problemas de Otimização e Inteligencia Computacional . </b>;
-Previsão de término: 02/2023.
+Previsão de término: 07/2023.
   
   **Alfredo Lima Moura Silva**. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Problemas de Logística Reversa: Métodos e Aplicações. Orientadores: Luiz Satoru Ochi e Rian Pinheiro. Previsão de término: 12/2025.
   
@@ -340,11 +340,11 @@ Previsão de término: 02/2023.
 
   1.João Ricardo Weissmann Santos, </a> <b> Aluno de Mestrado em Computação - IC/UFF </b> 
 Orientador: Luiz Satoru Ochi; <b>Tema (Provisorio): Problemas de Otimização na area de Petróleo & Gas. </b>;
-Previsão de término: 07/2021.
+Previsão de término: 12/2022.
   
   1.Gabriel Otavio da Cunha Cota, </a> <b> Aluno de Mestrado em Computação - IC/UFF </b> 
 Orientador: Luiz Satoru Ochi; <b>Tema (Provisorio): Problemas de Logistica & Planejamento de veiculos não tripulados. </b>;
-Previsão de término: 07/2021.
+Previsão de término: 07/2022.
  
 1.Silvana Nazaré de Freitas Ávila. Aluna de Mestrado em Computação IC/UFF. Tema: Problemas de Coleta do Lixo Eletronico: Algoritmos e Variantes.  Orientadores: Luiz Satoru Ochi e Simone de Lima Martins. Previsão término: 07/2023.
 
