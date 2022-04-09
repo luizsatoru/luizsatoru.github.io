@@ -450,7 +450,7 @@ Defesa: 04/2011.
  The Single Vehicle Routing Problems with Deliveries and Selective Pickups. </b>;
 <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
 Defesa: 04/2011.
-  </li>
+ 
 
 
 <li>
