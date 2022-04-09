@@ -24,9 +24,11 @@ news_limit: 5
 
 **D.Sc.**
 
-- Professor Titular do [Instituto de Computação - IC/UFF](http://www.ic.uff.br) 
-- Pesquisador com Bolsa de Produtividade do [CNPq](http://www.cnpq.br) - Nível 1C, Comitê Ciência da Computação - Veja [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787740E9) - [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=w3KB2MoAAAAJ)
-- Prêmio "Cientista do Estado do Rio de Janeiro" pela [FAPERJ](http://www.faperj.br), desde 2008 até o momento. 
+- **Professor Titular do [Instituto de Computação - IC/UFF](http://www.ic.uff.br)**
+-  
+- **Pesquisador com Bolsa de Produtividade do [CNPq](http://www.cnpq.br) - Nível 1C, Comitê Ciência da Computação** - Veja [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787740E9) - [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=w3KB2MoAAAAJ)
+- 
+- **Prêmio "Cientista do Estado do Rio de Janeiro" pela [FAPERJ](http://www.faperj.br), desde 2008 até o momento**. 
 
 [Instituto de Computação](http://www.ic.uff.br) - [Programa de Pós Graduação em Computação](http://www.ic.uff.br/PosGraduacao/coordenacao.php)
 
@@ -41,12 +43,12 @@ E-mail: [satoru@ic.uff.br](mailto:satoru@ic.uff.br) ou [luiz.satoru@gmail.com](m
 Telefones: (+55) 21-2629-5681(sala); (+55) 21- 2629 5628 <br>ou 
 (+55) 21 2629 5629 (secretaria da pós) - Fax: (+55) 21-2629-5669
 
-**Áreas de pesquisas incluem:** Inteligência Computacional (Metaheuristicas, Mineração de Dados, 
+**Áreas de pesquisas incluem:** **Inteligência Computacional (Metaheuristicas, Mineração de Dados, 
 Sistemas Inteligentes, [Smart & Digital Cities, Green Computing](https://creating.city)), Inteligência Artificial - Otimização Combinatória - Otimização no setor de Petróleo & Gás - Pesquisa Operacional - Programação Matemática - Grafos e Algoritmos - Algoritmos Paralelos em Otimização -
- Resolução de Problemas Complexos via GPU (CUDA) - Problemas de Logística & Tomada de Decisão entre outros....
+ Resolução de Problemas Complexos via GPU (CUDA) - Problemas de Logística & Tomada de Decisão entre outros**....
 
-Voce está a procura de TEMAS ATUAIS para sua dissertação de mestrado ou tese de doutorado ou um Pós Doutorado?? Clique [aqui](/temas) 
-para ver sugestões de pesquisas.
+**Voce está a procura de TEMAS ATUAIS para sua dissertação de mestrado ou tese de doutorado ou um Pós Doutorado?? Clique [aqui](/temas) 
+para ver sugestões de pesquisas**.
 
 <center>
 
