@@ -303,10 +303,16 @@ Luciana Roque Brito - Doutorado pela COPPE-SISTEMAS/UFRJ.
   </li> <a href="./conteudo/artigos/Tese doutorado Marcone.pdf">|PDF|</a>
   
 
-  
+  </li>
+
+
+<li>
   
   **Orientação/Co-orientação de teses de doutorado em andamento**
+</li>
 
+
+<li>
 
  **Anderson Zudio de Moraes** ,  </a> <b> Aluno de Doutorado em Computação - IC/UFF </b>(orientador: Luiz Satoru Ochi;Co-orientador: Igor Coelho Machado (UERJ)
  Assunto:<b> Processamento de Alto Desempenho em Problemas de Otimização & Inteligencia Computacional</b>; 
