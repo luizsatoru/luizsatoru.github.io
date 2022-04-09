@@ -30,7 +30,7 @@ news_limit: 5
 - 
 - **Prêmio "Cientista do Estado do Rio de Janeiro" pela [FAPERJ](http://www.faperj.br), desde 2008 até o momento**. 
 
-[Instituto de Computação](http://www.ic.uff.br) - [Programa de Pós Graduação em Computação](http://www.ic.uff.br/PosGraduacao/coordenacao.php)
+[Instituto de Computação](http://www.ic.uff.br) - [Programa de Pós Graduação em Computação](http://www.ic.uff.br/PosGraduacao/coordenacao.php) - LABIC - **LABORATÓRIO DE INTELIGENCIA COMPUTACIONAL DO IC UFF**
 
 Universidade Federal Fluminense
 
