@@ -79,3 +79,4 @@ owner:
 include: ['_pages']
 exclude:
   - unused/
+theme: jekyll-theme-hacker
