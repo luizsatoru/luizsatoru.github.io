@@ -28,7 +28,7 @@ Publicações
 
 **Accepted/Published**
 
-1. Elias Marques Júnior, Elias Marques Júnior, "Vitor Nazário Coelho, Igor Machado Coelho,Yuri Abitbol De Menezes Frota, Roozbeh Haghnazar Koochaksaraei, Luiz Satoru Ochi,  and Bruno Nazário Coelho (2022). "UAVs routes optimization on smart cities and regions". To appear in RAIRO – Operations Research
+1. Elias Marques Júnior, Elias Marques Júnior, "Vitor Nazário Coelho, Igor Machado Coelho,Yuri Abitbol De Menezes Frota, Roozbeh Haghnazar Koochaksaraei, Luiz Satoru Ochi,  and Bruno Nazário Coelho (2022). "UAVs routes optimization on smart cities and regions". To appear in RAIRO – Operations Research.
 
 1. Carlos Alberto Poncinelli Filho, Elias Lawrence Marques Júnior, Victor Chang, Leonardo Matsumoto Rosendo dos Santos, Flavia Bernardini, Luiz Satoru Ochi, Paulo de Figueiredo Pires,and  Flavia Coimbra Delicato (2022).  A Systematic Literature Review on Distributed Machine Learning in Edge Computing. To appear in Journal SENSORS (ISSN 1424-8220).Impact Factor: 3.576 (2020) ; 5-Year Impact Factor: 3.735 (2020)
 
