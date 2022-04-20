@@ -40,7 +40,7 @@ Publicações
 
 1. Nascimento Silva, Janio Carlos ; Coelho, Igor M. ; Souza, Ueverton S. ; Ochi, Luiz Satoru ; Coelho, Vitor N. . Finding the Maximum Multi Improvement on neighborhood exploration (2022). Optimization Letters , v. 16, p. 97-115, 2022, (Qualis A2).
 
-1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). On the Performance of GRASP-Based Feature Selection for CPS Intrusion Detection. IEEE Transactions on Network and Service Management , 2022. : [IEEE Transactions on Network and Service Management ( Volume: 19, Issue: 1, March 2022) Page(s): 614 – 626. Impact Factor: 4.195, ISSN Information: ](DOI: 10.1109/TNSM.2021.3088763)
+1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). On the Performance of GRASP-Based Feature Selection for CPS Intrusion Detection. [IEEE Transactions on Network and Service Management, 2022. Volume: 19, Issue: 1, March 2022 Page(s): 614 – 626. Impact Factor: 4.195, ISSN Information: ](DOI: 10.1109/TNSM.2021.3088763)
 
 1. Barros, B.; Ochi, Luiz. Satoru; Pinheiro, Rian ; Souza, Ueverton S. (2022). On Conflict-Free Spanning Tree: Algorithms and Complexity. In: International Conference on Algorithms and Discrete Applied Mathematics, CALDAM, 2022, Puducherry. 8th Annual International Conference on Algorithms and Discrete Applied Mathematics, Lecture Notes in Computer Science, 2022. v. 13179. p. 91-102
 
