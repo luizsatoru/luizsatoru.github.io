@@ -28,19 +28,19 @@ Publicações
 
 **Accepted/Published**
 
-1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). An extended assessment of metaheuristics-based feature selection for intrusion detection in CPS perception layer. ANNALS OF TELECOMMUNICATIONS - 2022, doi: http://doi.org/10.1007/s12243-022-00912-z 
+1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). An extended assessment of metaheuristics-based feature selection for intrusion detection in CPS perception layer. [ANNALS OF TELECOMMUNICATIONS - 2022.]( doi: http://doi.org/10.1007/s12243-022-00912-z) 
  
-1. Elias Marques Júnior, Elias Marques Júnior, "Vitor Nazário Coelho, Igor Machado Coelho,Yuri Abitbol De Menezes Frota, Roozbeh Haghnazar Koochaksaraei, Luiz Satoru Ochi,  and Bruno Nazário Coelho (2022). "UAVs routes optimization on smart cities and regions".RAIRO – Operations Research, Volume 56, Number 2, pp. 853 - 869, March-April 2022. DOI: https://doi.org/10.1051/ro/2022036
+1. Elias Marques Júnior, Elias Marques Júnior, "Vitor Nazário Coelho, Igor Machado Coelho,Yuri Abitbol De Menezes Frota, Roozbeh Haghnazar Koochaksaraei, Luiz Satoru Ochi,  and Bruno Nazário Coelho (2022). "UAVs routes optimization on smart cities and regions". [RAIRO – Operations Research, Volume 56, Number 2, pp. 853 - 869, March-April 2022.]( DOI: https://doi.org/10.1051/ro/2022036)
 
 1. Carlos Alberto Poncinelli Filho, Elias Lawrence Marques Júnior, Victor Chang, Leonardo Matsumoto Rosendo dos Santos, Flavia Bernardini, Luiz Satoru Ochi, Paulo de Figueiredo Pires,and  Flavia Coimbra Delicato (2022).  A Systematic Literature Review on Distributed Machine Learning in Edge Computing. To appear in Journal SENSORS (ISSN 1424-8220).Impact Factor: 3.576 (2020) ; 5-Year Impact Factor: 3.735 (2020)
 
-1. Couto Filho, M. B.; Braga Flor, Vinicius B.; Souza, J. C. S.; Ochi, Luis Satoru (2022). Strategic Observation of Power Grids for Reliable Monitoring. International Journal of Electrical Power and Energy Systems (Qualis A1) - Impact Factor: 4,630 (2022) , volume 138, 2022. Keywords: State Estimation, Criticalities, Optimization, Metaheuristics, Computational Intelligence.  https://doi.org/10.1016/j.ijepes.2022.107959.
+1. Couto Filho, M. B.; Braga Flor, Vinicius B.; Souza, J. C. S.; Ochi, Luis Satoru (2022). Strategic Observation of Power Grids for Reliable Monitoring. [International Journal of Electrical Power and Energy Systems (Qualis A1) - Impact Factor: 4,630 (2022) , volume 138, 2022. Keywords: State Estimation, Criticalities, Optimization, Metaheuristics, Computational Intelligence.](  https://doi.org/10.1016/j.ijepes.2022.107959).
 
-1. Bhering, Fabiano; Passos, Diego; Ochi, Luis Satoru ; Obraczka, Katia ; Albuquerque, C. (2022). Wireless Multipath Video Transmission - When IoT Video Applications Meet Networking: A Survey. Multimedia Systems Qualis A2,  2022, v. 22, p. 1-15.Impact Factor:2,34 - https://doi.org/10.1007/s00530-021-00885-4
+1. Bhering, Fabiano; Passos, Diego; Ochi, Luis Satoru ; Obraczka, Katia ; Albuquerque, C. (2022). Wireless Multipath Video Transmission - When IoT Video Applications Meet Networking: A Survey. [Multimedia Systems Qualis A2,  2022, v. 22, p. 1-15.Impact Factor:2,34 - ](https://doi.org/10.1007/s00530-021-00885-4)
 
 1. Nascimento Silva, Janio Carlos ; Coelho, Igor M. ; Souza, Ueverton S. ; Ochi, Luiz Satoru ; Coelho, Vitor N. . Finding the Maximum Multi Improvement on neighborhood exploration (2022). Optimization Letters , v. 16, p. 97-115, 2022, (Qualis A2).
 
-1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). On the Performance of GRASP-Based Feature Selection for CPS Intrusion Detection. IEEE Transactions on Network and Service Management , 2022. : IEEE Transactions on Network and Service Management ( Volume: 19, Issue: 1, March 2022) Page(s): 614 – 626. Impact Factor: 4.195, ISSN Information: DOI: 10.1109/TNSM.2021.3088763
+1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). On the Performance of GRASP-Based Feature Selection for CPS Intrusion Detection. IEEE Transactions on Network and Service Management , 2022. : [IEEE Transactions on Network and Service Management ( Volume: 19, Issue: 1, March 2022) Page(s): 614 – 626. Impact Factor: 4.195, ISSN Information: ](DOI: 10.1109/TNSM.2021.3088763)
 
 1. Barros, B.; Ochi, Luiz. Satoru; Pinheiro, Rian ; Souza, Ueverton S. (2022). On Conflict-Free Spanning Tree: Algorithms and Complexity. In: International Conference on Algorithms and Discrete Applied Mathematics, CALDAM, 2022, Puducherry. 8th Annual International Conference on Algorithms and Discrete Applied Mathematics, Lecture Notes in Computer Science, 2022. v. 13179. p. 91-102
 
