@@ -26,8 +26,8 @@ Comitês
 
 ### 2022
 
-01.	Program Commitee Member - [MIC 2022 - 14th Metaheuristics International Conference]
-11-14 July 2021, Ortigia-Syracuse, Italy. (https://www.ANTs-lab.it/mic2022/)
+01.	Program Commitee Member - [MIC 2022 - 14th Metaheuristics International Conference
+11-14 July 2021, Ortigia-Syracuse, Italy.](https://www.ANTs-lab.it/mic2022/)
 
 02.	Presidente Comitê Científico [LIV SBPO 2022 – UFJF – MG, 08 – 11 Novembro 2022](https://sbpo2022.galoa.com.br/)
 
