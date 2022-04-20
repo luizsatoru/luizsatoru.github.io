@@ -38,7 +38,7 @@ Publicações
 
 1. Bhering, Fabiano; Passos, Diego; Ochi, Luis Satoru ; Obraczka, Katia ; Albuquerque, C. (2022). Wireless Multipath Video Transmission - When IoT Video Applications Meet Networking: A Survey. [Multimedia Systems Qualis A2,  2022, v. 22, p. 1-15.Impact Factor:2,34 - ](https://doi.org/10.1007/s00530-021-00885-4)
 
-1. Nascimento Silva, Janio Carlos ; Coelho, Igor M. ; Souza, Ueverton S. ; Ochi, Luiz Satoru ; Coelho, Vitor N. . Finding the Maximum Multi Improvement on neighborhood exploration (2022). Optimization Letters , v. 16, p. 97-115, 2022, (Qualis A2).
+1. Nascimento Silva, Janio Carlos ; Coelho, Igor M. ; Souza, Ueverton S. ; Ochi, Luiz Satoru ; Coelho, Vitor N. . Finding the Maximum Multi Improvement on neighborhood exploration (2022). [Optimization Letters , v. 16, p. 97-115, 2022, (Qualis A2). ](https://doi.org/10.1007/s11590-020-01556-5)
 
 1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). On the Performance of GRASP-Based Feature Selection for CPS Intrusion Detection. [IEEE Transactions on Network and Service Management, 2022. Volume: 19, Issue: 1, March 2022 Pages: 614 – 626. Impact Factor: 4.195, ISSN Information: ](DOI: http://doi.org/10.1109/TNSM.2021.3088763)
 
