@@ -28,9 +28,9 @@ Publicações
 
 **Accepted/Published**
 
-1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). An extended assessment of metaheuristics-based feature selection for intrusion detection in CPS perception layer. [ANNALS OF TELECOMMUNICATIONS - 2022](DOI:10.1007/s12243-022-00912-z), 
-2. 
-3. Elias Marques Júnior, Elias Marques Júnior, "Vitor Nazário Coelho, Igor Machado Coelho,Yuri Abitbol De Menezes Frota, Roozbeh Haghnazar Koochaksaraei, Luiz Satoru Ochi,  and Bruno Nazário Coelho (2022). "UAVs routes optimization on smart cities and regions".RAIRO – Operations Research, Volume 56, Number 2, pp. 853 - 869, March-April 2022. DOI: https://doi.org/10.1051/ro/2022036
+1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). An extended assessment of metaheuristics-based feature selection for intrusion detection in CPS perception layer. ANNALS OF TELECOMMUNICATIONS - 2022, DOI:10.1007/s12243-022-00912-z 
+ 
+1. Elias Marques Júnior, Elias Marques Júnior, "Vitor Nazário Coelho, Igor Machado Coelho,Yuri Abitbol De Menezes Frota, Roozbeh Haghnazar Koochaksaraei, Luiz Satoru Ochi,  and Bruno Nazário Coelho (2022). "UAVs routes optimization on smart cities and regions".RAIRO – Operations Research, Volume 56, Number 2, pp. 853 - 869, March-April 2022. DOI: https://doi.org/10.1051/ro/2022036
 
 1. Carlos Alberto Poncinelli Filho, Elias Lawrence Marques Júnior, Victor Chang, Leonardo Matsumoto Rosendo dos Santos, Flavia Bernardini, Luiz Satoru Ochi, Paulo de Figueiredo Pires,and  Flavia Coimbra Delicato (2022).  A Systematic Literature Review on Distributed Machine Learning in Edge Computing. To appear in Journal SENSORS (ISSN 1424-8220).Impact Factor: 3.576 (2020) ; 5-Year Impact Factor: 3.735 (2020)
 
