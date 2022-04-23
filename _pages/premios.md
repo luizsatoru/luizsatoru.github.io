@@ -29,7 +29,7 @@ Em 2021 recebi a MEDALHA e o TÍTULO/DIPLOMA: "AMIGO DA MARINHA" – Distinção
 
 **•	2021 - Recebi o Prêmio Cientista do Estado do Rio de Janeiro - CNE (Grant 2022 - 2024), FAPERJ: Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro**.
 
-** • 2021 - CERTIFICADO 2021: recebido pelo comando da CASNAV - Marinha do Brasil pelos serviços relevantes prestados - Capitão de Mar e Guerra Carlos Rodrigo Cerveira, CASNAV MARINHA.**
+**• 2021 - CERTIFICADO CASNAV 2021: recebido pelo comando da CASNAV - Marinha do Brasil pelos serviços relevantes prestados - Capitão de Mar e Guerra Carlos Rodrigo Cerveira, CASNAV MARINHA**.
 
 **•	2020 – PRÊMIO: Prêmio de Excelência Científica - ortorgada pela PROPPI UFF em 2020 (o Prêmio de Excelência Cientifica 2020, a mais alta honraria da área cientifica da UFF, oferecida anualmente a pesquisadores com carreiras de destaque em suas áreas de atuação. As candidaturas dos indicados pela comunidade acadêmica são analisadas por uma Banca Externa, composta por pesquisadores Bolsistas de Produtividade nível 1A do CNPq, em suas respectivas áreas.  Os jurados analisam o impacto da produção cientifica dos candidatos, bem como sua internacionalização, participação em sociedades e associações cientificas, formação de recursos humanos e participação em atividades universitárias)**.
 
@@ -37,7 +37,7 @@ Em 2021 recebi a MEDALHA e o TÍTULO/DIPLOMA: "AMIGO DA MARINHA" – Distinção
 
 **•	2019 – PRÊMIO 1: Tese de Doutorado de Thiago Gouveia da Silva, sob a minha orientação junto com Philippe Michelon (Doutorado cotutela entre IC/UFF & University of Avignon), foi premiada como a segunda melhor Tese de Doutorado em Computação, no Concurso de Teses em Computação pelo CSBC 2019 – Belém/PA**.
 
-** • 2019 - CERTIFICADO 2021: recebido pelo comando da CASNAV - Marinha do Brasil pelos serviços relevantes prestados - Capitão de Mar e Guerra Carlos Rodrigo Cerveira, CASNAV MARINHA.**
+**• 2019 - CERTIFICADO CASNAV 2021: recebido pelo comando da CASNAV - Marinha do Brasil pelos serviços relevantes prestados - Capitão de Mar e Guerra Carlos Rodrigo Cerveira, CASNAV MARINHA**.
 
 
 **•	2017 - Tese de Doutorado do Eyder Rios, sob a minha orientação e da Profa Cristina Boeres classificada entre as 3 melhores teses no WSCAD/SBAC-PAD 2017 – Campinas-SP**. 
