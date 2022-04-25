@@ -51,7 +51,7 @@ Publicações
 
 **Accepted/Published**
 
-1. Souza, Marques Moreira; Gonzalez, Pedro H; Ochi, Luiz Satoru; Martins, Simone L. (2021). A hybrid iterated local search heuristic for the traveling salesperson problem with hotel selection. COMPUTERS & OPERATIONS RESEARCH , v. 129, p. 105229-145, 2021.
+1. Souza, Marques Moreira; Gonzalez, Pedro H; Ochi, Luiz Satoru; Martins, Simone L. (2021). A hybrid iterated local search heuristic for the traveling salesperson problem with hotel selection. [COMPUTERS & OPERATIONS RESEARCH , v. 129, p. 105229-145, 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0305054821000216)
 
 1.  Gilberto Farias Sousa; Teobaldo Bulhões; Lucídio Cabral; Luiz Ochi; Fábio Protti; Rian Pinheiro (2021). “The Biclique Partitioning Polytope”, in Discrete Applied Mathematics, v. 301, p. 118-130, 2021.
 
