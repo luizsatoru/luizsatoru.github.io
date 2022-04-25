@@ -57,7 +57,7 @@ Publicações
 
 1. Dias, Savio Soares ; Simonetti, Luidi ; Ochi, Luis Satoru (2021) . “An ILS-based heuristic applied to the Car Renter Salesman Problem”. [RAIRO-OPERATIONS RESEARCH , v. 55, p. 1-22, 2021.](http://doi.org/10.1051/ro/2020053)
 
-1. Fadel, Augusto César; Ochi, Luiz Satoru ; Brito, Jose André Moura ; Semaan, Gustavo S. (2021). Microaggregation heuristic applied to statistical disclosure control. INFORMATION SCIENCES , (Qualis A1) v. 548, p. 37-55, 2021.
+1. Fadel, Augusto César; Ochi, Luiz Satoru ; Brito, Jose André Moura ; Semaan, Gustavo S. (2021). Microaggregation heuristic applied to statistical disclosure control. [INFORMATION SCIENCES , (Qualis A1) v. 548, p. 37-55, 2021.](http://doi.org/10.1016/j.ins.2020.09.069)
 
 **2020**
 
