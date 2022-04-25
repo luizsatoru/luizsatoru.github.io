@@ -55,7 +55,7 @@ Publicações
 
 1.  Gilberto Farias Sousa; Teobaldo Bulhões; Lucídio Cabral; Luiz Ochi; Fábio Protti; Rian Pinheiro (2021). “The Biclique Partitioning Polytope”, in [Discrete Applied Mathematics, v. 301, p. 118-130, 2021.](http://doi.org/10.1016/j.dam.2021.05.023)
 
-1. Dias, Savio Soares ; Simonetti, Luidi ; Ochi, Luis Satoru (2021) . “An ILS-based heuristic applied to the Car Renter Salesman Problem”. RAIRO-OPERATIONS RESEARCH , v. 55, p. 1-22, 2021.
+1. Dias, Savio Soares ; Simonetti, Luidi ; Ochi, Luis Satoru (2021) . “An ILS-based heuristic applied to the Car Renter Salesman Problem”. [RAIRO-OPERATIONS RESEARCH , v. 55, p. 1-22, 2021.](http://doi.org/10.1051/ro/2020053)
 
 1. Fadel, Augusto César; Ochi, Luiz Satoru ; Brito, Jose André Moura ; Semaan, Gustavo S. (2021). Microaggregation heuristic applied to statistical disclosure control. INFORMATION SCIENCES , (Qualis A1) v. 548, p. 37-55, 2021.
 
