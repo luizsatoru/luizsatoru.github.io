@@ -22,12 +22,12 @@ news_limit: 5
 Temas
 
 
-Se você tem interesse em fazer um bom <b> Mestrado </b> ou <b>Doutorado </b> ou <b>Pós Doutorado </b> em computação na UFF ou busca por idéias de pesquisas,
-veja nossas sugestões: <p>
+Se você tem interesse em fazer um bom Mestrado ou Doutorado ou Pós Doutorado ou Iniciação Científica em computação na UFF ou busca por idéias de pesquisas,
+veja nossas sugestões: 
 
-Existem vários temas de pesquisa de nosso interesse, contudo a vertente principal é direcionada ao desenvolvimento
-de procedimentos isolados ou híbridos(algoritmos e sistemas) conjugando um ou mais conceitos de: Inteligência Computacional, Inteligencia Artificial,  Otimização
-Combinatória, <a href="https://creating.city/proceedings/"> SMART CITIES & GREEN COMPUTING </a> (veja mais sobre este tema em: veja no
+Existem vários temas de pesquisa de nosso interesse, contudo a vertente principal atualmente é direcionada ao desenvolvimento de novas tecnologias envolvendo conceitos e técnicas de forma isolada ou híbrida (algoritmos e sistemas). Nas versões híbridas. conjugamos um ou mais conceitos de: Inteligência Computacional, Inteligencia Artificial,  Otimização  Combinatória, Pesquisa Operacional, Ciência de Dados, entre outros conhecimentos.
+
+ <a href="https://creating.city/proceedings/"> SMART CITIES & GREEN COMPUTING </a> (veja mais sobre este tema em: veja no
 link <a href="https://creating.city/"> "Creating.City portal"), Dentro do escopo de Smart Cities temos interesse em segmentos incluindo: Seguran�a Publica, Logistica Humanitaria, e-commerce, 
 Roteamento e Scheduling de VANTS (Veiculos Aereos Nao Tripulados - DRONES), Mobilidade Urbana e Social; Sustentabilidade entre outros itens..  </a>, Mineração de Dados e Processamento Paralelo e Distribuido (Incluindo implementação em GPU). A idéia é utilizar este(s) procedimento(s) na
 solução  de  um problema de elevada complexidade computacional incluindo áreas como:  Sistemas Automatizados em Transportes Urbanos,  Sistemas de Manufatura,
