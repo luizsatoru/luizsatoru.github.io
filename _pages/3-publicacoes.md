@@ -90,7 +90,7 @@ Publicações
 
 1. Gustavo Silva Semaan, Augusto Cesar Fadel, José André de Moura Brito, Luiz Satoru Ochi (2019). "A Hybrid Efficient Heuristic with Hopkins Statistic for the Automatic Clustering Problem". In IEEE Latin America Transactions, Volume 17(1), p. 7-17, (2019).
 
-1. Thiago  Gouveia da Silva; Serigne Gueye; Philippe Michelon; Luiz Satoru Ochi; and Lucidio dos Anjos Formiga Cabral. (2019). "A polyhedral approach to the generalized minimum labeling spanning tree problem",  in [EURO Journal on Computational Optimization, volume 7, pages47–77(2019) - SPRINGER](https://doi.org/10.1007/s13675-018-0099-5 
+1. Thiago  Gouveia da Silva; Serigne Gueye; Philippe Michelon; Luiz Satoru Ochi; and Lucidio dos Anjos Formiga Cabral. (2019). "A polyhedral approach to the generalized minimum labeling spanning tree problem",  in [EURO Journal on Computational Optimization, volume 7, pages 47–77 - 2019 - SPRINGER](https://doi.org/10.1007/s13675-018-0099-5 
 
 1. Marques Moreira Sousa, Luiz Satoru Ochi, and Simone de Lima Martins (2019). "An Efficient Heuristic to the Traveling Salesperson Problem with Hotel Selection", In Hybrid Metaheuristics Book - Lecture Notes in Computer Science (LNCS) 11299, pp. 31-45 , SPRINGER, ISSN 0302-9743, https://doi.org/10.1007/978-3-030-05983-5.
 
