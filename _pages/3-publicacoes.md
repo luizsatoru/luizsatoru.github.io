@@ -73,7 +73,7 @@ Publicações
 
 1. Janio Carlos Nascimento Silva, Uerveton dos Santos Souza, Luiz Satoru Ochi, Igor Machado Coelho, Vitor Nazario Coelho.(2020) " Finding the Maximum Multi Improvement on Neighborhood Exploration". To appear in Optimization Letters 2020 - SPRINGER. 
 
-1. Thays Aparecida de Oliveira, Yuri Gabrich, Helena Ramalhinho, Miquel Oliver, Miri W. Cohen, Luiz Satoru Ochi, Serigne Gueye, Fábio Protti, Alysson A. Pinto, Diógenes V. M. Ferreira, Igor M. Coelho and Vitor N. Coelho. (2020). “Mobility, Citizens, Innovation and Technology in Digital and Smart Cities”.  in [FUTURE INTERNET, 12(2) - 2020, Switzerland.](https://doi.org/10.3390/fi12020022) - 2020, Switzerland. 
+1. Thays Aparecida de Oliveira, Yuri Gabrich, Helena Ramalhinho, Miquel Oliver, Miri W. Cohen, Luiz Satoru Ochi, Serigne Gueye, Fábio Protti, Alysson A. Pinto, Diógenes V. M. Ferreira, Igor M. Coelho and Vitor N. Coelho. (2020). “Mobility, Citizens, Innovation and Technology in Digital and Smart Cities”.  in FUTURE INTERNET, 12(2) - 2020, Switzerland. - 2020, Switzerland. 
 
 1. Elias Lawrence Marques Junior, Vitor Nazario Coelho, Igor Machado Coelho, Bruno Nazario Coelho and Luiz Satoru Ochi (2020) "A Multi-objective Metaheuristic for a Green UAV Grid Routing Problem". Lecture Notes in Computer Science - LNCS 12010, 1-2, 2020, PP 152-166, SPRINGER. ISBN: 978-3-030-44931-5. 
 
