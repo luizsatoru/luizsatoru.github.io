@@ -40,8 +40,7 @@ São Domingos, Niterói - RJ, Brasil, 24210-240
 
 E-mail: [satoru@ic.uff.br](mailto:satoru@ic.uff.br) ou [luiz.satoru@gmail.com](mailto:luiz.satoru@gmail.com)
  
-Telefones: (+55) 21-2629-5681(sala); (+55) 21- 2629 5628 <br>ou 
-(+55) 21 2629 5629 (secretaria da pós) - Fax: (+55) 21-2629-5669
+[Mais informações?? clique AQUI!!!!!!](https://luizsatoru.github.io/)
 
 **Áreas de pesquisas incluem:** **Inteligência Computacional - Inteligência Artificial, [Smart & Digital Cities, Green Computing](https://creating.city)) - Otimização Combinatória - Otimização no setor de Petróleo & Gás - Pesquisa Operacional - Programação Matemática - Grafos e Algoritmos - Algoritmos Paralelos em Otimização -
  Resolução de Problemas Complexos via GPU (CUDA) - Problemas de Logística Inteligente & Tomada de Decisão - Mobilidade Urbana & Social - Segurança Pública - Defesa - Green Vehicle Routing and Scheduling - UAVs/Drones - Meio Ambiente - Sustentabilidade  entre outros**....
