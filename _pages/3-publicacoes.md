@@ -63,9 +63,9 @@ Publicações
 
 **Accepted/Published**
 
-1. Augusto César Fadel; Luiz Satoru Ochi, PhD; José André M Brito, PhD; Gustavo S Semaan, PhD (2020). Título: Microaggregation Heuristic Applied to Statistical Disclosure Control. To appear in Information Sciences – ELSEVIER.
+1. Augusto César Fadel; Luiz Satoru Ochi, PhD; José André M Brito, PhD; Gustavo S Semaan, PhD (2020). Título: Microaggregation Heuristic Applied to Statistical Disclosure Control. [To appear in Information Sciences – ELSEVIER.](http://doi.org/10.1016/j.ins.2020.09.069)
 
-1. Silva, Andre. Renato. V. ; Ochi, Luiz Satoru. ; Barros, Bruno. J. S. ; Pinheiro, Rian. G. S. . Efficient approaches for the Flooding Problem on graphs. ANNALS OF OPERATIONS RESEARCH , v. 286, p. 33-54, 2020
+1. Silva, Andre. Renato. V. ; Ochi, Luiz Satoru. ; Barros, Bruno. J. S. ; Pinheiro, Rian. G. S. . Efficient approaches for the Flooding Problem on graphs. [ANNALS OF OPERATIONS RESEARCH , v. 286, p. 33-54, 2020](http://doi.org/10.1007/s10479-018-2796-0)
 
 1. Gustavo S Semaan, Jose Andre M Brito, Igor Machado Coelho, Edelberto Franco Silva, Augusto Fadel and Luiz Satoru Ochi (2020). "A Brief History of Heuristics, from Bounded Rationality to Intractability". To appear in IEEE Latin America Transactions. 
 
@@ -73,7 +73,7 @@ Publicações
 
 1. Janio Carlos Nascimento Silva, Uerveton dos Santos Souza, Luiz Satoru Ochi, Igor Machado Coelho, Vitor Nazario Coelho.(2020) " Finding the Maximum Multi Improvement on Neighborhood Exploration". To appear in Optimization Letters 2020 - SPRINGER. 
 
-1. Thays Aparecida de Oliveira, Yuri Gabrich, Helena Ramalhinho, Miquel Oliver, Miri W. Cohen, Luiz Satoru Ochi, Serigne Gueye, Fábio Protti, Alysson A. Pinto, Diógenes V. M. Ferreira, Igor M. Coelho and Vitor N. Coelho. (2020). “Mobility, Citizens, Innovation and Technology in Digital and Smart Cities”.  in FUTURE INTERNET, 12(2) - 2020, Switzerland. http://www.mdpi.com/journal/futureinternet/ - 2020, Switzerland. 
+1. Thays Aparecida de Oliveira, Yuri Gabrich, Helena Ramalhinho, Miquel Oliver, Miri W. Cohen, Luiz Satoru Ochi, Serigne Gueye, Fábio Protti, Alysson A. Pinto, Diógenes V. M. Ferreira, Igor M. Coelho and Vitor N. Coelho. (2020). “Mobility, Citizens, Innovation and Technology in Digital and Smart Cities”.  in [FUTURE INTERNET, 12(2) - 2020, Switzerland.] http://www.mdpi.com/journal/futureinternet/ - 2020, Switzerland. 
 
 1. Elias Lawrence Marques Junior, Vitor Nazario Coelho, Igor Machado Coelho, Bruno Nazario Coelho and Luiz Satoru Ochi (2020) "A Multi-objective Metaheuristic for a Green UAV Grid Routing Problem". Lecture Notes in Computer Science - LNCS 12010, 1-2, 2020, PP 152-166, SPRINGER. ISBN: 978-3-030-44931-5. 
 
