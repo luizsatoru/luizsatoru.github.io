@@ -33,6 +33,6 @@ Existem vários temas de pesquisa de nosso interesse, contudo a vertente princip
 link <a href="https://creating.city/"> "Creating.City portal"), Dentro do escopo de Smart Cities temos interesse em segmentos incluindo: Segurança Publica, Logistica Humanitaria, e-commerce, Roteamento e Scheduling de VANTS (Veiculos Aereos Nao Tripulados - DRONES), Mobilidade Urbana e Social; Sustentabilidade; Meio Ambiente; Defesa; Logística Humanitária; Logística Reversa,  entre outros itens..  </a>, Mineração de Dados e Processamento Paralelo e Distribuido (Incluindo implementação em CPU & GPU). 
 
 Outras vertentes de nosso interesse, incluem aplicações em problemas de elevada complexidade computacional incluindo também áreas como:  Sistemas Inteligentes em Transportes Urbanos,  Sistemas Inteligentes de Manufatura, Biologia Computacional, Computação Médica, Planejamento de Redes de: Telecomunicações e Elétrica, Planejamento de  Horários e/ou Calendários, Otimização em Redes de Computadores, etc. Para se ter uma idéia inicial do que estamos pesquisando, veja no
-link <a href="https://luizsatoru.github.io/"> 
+link https://luizsatoru.github.io/
 
 
