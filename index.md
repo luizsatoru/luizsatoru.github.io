@@ -32,7 +32,7 @@ news_limit: 5
 - 
 - [**Prêmio Cientista do Estado do Rio de Janeiro pela FAPERJ desde 2008 até o momento!!!!**](http://www.faperj.br). 
 
-[**Instituto de Computação**](http://www.ic.uff.br) - [**O Programa de Pós-Graduação em Computação do IC-UFF é um dos 10 Programas de Excelência em Computação do Brasil - CAPES**](http://www.ic.uff.br/PosGraduacao/coordenacao.php) - LABIC - **LABORATÓRIO DE INTELIGENCIA COMPUTACIONAL DO IC UFF**
+[**Instituto de Computação**](http://www.ic.uff.br) - [**O Programa de Pós-Graduação em Computação do IC-UFF é um dos 10 Programas de Excelência em Computação do Brasil - CAPES**](http://www.ic.uff.br/PosGraduacao/coordenacao.php) - ** Venha conhecer o nosso Labs LABIC - LABORATÓRIO DE INTELIGENCIA COMPUTACIONAL DO IC UFF**
 
 Universidade Federal Fluminense
 
