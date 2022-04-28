@@ -26,7 +26,7 @@ news_limit: 5
 
 - **Professor Titular do [Instituto de Computação - IC/UFF](http://www.ic.uff.br)**
 -  
-- **Pesquisador-PQ com Bolsa de Produtividade do [CNPq](http://www.cnpq.br) - Nível 1C, Comitê Ciência da Computação** - Veja [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787740E9) - [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=w3KB2MoAAAAJ)
+- **Pesquisador-PQ com Bolsa de Produtividade do [CNPq](http://www.cnpq.br) - Nível 1C, Comitê Ciência da Computação** - Veja [Lattes](http://lattes.cnpq.br/9171815778534257) - [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=w3KB2MoAAAAJ)
 - 
 - **Prêmio "Cientista do Estado do Rio de Janeiro" pela [FAPERJ](http://www.faperj.br), desde 2008 até o momento**. 
 
