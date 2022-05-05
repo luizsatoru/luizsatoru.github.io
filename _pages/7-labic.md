@@ -46,19 +46,13 @@ Fax: (55) (21) 2629 5627/5670<br>
 <tr>
 <td colspan="2">
 <div align="justify">
-**A área de Inteligência Computacional (IC) engloba primordialmente noções de Inteligência 
-Artificial (IA) e Otimização Combinatória (OC). O nosso interesse neste 
-tema, é o de desenvolver novos algoritmos e sistemas inteligentes utilizando 
-conceitos destas duas áreas.**
+**A área de Inteligência Computacional (IC) engloba primordialmente noções de Inteligência Artificial (IA) e Otimização Combinatória (OC). O nosso interesse neste 
+tema, é o de desenvolver novos algoritmos e sistemas inteligentes utilizando conceitos destas duas áreas.**
 <p>
-**Em termos de algoritmos destacamos as chamadas Heurísticas Inteligentes
-ou Metaheurísticas e dentre elas podemos destacar as seguintes: 
-Algoritmos Evolutivos (<a href="http://www.faqs.org/faqs/ai-faq/genetic/">AEs</a>)
-e o seu representante mais popular, Algoritmos Genéticos
-(<a href="http://www.faqs.org/faqs/ai-faq/genetic/">AGs</a>); Programação 
-Genética (<a href="http://www.genetic-programming.org/">PG</a>); Simulated
-Annealing (<a href="http://members.aol.com/btluke/simann1.htm">SA</a>); Busca Tabu
-(<a href="http://spot.colorado.edu/~glover/">BT</a>); Greedy Randomized
+**Em termos de algoritmos destacamos as chamadas Heurísticas Inteligentes ou Metaheurísticas e dentre elas podemos destacar as seguintes: 
+Algoritmos Evolutivos (<a href="http://www.faqs.org/faqs/ai-faq/genetic/">AEs</a>) e o seu representante mais popular, Algoritmos Genéticos
+(<a href="http://www.faqs.org/faqs/ai-faq/genetic/">AGs</a>); Programação Genética (<a href="http://www.genetic-programming.org/">PG</a>); Simulated
+Annealing (<a href="http://members.aol.com/btluke/simann1.htm">SA</a>); Busca Tabu (<a href="http://spot.colorado.edu/~glover/">BT</a>); Greedy Randomized
 Adaptive Search Procedure (<a href="http://www.research.att.com/~mgcr/">GRASP</a>);
 Variable Neighborhood Search (<a href="http://www.mi.sanu.ac.yu/~nenad/">VNS</a>);
 Ant Colony Systems (<a href="http://iridia.ulb.ac.be/~mdorigo/ACO/ACO.html">ACS</a>);
