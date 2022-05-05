@@ -20,9 +20,9 @@ social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
 
-Comitês
+## **Comitês**
 
-<b>Minha participação em comitês de programa e/ou comitê organizador nos Congressos/Simpósios nos últimos anos</b>
+## **Minha participação em comitês de programa e/ou comitê organizador nos Congressos/Simpósios nos últimos anos**
 
 ### 2022
 
