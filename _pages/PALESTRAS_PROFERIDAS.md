@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
 
-                                                     **APRESENTAÇÕES DE PALESTRAS CONVIDADAS NOS ÚLTIMOS ANOS**
+## **APRESENTAÇÕES DE PALESTRAS CONVIDADAS NOS ÚLTIMOS ANOS**
 
                                                                            
 
