@@ -21,7 +21,7 @@ news_limit: 5
 ---
 
 
-**PRÊMIOS E CONDECORAÇÕES RECEBIDAS NOS ÚLTIMOS ANOS**
+## **PRÊMIOS E CONDECORAÇÕES RECEBIDAS NOS ÚLTIMOS ANOS**
 
 **•	2021 – PRÊMIO:
 Em 2021 recebi a MEDALHA e o TÍTULO/DIPLOMA: "AMIGO DA MARINHA" – Distinção recebida do Primeiro Distrito Naval – Almirante Eduardo Vasquez**.
