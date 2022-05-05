@@ -34,9 +34,9 @@ del Instituto Chileno de Investigación Operativa [ICHIO](http://lia.dis.ufro.cl
 **Orientador de dissertações de Mestrado e teses de Doutorado no IC/UFF e na [COPPE/UFRJ](http://www.coppe.ufrj.br); 
 Supervisor de Pós-Doutorandos no IC/UFF; Membro de Comitês de Programas de eventos nacionais e internacionais anualmente. Desde 2008 recebe grant associado ao 
 Prêmio "Cientista do Estado do Rio de Janeiro" concedido pela  [FAPERJ](http://www.faperj.br) (Fundação de Amparo à 
-Pesquisa do Estado do Rio de Janeiro) (Grant:2009-2011; 2012-2014; e 2015-2017; 2018-2020. 2022-2024).
+Pesquisa do Estado do Rio de Janeiro) (Grant:2009-2011; 2012-2014; e 2015-2017; 2018-2020. 2022-2024).**
 
-Para acessar o Curriculun Vitae LATTES do CNPq, veja em: [CV-LATTES-CNPq](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787740E9).**
+**Para acessar o Curriculun Vitae LATTES do CNPq, veja em: [CV-LATTES-CNPq](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787740E9).**
 
 
 
