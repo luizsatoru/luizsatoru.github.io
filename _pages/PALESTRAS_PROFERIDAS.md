@@ -24,11 +24,11 @@ news_limit: 5
 
                                                                            ## **PALESTRAS**:
 
-2022 – Palestra FAPERJ/CNE – Palestra proferida na UFPB: **Cidades e Regiões Inteligentes & Sustentáveis** (a convite do Prof Lucidio Cabral-Diretor do Centro de Intormatica da UFPB). 2022.
+**2022 – Palestra FAPERJ/CNE – Palestra proferida na UFPB: **Cidades e Regiões Inteligentes & Sustentáveis** (a convite do Prof Lucidio Cabral-Diretor do Centro de Intormatica da UFPB). 2022.**
 
-2022 – Palestra FAPERJ/CNE – Palestra proferida na empresa LOGGI: **Cidades e Regiões Inteligentes no segmento de Logistica & Transportes**, no WCI- Workshop de Colaboração Loggi - Academia: Cidades Inteligentes e suas Interfaces com Entregas Urbanas
+**2022 – Palestra FAPERJ/CNE – Palestra proferida na empresa LOGGI: **Cidades e Regiões Inteligentes no segmento de Logistica & Transportes**, no WCI- Workshop de Colaboração Loggi - Academia: Cidades Inteligentes e suas Interfaces com Entregas Urbanas**
 
-2022 – Palestra FAPERJ/CNE – Palestra proferida no IFRJ & UENF **Cidades Inteligentes e Sustentáveis**. 2022.
+**2022 – Palestra FAPERJ/CNE – Palestra proferida no IFRJ & UENF **Cidades Inteligentes e Sustentáveis**. 2022.**
 
 2021 – [Palestra FAPERJ/CNE – PPGC-UFJF: **Cidades Inteligentes & Sustentáveis: Metodologias e Aplicações**. A convite do Prof Mario Dantas (coordenador da Pós). Disponível em:](https://www.youtube.com/watch?v=sYX-C9cCMQw)
 
