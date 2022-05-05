@@ -51,13 +51,13 @@ Publicações
 
 **Accepted/Published**
 
-1. Souza, Marques Moreira; Gonzalez, Pedro H; Ochi, Luiz Satoru; Martins, Simone L. (2021). A hybrid iterated local search heuristic for the traveling salesperson problem with hotel selection. [COMPUTERS & OPERATIONS RESEARCH (Qualis A1), v. 129, p. 105229-145, 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0305054821000216)
+**1. Souza, Marques Moreira; Gonzalez, Pedro H; Ochi, Luiz Satoru; Martins, Simone L. (2021). A hybrid iterated local search heuristic for the traveling salesperson problem with hotel selection. [COMPUTERS & OPERATIONS RESEARCH (Qualis A1), v. 129, p. 105229-145, 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0305054821000216)**
 
-1.  Gilberto Farias Sousa; Teobaldo Bulhões; Lucídio Cabral; Luiz Ochi; Fábio Protti; Rian Pinheiro (2021). “The Biclique Partitioning Polytope”, in [Discrete Applied Mathematics (Qualis A2), v. 301, p. 118-130, 2021.](http://doi.org/10.1016/j.dam.2021.05.023)
+**1.  Gilberto Farias Sousa; Teobaldo Bulhões; Lucídio Cabral; Luiz Ochi; Fábio Protti; Rian Pinheiro (2021). “The Biclique Partitioning Polytope”, in [Discrete Applied Mathematics (Qualis A2), v. 301, p. 118-130, 2021.](http://doi.org/10.1016/j.dam.2021.05.023)**
 
-1. Dias, Savio Soares ; Simonetti, Luidi ; Ochi, Luis Satoru (2021) . “An ILS-based heuristic applied to the Car Renter Salesman Problem”. [RAIRO-OPERATIONS RESEARCH , v. 55, p. 1-22, 2021.](http://doi.org/10.1051/ro/2020053)
+**1. Dias, Savio Soares ; Simonetti, Luidi ; Ochi, Luis Satoru (2021) . “An ILS-based heuristic applied to the Car Renter Salesman Problem”. [RAIRO-OPERATIONS RESEARCH , v. 55, p. 1-22, 2021.](http://doi.org/10.1051/ro/2020053)**
 
-1. Fadel, Augusto César; Ochi, Luiz Satoru ; Brito, Jose André Moura ; Semaan, Gustavo S. (2021). Microaggregation heuristic applied to statistical disclosure control. [INFORMATION SCIENCES , (Qualis A1 - Impact Factor: 6,97) v. 548, p. 37-55, 2021.](http://doi.org/10.1016/j.ins.2020.09.069)
+**1. Fadel, Augusto César; Ochi, Luiz Satoru ; Brito, Jose André Moura ; Semaan, Gustavo S. (2021). Microaggregation heuristic applied to statistical disclosure control. [INFORMATION SCIENCES , (Qualis A1 - Impact Factor: 6,97) v. 548, p. 37-55, 2021.](http://doi.org/10.1016/j.ins.2020.09.069)**
 
 **2020**
 
