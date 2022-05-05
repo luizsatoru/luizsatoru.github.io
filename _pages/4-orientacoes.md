@@ -20,10 +20,10 @@ social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
 
-**Orientações**
+## **Orientações**
 
 
-**Supervisão de Pós-Doutorado em Andamento**
+## **Supervisão de Pós-Doutorado em Andamento**
 
  Gustavo S Semaan (Doutorado pelo IC-UFF)  
 <a href="gustavosemaan@gmail.com"> e-mail; 
@@ -36,7 +36,7 @@ Assunto: Hiper-Heurísticas </b>; Período: 09/2017 a 08/2018.
 
 <
 
-**Supervisão de Pós-Doutorado Concluídas**
+## **Supervisão de Pós-Doutorado Concluídas**
 <ol>
 
 
@@ -98,7 +98,7 @@ do CNPq.
 
 </ol>
 
-**Orientação ou Co-orientação de teses de doutorado concluídas**
+## **Orientação ou Co-orientação de teses de doutorado concluídas**
 
  JANIO CARLOS NASCIMENTO SILVA ,  </a> <b> Aluno de Doutorado em Computação - IC/UFF </b>(orientadores: Luiz Satoru Ochi e Ueverton Souza;
  Assunto:Algorithmic Aspects of Problems Related to Optimization, Circuits, and Parameterized Complexity; 
@@ -308,7 +308,7 @@ Luciana Roque Brito - Doutorado pela COPPE-SISTEMAS/UFRJ.
 
 <li>
   
-  **Orientação/Co-orientação de teses de doutorado em andamento**
+  ## **Orientação/Co-orientação de teses de doutorado em andamento**
 </li>
 
 
@@ -341,7 +341,7 @@ Previsão de término: 07/2023.
 **Marcos Souza**. Aluno de Doutorado em Computação IC/UFF. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Problemas de Logística Inteligente e Transportes: Métodos e Aplicações. Orientador: Luiz Satoru Ochi. Previsão término: 12/2025
 
 
-**Orientação de dissertações de mestrado em andamento**
+## **Orientação de dissertações de mestrado em andamento**
 
 
   1.João Ricardo Weissmann Santos, </a> <b> Aluno de Mestrado em Computação - IC/UFF </b> 
@@ -362,7 +362,7 @@ Previsão de término: 07/2022.
 
 
 
-**Orientação de dissertações de mestrado concluídas**
+## **Orientação de dissertações de mestrado concluídas**
 
 
 Augusto Beltrao, </a> <b> Aluno de Mestrado em Computação - IC/UFF </b> 
