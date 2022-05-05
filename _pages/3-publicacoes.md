@@ -47,9 +47,9 @@ news_limit: 5
 **1. Barros, B.; Ochi, Luiz. Satoru; Pinheiro, Rian ; Souza, Ueverton S. (2022). On Conflict-Free Spanning Tree: Algorithms and Complexity. In: International Conference on Algorithms and Discrete Applied Mathematics, CALDAM, 2022, Puducherry. 8th Annual International Conference on Algorithms and Discrete Applied Mathematics, Lecture Notes in Computer Science, 2022. v. 13179. p. 91-102**
 
 
-**2021**
+## **2021**
 
-**Accepted/Published**
+## **Accepted/Published**
 
 **1. Souza, Marques Moreira; Gonzalez, Pedro H; Ochi, Luiz Satoru; Martins, Simone L. (2021). A hybrid iterated local search heuristic for the traveling salesperson problem with hotel selection. [COMPUTERS & OPERATIONS RESEARCH (Qualis A1), v. 129, p. 105229-145, 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0305054821000216)**
 
@@ -59,9 +59,9 @@ news_limit: 5
 
 **1. Fadel, Augusto César; Ochi, Luiz Satoru ; Brito, Jose André Moura ; Semaan, Gustavo S. (2021). Microaggregation heuristic applied to statistical disclosure control. [INFORMATION SCIENCES , (Qualis A1 - Impact Factor: 6,97) v. 548, p. 37-55, 2021.](http://doi.org/10.1016/j.ins.2020.09.069)**
 
-**2020**
+## **2020**
 
-**Accepted/Published**
+## **Accepted/Published**
 
 **1. Augusto César Fadel; Luiz Satoru Ochi, PhD; José André M Brito, PhD; Gustavo S Semaan, PhD (2020). Título: Microaggregation Heuristic Applied to Statistical Disclosure Control. [To appear in Information Sciences – ELSEVIER.](http://doi.org/10.1016/j.ins.2020.09.069)**
 
@@ -80,9 +80,9 @@ news_limit: 5
 **1. Silvio E Quincozes, Celio Albuquerque, Diego Passos, Luiz Satoru Ochi, and Daniel Mosse (2020). GRASP-based Feature Selection for Intrusion Detection in CPS Perception Layer) to appear in Proceedings of the 2020 4th Conference on Cloud and Internet of Things (CIoT). 2020.**
 
 
-**2019**
+## **2019**
 
-**Accepted/Published**
+## **Accepted/Published**
 
 **1. Silva, Thiago. G. ; Queiroga, Eduardo ; Cabral, Lucidio A. F. ; Michelon, P. Y. P. ; Ochi, Luis Satoru ; Gueye, Serigne . A hybrid metaheuristic for the minimum labeling spanning tree problem. [EUROPEAN JOURNAL OF OPERATIONAL RESEARCH , v. 274, p. 22-34, 2019.](https://doi.org/10.1016/j.ejor.2018.09.044)**
 
@@ -124,9 +124,9 @@ news_limit: 5
 
 --------
 
-**2018**
+## **2018**
 
-**Accepted/Published**
+## **Accepted/Published**
 
 01.	Título: "Efficient approaches for the Flooding Problem on graphs"; Autores: André Renato Villela da Silva, Rian Pinheiro, Bruno Barros and Luiz Satoru Ochi (2018). To appear in Annals of Operations Research – ANOR, SPRINGER, 2018. 
 
