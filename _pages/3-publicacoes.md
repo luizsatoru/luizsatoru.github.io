@@ -28,23 +28,23 @@ Publicações
 
 **Accepted/Published**
 
-1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). An extended assessment of metaheuristics-based feature selection for intrusion detection in CPS perception layer. [ANNALS OF TELECOMMUNICATIONS - 2022.](http://doi.org/10.1007/s12243-022-00912-z) 
+**1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). An extended assessment of metaheuristics-based feature selection for intrusion detection in CPS perception layer. [ANNALS OF TELECOMMUNICATIONS - 2022.](http://doi.org/10.1007/s12243-022-00912-z)** 
  
-1. Elias Marques Júnior, Elias Marques Júnior, "Vitor Nazário Coelho, Igor Machado Coelho,Yuri Abitbol De Menezes Frota, Roozbeh Haghnazar Koochaksaraei, Luiz Satoru Ochi,  and Bruno Nazário Coelho (2022). "UAVs routes optimization on smart cities and regions". [RAIRO – Operations Research, Volume 56, Number 2, pp. 853 - 869, March-April 2022.](https://doi.org/10.1051/ro/2022036)
+**1. Elias Marques Júnior, Elias Marques Júnior, "Vitor Nazário Coelho, Igor Machado Coelho,Yuri Abitbol De Menezes Frota, Roozbeh Haghnazar Koochaksaraei, Luiz Satoru Ochi,  and Bruno Nazário Coelho (2022). "UAVs routes optimization on smart cities and regions". [RAIRO – Operations Research, Volume 56, Number 2, pp. 853 - 869, March-April 2022.](https://doi.org/10.1051/ro/2022036)**
 
 
-1. Couto Filho, M. B.; Braga Flor, Vinicius B.; Souza, J. C. S.; Ochi, Luis Satoru (2022). Strategic Observation of Power Grids for Reliable Monitoring. [International Journal of Electrical Power and Energy Systems (Qualis A1) - Impact Factor: 4,630 (2022) , volume 138, 2022. Keywords: State Estimation, Criticalities, Optimization, Metaheuristics, Computational Intelligence.](  https://doi.org/10.1016/j.ijepes.2022.107959).
+**1. Couto Filho, M. B.; Braga Flor, Vinicius B.; Souza, J. C. S.; Ochi, Luis Satoru (2022). Strategic Observation of Power Grids for Reliable Monitoring. [International Journal of Electrical Power and Energy Systems (Qualis A1) - Impact Factor: 4,630 (2022) , volume 138, 2022. Keywords: State Estimation, Criticalities, Optimization, Metaheuristics, Computational Intelligence.](  https://doi.org/10.1016/j.ijepes.2022.107959).**
 
-1. Bhering, Fabiano; Passos, Diego; Ochi, Luis Satoru ; Obraczka, Katia ; Albuquerque, C. (2022). Wireless Multipath Video Transmission - When IoT Video Applications Meet Networking: A Survey. [Multimedia Systems Qualis A2,  2022, v. 22, p. 1-15.Impact Factor:2,34 - ](https://doi.org/10.1007/s00530-021-00885-4)
+**1. Bhering, Fabiano; Passos, Diego; Ochi, Luis Satoru ; Obraczka, Katia ; Albuquerque, C. (2022). Wireless Multipath Video Transmission - When IoT Video Applications Meet Networking: A Survey. [Multimedia Systems Qualis A2,  2022, v. 22, p. 1-15.Impact Factor:2,34 - ](https://doi.org/10.1007/s00530-021-00885-4)**
 
-1. Nascimento Silva, Janio Carlos ; Coelho, Igor M. ; Souza, Ueverton S. ; Ochi, Luiz Satoru ; Coelho, Vitor N. . Finding the Maximum Multi Improvement on neighborhood exploration (2022). [Optimization Letters , v. 16, p. 97-115, 2022, (Qualis A2). ](https://doi.org/10.1007/s11590-020-01556-5)
+**1. Nascimento Silva, Janio Carlos ; Coelho, Igor M. ; Souza, Ueverton S. ; Ochi, Luiz Satoru ; Coelho, Vitor N. . Finding the Maximum Multi Improvement on neighborhood exploration (2022). [Optimization Letters , v. 16, p. 97-115, 2022, (Qualis A2). ](https://doi.org/10.1007/s11590-020-01556-5)**
 
-1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). On the Performance of GRASP-Based Feature Selection for CPS Intrusion Detection. [IEEE Transactions on Network and Service Management, 2022. Volume: 19, Issue: 1, March 2022 Pages: 614 – 626. Impact Factor: 4.195, ISSN Information: ](DOI: http://doi.org/10.1109/TNSM.2021.3088763)
+**1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). On the Performance of GRASP-Based Feature Selection for CPS Intrusion Detection. [IEEE Transactions on Network and Service Management, 2022. Volume: 19, Issue: 1, March 2022 Pages: 614 – 626. Impact Factor: 4.195, ISSN Information: ](DOI: http://doi.org/10.1109/TNSM.2021.3088763)**
 
-1. Carlos Alberto Poncinelli Filho, Elias Lawrence Marques Júnior, Victor Chang, Leonardo Matsumoto Rosendo dos Santos, Flavia Bernardini, Luiz Satoru Ochi, Paulo de Figueiredo Pires,and  Flavia Coimbra Delicato (2022).  A Systematic Literature Review on Distributed Machine Learning in Edge Computing. To appear in Journal SENSORS (ISSN 1424-8220).Impact Factor: 3.576 (2020) ; 5-Year Impact Factor: 3.735 (2020)
+**1. Carlos Alberto Poncinelli Filho, Elias Lawrence Marques Júnior, Victor Chang, Leonardo Matsumoto Rosendo dos Santos, Flavia Bernardini, Luiz Satoru Ochi, Paulo de Figueiredo Pires,and  Flavia Coimbra Delicato (2022).  A Systematic Literature Review on Distributed Machine Learning in Edge Computing. To appear in Journal SENSORS (ISSN 1424-8220).Impact Factor: 3.576 (2020) ; 5-Year Impact Factor: 3.735 (2020)**
 
 
-1. Barros, B.; Ochi, Luiz. Satoru; Pinheiro, Rian ; Souza, Ueverton S. (2022). On Conflict-Free Spanning Tree: Algorithms and Complexity. In: International Conference on Algorithms and Discrete Applied Mathematics, CALDAM, 2022, Puducherry. 8th Annual International Conference on Algorithms and Discrete Applied Mathematics, Lecture Notes in Computer Science, 2022. v. 13179. p. 91-102
+**1. Barros, B.; Ochi, Luiz. Satoru; Pinheiro, Rian ; Souza, Ueverton S. (2022). On Conflict-Free Spanning Tree: Algorithms and Complexity. In: International Conference on Algorithms and Discrete Applied Mathematics, CALDAM, 2022, Puducherry. 8th Annual International Conference on Algorithms and Discrete Applied Mathematics, Lecture Notes in Computer Science, 2022. v. 13179. p. 91-102**
 
 
 **2021**
@@ -63,64 +63,64 @@ Publicações
 
 **Accepted/Published**
 
-1. Augusto César Fadel; Luiz Satoru Ochi, PhD; José André M Brito, PhD; Gustavo S Semaan, PhD (2020). Título: Microaggregation Heuristic Applied to Statistical Disclosure Control. [To appear in Information Sciences – ELSEVIER.](http://doi.org/10.1016/j.ins.2020.09.069)
+**1. Augusto César Fadel; Luiz Satoru Ochi, PhD; José André M Brito, PhD; Gustavo S Semaan, PhD (2020). Título: Microaggregation Heuristic Applied to Statistical Disclosure Control. [To appear in Information Sciences – ELSEVIER.](http://doi.org/10.1016/j.ins.2020.09.069)**
 
-1. Silva, Andre. Renato. V. ; Ochi, Luiz Satoru. ; Barros, Bruno. J. S. ; Pinheiro, Rian. G. S. . Efficient approaches for the Flooding Problem on graphs. [ANNALS OF OPERATIONS RESEARCH , v. 286, p. 33-54, 2020](http://doi.org/10.1007/s10479-018-2796-0)
+**1. Silva, Andre. Renato. V. ; Ochi, Luiz Satoru. ; Barros, Bruno. J. S. ; Pinheiro, Rian. G. S. . Efficient approaches for the Flooding Problem on graphs. [ANNALS OF OPERATIONS RESEARCH , v. 286, p. 33-54, 2020](http://doi.org/10.1007/s10479-018-2796-0)**
 
-1. Gustavo S Semaan, Jose Andre M Brito, Igor Machado Coelho, Edelberto Franco Silva, Augusto Fadel and Luiz Satoru Ochi (2020). "A Brief History of Heuristics, from Bounded Rationality to Intractability". To appear in IEEE Latin America Transactions. 
+**1. Gustavo S Semaan, Jose Andre M Brito, Igor Machado Coelho, Edelberto Franco Silva, Augusto Fadel and Luiz Satoru Ochi (2020). "A Brief History of Heuristics, from Bounded Rationality to Intractability". To appear in IEEE Latin America Transactions.** 
 
-1. Savio Dias, Luidi Simonetti and Luiz Satoru Ochi (2020). " An ILS-based heuristic applied to the Car Renter Salesman Proble". To appear in RAIRO-Operations Research.  
+**1. Savio Dias, Luidi Simonetti and Luiz Satoru Ochi (2020). " An ILS-based heuristic applied to the Car Renter Salesman Proble". To appear in RAIRO-Operations Research.**  
 
-1. Janio Carlos Nascimento Silva, Uerveton dos Santos Souza, Luiz Satoru Ochi, Igor Machado Coelho, Vitor Nazario Coelho.(2020) " Finding the Maximum Multi Improvement on Neighborhood Exploration". To appear in Optimization Letters 2020 - SPRINGER. 
+**1. Janio Carlos Nascimento Silva, Uerveton dos Santos Souza, Luiz Satoru Ochi, Igor Machado Coelho, Vitor Nazario Coelho.(2020) " Finding the Maximum Multi Improvement on Neighborhood Exploration". To appear in Optimization Letters 2020 - SPRINGER.** 
 
-1. Thays Aparecida de Oliveira, Yuri Gabrich, Helena Ramalhinho, Miquel Oliver, Miri W. Cohen, Luiz Satoru Ochi, Serigne Gueye, Fábio Protti, Alysson A. Pinto, Diógenes V. M. Ferreira, Igor M. Coelho and Vitor N. Coelho. (2020). “Mobility, Citizens, Innovation and Technology in Digital and Smart Cities”.  in FUTURE INTERNET, 12(2) - 2020, Switzerland. - 2020, Switzerland. 
+**1. Thays Aparecida de Oliveira, Yuri Gabrich, Helena Ramalhinho, Miquel Oliver, Miri W. Cohen, Luiz Satoru Ochi, Serigne Gueye, Fábio Protti, Alysson A. Pinto, Diógenes V. M. Ferreira, Igor M. Coelho and Vitor N. Coelho. (2020). “Mobility, Citizens, Innovation and Technology in Digital and Smart Cities”.  in FUTURE INTERNET, 12(2) - 2020, Switzerland. - 2020, Switzerland.** 
 
-1. Elias Lawrence Marques Junior, Vitor Nazario Coelho, Igor Machado Coelho, Bruno Nazario Coelho and Luiz Satoru Ochi (2020) "A Multi-objective Metaheuristic for a Green UAV Grid Routing Problem". Lecture Notes in Computer Science - LNCS 12010, 1-2, 2020, PP 152-166, SPRINGER. ISBN: 978-3-030-44931-5. 
+**1. Elias Lawrence Marques Junior, Vitor Nazario Coelho, Igor Machado Coelho, Bruno Nazario Coelho and Luiz Satoru Ochi (2020) "A Multi-objective Metaheuristic for a Green UAV Grid Routing Problem". Lecture Notes in Computer Science - LNCS 12010, 1-2, 2020, PP 152-166, SPRINGER. ISBN: 978-3-030-44931-5.** 
 
-1. Silvio E Quincozes, Celio Albuquerque, Diego Passos, Luiz Satoru Ochi, and Daniel Mosse (2020). GRASP-based Feature Selection for Intrusion Detection in CPS Perception Layer) to appear in Proceedings of the 2020 4th Conference on Cloud and Internet of Things (CIoT). 2020.
+**1. Silvio E Quincozes, Celio Albuquerque, Diego Passos, Luiz Satoru Ochi, and Daniel Mosse (2020). GRASP-based Feature Selection for Intrusion Detection in CPS Perception Layer) to appear in Proceedings of the 2020 4th Conference on Cloud and Internet of Things (CIoT). 2020.**
 
 
 **2019**
 
 **Accepted/Published**
 
-1. Silva, Thiago. G. ; Queiroga, Eduardo ; Cabral, Lucidio A. F. ; Michelon, P. Y. P. ; Ochi, Luis Satoru ; Gueye, Serigne . A hybrid metaheuristic for the minimum labeling spanning tree problem. [EUROPEAN JOURNAL OF OPERATIONAL RESEARCH , v. 274, p. 22-34, 2019.](https://doi.org/10.1016/j.ejor.2018.09.044)
+**1. Silva, Thiago. G. ; Queiroga, Eduardo ; Cabral, Lucidio A. F. ; Michelon, P. Y. P. ; Ochi, Luis Satoru ; Gueye, Serigne . A hybrid metaheuristic for the minimum labeling spanning tree problem. [EUROPEAN JOURNAL OF OPERATIONAL RESEARCH , v. 274, p. 22-34, 2019.](https://doi.org/10.1016/j.ejor.2018.09.044)**
 
-1. Puca Huachi Vaz Penna, Anand Subramanian, Luiz Satoru Ochi, Thibaut Vidal, and Christian Prins. (2019) "A Hybrid Heuristic for a Broad Class of Vehicle Routing Problems with Heterogeneous Fleet". in [ANNALS OF OPERATIONS RESEARCH - ANOR - SPRINGER, Volume 273, Issue 1-2, pp. 5-74, 2019](https://doi.org/10.1007/s10479-017-2642-9)
+**1. Puca Huachi Vaz Penna, Anand Subramanian, Luiz Satoru Ochi, Thibaut Vidal, and Christian Prins. (2019) "A Hybrid Heuristic for a Broad Class of Vehicle Routing Problems with Heterogeneous Fleet". in [ANNALS OF OPERATIONS RESEARCH - ANOR - SPRINGER, Volume 273, Issue 1-2, pp. 5-74, 2019](https://doi.org/10.1007/s10479-017-2642-9)**
 
-1. Gustavo Silva Semaan, Augusto Cesar Fadel, José André de Moura Brito, Luiz Satoru Ochi (2019). "A Hybrid Efficient Heuristic with Hopkins Statistic for the Automatic Clustering Problem". In IEEE Latin America Transactions, Volume 17(1), p. 7-17, (2019).
+**1. Gustavo Silva Semaan, Augusto Cesar Fadel, José André de Moura Brito, Luiz Satoru Ochi (2019). "A Hybrid Efficient Heuristic with Hopkins Statistic for the Automatic Clustering Problem". In IEEE Latin America Transactions, Volume 17(1), p. 7-17, (2019).**
 
-1. Thiago  Gouveia da Silva; Serigne Gueye; Philippe Michelon; Luiz Satoru Ochi; and Lucidio dos Anjos Formiga Cabral. (2019). "A polyhedral approach to the generalized minimum labeling spanning tree problem",  in [EURO Journal on Computational Optimization, volume 7, pages 47–77 - 2019 - SPRINGER](https://doi.org/10.1007/s13675-018-0099-5) 
+**1. Thiago  Gouveia da Silva; Serigne Gueye; Philippe Michelon; Luiz Satoru Ochi; and Lucidio dos Anjos Formiga Cabral. (2019). "A polyhedral approach to the generalized minimum labeling spanning tree problem",  in [EURO Journal on Computational Optimization, volume 7, pages 47–77 - 2019 - SPRINGER](https://doi.org/10.1007/s13675-018-0099-5)** 
 
-1. Marques Moreira Sousa, Luiz Satoru Ochi, and Simone de Lima Martins (2019). "An Efficient Heuristic to the Traveling Salesperson Problem with Hotel Selection", In Hybrid Metaheuristics Book - Lecture Notes in Computer Science (LNCS) 11299, pp. 31-45 , SPRINGER, ISSN 0302-9743, https://doi.org/10.1007/978-3-030-05983-5.
+**1. Marques Moreira Sousa, Luiz Satoru Ochi, and Simone de Lima Martins (2019). "An Efficient Heuristic to the Traveling Salesperson Problem with Hotel Selection", In Hybrid Metaheuristics Book - Lecture Notes in Computer Science (LNCS) 11299, pp. 31-45 , SPRINGER, ISSN 0302-9743, https://doi.org/10.1007/978-3-030-05983-5.**
 
-1. André Villela da Silva and Luiz Satoru Ochi (2019). " Local Search Methods for the MRCPSP-Energy", In Hybrid Metaheuristics Book - Lecture Notes in Computer Science (LNCS) 11299, pp. 172-179 , SPRINGER, ISSN 0302-9743, https://doi.org/10.1007/978-3-030-05983-5. 
+**1. André Villela da Silva and Luiz Satoru Ochi (2019). " Local Search Methods for the MRCPSP-Energy", In Hybrid Metaheuristics Book - Lecture Notes in Computer Science (LNCS) 11299, pp. 172-179 , SPRINGER, ISSN 0302-9743, https://doi.org/10.1007/978-3-030-05983-5.** 
 
-1. Coelho V.N.; Coelho, I.M.; Mladenovic, N.; Ramalhinho, H.; Ochi, L.S.; Guimarães, F.G.; Souza, M.J.F. (2019) Less Is More: The Neighborhood Guided Evolution Strategies Convergence on Some Classic Neighborhood Operators. In: Sifaleras A., Salhi S., Brimberg J. (eds). Variable Neighborhood Search. ICVNS 2018. Lecture Notes in Computer Science, vol 11328, pp. 77-88. Springer, DOI: 10.1007/978-3-030-15843-9_7.
+**1. Coelho V.N.; Coelho, I.M.; Mladenovic, N.; Ramalhinho, H.; Ochi, L.S.; Guimarães, F.G.; Souza, M.J.F. (2019) Less Is More: The Neighborhood Guided Evolution Strategies Convergence on Some Classic Neighborhood Operators. In: Sifaleras A., Salhi S., Brimberg J. (eds). Variable Neighborhood Search. ICVNS 2018. Lecture Notes in Computer Science, vol 11328, pp. 77-88. Springer, DOI: 10.1007/978-3-030-15843-9_7.**
 
-1.Thiago Gouveia da Silva (autor Tese Doutorado Co-tutela entre IC-UFF & University of Avignon), Philippe Michelon, Luiz Satoru Ochi, Lucidio Cabral, and Serigne Gueye (orientadores UFF & Univ Avignon), (2019) "The Minimum Labeling Spanning Tree and Related Problems - Tese de Doutorado classificada segundo lugar", Concurso de Teses & Dissertacoes do CTD-CSBC 2019.
+**1.Thiago Gouveia da Silva (autor Tese Doutorado Co-tutela entre IC-UFF & University of Avignon), Philippe Michelon, Luiz Satoru Ochi, Lucidio Cabral, and Serigne Gueye (orientadores UFF & Univ Avignon), (2019) "The Minimum Labeling Spanning Tree and Related Problems - Tese de Doutorado classificada segundo lugar", Concurso de Teses & Dissertacoes do CTD-CSBC 2019.**
 
-1. Elias Lawrence Marques Junior, Vitor Nazario Coelho, Igor Machado Coelho, Bruno Nazario Coelho and Luiz Satoru Ochi (2019) "A Multi-objective Metaheuristic for a Green UAV Grid Routing Problem". Aceito para ser publicado na serie LNCS 11299 - SPRINGER. 
+**1. Elias Lawrence Marques Junior, Vitor Nazario Coelho, Igor Machado Coelho, Bruno Nazario Coelho and Luiz Satoru Ochi (2019) "A Multi-objective Metaheuristic for a Green UAV Grid Routing Problem". Aceito para ser publicado na serie LNCS 11299 - SPRINGER.** 
 
-1. Vitor Nazario Coelho, Yuri B. Gabrich; Thays A. Oliveira; Luiz Satoru Ochi; Alexandre C Barbosa; and Igor Machado Coelho (2019) "When CI and Descentralized Systems Effectively Meet Smart Cities and Grids". Capitulo Livro: Serie: URBAN COMPUTING - Book: Smart and Digital Cities, pp. 239-249 - SPRINGER. ISSN: 2510-2575
+**1. Vitor Nazario Coelho, Yuri B. Gabrich; Thays A. Oliveira; Luiz Satoru Ochi; Alexandre C Barbosa; and Igor Machado Coelho (2019) "When CI and Descentralized Systems Effectively Meet Smart Cities and Grids". Capitulo Livro: Serie: URBAN COMPUTING - Book: Smart and Digital Cities, pp. 239-249 - SPRINGER. ISSN: 2510-2575**
 
-1. Marques Moreira Souza, Simone Martins e Luiz Satoru Ochi (2019) "O Problema do Caixeiro Viajante com Seleção de Hoteis: Uma Revisao Sistematica da Literatura", SBSI 2019 – Aracaju/SE.
+**1. Marques Moreira Souza, Simone Martins e Luiz Satoru Ochi (2019) "O Problema do Caixeiro Viajante com Seleção de Hoteis: Uma Revisao Sistematica da Literatura", SBSI 2019 – Aracaju/SE.**
 
-1. Fabiano Bhering, Célio V N Figueiredo, Luiz Satoru Ochi and Diego Passos (2019). "Multipath Selection Mechanism for Wireless Video-Surveillance Systems", LANOMS 2019 - Latin-American Network Operations and Management Symposium   
+**1. Fabiano Bhering, Célio V N Figueiredo, Luiz Satoru Ochi and Diego Passos (2019). "Multipath Selection Mechanism for Wireless Video-Surveillance Systems", LANOMS 2019 - Latin-American Network Operations and Management Symposium**   
 
-1. Munhoz, Pablo L. A.; Carmo, F. P.; Souza, Ueverton. S.; Drummond, Lucia. M. A.; Gozalez, Pedro. H.; Ochi, Luiz Satoru.; and Michelon, P. (2019). “Locality Sensitive Algotrithms for Data Mule Routing Problem”. In: International Conference on Algorithmic Aspects in Information and Management, 2019, Beijing. 13th International Conference on Algorithmic Aspects in Information and Management (AAIM 2019), Lecture Notes in Computer Science, 2019. v. 11640. p. 236-248.
+**1. Munhoz, Pablo L. A.; Carmo, F. P.; Souza, Ueverton. S.; Drummond, Lucia. M. A.; Gozalez, Pedro. H.; Ochi, Luiz Satoru.; and Michelon, P. (2019). “Locality Sensitive Algotrithms for Data Mule Routing Problem”. In: International Conference on Algorithmic Aspects in Information and Management, 2019, Beijing. 13th International Conference on Algorithmic Aspects in Information and Management (AAIM 2019), Lecture Notes in Computer Science, 2019. v. 11640. p. 236-248.**
 
-1. Semaan, Gustavo S.; Ochi, Luiz Satoru; Alvernaz, Débora; Dembogurski, Bruno; Silva, Edelberto; Brito, J. A. M.; and Ribas, Savio. (2019). “Um panorama geral das contribuições e das redes de colaboração do SBIE”. Aceito para O Simpósio Brasileiro de Informática na Educação (SBIE 2019) – Brasília/DF.
+**1. Semaan, Gustavo S.; Ochi, Luiz Satoru; Alvernaz, Débora; Dembogurski, Bruno; Silva, Edelberto; Brito, J. A. M.; and Ribas, Savio. (2019). “Um panorama geral das contribuições e das redes de colaboração do SBIE”. Aceito para O Simpósio Brasileiro de Informática na Educação (SBIE 2019) – Brasília/DF.**
 
-1. Barros, Bruno; Pinheiro, Rian and Ochi, Luiz Satoru. (2019). “A GRASP Approach for The Minimum Spanning Tree Under Conflict Constraints”. Aceito para O ENIAC 2019 - Salvador – BA.
+**1. Barros, Bruno; Pinheiro, Rian and Ochi, Luiz Satoru. (2019). “A GRASP Approach for The Minimum Spanning Tree Under Conflict Constraints”. Aceito para O ENIAC 2019 - Salvador – BA.**
 
-1. Beltrao, Augusto; Brito, Jose Andre.; and Luiz Satoru. (2019). “Heuristic Algorithm for the Travelling Salesman Problem With Hotel Selection”. Aceito para O ENIAC 2019 - Salvador – BA.
+**1. Beltrao, Augusto; Brito, Jose Andre.; and Luiz Satoru. (2019). “Heuristic Algorithm for the Travelling Salesman Problem With Hotel Selection”. Aceito para O ENIAC 2019 - Salvador – BA.**
 
-1. Gustavo Semaan, Augusto Cesar Fadel, Victor Parada, José Brito and Luiz Satoru Ochi (2019). "OPTimistic Framework: An automatic generation of algorithms module". Proceedings of the OPTIMA 2019 - Chile.
+**1. Gustavo Semaan, Augusto Cesar Fadel, Victor Parada, José Brito and Luiz Satoru Ochi (2019). "OPTimistic Framework: An automatic generation of algorithms module". Proceedings of the OPTIMA 2019 - Chile.**
 
-1. Anderson Zudio, Igor Machado Coelho, Paulo Eustaquio Duarte Pinto; and Ochi, Luiz Satoru. (2019). “Algoritmo Genetico para o Problema de Empacotamento 2D Classico. Anais do LI Simposio Brasileiro de Pesquisa Operacional - LI SBPO 2019, FCA-UNICAMP - Limeira SP.
+**1. Anderson Zudio, Igor Machado Coelho, Paulo Eustaquio Duarte Pinto; and Ochi, Luiz Satoru. (2019). “Algoritmo Genetico para o Problema de Empacotamento 2D Classico. Anais do LI Simposio Brasileiro de Pesquisa Operacional - LI SBPO 2019, FCA-UNICAMP - Limeira SP.**
 
-1. Rodolfo Pereira Araujo; Igor Machado Coelho, Luiz Satoru Ochi, Vitor Nazário Coelho. (2019). “LibBFT: a High-Performance Timed Automata Library Collection for Byzantine Faut-Tolerance”  Proceedings of the IEEE/SBAC-PAD 2019, p. 234-240. Campo Grande/MS – Brazil. DOI 10.1109/SBAC-PAD.2019.00045
+**1. Rodolfo Pereira Araujo; Igor Machado Coelho, Luiz Satoru Ochi, Vitor Nazário Coelho. (2019). “LibBFT: a High-Performance Timed Automata Library Collection for Byzantine Faut-Tolerance”  Proceedings of the IEEE/SBAC-PAD 2019, p. 234-240. Campo Grande/MS – Brazil. DOI 10.1109/SBAC-PAD.2019.00045**
 
 --------
 
