@@ -144,10 +144,7 @@ Defesa: 04/2017.
 
 
 <li>
-
-  	Gilberto Farias Souza Filho, </a> <b> Prof. UFPB/João Pessoa, Aluno de Doutorado em Computação - IC/UFF </b> (Orientadores: Fábio Protti & Luiz Satoru Ochi); <b>Título: 
-	Efficient Exact and heuristic Algorithms for the Bicluster Editing Problems. </b>;
-	Defesa: 25/08/2016.
+Gilberto Farias Souza Filho, </a> <b> Prof. UFPB/João Pessoa, Aluno de Doutorado em Computação - IC/UFF </b> (Orientadores: Fábio Protti & Luiz Satoru Ochi); <b>Título: Efficient Exact and heuristic Algorithms for the Bicluster Editing Problems. </b>; Defesa: 25/08/2016.
   </li>
 
 <li>
