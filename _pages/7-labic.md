@@ -19,7 +19,8 @@ selected_papers_cache: false # this can run on github pages
 social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
-labic-uff
+
+## **LABIC IC UFF**
 
 
 <table border="0" cellpadding="0" cellspacing="0" width="630">
@@ -45,12 +46,12 @@ Fax: (55) (21) 2629 5627/5670<br>
 <tr>
 <td colspan="2">
 <div align="justify">
-A área de Inteligência Computacional (IC) engloba primordialmente noções de Inteligência 
+**A área de Inteligência Computacional (IC) engloba primordialmente noções de Inteligência 
 Artificial (IA) e Otimização Combinatória (OC). O nosso interesse neste 
 tema, é o de desenvolver novos algoritmos e sistemas inteligentes utilizando 
-conceitos destas duas áreas.
+conceitos destas duas áreas.**
 <p>
-Em termos de algoritmos destacamos as chamadas Heurísticas Inteligentes
+**Em termos de algoritmos destacamos as chamadas Heurísticas Inteligentes
 ou Metaheurísticas e dentre elas podemos destacar as seguintes: 
 Algoritmos Evolutivos (<a href="http://www.faqs.org/faqs/ai-faq/genetic/">AEs</a>)
 e o seu representante mais popular, Algoritmos Genéticos
@@ -65,7 +66,7 @@ Redes Neurais (<a href="http://nn.cs.utexas.edu/">RN</a>). O nosso interesse,
 é tanto no desenvolvimento de versões sequenciais como paralelas. Nesta página podem ser encontradas
 <b>parte</b> das Publicações, Projetos, Teses e Dissertações Orientadas na área de Inteligência Computacional
 pelo grupo de pesquisadores deste Laboratório. Informações mais atualizadas podem ser encontradas nas páginas individuais de
-cada <a href="http://labic.ic.uff.br/index.php?id=1"><b>pesquisador</b>.
+cada <a href="http://labic.ic.uff.br/index.php?id=1"><b>pesquisador</b>.**
 </div>
 </td>
 </tr>
