@@ -39,7 +39,7 @@ Publicações
 
 **1. Nascimento Silva, Janio Carlos ; Coelho, Igor M. ; Souza, Ueverton S. ; Ochi, Luiz Satoru ; Coelho, Vitor N. . Finding the Maximum Multi Improvement on neighborhood exploration (2022). [Optimization Letters , v. 16, p. 97-115, 2022, (Qualis A2). ](https://doi.org/10.1007/s11590-020-01556-5)**
 
-**1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). On the Performance of GRASP-Based Feature Selection for CPS Intrusion Detection. [IEEE Transactions on Network and Service Management, 2022; Volume: 19(1), pp.614 – 626. Impact Factor 4.195](DOI: http://doi.org/10.1109/TNSM.2021.3088763)**
+**1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). On the Performance of GRASP-Based Feature Selection for CPS Intrusion Detection. [IEEE Transactions on Network and Service Management, 2022; Volume 19(1), pp.614  626. Impact Factor 4,195](DOI: http://doi.org/10.1109/TNSM.2021.3088763)**
 
 **1. Carlos Alberto Poncinelli Filho, Elias Lawrence Marques Júnior, Victor Chang, Leonardo Matsumoto Rosendo dos Santos, Flavia Bernardini, Luiz Satoru Ochi, Paulo de Figueiredo Pires,and  Flavia Coimbra Delicato (2022).  A Systematic Literature Review on Distributed Machine Learning in Edge Computing. To appear in Journal SENSORS (ISSN 1424-8220).Impact Factor: 3.576 (2020) ; 5-Year Impact Factor: 3.735 (2020)**
 
