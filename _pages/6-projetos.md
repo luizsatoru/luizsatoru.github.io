@@ -19,7 +19,7 @@ selected_papers_cache: false # this can run on github pages
 social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
-**PROJETOS**
+## **PROJETOS**
 
 **TÍTULO: A INTELIGÊNCIA COMPUTACIONAL & OTIMIZAÇÃO NA BUSCA DE ALGORITMOS EFICIENTES
 PARA PROBLEMAS COMPLEXOS**; Bolsa de Produtividade PQ Nível 1C – CA-CC, Processo 303492/2021-0, Modalidade/Nível: PQ-1C, Edital/Chamada: Chamada CNPq Nº 4/2021 - Bolsas de Produtividade em Pesquisa - PQCNPq/MCT-CNPq, Período: 2022 – 2026. Coordenador do Projeto: Luiz Satoru Ochi.
