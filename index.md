@@ -24,7 +24,7 @@ news_limit: 5
 
 **D.Sc.**
 
-- **Professor Titular do [Instituto de Computação - IC/UFF](http://www.ic.uff.br)**
+- **Professor Titular do [Instituto de Computação - IC/UFF](http://www.ic.uff.br) & [LabIC - Laboratório de Inteligência Computacional do IC-UFF](https://www.facebook.com/groups/588329561328235)**
 -  
 - [**Pesquisador-PQ com Bolsa de Produtividade do CNPq - Nível 1C, Comitê Ciência da Computação**](http://lattes.cnpq.br/9171815778534257) 
 - 
