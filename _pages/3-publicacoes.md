@@ -20,13 +20,13 @@ social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
 
-Publicações
+## **Publicações**
 
-**publications (by year)**
+## **publications (by year)**
 
-**2022**
+## **2022**
 
-**Accepted/Published**
+## **Accepted/Published**
 
 **1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). An extended assessment of metaheuristics-based feature selection for intrusion detection in CPS perception layer. [ANNALS OF TELECOMMUNICATIONS - 2022.](http://doi.org/10.1007/s12243-022-00912-z)** 
  
