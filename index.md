@@ -46,7 +46,7 @@ E-mail: [satoru@ic.uff.br](mailto:satoru@ic.uff.br) ou [luiz.satoru@gmail.com](m
  
 [Mais informações?? clique AQUI!!!!!!](https://luizsatoru.github.io/)
 
-## **Áreas de pesquisas incluem:** **Inteligência Computacional - Inteligência Artificial, [Smart & Digital Cities, Green Computing](https://creating.city)) - Otimização Combinatória - Otimização no setor de Petróleo & Gás - Pesquisa Operacional - Programação Matemática - Grafos e Algoritmos - Algoritmos Paralelos em Otimização - Resolução de Problemas Complexos via GPU (CUDA) - Problemas de Logística Inteligente & Tomada de Decisão - Mobilidade Urbana & Social - Segurança Pública - Defesa - Green Vehicle Routing and Scheduling - UAVs/Drones - Meio Ambiente - Sustentabilidade  entre outros**....
+ **Áreas de pesquisas incluem:** **Inteligência Computacional - Inteligência Artificial, [Smart & Digital Cities, Green Computing](https://creating.city)) - Otimização Combinatória - Otimização no setor de Petróleo & Gás - Pesquisa Operacional - Programação Matemática - Grafos e Algoritmos - Algoritmos Paralelos em Otimização - Resolução de Problemas Complexos via GPU (CUDA) - Problemas de Logística Inteligente & Tomada de Decisão - Mobilidade Urbana & Social - Segurança Pública - Defesa - Green Vehicle Routing and Scheduling - UAVs/Drones - Meio Ambiente - Sustentabilidade  entre outros**....
 
  **Voce está a procura de TEMAS ATUAIS para sua dissertação de mestrado ou tese de doutorado ou um Pós Doutorado?? Clique [aqui](/temas) para ver sugestões de pesquisas**.
 <center>
