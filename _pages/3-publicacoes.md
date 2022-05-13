@@ -45,15 +45,15 @@ news_limit: 5
 
 **1. Barros, B.; Ochi, Luiz. Satoru; Pinheiro, Rian ; Souza, Ueverton S. (2022). On Conflict-Free Spanning Tree: Algorithms and Complexity. In: International Conference on Algorithms and Discrete Applied Mathematics, CALDAM, 2022, Puducherry. 8th Annual International Conference on Algorithms and Discrete Applied Mathematics, Lecture Notes in Computer Science, 2022. v. 13179. p. 91-102**
 
-**1. Ávila, Silvana; Martins, Simone L; and Ochi, Luiz Satoru. (2022). Sobre um Segmento de Logística Reversa em Cidades Inteligentes: o Problema da Coleta do Lixo Eletrônico. Aceito para o [III Workshop Brasileiro de Cidades Inteligentes – III WBCI, evento integrante do CSBC 2022.**](https://csbc.sbc.org.br/2022/wbci/)
+**1. Ávila, Silvana; Martins, Simone L; and Ochi, Luiz Satoru. (2022). Sobre um Segmento de Logística Reversa em Cidades Inteligentes: o Problema da Coleta do Lixo Eletrônico. Aceito para o [III Workshop Brasileiro de Cidades Inteligentes – III WBCI, evento integrante do CSBC 2022.](https://csbc.sbc.org.br/2022/wbci/)**
 
-**1. Pluvier, Luciano and Ochi, Luiz Satoru. (2022). Segmento de Logística Reversa e Transportes no Contexto de Cidades e Regiões Inteligentes: Literatura e Proposta.  Aceito para o [III Workshop Brasileiro de Cidades Inteligentes – III WBCI, evento integrante do CSBC 2022.**](https://csbc.sbc.org.br/2022/wbci/)
+**1. Pluvier, Luciano and Ochi, Luiz Satoru. (2022). Segmento de Logística Reversa e Transportes no Contexto de Cidades e Regiões Inteligentes: Literatura e Proposta.  Aceito para o [III Workshop Brasileiro de Cidades Inteligentes – III WBCI, evento integrante do CSBC 2022.](https://csbc.sbc.org.br/2022/wbci/)**
 
-**1. Lima, Alfredo; Nogueira, Bruno; Pinheiro, Rian; and Ochi, Luiz Satoru. (2022). Um modelo de programação matemática para o problema Weighted Minimum Broadcast Time.  Aceito para o [III Workshop Brasileiro de Cidades Inteligentes – III WBCI, evento integrante do CSBC 2022.**](https://csbc.sbc.org.br/2022/wbci/)
+**1. Lima, Alfredo; Nogueira, Bruno; Pinheiro, Rian; and Ochi, Luiz Satoru. (2022). Um modelo de programação matemática para o problema Weighted Minimum Broadcast Time.  Aceito para o [III Workshop Brasileiro de Cidades Inteligentes – III WBCI, evento integrante do CSBC 2022.](https://csbc.sbc.org.br/2022/wbci/)**
 
-**1. Marques Jr, Elias L; Coelho, Vitor N; Coelho, Igor M.; Coelho, Bruno; and Ochi, Luiz Satoru. (2022). Um algoritmo eficiente para um problema multiobjetivo de roteamento em rede de VANTs. Aceito para o [III Workshop Brasileiro de Cidades Inteligentes – III WBCI, evento integrante do CSBC 2022.**](https://csbc.sbc.org.br/2022/wbci/)
+**1. Marques Jr, Elias L; Coelho, Vitor N; Coelho, Igor M.; Coelho, Bruno; and Ochi, Luiz Satoru. (2022). Um algoritmo eficiente para um problema multiobjetivo de roteamento em rede de VANTs. Aceito para o [III Workshop Brasileiro de Cidades Inteligentes – III WBCI, evento integrante do CSBC 2022.](https://csbc.sbc.org.br/2022/wbci/)**
 
-**1. Zudio, Anderso; Coelho, Igor M.; and Ochi, Luiz Satoru. (2022). Algoritmo VNS para o Problema de Roteamento Híbrido com Veículo-Drone para Serviço de Entrega e Coleta. Aceito para o [III Workshop Brasileiro de Cidades Inteligentes – III WBCI, evento integrante do CSBC 2022.**](https://csbc.sbc.org.br/2022/wbci/)
+**1. Zudio, Anderso; Coelho, Igor M.; and Ochi, Luiz Satoru. (2022). Algoritmo VNS para o Problema de Roteamento Híbrido com Veículo-Drone para Serviço de Entrega e Coleta. Aceito para o [III Workshop Brasileiro de Cidades Inteligentes – III WBCI, evento integrante do CSBC 2022.](https://csbc.sbc.org.br/2022/wbci/)**
 
 
 ## **2021**
