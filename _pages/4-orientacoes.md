@@ -318,18 +318,18 @@ Previsão de término: 12/2022.
 
 
 <li>
-  **Bruno José da Silva Barros**, </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> 
+**Bruno José da Silva Barros**, </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> 
 Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); <b>Tema: Problemas de Arvore Geradora de Custo Minimo com Restrições de Conflito. </b>;
 Previsão de término: 12/2022.
   </li>
 
 
 <li>
-  **Elias Lawrence** , </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> 
+**Elias Lawrence** , </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> 
 Orientador: Luiz Satoru Ochi; <b>Tema: The Unmanned Aerial Vehicle (UAV) Fleet Routing Problem. </b>;
 Previsão de término: 02/2023.
   
-  **Augusto Beltrao** , </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> 
+ ***Augusto Beltrao** , </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> 
 Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) <b>Tema (provisorio): Problemas de Otimização e Inteligencia Computacional . </b>;
 Previsão de término: 07/2023.
   
