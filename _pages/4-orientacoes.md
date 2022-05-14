@@ -203,57 +203,34 @@ Orientadores: Luiz Satoru Ochi e Célio Albuquerque.   <a href="http://www.ic.uf
 <b>Título: Metaheuristicas Híbridas para a Resolução do Problema do Caixeiro Viajante com Grupamentos</b>; Defesa: 01/2011.
 Orientadores: Luiz Satoru Ochi e Simone de Lima Martins. <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
  
- Luciana Brugiolo Gonçalves,  Profa. UFJF - MG, Doutorado em Computação - Instituto de Computação
-- Universidade Federal Fluminense - IC/UFF; Título: Heurísticas para o Problema de Cobertura de Conjuntos por Pares; Defesa: 08/2010.
-Orientadores: Simone de Lima Martins e Luiz Satoru Ochi  <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
+ Luciana Brugiolo Gonçalves,  Profa. UFJF - MG, Doutorado em Computação - Instituto de Computação. Universidade Federal Fluminense - IC/UFF; Título: Heurísticas para o Problema de Cobertura de Conjuntos por Pares; Defesa: 08/2010. Orientadores: Simone de Lima Martins e Luiz Satoru Ochi  <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
 
 
 Marcelo Dib Cruz. Prof. UFRRJ Doutorado pela COPPE-SISTEMAS/UFRJ. <b>Título: The Automatic Clustering Problem.</b> (Orientadores: Adilson Xavier (COPPE/UFRJ) e 
-Luiz Satoru Ochi (IC-UFF). Defesa: 07/2010. (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.
-<a href="./conteudo/artigos/Tese Doutorado DIB.pdf">|PDF|</a>
+Luiz Satoru Ochi (IC-UFF). Defesa: 07/2010. (Engenharia de Sistemas e Computação) Universidade Federal do Rio de Janeiro. <a href="./conteudo/artigos/Tese Doutorado DIB.pdf">|PDF|</a>
   
 
-  Luciene Cristina Soares Motta, Profa. CETEP Ipanema e UNIGRANRIO, </a> Doutorado em Computação - Instituto de Computação
-- Universidade Federal Fluminense - IC/UFF; 
-<b>Título: The Covering Tour Problems: Algoritms and Reduction Rules</b>; Defesa: 06/2010.
-   <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
+  Luciene Cristina Soares Motta, Profa. CETEP Ipanema e UNIGRANRIO, </a> Doutorado em Computação - Instituto de Computação  Universidade Federal Fluminense - IC/UFF; 
+<b>Título: The Covering Tour Problems: Algoritms and Reduction Rules</b>; Defesa: 06/2010.    <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
 
 
-  <a href="http://www.ic.uff.br/~gsilva/"> Geiza Cristina da Silva,   </a> Profa. UFPE/PE, Doutorado em Engenharia de Produção, COPPE-PRODUÇÃO/UFRJ; 
-<b> Assunto: Algoritmos heuristicos e híbridos para o Problema de Alocação Dinâmica de espaços </b>; Defesa: 03/2010; Orientadores:
-Paulo O. Boaventura Netto e Laura Bahiense (Coppe-UFRJ), Luiz Satoru Ochi (Co-orientador externo).  
+  Geiza Cristina da Silva,   </a> Profa. UFPE/PE, Doutorado em Engenharia de Produção, COPPE-PRODUÇÃO/UFRJ;  Assunto: Algoritmos heuristicos e híbridos para o Problema de Alocação Dinâmica de espaços </b>; Defesa: 03/2010; Orientadores: Paulo O. Boaventura Netto e Laura Bahiense (Coppe-UFRJ), Luiz Satoru Ochi (Co-orientador externo).  
  
-
-
-  André Renato Villela da Silva, Prof. UFF/Rio das Ostras, </a> Doutorado em Computação - Instituto de Computação
-- Universidade Federal Fluminense - IC/UFF; 
+  André Renato Villela da Silva, Prof. UFF/Rio das Ostras, </a> Doutorado em Computação - Instituto de Computação Universidade Federal Fluminense - IC/UFF; 
 <b>Título: Novos algoritmos heuristicos e híbridos para o Problema de Escalonamento de Projetos com Restrições 
-	de Recursos Dinâmicos</b>; Defesa: 01/2010.
-  <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
+	de Recursos Dinâmicos</b>; Defesa: 01/2010.   <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
 
 
-
-  <a href="http://www.ic.uff.br/~hsantos/">Haroldo Gambini Santos, </a>  Prof. UFOP - MG, Doutorado em Computação - Instituto de Computação
-- Universidade Federal Fluminense - IC/UFF; 
-<b>Título: Formulações e Algoritmos para o Problema de Programação de Horários em Escolas</b>; Defesa: 05/2007.
-  (co-orientador: Eduardo Uchoa)
+  Haroldo Gambini Santos, </a>  Prof. UFOP - MG, Doutorado em Computação - Instituto de Computação  Universidade Federal Fluminense - IC/UFF; 
+<b>Título: Formulações e Algoritmos para o Problema de Programação de Horários em Escolas</b>; Defesa: 05/2007.  (co-orientador: Eduardo Uchoa)
 <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
 
 
-
-Luciana Roque Brito - Doutorado pela COPPE-SISTEMAS/UFRJ.
-<b>Título: Novas contribuições para o Problema de Recobrimento de Rotas.</b> 
- <a href="./conteudo/artigos/Tese doutorado Luciana Brito.pdf">|PDF|</a>
-(Orientadora pela UFRJ: Susana S. Makler). 05/2005. Tese
-  (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.
+Luciana Roque Brito - Doutorado pela COPPE-SISTEMAS/UFRJ.Título: Novas contribuições para o Problema de Recobrimento de Rotas. <a href="./conteudo/artigos/Tese doutorado Luciana Brito.pdf">|PDF| (Orientadora pela UFRJ: Susana S. Makler). 05/2005. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.
    
 
-
-<a href="http://www.decom.ufop.br/prof/marcone/">Marcone Jamilson Freitas Souza.  </a> Prof. UFOP - MG  
-- Doutorado pela COPPE-SISTEMAS/UFRJ. <b>Título: Programação de horários em escolas: Uma aproximação
-  via Metaheurísticas.</b> (Orientador principal: D.Sc. Nelson Maculan - COPPE/UFRJ). 2000. Tese
-  (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.
-  </li> <a href="./conteudo/artigos/Tese doutorado Marcone.pdf">|PDF|</a>
+Marcone Jamilson Freitas Souza.  </a> Prof. UFOP - MG   Doutorado pela COPPE-SISTEMAS/UFRJ. <b>Título: Programação de horários em escolas: Uma aproximação
+  via Metaheurísticas.</b> (Orientador principal: D.Sc. Nelson Maculan - COPPE/UFRJ). 2000. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.   </li> <a href="./conteudo/artigos/Tese doutorado Marcone.pdf">|PDF|</a>
   
 
   
