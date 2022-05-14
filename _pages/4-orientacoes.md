@@ -187,37 +187,26 @@ Defesa: 10/09/2013.
 
   <a href="http://www.ic.uff.br/~lbastos/"> Lucas de Oliveira Bastos,   </a> <b> FINEP-RJ, Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF </b>(orientadores: Luiz Satoru Ochi e Fábio Protti);
 <b> Titulo: Novos Algoritmos e Resultados Teóricos para o Problema de Particionamento de Grafos por Edição de Arestas </b>
-Defesa: 27 Fevereiro de 2012.  
-<a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
+Defesa: 27 Fevereiro de 2012.  <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
 
 
-
-  Anand Subramanian,  Prof. UFPB - João Pessoa, </a> <b> Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF </b>(orientador: Luiz Satoru Ochi; Co-orientador: Eduardo Uchoa);
-<b> Título: Heuristic, Exact and Hybrid Approaches for Vehicle Routing Problems </b>; 
-Defesa: 05/03/2012. 
- <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
+  Anand Subramanian,  Prof. UFPB - João Pessoa, </a> <b> Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF </b>(orientador: Luiz Satoru Ochi; Co-orientador: Eduardo Uchoa); <b> Título: Heuristic, Exact and Hybrid Approaches for Vehicle Routing Problems </b>; 
+Defesa: 05/03/2012. <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
   
-
 
   Tiago Araujo Neves, Prof. UFF/Volta Redonda - Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF; 
 <b>Título: Redes de Distribuição de Conteúdos: Abordagens Exatas, Heuristicas e Híbridas</b>; Defesa: 08/2011.
-Orientadores: Luiz Satoru Ochi e Célio Albuquerque.
-   <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
+Orientadores: Luiz Satoru Ochi e Célio Albuquerque.   <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
  
-
 
   Mário Mestria, Prof. IFES/Colatina-ES - Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF; 
 <b>Título: Metaheuristicas Híbridas para a Resolução do Problema do Caixeiro Viajante com Grupamentos</b>; Defesa: 01/2011.
-Orientadores: Luiz Satoru Ochi e Simone de Lima Martins.
-   <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
+Orientadores: Luiz Satoru Ochi e Simone de Lima Martins. <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
  
 
-   <a href="http://www.ic.uff.br/~lgoncalves/"> Luciana Brugiolo Gonçalves,  </a> Profa. UFJF - MG, Doutorado em Computação - Instituto de Computação
-- Universidade Federal Fluminense - IC/UFF; 
-<b>Título: Heurísticas para o Problema de Cobertura de Conjuntos por Pares</b>; Defesa: 08/2010.
-Orientadores: Simone de Lima Martins e Luiz Satoru Ochi
-   <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
-
+   <a href="http://www.ic.uff.br/~lgoncalves/"> Luciana Brugiolo Gonçalves,  Profa. UFJF - MG, Doutorado em Computação - Instituto de Computação
+- Universidade Federal Fluminense - IC/UFF; Título: Heurísticas para o Problema de Cobertura de Conjuntos por Pares</b>; Defesa: 08/2010.
+Orientadores: Simone de Lima Martins e Luiz Satoru Ochi  <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
 
 
 Marcelo Dib Cruz. Prof. UFRRJ</a>   
