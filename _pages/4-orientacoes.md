@@ -303,10 +303,10 @@ Luciana Roque Brito - Doutorado pela COPPE-SISTEMAS/UFRJ.
   </li>
 
 
-<li>
+
   
   ## **Orientação/Co-orientação de teses de doutorado em andamento**
-</li>
+
 
 
 <li>
