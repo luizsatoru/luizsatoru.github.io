@@ -185,7 +185,7 @@ Defesa: 10/09/2013.
  
 
 
-  <a href="http://www.ic.uff.br/~lbastos/"> Lucas de Oliveira Bastos,   </a> <b> FINEP-RJ, Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF </b>(orientadores: Luiz Satoru Ochi e Fábio Protti);
+ Lucas de Oliveira Bastos,   </a> <b> FINEP-RJ, Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF </b>(orientadores: Luiz Satoru Ochi e Fábio Protti);
 <b> Titulo: Novos Algoritmos e Resultados Teóricos para o Problema de Particionamento de Grafos por Edição de Arestas </b>
 Defesa: 27 Fevereiro de 2012.  <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
 
@@ -203,18 +203,15 @@ Orientadores: Luiz Satoru Ochi e Célio Albuquerque.   <a href="http://www.ic.uf
 <b>Título: Metaheuristicas Híbridas para a Resolução do Problema do Caixeiro Viajante com Grupamentos</b>; Defesa: 01/2011.
 Orientadores: Luiz Satoru Ochi e Simone de Lima Martins. <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
  
-
-   <a href="http://www.ic.uff.br/~lgoncalves/"> Luciana Brugiolo Gonçalves,  Profa. UFJF - MG, Doutorado em Computação - Instituto de Computação
-- Universidade Federal Fluminense - IC/UFF; Título: Heurísticas para o Problema de Cobertura de Conjuntos por Pares</b>; Defesa: 08/2010.
+ Luciana Brugiolo Gonçalves,  Profa. UFJF - MG, Doutorado em Computação - Instituto de Computação
+- Universidade Federal Fluminense - IC/UFF; Título: Heurísticas para o Problema de Cobertura de Conjuntos por Pares; Defesa: 08/2010.
 Orientadores: Simone de Lima Martins e Luiz Satoru Ochi  <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
 
 
-Marcelo Dib Cruz. Prof. UFRRJ</a>   
-- Doutorado pela COPPE-SISTEMAS/UFRJ. <b>Título: The Automatic Clustering Problem.</b> (Orientadores: Adilson Xavier (COPPE/UFRJ) e 
+Marcelo Dib Cruz. Prof. UFRRJ Doutorado pela COPPE-SISTEMAS/UFRJ. <b>Título: The Automatic Clustering Problem.</b> (Orientadores: Adilson Xavier (COPPE/UFRJ) e 
 Luiz Satoru Ochi (IC-UFF). Defesa: 07/2010. (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.
 <a href="./conteudo/artigos/Tese Doutorado DIB.pdf">|PDF|</a>
   
-
 
   Luciene Cristina Soares Motta, Profa. CETEP Ipanema e UNIGRANRIO, </a> Doutorado em Computação - Instituto de Computação
 - Universidade Federal Fluminense - IC/UFF; 
