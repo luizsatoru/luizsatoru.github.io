@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Palestras Proferidas
+title: Algumas Palestras Proferidas
 permalink: /palestras
 order: 3
 lang: en
@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
 
-## **APRESENTAÇÕES DE PALESTRAS CONVIDADAS NOS ÚLTIMOS ANOS**
+## **ALGUMAS APRESENTAÇÕES DE PALESTRAS CONVIDADAS NOS ÚLTIMOS ANOS**
 
                                                                            
 
