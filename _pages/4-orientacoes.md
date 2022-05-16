@@ -23,7 +23,7 @@ news_limit: 5
 ## **Orientações**
 
 
-## **Supervisão de Pós-Doutorado Concluídas**
+## **SUPERVISÃO DE PÓSDOC CONCLUÍDAS**
 <ol>
 
 
@@ -79,7 +79,7 @@ Orientadores: Nelson Maculan (COPPE/UFRJ); Luiz Satoru Ochi (IC-UFF) e Eduardo U
 do CNPq.   Orientadores: Nelson Maculan (COPPE - UFRJ) e Luiz Satoru Ochi (IC - UFF)
 
 
-## **Orientação ou Co-orientação de teses de doutorado concluídas**
+## **ORIENTAÇÃO DE TESES DE DOUTORADO CONCLUÍDAS**
 
  JANIO CARLOS NASCIMENTO SILVA ,  Aluno de Doutorado em Computação - IC/UFF (orientadores: Luiz Satoru Ochi e Ueverton Souza;
  Assunto:Algorithmic Aspects of Problems Related to Optimization, Circuits, and Parameterized Complexity; Defesa: 2021.  
@@ -212,7 +212,7 @@ Previsão de término: 07/2023.
 **Marcos Souza**. Aluno de Doutorado em Computação IC/UFF. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Problemas de Logística Inteligente e Transportes: Métodos e Aplicações. Orientador: Luiz Satoru Ochi. Previsão término: 12/2025
 
 
-## **Orientação de dissertações de mestrado em andamento**
+## **ORIENTAÇÃO DE DISSERTAÇÕES DE MESTRADO EM ANDAMENTO**
 
 
   **João Ricardo Weissmann Santos**, </a> <b> Aluno de Mestrado em Computação - IC/UFF </b> 
@@ -229,7 +229,7 @@ Previsão de término: 12/2022.
 
 
 
-## **Orientação de dissertações de mestrado concluídas**
+## **ORIENTAÇÃO DE DISSERTAÇÕES DE MESTRADO CONCLUÍDAS**
 
 
 Augusto Beltrao, </a> <b> Aluno de Mestrado em Computação - IC/UFF </b> 
