@@ -24,6 +24,7 @@ news_limit: 5
 
 
 ## **SUPERVISÃO DE PÓSDOC CONCLUÍDAS**
+
 <ol>
 
 
@@ -173,21 +174,30 @@ Título: Formulações e Algoritmos para o Problema de Programação de Horário
 
 
   Luciana Roque Brito, Doutorado pela COPPE-SISTEMAS/UFRJ.Título: Novas contribuições para o Problema de Recobrimento de Rotas.  (Orientadora pela UFRJ: Susana S. Makler). 05/2005. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro. 
+<ol>
 
+
+<li>
    
 
   Marcone Jamilson Freitas Souza.  Prof. UFOP - MG   Doutorado pela COPPE-SISTEMAS/UFRJ. <b>Título: Programação de horários em escolas: Uma aproximação  via Metaheurísticas.</b> (Orientador principal: D.Sc. Nelson Maculan - COPPE/UFRJ). 2000. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro. 
   
+<ol>
 
 
-## ## **ORIENTAÇÕES DE TESES DE DOUTORADO EM ANDAMENTO**
+<li>
+
+## **ORIENTAÇÕES DE TESES DE DOUTORADO EM ANDAMENTO**
+
+<ol>
 
 
+<li>
 
-Anderson Zudio de Moraes, Aluno de Doutorado em Computação - IC/UFF(orientador: Luiz Satoru Ochi;Co-orientador: Igor Coelho Machado (UERJ)  Assunto: Processamento de Alto Desempenho em Problemas de Otimização & Inteligencia Computacional; Previsão de término: 12/2022.  
+**Anderson Zudio de Moraes**, Aluno de Doutorado em Computação - IC/UFF(orientador: Luiz Satoru Ochi;Co-orientador: Igor Coelho Machado (UERJ)  Assunto: Processamento de Alto Desempenho em Problemas de Otimização & Inteligencia Computacional; Previsão de término: 12/2022.  
 
 
-Bruno José da Silva Barros, Aluno de Doutorado em Computação - IC/UFF  Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); Tema: Problemas de Arvore Geradora de Custo Minimo com Restrições de Conflito. 
+**Bruno José da Silva Barros**, Aluno de Doutorado em Computação - IC/UFF  Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); Tema: Problemas de Arvore Geradora de Custo Minimo com Restrições de Conflito. 
 Previsão de término: 12/2022.
   
 
