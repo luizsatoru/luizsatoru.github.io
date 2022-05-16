@@ -178,36 +178,34 @@ Luiz Satoru Ochi (IC-UFF). Defesa: 07/2010. (Engenharia de Sistemas e Computaç�
 <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
 
 
-Luciana Roque Brito - Doutorado pela COPPE-SISTEMAS/UFRJ.Título: Novas contribuições para o Problema de Recobrimento de Rotas. <a href="./conteudo/artigos/Tese doutorado Luciana Brito.pdf">|PDF| (Orientadora pela UFRJ: Susana S. Makler). 05/2005. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.  </a> 
+  Luciana Roque Brito - Doutorado pela COPPE-SISTEMAS/UFRJ.Título: Novas contribuições para o Problema de Recobrimento de Rotas.  (Orientadora pela UFRJ: Susana S. Makler). 05/2005. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.  </a> 
+
    
 
-Marcone Jamilson Freitas Souza.  </a> Prof. UFOP - MG   Doutorado pela COPPE-SISTEMAS/UFRJ. <b>Título: Programação de horários em escolas: Uma aproximação
-  via Metaheurísticas.</b> (Orientador principal: D.Sc. Nelson Maculan - COPPE/UFRJ). 2000. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.   </li> <a href="./conteudo/artigos/Tese doutorado Marcone.pdf">|PDF|</a>
+  Marcone Jamilson Freitas Souza.  Prof. UFOP - MG   Doutorado pela COPPE-SISTEMAS/UFRJ. <b>Título: Programação de horários em escolas: Uma aproximação  via Metaheurísticas.</b> (Orientador principal: D.Sc. Nelson Maculan - COPPE/UFRJ). 2000. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.  </a>
   
 
+</a>
 ## **ORIENTAÇÕES DE TESES DE DOUTORADO EM ANDAMENTO**
 
+</a>
+
+**Anderson Zudio de Moraes** , Aluno de Doutorado em Computação - IC/UFF(orientador: Luiz Satoru Ochi;Co-orientador: Igor Coelho Machado (UERJ)  Assunto: Processamento de Alto Desempenho em Problemas de Otimização & Inteligencia Computacional; Previsão de término: 12/2022.  
 
 
-**Anderson Zudio de Moraes** ,  </a> <b> Aluno de Doutorado em Computação - IC/UFF </b>(orientador: Luiz Satoru Ochi;Co-orientador: Igor Coelho Machado (UERJ)
- Assunto:<b> Processamento de Alto Desempenho em Problemas de Otimização & Inteligencia Computacional</b>; 
-Previsão de término: 12/2022.  
-
-
-**Bruno José da Silva Barros**, </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> 
-Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); <b>Tema: Problemas de Arvore Geradora de Custo Minimo com Restrições de Conflito. 
+**Bruno José da Silva Barros**, Aluno de Doutorado em Computação - IC/UFF  Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); Tema: Problemas de Arvore Geradora de Custo Minimo com Restrições de Conflito. 
 Previsão de término: 12/2022.
   
 
-**Elias Lawrence** , </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> 
-Orientador: Luiz Satoru Ochi; <b>Tema: The Unmanned Aerial Vehicle (UAV) Fleet Routing Problem. </b>;
-Previsão de término: 02/2023.
+**Elias Lawrence** ,  Aluno de Doutorado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema: The Unmanned Aerial Vehicle (UAV) Fleet Routing Problem.; Previsão de término: 02/2023.
+
   
- ***Augusto Beltrao** , </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> 
-Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) <b>Tema (provisorio): Problemas de Otimização e Inteligencia Computacional . </b>;
-Previsão de término: 07/2023.
+ ***Augusto Beltrao** ,  Aluno de Doutorado em Computação - IC/UFF  
+Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema (provisorio): Problemas de Otimização e Inteligencia Computacional .Previsão de término: 07/2023.
+
   
   **Alfredo Lima Moura Silva**. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Problemas de Logística Reversa: Métodos e Aplicações. Orientadores: Luiz Satoru Ochi e Rian Pinheiro. Previsão de término: 12/2025.
+  
   
 **Marcos Souza**. Aluno de Doutorado em Computação IC/UFF. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Problemas de Logística Inteligente e Transportes: Métodos e Aplicações. Orientador: Luiz Satoru Ochi. Previsão término: 12/2025
 
@@ -215,15 +213,14 @@ Previsão de término: 07/2023.
 ## **ORIENTAÇÃO DE DISSERTAÇÕES DE MESTRADO EM ANDAMENTO**
 
 
-  **João Ricardo Weissmann Santos**, </a> <b> Aluno de Mestrado em Computação - IC/UFF </b> 
-Orientador: Luiz Satoru Ochi; <b>Tema (Provisorio): Problemas de Otimização na area de Petróleo & Gas. </b>;
-Previsão de término: 12/2022.
+  **João Ricardo Weissmann Santos**, Aluno de Mestrado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema (Provisorio): Problemas de Otimização na area de Petróleo & Gas. Previsão de término: 12/2022.
   
   
 **Silvana Nazaré de Freitas Ávila**. Aluna de Mestrado em Computação IC/UFF. Tema: Problemas de Coleta do Lixo Eletronico: Algoritmos e Variantes.  Orientadores: Luiz Satoru Ochi e Simone de Lima Martins. Previsão término: 07/2023.
 
 
 **Alexandre dos Santos Mello**. Aluno de Mestrado em Computação IC/UFF. Tema provisório: Problemas de Roteamento com entregas fracionárias – Aplicações da empresa Loggi. Orientadores: Luiz Satoru Ochi e Matheus Haddad. Previsão de término: 12/ 2023
+
 
 **Herbeton Bispo**. Aluno de Mestrado em Computação IC/UFF. Tema provisório: Problemas de Roteamento e scheduling de veículos. Orientadores: Luiz Satoru Ochi e Igor Machado Coelho. Previsão término: 12/2022
 
@@ -232,9 +229,7 @@ Previsão de término: 12/2022.
 ## **ORIENTAÇÃO DE DISSERTAÇÕES DE MESTRADO CONCLUÍDAS**
 
 
-Augusto Beltrao, </a> <b> Aluno de Mestrado em Computação - IC/UFF </b> 
-Orientadores: Luiz Satoru Ochi & Jose Andre M Brito; <b>Titulo:Heuristicas Hibridas aplicadas ao Problema do Caixeiro Viajante com Seleção de Hoteis . </b>;
-Defesa: 03/2020.
+Augusto Beltrao,  Aluno de Mestrado em Computação - IC/UFF  Orientadores: Luiz Satoru Ochi & Jose Andre M Brito; <b>Titulo:Heuristicas Hibridas aplicadas ao Problema do Caixeiro Viajante com Seleção de Hoteis . </b>; Defesa: 03/2020.
  
 
   Elias Lawrence , </a> <b> Aluno de Mestrado em Computação - IC/UFF </b> 
