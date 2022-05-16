@@ -196,24 +196,24 @@ Título: Formulações e Algoritmos para o Problema de Programação de Horário
 
 **Anderson Zudio de Moraes**, Aluno de Doutorado em Computação - IC/UFF(orientador: Luiz Satoru Ochi;Co-orientador: Igor Coelho Machado (UERJ)  Assunto: Processamento de Alto Desempenho em Problemas de Otimização & Inteligencia Computacional; Previsão de término: 12/2022.  
 
-
+<li>
 **Bruno José da Silva Barros**, Aluno de Doutorado em Computação - IC/UFF  Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); Tema: Problemas de Arvore Geradora de Custo Minimo com Restrições de Conflito. 
 Previsão de término: 12/2022.
   
-
+<li>
 **Elias Lawrence** ,  Aluno de Doutorado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema: The Unmanned Aerial Vehicle (UAV) Fleet Routing Problem.; Previsão de término: 02/2023.
 
-  
+  <li>
  ***Augusto Beltrao** ,  Aluno de Doutorado em Computação - IC/UFF  
 Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema (provisorio): Problemas de Otimização e Inteligencia Computacional .Previsão de término: 07/2023.
 
-  
+  <li>
   **Alfredo Lima Moura Silva**. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Problemas de Logística Reversa: Métodos e Aplicações. Orientadores: Luiz Satoru Ochi e Rian Pinheiro. Previsão de término: 12/2025.
-  
+  <li>
   
 **Marcos Souza**. Aluno de Doutorado em Computação IC/UFF. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Problemas de Logística Inteligente e Transportes: Métodos e Aplicações. Orientador: Luiz Satoru Ochi. Previsão término: 12/2025
 
-
+<li>
 ## **ORIENTAÇÃO DE DISSERTAÇÕES DE MESTRADO EM ANDAMENTO**
 
 
