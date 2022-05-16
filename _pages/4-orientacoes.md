@@ -1,6 +1,6 @@
 ---
 layout: page
-title: orientações de teses
+title: ORIENTAÇÕES DE TESES
 permalink: /orientacoes
 order: 4
 lang: en
@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
 
-## **Orientações**
+## **ORIENTAÇÕES**
 
 
 ## **SUPERVISÃO DE PÓSDOC CONCLUÍDAS**
