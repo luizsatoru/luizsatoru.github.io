@@ -178,15 +178,14 @@ Luiz Satoru Ochi (IC-UFF). Defesa: 07/2010. (Engenharia de Sistemas e Computaç�
 <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
 
 
-Luciana Roque Brito - Doutorado pela COPPE-SISTEMAS/UFRJ.Título: Novas contribuições para o Problema de Recobrimento de Rotas. <a href="./conteudo/artigos/Tese doutorado Luciana Brito.pdf">|PDF| (Orientadora pela UFRJ: Susana S. Makler). 05/2005. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.
+Luciana Roque Brito - Doutorado pela COPPE-SISTEMAS/UFRJ.Título: Novas contribuições para o Problema de Recobrimento de Rotas. <a href="./conteudo/artigos/Tese doutorado Luciana Brito.pdf">|PDF| (Orientadora pela UFRJ: Susana S. Makler). 05/2005. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.  </a> 
    
 
 Marcone Jamilson Freitas Souza.  </a> Prof. UFOP - MG   Doutorado pela COPPE-SISTEMAS/UFRJ. <b>Título: Programação de horários em escolas: Uma aproximação
   via Metaheurísticas.</b> (Orientador principal: D.Sc. Nelson Maculan - COPPE/UFRJ). 2000. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.   </li> <a href="./conteudo/artigos/Tese doutorado Marcone.pdf">|PDF|</a>
   
 
-  
-  ## **Orientação/Co-orientação de teses de doutorado em andamento**
+## **ORIENTAÇÕES DE TESES DE DOUTORADO EM ANDAMENTO**
 
 
 
