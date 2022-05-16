@@ -122,21 +122,17 @@ Gilberto Farias Souza Filho, Prof. UFPB/João Pessoa, Aluno de Doutorado em Comp
   Nadia Mendes dos Santos, Profa. IFPI - Teresina/PI, Doutorado em Computação - IC/UFF (convênio DINTER IC-UFF & IFPI) Orientador: Luiz Satoru Ochi, Co-orientador: J. André M Brito; Título: Um estudo de problemas de clusterização com restrições de capacidade e conectividade ; Defesa: 11/2014. 
  
 
- 
-  Gustavo Resende de Carvalho,  Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF </b> Orientador: Luiz Satoru Ochi, Co-oreintadora: Aline Nascimento; <b> Título: Um Algoritmo ILS para o Problema de Localização-Roteamento Capacitado com Dois Níveis </b>; 
+ Gustavo Resende de Carvalho,  Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF </b> Orientador: Luiz Satoru Ochi, Co-oreintadora: Aline Nascimento; <b> Título: Um Algoritmo ILS para o Problema de Localização-Roteamento Capacitado com Dois Níveis </b>; 
 Defesa: 08/08/2014. 
  
 
-
-  Puca Huachi Vaz Penna, Prof. UFF/Pádua,  Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF Orientador: Luiz Satoru Ochi;<b> Título: Um algoritmo unificado para uma classe de problemas de roteamento de veículos com frota heterogênea </b>; 
+Puca Huachi Vaz Penna, Prof. UFF/Pádua,  Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF Orientador: Luiz Satoru Ochi;<b> Título: Um algoritmo unificado para uma classe de problemas de roteamento de veículos com frota heterogênea </b>; 
 Defesa: 29/11/2013. 
 
 
   Gustavo Silva Semaan, Prof. UFF/INFES, Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF </b> Orientador: Luiz Satoru Ochi;<b> Título: Algoritmos para Problemas de Agrupamento Automático;  Defesa: 10/09/2013. 
 
  
-
-
  Lucas de Oliveira Bastos,   </a> <b> FINEP-RJ, Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF </b>(orientadores: Luiz Satoru Ochi e Fábio Protti);
 <b> Titulo: Novos Algoritmos e Resultados Teóricos para o Problema de Particionamento de Grafos por Edição de Arestas </b>
 Defesa: 27 Fevereiro de 2012.  <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
@@ -166,34 +162,32 @@ Luiz Satoru Ochi (IC-UFF). Defesa: 07/2010. (Engenharia de Sistemas e Computaç�
 <b>Título: The Covering Tour Problems: Algoritms and Reduction Rules</b>; Defesa: 06/2010.    <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
 
 
-  Geiza Cristina da Silva,   </a> Profa. UFPE/PE, Doutorado em Engenharia de Produção, COPPE-PRODUÇÃO/UFRJ;  Assunto: Algoritmos heuristicos e híbridos para o Problema de Alocação Dinâmica de espaços </b>; Defesa: 03/2010; Orientadores: Paulo O. Boaventura Netto e Laura Bahiense (Coppe-UFRJ), Luiz Satoru Ochi (Co-orientador externo).  
+  Geiza Cristina da Silva,  Profa. UFPE/PE, Doutorado em Engenharia de Produção, COPPE-PRODUÇÃO/UFRJ;  Assunto: Algoritmos heuristicos e híbridos para o Problema de Alocação Dinâmica de espaços; Defesa: 03/2010; Orientadores: Paulo O. Boaventura Netto e Laura Bahiense (Coppe-UFRJ), Luiz Satoru Ochi (Co-orientador externo).  
  
-  André Renato Villela da Silva, Prof. UFF/Rio das Ostras, </a> Doutorado em Computação - Instituto de Computação Universidade Federal Fluminense - IC/UFF; 
-<b>Título: Novos algoritmos heuristicos e híbridos para o Problema de Escalonamento de Projetos com Restrições 
-	de Recursos Dinâmicos</b>; Defesa: 01/2010.   <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
+  André Renato Villela da Silva, Prof. UFF/Rio das Ostras, Doutorado em Computação - Instituto de Computação Universidade Federal Fluminense - IC/UFF; 
+<b>Título: Novos algoritmos heuristicos e híbridos para o Problema de Escalonamento de Projetos com Restrições 	de Recursos Dinâmicos</b>; Defesa: 01/2010.  
 
 
-  Haroldo Gambini Santos, </a>  Prof. UFOP - MG, Doutorado em Computação - Instituto de Computação  Universidade Federal Fluminense - IC/UFF; 
-<b>Título: Formulações e Algoritmos para o Problema de Programação de Horários em Escolas</b>; Defesa: 05/2007.  (co-orientador: Eduardo Uchoa)
-<a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
+  Haroldo Gambini Santos,   Prof. UFOP - MG, Doutorado em Computação - Instituto de Computação  Universidade Federal Fluminense - IC/UFF; 
+Título: Formulações e Algoritmos para o Problema de Programação de Horários em Escolas</b>; Defesa: 05/2007.  (co-orientador: Eduardo Uchoa)
 
 
-  Luciana Roque Brito - Doutorado pela COPPE-SISTEMAS/UFRJ.Título: Novas contribuições para o Problema de Recobrimento de Rotas.  (Orientadora pela UFRJ: Susana S. Makler). 05/2005. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.  </a> 
+  Luciana Roque Brito - Doutorado pela COPPE-SISTEMAS/UFRJ.Título: Novas contribuições para o Problema de Recobrimento de Rotas.  (Orientadora pela UFRJ: Susana S. Makler). 05/2005. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro. 
 
    
 
-  Marcone Jamilson Freitas Souza.  Prof. UFOP - MG   Doutorado pela COPPE-SISTEMAS/UFRJ. <b>Título: Programação de horários em escolas: Uma aproximação  via Metaheurísticas.</b> (Orientador principal: D.Sc. Nelson Maculan - COPPE/UFRJ). 2000. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.  </a>
+  Marcone Jamilson Freitas Souza.  Prof. UFOP - MG   Doutorado pela COPPE-SISTEMAS/UFRJ. <b>Título: Programação de horários em escolas: Uma aproximação  via Metaheurísticas.</b> (Orientador principal: D.Sc. Nelson Maculan - COPPE/UFRJ). 2000. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro. 
   
 
-</a>
+
 ## **ORIENTAÇÕES DE TESES DE DOUTORADO EM ANDAMENTO**
 
-</a>
-
-**Anderson Zudio de Moraes** , Aluno de Doutorado em Computação - IC/UFF(orientador: Luiz Satoru Ochi;Co-orientador: Igor Coelho Machado (UERJ)  Assunto: Processamento de Alto Desempenho em Problemas de Otimização & Inteligencia Computacional; Previsão de término: 12/2022.  
 
 
-**Bruno José da Silva Barros**, Aluno de Doutorado em Computação - IC/UFF  Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); Tema: Problemas de Arvore Geradora de Custo Minimo com Restrições de Conflito. 
+Anderson Zudio de Moraes, Aluno de Doutorado em Computação - IC/UFF(orientador: Luiz Satoru Ochi;Co-orientador: Igor Coelho Machado (UERJ)  Assunto: Processamento de Alto Desempenho em Problemas de Otimização & Inteligencia Computacional; Previsão de término: 12/2022.  
+
+
+Bruno José da Silva Barros, Aluno de Doutorado em Computação - IC/UFF  Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); Tema: Problemas de Arvore Geradora de Custo Minimo com Restrições de Conflito. 
 Previsão de término: 12/2022.
   
 
