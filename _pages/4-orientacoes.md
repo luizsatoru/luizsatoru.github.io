@@ -174,7 +174,7 @@ Título: Formulações e Algoritmos para o Problema de Programação de Horário
 
 
   Luciana Roque Brito, Doutorado pela COPPE-SISTEMAS/UFRJ.Título: Novas contribuições para o Problema de Recobrimento de Rotas.  (Orientadora pela UFRJ: Susana S. Makler). 05/2005. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro. 
-<ol>
+
 
 
 <li>
@@ -182,14 +182,14 @@ Título: Formulações e Algoritmos para o Problema de Programação de Horário
 
   Marcone Jamilson Freitas Souza.  Prof. UFOP - MG   Doutorado pela COPPE-SISTEMAS/UFRJ. <b>Título: Programação de horários em escolas: Uma aproximação  via Metaheurísticas.</b> (Orientador principal: D.Sc. Nelson Maculan - COPPE/UFRJ). 2000. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro. 
   
-<ol>
+
 
 
 <li>
 
 ## **ORIENTAÇÕES DE TESES DE DOUTORADO EM ANDAMENTO**
 
-<ol>
+
 
 
 <li>
