@@ -30,7 +30,7 @@ news_limit: 5
 - 
 - [**Veja Também o meu Google Scholar**](https://scholar.google.com/citations?hl=pt-BR&user=w3KB2MoAAAAJ)
 - 
-- [**Prêmio Cientista do Estado do Rio de Janeiro pela FAPERJ desde 2008 até o momento!!!!**](http://www.faperj.br). 
+- [**Prêmio & GRANT Cientista do Estado do Rio de Janeiro - CNE pela FAPERJ desde 2008 até o momento!!!!**](http://www.faperj.br). 
 
 [**Instituto de Computação**](http://www.ic.uff.br) - [**O Programa de Pós-Graduação em Computação do IC-UFF é um dos 10 Programas de Excelência em Computação do Brasil - CAPES**](http://www.ic.uff.br/PosGraduacao/coordenacao.php) 
 
