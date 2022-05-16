@@ -172,7 +172,7 @@ Luiz Satoru Ochi (IC-UFF). Defesa: 07/2010. (Engenharia de Sistemas e Computaç�
 Título: Formulações e Algoritmos para o Problema de Programação de Horários em Escolas</b>; Defesa: 05/2007.  (co-orientador: Eduardo Uchoa)
 
 
-  Luciana Roque Brito - Doutorado pela COPPE-SISTEMAS/UFRJ.Título: Novas contribuições para o Problema de Recobrimento de Rotas.  (Orientadora pela UFRJ: Susana S. Makler). 05/2005. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro. 
+  Luciana Roque Brito, Doutorado pela COPPE-SISTEMAS/UFRJ.Título: Novas contribuições para o Problema de Recobrimento de Rotas.  (Orientadora pela UFRJ: Susana S. Makler). 05/2005. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro. 
 
    
 
@@ -180,7 +180,7 @@ Título: Formulações e Algoritmos para o Problema de Programação de Horário
   
 
 
-## **ORIENTAÇÕES DE TESES DE DOUTORADO EM ANDAMENTO**
+## ## **ORIENTAÇÕES DE TESES DE DOUTORADO EM ANDAMENTO**
 
 
 
