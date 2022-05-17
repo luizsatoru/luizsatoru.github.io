@@ -42,7 +42,8 @@ owner:
   #avatar: leonids-logo.png
   avatar: satoru-01.jpeg #satoru-site.png
   job: "Professor Titular do Instituto de Computação - IC/UFF"
-  bio: "Endereço Profissional: Av. Gal. Milton Tavares de Souza,, s/n - São Domingos, Niterói - RJ, 24210-346"
+  # bio: "Endereço Profissional: Av. Gal. Milton Tavares de Souza,, s/n - São Domingos, Niterói - RJ, 24210-346"
+  bio:
   email: satoru@ic.uff.br
   disqus-shortname:
   twitter: #username
