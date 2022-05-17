@@ -377,8 +377,4 @@ Dissertação (Computação) - Universidade Federal Fluminense. Orientadores:Lui
 	
 1. Roberto Becker. <b>Programação de uma frota de petroleiros: Proposta de um método para o  longo curso.</b> (Orientador principal: D.Sc. Nelson Maculan). 1987. (Engenharia de Sistemas  e Computação) - Universidade Federal do Rio de Janeiro.
  
-  <a href="#inicio">&#171; Topo da página</a>
-</ol>
-
-<a href="#inicio">&#171; Topo da página</a>
-</ol>
+ 
