@@ -70,6 +70,7 @@ news_limit: 5
 
 ## **2020**
 
+
 ## **Accepted/Published**
 
 **1. Augusto César Fadel; Luiz Satoru Ochi, PhD; José André M Brito, PhD; Gustavo S Semaan, PhD (2020). Título: Microaggregation Heuristic Applied to Statistical Disclosure Control. [To appear in Information Sciences – ELSEVIER.](http://doi.org/10.1016/j.ins.2020.09.069)**
@@ -161,1089 +162,204 @@ news_limit: 5
 11.	Título: “Minimum Representation Spanning Tree Problem”. Autores: Ruben Interian, Elio David Zaldivar Linares, Luiz Satoru Ochi, Thiago Gouveia and Yuri Abitbol F Menezes. (2018 – Proc of the EURO-ALIO 2018 – Bologna - Italy 2018.
 
 12.	Titulo: “General Variable Neighborhood Search for the Data Mule Scheduling Problem”. Autores: Pablo Munhoz, Lucia Drummond, Ueverton dos Santos Souza, Pedro Henrique Gonzalez Silva, Luiz Satoru Ochi and Philippe Michelon  (2018).  Electronic Notes in Discrete Mathematics – ENDM, Vol 66, pp. 71-78, 2018 – ELSEVIER.
-13.	Titulo: “A Neighborhood Exploration Approach with Multi-Start for Extend Generalized Block-modeling”. Autores: Micheli Knechtel; Philippe Michelon; Serigne Gueye; and Luiz Satoru Ochi (2018).  Electronic Notes in Discrete Mathematics - ENDM, Vol 66, pp. 63-70, 2018 – ELSEVIER.
-14.	Titulo: “Efficient heuristics for the minimum labering global cut problem”. Autores: Thiago Gouveia da Silva; Gilberto F Souza Filho; Igor A M Barbosa; Nenad Mladenovic; Lucidio A F Cabral; Luiz Satoru Ochi; and Daniel Aloise (2018).  Electronic Notes in Discrete Mathematics - ENDM , Vol 66, pp. 23-30, 2018 – ELSEVIER.
-15.	Título: “Iterated Local Search for RGB Image Steganography”. Autores: Maira Beatriz Hernandez Moran, Luiz Satoru Ochi, Aura Conci, Adriel Santos Araújo and Débora Christina Muchaluat Saade. Proceedings of the “The 25th International Conference on Systems, Signals and Image Processing -  IWSSIP 2018, Maribor, Slovenia, in June, 2018. 
-16.	Título: “Implementation of a RVND, VNS, ILS heuristic for the Traveling Car Renter Problem”. Autores: Rogerio Ferreira de Moraes, Andre Renato Villela da Silva, Luiz Satoru Ochi and Luis Marti. (2018). Proceedings of the “2018 IEEE Congress on Evolutionary Computation (IEEE CEC 2018) , 08-13 July 2018, Rio de Janeiro, Brazil”,  2018.
-17.	Título: “Logistics SLA Optimization Service for Transportation in Smart Cities”. Autores: Edcarllos Santos, Puca Huachi Penna, Igor Machado Coelho, Heder Dorneles Soares, Luiz Satoru Ochi and Luidi Simonetti. (2018).  Proceedings of the “2018 International Joint Conference on Neural Networks (IJCNN 2018)”; co-sponsored by International Neural Network Society, 08-13 July 2018, Rio de Janeiro, Brazil”,  2018. 
-18.	Titulo: “Uma heurística eficiente para o Problema de Roteamento de Veículos com Coleta e Entrega Rentáveis”. Autores: Matheus Nohra Haddad, Luiz Satoru Ochi, Simone de Lima Martins, Marcone Jamilson Freitas Souza (2018).  Anais do “L Simpósio Brasileiro de Pesquisa Operacional – L SBPO”, Puc Rio, 06 a 09 Agosto 2018, Rio de Janeiro, Brazil”, 2018.
-19.	Título: “O Problema da Árvore Geradora de Representação Mínima”. Autores: Elio David Zaldivar Linares, Luiz Satoru Ochi, Thiago Gouveia Da Silva, Ruben Interian (2018).  Anais do “L Simpósio Brasileiro de Pesquisa Operacional – L SBPO”, Puc Rio, 06 a 09 Agosto 2018, Rio de Janeiro, Brazil”, 2018.
+
+
+14.	Titulo: “A Neighborhood Exploration Approach with Multi-Start for Extend Generalized Block-modeling”. Autores: Micheli Knechtel; Philippe Michelon; Serigne Gueye; and Luiz Satoru Ochi (2018).  Electronic Notes in Discrete Mathematics - ENDM, Vol 66, pp. 63-70, 2018 – ELSEVIER.
+
+
+16.	Titulo: “Efficient heuristics for the minimum labering global cut problem”. Autores: Thiago Gouveia da Silva; Gilberto F Souza Filho; Igor A M Barbosa; Nenad Mladenovic; Lucidio A F Cabral; Luiz Satoru Ochi; and Daniel Aloise (2018).  Electronic Notes in Discrete Mathematics - ENDM , Vol 66, pp. 23-30, 2018 – ELSEVIER.
+
+
+18.	Título: “Iterated Local Search for RGB Image Steganography”. Autores: Maira Beatriz Hernandez Moran, Luiz Satoru Ochi, Aura Conci, Adriel Santos Araújo and Débora Christina Muchaluat Saade. Proceedings of the “The 25th International Conference on Systems, Signals and Image Processing -  IWSSIP 2018, Maribor, Slovenia, in June, 2018. 
+
+
+20.	Título: “Implementation of a RVND, VNS, ILS heuristic for the Traveling Car Renter Problem”. Autores: Rogerio Ferreira de Moraes, Andre Renato Villela da Silva, Luiz Satoru Ochi and Luis Marti. (2018). Proceedings of the “2018 IEEE Congress on Evolutionary Computation (IEEE CEC 2018) , 08-13 July 2018, Rio de Janeiro, Brazil”,  2018.
+
+
+22.	Título: “Logistics SLA Optimization Service for Transportation in Smart Cities”. Autores: Edcarllos Santos, Puca Huachi Penna, Igor Machado Coelho, Heder Dorneles Soares, Luiz Satoru Ochi and Luidi Simonetti. (2018).  Proceedings of the “2018 International Joint Conference on Neural Networks (IJCNN 2018)”; co-sponsored by International Neural Network Society, 08-13 July 2018, Rio de Janeiro, Brazil”,  2018. 
+
+
+24.	Titulo: “Uma heurística eficiente para o Problema de Roteamento de Veículos com Coleta e Entrega Rentáveis”. Autores: Matheus Nohra Haddad, Luiz Satoru Ochi, Simone de Lima Martins, Marcone Jamilson Freitas Souza (2018).  Anais do “L Simpósio Brasileiro de Pesquisa Operacional – L SBPO”, Puc Rio, 06 a 09 Agosto 2018, Rio de Janeiro, Brazil”, 2018.
+
+
+26.	Título: “O Problema da Árvore Geradora de Representação Mínima”. Autores: Elio David Zaldivar Linares, Luiz Satoru Ochi, Thiago Gouveia Da Silva, Ruben Interian (2018).  Anais do “L Simpósio Brasileiro de Pesquisa Operacional – L SBPO”, Puc Rio, 06 a 09 Agosto 2018, Rio de Janeiro, Brazil”, 2018.
 
 20.	Título: “Proposta de Método heurístico aplicado ao Problema de Microagregação Multivariado”. Autores:  Augusto Fadel, Luiz Satoru Ochi, José André Moura Brito, Gustavo Silva Semaan. (2018).  Anais do “L Simpósio Brasileiro de Pesquisa Operacional – L SBPO”, Puc Rio, 06 a 09 Agôsto 2018, Rio de Janeiro, Brazil”, 2018
 
 
---------
+
+## **2017**
+
+## Accepted/Published
+
+
+1. Teobaldo L Bulhões Junior; Gilberto F. Souza Filho; Lucídio Anjos Formiga Cabral; Luiz Satoru Ochi; and Fabio Protti. (2017) "New heuristics for the Bicluster Editing Problem". Annals of Operations Research - ANOR. SPRINGER, Volume 258, Issue 2, pp 781-814  2017 .  DOI:https://doi.org/10.1007/s10479-016-2261-x	
+
+
+1. Rian Gabriel Santos Pinheiro, Ivan Cesar Martins, Fabio Protti and Luiz Satoru Ochi. (2017).   "A Matheuristic for the Cell Formation Problem". To appear in <b> OPTIMIZATION LETTERS - SPRINGER 2017  
+
+1. Puca Huachi Vaz Penna, Anand Subramanian, Luiz Satoru Ochi, Thibaut Vidal, and Christian Prins. (2017)  "A Hybrid Heuristic for a Broad Class of Vehicle Routing Problems with Heterogeneous Fleet". To appear in <b>ANNALS OF OPERATIONS RESEARCH - ANOR - SPRINGER 
+
+1. Coelho, Vitor Nazário; Machado, Igor Coelho.; Coelho, Bruno N.; Oliveira, Glauber.; Barbosa, Alexandre.; Pereira, Leo.; Freitas, Alan.; Santos, Haroldo G.; Ochi, Luiz Satoru.; and Guimarães, Frederico. (2017). "A communitarian microgrid storage planning system inside the scope of a smart city". APPLIED ENERGY  201 (2017), pp. 371-381, <b> ELSEVIER  2017  
+
+	
+1. Coelho, Bruno Nazário.; Coelho, Vitor Nazário; Machado, Igor Coelho.; Ochi, Luiz Satoru.; Koochaksaraei, Roozbeh H.; Zuidema, Demetrius.; Lima, Milton S. F.; and da Costa, Adilson R. (2017) "A Multi-Objective Green UAV Routing Problem".   in  COMPUTERS & OPERATIONS RESEARCH, ELSEVIER,  Vol. 88 - p. 306-315, 2017  
+
+1. Coelho, Vitor Nazário., Machado, Igor Coelho., Luz, Eduardo., Rios, Eyder., Ochi, Luiz Satoru., and Guimarães, Frederico Gadelha.  (2017). "A GPU deep learning metaheuristic based model for time series forecasting".  APPLIED ENERGY, ELSEVIER, Volume 201, pp. 412-418 </b> 2017 ISSN: 0306-2619  
+
+1. Rios, Eyder.; Ochi, Luiz Satoru.; Boeres, Cristina.; Coelho, Vitor Nazário., Machado, Igor Coelho; and Nenad, Mladenovoc.  (2017) "A performance study on multi improvement neighborhood search strategy".  in ELECTRONIC NOTES IN DISCRETE MATHEMATICS - ELSEVIER,</b>  volume 58, pp. 199-206, 2017  
+
+1. Knechtel, Micheli; Michelon, Philippe; Gueye, Serigne; and Ochi, Luiz Satoru.(2017)<b> "VNS Multi-start approach for Generic Generalized Block-modeling". 
+    To appear <b> Proceeding of the 5th International Conference on Variable Neighborhood Search - VNS2017 , October 2-4, 2017    
+
+	
+1. Gouveia, Thiago S; Souza, Gilberto; Barbosa, Igor; Mladenovic, Nenad; Cabral, Lucidio A. F.; and Ochi, Luiz Satoru.(2017)<b> "Efficient VNS heuristic for the Minimum Labering Global  Cut Problem". To appear <b> Proceeding of the 5th International Conference on Variable Neighborhood Search - VNS2017  October 2-4, 2017    
+
+	
+1. Munhoz, Pablo L. A.; Ochi, Luiz Satoru.;Michelon, Philippe; and Drummond, Lucia M. A.  (2017)<b> "Variable Neighborhood Search for the Data Mule Scheduling Problem". To appear  Proceeding of the 5th International Conference on Variable Neighborhood Search - VNS2017 ,  October 2-4, 2017<b>    
+
+
+1. Santos, Edcarllos.; Candia-Vejar, Alfredo.; Ochi, Luiz Satoru.; Simonetti, Luidi.; and Souza, Ueverton.  (2017) "New Insights on Prize Collecting Path Problem".  Proceeding of the II ETC/CSBC  2017. 
 	
 	
-**2021**
+1. Raylan, Marcos; Abitibol, Yuri;and Ochi, Luiz Satoru. (2017) "Problema de Roteamento de Veículos voltado a minimização de emissões de dióxido de carbono".  
+    Anais do <b> XLIX Simpósio Brasileiro de Pesquisa Operacional - XLIX SBPO </b> 2017    
 
-**Accepted/Published**
-
-
-1. FADEL, AUGUSTO CESAR; Ochi, Luiz Satoru; BRITO, JOSE ANDRE DE MOURA; and  SEMAAN, GUSTAVO S. (2021). "Microaggregation heuristic applied to statistical disclosure control". INFORMATION SCIENCES, v. 548, p. 37-55, 2021. - <a href="./conteudo/artigos/FADEL-INFSCINCE2021.pdf">|PDF|</a></li> 
-  
-1. Dias, Savio Soares ; Simonetti, Luidi ; Ochi, Luis Satoru (2021). "An ILS-based heuristic applied to the Car Renter Salesman Problem" in </b> RAIRO-OPERATIONS RESEARCH, v. 55, p. 1-22, 2021. - <a href="./conteudo/artigos/SAVIO-RAIRO2021.pdf">|PDF|</a></li> </li>
-
-
-**2020**
-
-**Accepted/Published**
-
-
-1. Augusto cesar Fadel;Luiz Satoru Ochi; Jose Andre Moura Brito; Gustavo Semaan (2020). "Microaggregation Heuristic Applied to Statistical Disclosure Control".
-<b> To appear in </b> INFORMATION SCIENCES - ELSEVIER - 2020
-[PDF](./conteudo/artigos/FADEL-INFSCINCE2020.pdf)
-
-
-1. Savio Dias, Luidi Simonetti and Luiz Satoru Ochi (2020). " An ILS-based heuristic applied to the Car Renter Salesman Problem". 
-"
-  <b> To appear in </b> RAIRO-Operations Research- 2020. 
-
-<a  href="./conteudo/artigos/SAVIO-RAIRO2020.pdf">|PDF|</a></li> 
-
-
-
-<li>
-Janio Carlos Nascimento Silva, Uerveton dos Santos Souza, Luiz Satoru Ochi, Igor Machado Coelho, Vitor Nazario Coelho.(2020)<b>
-"
-Finding the Maximum Multi Improvement on Neighborhood Exploration". </b> To appear in <b> Optimization Letters 2020 - SPRINGER. 
-
-<a  href="./conteudo/artigos/JANIO.pdf">|PDF|</a></li> 
-
-
-
-
-</li>
-
-
-
-<li>
-
-Silva, Andre Renato Villela ; Ochi, Luiz Satoru ; Barros, Bruno J. S. ; Pinheiro, Rian G. S. (2020). ANNALS OF OPERATIONS RESEARCH, v. 286, p. 33-54, 2020.<b>
-"Efficient approaches for the Flooding Problem on graphs". </b> in <b> ANNALS OF OPERATIONS RESEARCH, SPRINGER,v. 286, p.33-54, 2020. 
-
-<a  href="./conteudo/artigos/ANDRE RENATAO & RIAN ANOR2020.pdf">|PDF|</a></li> 
-
-
-</li>
-
-
-</li>
-
-
-
-<li>
-Thays A. Oliveira, Yuri B. Gabrich, Helena Ramalhinho, Miquel Oliver, Miri W. Cohen, Luiz Satoru Ochi, Serigne Gueye, Fabio Protti, Alysson A. Pinto, Diogenes V. M. Ferreira, Igor Machado Coelho, Vitor Nazario Coelho.(2020)<b>
-"Mobility, Citizens, Innovation and Technology in Digital and Smart Cities". </b> in <b> Future Internet 12(2) - p. 1-27, 2020, Switzerland. 
-
-<a  href="./conteudo/artigos/THAYS-VITOR Future Internet2020.pdf">|PDF|</a></li> 
-
-
-
-
-</li>
-
-
-
-<li>
-Gustavo S Semaan, Jose Andre M Brito, Igor Machado Coelho, Edelberto Franco Silva, Augusto Fadel and Luiz Satoru Ochi (2020).<b>
-"A Brief History of Heuristics, from Bounded Rationality to Intractability". </b> <b> To appear in IEEE Latin America Transactions.   
-
-<a  href="./conteudo/artigos/GUSTAVO SEMAAN-IEEE Latin America 2020.pdf">|PDF|</a></li> 
-
-
-
-
-</li>
-
-
-</li>	
-
-  
-<li>
-  Elias Lawrence Marques Junior, Vitor Nazario Coelho, Igor Machado Coelho, Bruno Nazario Coelho and Luiz Satoru Ochi (2020)<b>
-  "A Multi-objective Metaheuristic for a Green UAV Grid Routing Problem". </b> 
-      <b> Lecture Notes in Computer Science - LNCS 12010, 1-2, 2020, PP 152-166, ISBN: 978-3-030-44931-5. </b>   
-<a  href="./conteudo/artigos/ELIAS-LNCS2020.pdf">|PDF|</a></li> 
-
-
-
-
-</li>	
-
-
-
-<li>
-  Silvio E Quincozes, Celio Albuquerque, Diego Passos, Luiz Satoru Ochi, and Daniel Mosse (2020)<b>
-  "GRASP-based Feature Selection for 	 Intrusion Detection in CPS Perception Layer". </b> 
-      <b> Proceedings of the 2020 4th Conference on Cloud and Internet of Things (CIoT). 2020 </b>   
-<a  href="./conteudo/artigos/SILVIOCIOT2020.pdf">|PDF|</a></li> 
-
-</ol>
-
-
-<b>2019</b><br/><br/>
-
-<b>Accepted/Published</b>
-
-<ol>
-      
-
-
-<li>
-Silva, Thiago. G. ; Queiroga, Eduardo ; Cabral, Lucidio A. F. ; Michelon, P. Y. P. ; Ochi, Luis Satoru ; Gueye, Serigne.(2019)<b>
-  "A hybrid metaheuristic for the minimum labeling spanning tree problem". </b> in <b>EUROPEAN JOURNAL OF OPERATIONAL RESEARCH </b>, v. 274, p. 22-34, 2019
-
-<a  href="./conteudo/artigos/THIAGO-EJOR2019.pdf">|PDF|</a></li> 
-
-
-
-
-</li>	
-
-
-
-<li>
-Puca Huachi Vaz Penna, Anand Subramanian, Luiz Satoru Ochi, Thibaut Vidal, and Christian Prins. (2019)<b>
-  "A Hybrid Heuristic for a Broad Class of Vehicle Routing Problems with Heterogeneous Fleet". </b> 
-      in <b>ANNALS OF OPERATIONS RESEARCH - ANOR - SPRINGER </b> Volume 273, Issue 1-2, pp. 5-54, 2019 
-<a  href="./conteudo/artigos/PUCA-ANOR2019.pdf">|PDF|</a></li> 
-
-
-
-
-</li>	
-
-
-
-
-
-<li>
-Thiago Gouveia da Silva; Serigne Gueye; Philippe Michelon; Luiz Satoru Ochi; and Lucidio dos Anjos Formiga Cabral. (2019)<b>
-  "A polyhedral approach to the generalized minimum labeling spanning tree problem". </b> 
-  <b>  in EURO Journal on Computational Optimization - SPRINGER, volume 7, pp. 47-77.  </b> 2019  
-<a  href="./conteudo/artigos/THIAGO-EUROJCO2019.pdf">|PDF|</a></li> 
-
-
-
-
-</li>	
-
-
-
-
-</li>	
-
-
-<li>
-Gustavo Silva Semaan, Augusto Cesar Fadel, Jose Andre de Moura Brito, and Luiz Satoru Ochi (2019).<b>
-  "A Hybrid Efficient Heuristic with Hopkins Statistic for the Automatic Clustering Problem". </b> 
-      in <b>IEEE Latin America Transactions, Volume 17(1), p. 7-17, (2019) 
-<a  href="./conteudo/artigos/GUSTAVO IEEE-LAT2019.pdf">|PDF|</a></li> 
-
-
-
-
-</li>	
-
-
-  
-<li>
-  Elias Lawrence Marques Junior, Vitor Nazario Coelho, Igor Machado Coelho, Bruno Nazario Coelho and Luiz Satoru Ochi (2019)<b>
-  "A Multi-objective Metaheuristic for a Green UAV Grid Routing Problem". </b> 
-      <b> Aceito para ser publicado na serie Lecture Notes in Computer Science - LNCS - SPRINGER. </b>   
-<a  href="./conteudo/artigos/ELIAS-LNCS2019.pdf">|PDF|</a></li> 
-
-
-
-
-</li>	
-
-
-  
-<li>
-  Vitor Nazario Coelho, Yuri B. Gabrich; Thays A Oliveira;Luiz Satoru Ochi; Alexandre C Barbosa; and Igor Machado Coelho (2019)<b>
-  "When CI and Descentralized Systems Effectively Meet Smart Cities and Grids". </b> 
-      <b> Capitulo Livro: Serie: URBAN COMPUTING - Book: Smart and Digital Cities, pp. 239-249 - SPRINGER. </b>  ISSN: 2510-2575 
-<a  href="./conteudo/artigos/VITOR-IGOR-LNCS2019.pdf">|PDF|</a></li> 
-
-
-
-
-
-
-  
-<li>
-  Marques Moreira Sousa, Luiz Satoru Ochi, and Simone de Lima Martins (2019)<b>
-  "An Efficient Heuristic to the Traveling Salesperson Problem with Hotel Selection". </b> 
-      <b> Capitulo de Livro - Hybrid Metaheuristics - LNCS 11299 - SPRINGER, pp. 31-45. </b> ISSN 0302-9743, https://doi.org/10.1007/978-3-030-05983-5. 2019  
-<a  href="./conteudo/artigos/CAPITULO Livro-MARQUES2019.pdf">|PDF|</a></li> 
-
-
-
-
-
-<li>
-Andre Villela da Silva and Luiz Satoru Ochi (2019)<b>
-  "Local Search Methods for the MRCPSP-Energy". </b> 
-      <b> Capitulo de Livro - Hybrid Metaheuristics - LNCS 11299 - SPRINGER, pp. 172-179. </b> ISSN 0302-9743, https://doi.org/10.1007/978-3-030-05983-5. 2019  
-<a  href="./conteudo/artigos/CAPITULO Livro-MARQUES2019.pdf">|PDF|</a></li> 
-
-
-  
-<li>
-Coelho V.N.; Coelho, I.M.; Mladenovic, N.; Ramalhinho, H.; Ochi, L.S.; Guimar�es, F.G.; Souza, M.J.F. (2019)<b>
-  "Less Is More: The Neighborhood Guided Evolution Strategies Convergence on Some Classic Neighborhood Operators". </b> 
-      <b> In: Sifaleras A., Salhi S., Brimberg J. (eds). Lecture Notes in Computer Science, vol 11328, pp. 77-88. Springer,. 
-</b> DOI: 10.1007/978-3-030-15843-9_7  
-<a  href="./conteudo/artigos/LNCS2019-VITOR.pdf">|PDF|</a></li> 
-
-
-  
-</li>	
-
-
-<li>
-Thiago Gouveia da Silva (autor Tese Doutorado Co-tutela entre IC-UFF & University of Avignon), Philippe Michelon, Luiz Satoru Ochi, Lucidio Cabral,and  Serigne Gueye (orientadores pelo IC-UFF & Univ Avignon), (2019)<b>
-  "The Minimum Labeling Spanning Tree and Related Problems - PREMIO 2: Tese Premiada como a Melhor Tese de Doutorado em Pesquisa Operacional e areas afins do Brasil", 
-  LI SBPO - I Concurso de Teses & Dissertações do SBPO - FCA/UNICAMP. 
-</b>  
-<a  href="./conteudo/artigos/Thiago-CTD-SBPO2019.pdf">|PDF|</a></li> 
-
-
-
-
-
-</li>	
-
-
-<li>
-Thiago Gouveia da Silva (autor Tese Doutorado Co-tutela entre IC-UFF & University of Avignon), Philippe Michelon, Luiz Satoru Ochi, Lucidio Cabral,and  Serigne Gueye (orientadores pelo IC-UFF & Univ Avignon), (2019)<b>
-  "The Minimum Labeling Spanning Tree and Related Problems - PREMIO 1: Tese de Doutorado Premiada como a Segunda Melhor Tese de Doutorado dentre as melhores Teses em Computação do Brasil", 
-  XXXII Concurso de Teses & Dissertações do CSBC 2019 - Belém/PA. 
-</b>  
-<a  href="./conteudo/artigos/Thiago-CTD-SBC2019.pdf">|PDF|</a></li> 
-
-
-
-
-</li>	
-
-
-</li>	
-
-
-<li>
-Munhoz, Pablo L. A.; Carmo, F. P.; Souza, Ueverton. S.; Drummond, Lucia. M. A.; Gonzalez, Pedro. H.; Ochi, Luiz Satoru.; and Michelon, P. (2019). <b>
-  Locality Sensitive Algotrithms for Data Mule Routing Problem. 13th International Conference on Algorithmic Aspects in 
-Information and Management (AAIM) - Beijin, China - Lecture Notes in Computer Science (LNCC) Springer, 2019. v. 11640. p. 236-248.    
-</b> <a  href="./conteudo/artigos/UEVERTON-AAIM2019.pdf">|PDF|</a></li> 
-
-
-
-<li>
-Araujo, Rodolfo P.; Coelho, Igor M; Ochi, Luiz Satoru.; and Nazario, Vitor. (2019). <b>
-  "LibBFT: a High-Performace Timed Automata Library Collection for Byzantine Fault Tolerance". in Proceedings of the IEEE-31st International Symposium on Computer Architecture 
-and High Performance Computing (IEEE/SBAC-PAD), p. 234-240. DOI 10.1109/SBAC-PAD.2019.00045
-.   
-</b> <a  href="./conteudo/artigos/IGOR-WHPCSC-SBAC-PAD2019.pdf">|PDF|</a></li> 
-
-
-
-<li>
-Marques Moreira Souza, Simone Martins e Luiz Satoru Ochi (2019)<b>
-  "O Problema do Caixeiro Viajante com Seleção de Hotéis: Uma Revisao Sistematica da
-Literatura", Anais do SBSI 2019. 
-</b>  
-<a  href="./conteudo/artigos/Marques-SBSI2019.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-<li>
-Fabiano Bhering, Celio V N Figueiredo, Luiz Satoru Ochi and Diego Passos (2019). <b>
-  "Multipath Selection Mechanism for Wireless Video-Surveillance Systems", LANOMS 2019 - Latin-American Network Operations and Management Symposium    
-</b>  
-<a  href="./conteudo/artigos/Fabiano-LANOMS2019.pdf">|PDF|</a></li> 
-
-
-
-
-</li>	
 	
+1. Capua, Renatha; Abitibol, Yuri; Ochi, Luiz Satoru.; Vida, Thibaut; and Sadykov, Ruslan.  (2017)<b> "Métodos Exatos para o Problema de Empacotamento com Dependências".  Anais do <b> XLIX Simpósio Brasileiro de Pesquisa Operacional - XLIX SBPO </b> 2017.  
+
 	
-<li>
-	Semaan, Gustavo S.; Ochi, Luiz Satoru; Alvernaz, Debora; Dembogurski, Bruno; Silva, Edelberto; Brito, J. A. M.; and Ribas, Savio. (2019). <b>
-	  Um panorama geral das contribuicoes e das redes de colaboração do SBIE. Simposio Brasileiro de Informatica na Educação (SBIE 2019) � SBC - Bras�lia/DF
-   	</b> <a  href="./conteudo/artigos/SEMAAN-SBIE2019.pdf">|PDF|</a></li> 
+1. Silva, Andre Renato V.; Ochi, Luiz Satoru.; Silva, Ueverton; Barros, Bruno S.; and Pinheiro, Rian G. S.  (2017)<b> "Algoritmos heurísticos e exatos para o Problema de Imundação livre em grafos".  Anais do <b> XLIX Simpósio Brasileiro de Pesquisa Operacional - XLIX SBPO  2017.     
+
+
+
+## **2016**
 	
 
-  
-</li>	
-	
-	
-<li>
-	Barros, Bruno; Pinheiro, Rian and Ochi, Luiz Satoru. (2019). <b>
-	  A GRASP Approach for The Minimum Spanning Tree Under Conflict Constraints. Encontro Nacional de Inteligencia Artificial & Computacional - ENIAC 2019, em conjunto com BRASIS 2019 - Salvador - BA
-   	</b> <a  href="./conteudo/artigos/BRUNO-ENIAC2019.pdf">|PDF|</a></li> 
-	
+## **Accepted/Published**
 
 
-</li>	
-
-
-<li>
-	Beltrao, Augusto; Brito, Jose Andre.; and Ochi, Luiz Satoru. (2019). <b> Heuristic Algorithm for the Travelling Salesman Problem With Hotel Selection. Encontro Nacional de Inteligencia Artificial & Computacional - ENIAC 2019,
-	em conjunto com BRASIS 2019ENIAC 2019 - Salvador - BA
-   	</b> <a  href="./conteudo/artigos/BELTRAO-ENIAC2019.pdf">|PDF|</a></li> 
-	
-
-
-</li>
-
-
-
-<li>
-Anderson Zudio, Igor Machado Coelho, Paulo Eustaquio Duarte Pinto; and Ochi, Luiz Satoru. (2019). <b> Algoritmo Genetico para o Problema de Empacotamento 2D Classico. LI Simposio Brasileiro de Pesquisa Operacional - LI SBPO 2019,
-FCA-UNICAMP - Limeira SP.
-  </b> <a  href="./conteudo/artigos/Anderson-SBPO2019.pdf">|PDF|</a></li> 
-
-
-
-</li>
-
-
-</ol>
-
-
-
-<b>2018</b><br/><br/>
-
-<b>Accepted/Published</b>
-
-<ol>
-
-
-<li>
-Vitor Nazario, Igor Machado, Luiz Satoru Ochi and Thais Oliveira (editores) (2019)<b>
-  "Smart and Digital Cities: From computational intelligence to applied social sciences". </b> 
-      <b> Livro - a ser publicado na serie: Urban Computing - SPRINGER </b> 2019  
-<a  href="./conteudo/artigos/Livro Smart Cities-Springer2019.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-<li>
-Thiago Gouveia,Eduardo Queiroga, Lucidio Cabral, Luiz Satoru Ochi, Philippe Michelon, and Serigne Gueye. (2018)<b>
-  "A hybrid metaheuristic for the minimum labeling spanning tree problem". </b> 
-      <b>To appear in European Journal of Operational Research - EJOR - ELSEVIER </b> 2018  
-<a  href="./conteudo/artigos/PAPER THIAGO-EJOR2018.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-
-<li>
-Matheus Haddad, Rafael Martinelli, Thibaut Vidal, Richard Hartl, Simone de Lima Martins, Luiz Satoru Ochi, and Marcone J F Souza. (2018)<b>
-  "Large Neighborhood-Based Metaheuristic and Branch-and-Price for the Pickup and Delivery Problem with Split Loads". </b> 
-      <b> in European Journal of Operational Research - EJOR - ELSEVIER, vol 270(3), p. 1014-1027 </b> 2018  
-<a  href="./conteudo/artigos/PAPER MATHEUS-EJOR2018.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-
-
-<li>
-Renatha Capua, Yuri Abtibol, Luiz Satoru Ochi and Thibaut Vidal. (2018)<b>
-  "A study on exponential-size neighborhoods for the bin packing problem with conflicts". </b> 
-      <b> in Journal of Heuristics - SPRINGER, Vol. 24, p. 667-695,  </b> 2018  
-<a  href="./conteudo/artigos/PAPER RENATHA JH-PUBLICADO 2018.pdf">|PDF|</a></li> DOI: https://doi.org/10.1007/s10732-018-9372-2
-
-
-
-</li>	
-
-
-
-<li>
-Eyder Rios; Luiz Satoru Ochi; Cristina Boeres; Vitor Nazário; Igor Machado, and Ricardo Farias. (2018)<b>
-  "Exploring parallel multi-GPU local search strategies in a metaheuristic framework". </b> 
-      <b>Journal of Parallel and Distributed Computing, 111, pp. 39-55, ELSEVIER </b> 2018  
-<a  href="./conteudo/artigos/JPDC EYDER2017.pdf">|PDF|</a></li> DOI: http://dx.doi.org/10.1016/j.jpdc.2017.06.011
-
-
-
-</li>	
-
-
-
-</li>
-<li> Andre Renato Villela da Silva, Rian Pinheiro, Bruno Barros and Luiz Satoru Ochi. (2018)<b>
-  "Efficient approaches for the Flooding Problem on graphs". </b> 
-  <b> To Appear in Annals of Operations Research - ANOR. SPRINGER  2018 </b> 
-<a  href="./conteudo/artigos/PAPER ANDRE-ANOR2018.pdf">|PDF|</a></li> 	
-
-
-
-</li>
-<li> Erick Oliveira, Aura Conci, Panos Liatsis and Luiz Satoru Ochi. (2018)<b>
-  "Fractal Triangular Search: A metaheuristic for image contente search". </b> 
-  <b> in IET - IMAGE PROCESSING, PUBMED JOURNALS 12(8), p: 1475-1484,  2018 </b> DOI:10.1049/iet-ipr.2017.0790 , Print ISSN 1751-9659, Online ISSN 1751-9667
-<a  href="./conteudo/artigos/PAPER ERICK IET-IMAGE PROCESSING2018.pdf">|PDF|</a></li> 	
-
-
-
-<li>
-Rian Gabriel Santos Pinheiro, Ivan Cesar Martins, Fabio Protti and Luiz Satoru Ochi. (2018)<b>
-  "A Matheuristic for the Cell Formation Problem". </b> 
-  <b> OPTIMIZATION LETTERS - SPRINGER, v. 12, p. 335-346,  </b> 2018  
-<a  href="./conteudo/artigos/RIAN-OPLET2018.pdf">|PDF|</a></li> 
-
-
-
-
-</li>	
-
-
-
-
-
-<li>
-Thiago Gouveia da Silva; Serigne Gueye; Philippe Michelon; Luiz Satoru Ochi; and Lucidio dos Anjos Formiga Cabral. (2018)<b>
-  "A polyhedral approach to the generalized minimum labeling spanning tree problem". </b> 
-  <b> To appear in EURO Journal on Computational Optimization - SPRINGER  </b> 2018  
-<a  href="./conteudo/artigos/THIAGO-EUROJCO2018.pdf">|PDF|</a></li> 
-
-
-
-
-</li>	
-
-
-<li>
-</b> Rogerio Ferreira de Moraes, Andre Renato Villela da Silva, Luiz Satoru Ochi and Luis Marti.(2018)<b> "Implementation of a RVND, VNS, ILS heuristic for the Traveling Car Renter Problem". </b> 
-      <b> Proceeding of the 2018 IEEE Congress on Evolutionary Computation (IEEE CEC 2018) </b>, 08-13 July 2018, Rio de Janeiro, Brazil<b>    
-<a  href="./conteudo/artigos/PAPER ROGERIO CEC2018.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-</li>	
-
-
-
-<li>
-</b> Edcarllos Santos, Puca Huachi Penna, Igor Machado Coelho, Heder Dorneles Soares, Luiz Satoru Ochi and Luidi Simonetti.(2018)<b> "Logistics SLA Optimization Service for Transportation in Smart Cities". </b> 
-    <b> Proceeding of the 2018 International Joint Conference on Neural Networks (IJCNN 2018) </b>, co-sponsored by International Neural Network Society; 08-13 July 2018, Rio de Janeiro, Brazil<b>    
-<a  href="./conteudo/artigos/PAPER ROGERIO CEC2018.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-
-
-<li>
-</b> Pablo Munhoz, Lucia Drummond, Ueverton dos Santos Souza Pedro Henrique Gonzalez Silva , Luiz Satoru Ochi and Philippe Michelon.(2018)<b> "General Variable Neighborhood Search for the Data Mule Scheduling Problem". </b> 
-    <b> Electronic Notes in Discrete Mathematics - ENDM, Vol 66, pp. 71-78, 2018 - ELSEVIER </b> <b>    
-<a  href="./conteudo/artigos/PAPER PABLO ENDM2018.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-<li>
-</b> Micheli Knechtel; Philippe Michelon; Serigne Gueye; and Luiz Satoru Ochi (2018). <b>"A Neighborhood Exploration Approach with Multi-Start for Extend Generalized Block-modeling".  
-      Electronic Notes in Discrete Mathematics - ENDM, Vol 66, pp. 63-70, 2018, ELSEVIER </b> <b>    
-<a  href="./conteudo/artigos/PAPER MICHELI ENDM2018.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-
-<li>
-</b> Thiago Gouveia da Silva; Gilberto F Souza Filho; Igor A M Barbosa; Nenad Mladenovic; Lucidio A F Cabral; Luiz Satoru Ochi; and Daniel Aloise (2018). <b>"Efficient heuristics for the minimum labering global cut problem".  
-    Electronic Notes in Discrete Mathematics - ENDM, Vol 66, pp. 23-30, 2018, ELSEVIER </b> <b>    
-<a  href="./conteudo/artigos/PAPER THIAGO ENDM2018.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-<li>
-</b> Maira Beatriz Hernandez Moran, Luiz Satoru Ochi, Aura Conci, Adriel Santos Araujo and Debora Christina Muchaluat Saade.(2018)<b> "Iterated Local Search for RGB Image Steganography�.</b>
-    <b> Proceedings of the �The 25th International Conference on Systems, Signals and Image Processing -  IWSSIP 2018,</b> Maribor, Slovenia, in June, 2018
-    
-<a  href="./conteudo/artigos/PAPER MAIRA IWSSIP2018.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-</li>	
-
-
-<li>
-</b> Edcarllos Santos, Alfredo Candia Vejar, Ueverton Santos Souza, Luiz Satoru Ochi, Luidi Simonetti and Eduardo A�lvarez Miranda.(2018)<b> "On the Complexity of Prize Collecting Path Problems.</b>
-    <b> Proceedings of the EURO-ALIO 2018, Bologna,  Italy </b>, 2018. 
-<a  href="./conteudo/artigos/PAPER ED EURO-ALIO2018.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-
-
-<li>
-</b> Andre Renato Silva, Luiz Satoru Ochi, Bruno Jose da Silva Barros, Rian Gabriel Pinheiros and Ueverton dos Santos Souza.(2018)<b> "Efficient techniques for the Free Flooding Problem on Graphs.</b>
-    <b> Proceedings of the EURO-ALIO 2018, Bologna - Italy </b>, 2018. 
-<a  href="./conteudo/artigos/PAPER ANDRE EURO-ALIO2018.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-<li>
-</b> Ruben Interian, Elio David Zaldivar Linares, Luiz Satoru Ochi, Thiago Gouveia.(2018)<b> "Minimum Representation Spanning Tree Problem.</b>
-    <b> Proceedings of the EURO-ALIO 2018, Bologna - Italy </b>, 2018. 
-<a  href="./conteudo/artigos/PAPER ANDRE EURO-ALIO2018.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-<li>
-</b> Augusto Fadel, Luiz Satoru Ochi, Jose Andre Moura Brito, Gustavo Silva Semaan.(2018)<b> "Proposta de Metodo heuristico aplicado ao Problema de Microagregacao Multivariado.</b>
-    <b> Anais do L SBPO - Puc Rio, 06 a 09 de Agosto - RJ </b>, 2018. 
-<a  href="./conteudo/artigos/PAPER AUGUSTO SBPO2018.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-<li>
-</b> Matheus Nohra Haddad, Luiz Satoru Ochi, Simone de Lima Martins, Marcone Jamilson Freitas Souza.(2018)<b> "Uma heuristica eficiente para o Problema de Roteamento de Veiculos com Coleta e Entrega Rentaveis.</b>
-    <b> Anais do L SBPO - Puc Rio, 06 a 09 de Agosto - RJ </b>, 2018. 
-<a  href="./conteudo/artigos/PAPER MATHEUS SBPO2018.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-<li>
-</b> Elio David Zaldivar Linares, Luiz Satoru Ochi, Thiago Gouveia Da Silva, Ruben Interian.(2018)<b> "O Problema da Arvore Geradora de Representacao Minima.</b>
-    <b> Anais do L SBPO - Puc Rio, 06 a 09 de Agosto - RJ </b>, 2018. 
-<a  href="./conteudo/artigos/PAPER MATHEUS SBPO2018.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-</ol>
-
-
-<b>2017</b><br/><br/>
-
-<b>Accepted/Published</b>
-
-<ol>
-
-
-
-</li>
-<li> Teobaldo L Bulhões Junior; Gilberto F. Souza Filho; Lucídio Anjos Formiga Cabral; Luiz Satoru Ochi; and Fabio Protti. (2017)<b>
-  "New heuristics for the Bicluster Editing Problem". </b> 
-  <b> Annals of Operations Research - ANOR. SPRINGER, Volume 258, Issue 2, pp 781�814  2017 </b> 
-<a  href="./conteudo/artigos/PAPER ANOR2016.pdf">|PDF|</a></li> DOI:https://doi.org/10.1007/s10479-016-2261-x	
-
-
-
-
-<li>
-Rian Gabriel Santos Pinheiro, Ivan Cesar Martins, Fabio Protti and Luiz Satoru Ochi. (2017)<b>
-  "A Matheuristic for the Cell Formation Problem". </b> 
-      To appear in <b> OPTIMIZATION LETTERS - SPRINGER </b> 2017  
-<a  href="./conteudo/artigos/RIAN-OPLET2017.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-
-<li>
-Puca Huachi Vaz Penna, Anand Subramanian, Luiz Satoru Ochi, Thibaut Vidal, and Christian Prins. (2017)<b>
-  "A Hybrid Heuristic for a Broad Class of Vehicle Routing Problems with Heterogeneous Fleet". </b> 
-      To appear in <b>ANNALS OF OPERATIONS RESEARCH - ANOR - SPRINGER </b>  
-<a  href="./conteudo/artigos/PUCA-ANOR2017.pdf">|PDF|</a></li> 
-
-
-
-
-</li>	
-
-
-<li>
-Coelho, Vitor Nazário; Machado, Igor Coelho.; Coelho, Bruno N.; Oliveira, Glauber.; Barbosa, Alexandre.; Pereira, Leo.; Freitas, Alan.; Santos, Haroldo G.; Ochi, Luiz Satoru.; and Guimarães, Frederico. (2017)<b>
-  "A communitarian microgrid storage planning system inside the scope of a smart city". </b> 
-    <b>  APPLIED ENERGY </b> 201 (2017), pp. 371-381, <b> ELSEVIER </b> 2017  
-<a  href="./conteudo/artigos/APENERGY-VITOR2017.pdf">|PDF|</a></li> 
-
-
-
-
-
-</li>	
-
-
-<li>
-Coelho, Bruno Nazário.; Coelho, Vitor Nazário; Machado, Igor Coelho.; Ochi, Luiz Satoru.; Koochaksaraei, Roozbeh H.; Zuidema, Demetrius.; Lima, Milton S. F.; and da Costa, Adilson R. (2017)<b>
-  "A Multi-Objective Green UAV Routing Problem". </b> 
-  in <b>  COMPUTERS & OPERATIONS RESEARCH, ELSEVIER,  Vol. 88 - p. 306-315, </b> 2017  
-<a  href="./conteudo/artigos/C&OR-VITOR2017.pdf">|PDF|</a></li> 
-
-
-
-
-
-</li>	
-
-
-
-<li>
-Coelho, Vitor Nazário., Machado, Igor Coelho., Luz, Eduardo., Rios, Eyder., Ochi, Luiz Satoru., and Guimarães, Frederico Gadelha.  (2017)<b> 
-"A GPU deep learning metaheuristic based model for time series forecasting". </b> 
-  <b>  APPLIED ENERGY, ELSEVIER, Volume 201, pp. 412-418 </b> 2017 ISSN: 0306-2619  
-<a  href="./conteudo/artigos/APPLIED ENERGY VITOR2017.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-
-<li>
-Rios, Eyder.; Ochi, Luiz Satoru.; Boeres, Cristina.; Coelho, Vitor Nazário., Machado, Igor Coelho; and Nenad, Mladenovoc.  (2017)<b> "A performance study on multi improvement neighborhood search strategy". </b> 
-  in <b> ELECTRONIC NOTES IN DISCRETE MATHEMATICS - ELSEVIER,</b>  volume 58, pp. 199-206, 2017<b>    
-<a  href="./conteudo/artigos/PAPER ENDM2017-IGOR.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-
-<li>
-</b> Knechtel, Micheli; Michelon, Philippe; Gueye, Serigne; and Ochi, Luiz Satoru.(2017)<b> "VNS Multi-start approach for Generic Generalized Block-modeling". </b> 
-    To appear <b> Proceeding of the 5th International Conference on Variable Neighborhood Search - VNS2017 </b>, October 2-4, 2017<b>    
-<a  href="./conteudo/artigos/PAPER MICHELI VNS2017.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-<li>
-</b> Gouveia, Thiago S; Souza, Gilberto; Barbosa, Igor; Mladenovic, Nenad; Cabral, Lucidio A. F.; and Ochi, Luiz Satoru.(2017)<b> "Efficient VNS heuristic for the Minimum Labering Global  Cut Problem". </b> 
-    To appear <b> Proceeding of the 5th International Conference on Variable Neighborhood Search - VNS2017 </b>, October 2-4, 2017<b>    
-<a  href="./conteudo/artigos/PAPER THIAGO VNS2017.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-
-<li>
-</b>  Munhoz, Pablo L. A.; Ochi, Luiz Satoru.;Michelon, Philippe; and Drummond, Lucia M. A.  (2017)<b> "Variable Neighborhood Search for the Data Mule Scheduling Problem". </b> 
-    To appear  <b> Proceeding of the 5th International Conference on Variable Neighborhood Search - VNS2017 </b>,  October 2-4, 2017<b>    
-<a  href="./conteudo/artigos/PAPER PABLO VNS2017.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-
-<li>
-</b> Santos, Edcarllos.; Candia-Vejar, Alfredo.; Ochi, Luiz Satoru.; Simonetti, Luidi.; and Souza, Ueverton.  (2017)<b> "New Insights on Prize Collecting Path Problem". </b> 
-    <b> Proceeding of the II ETC/CSBC </b> 2017<b>    
-<a  href="./conteudo/artigos/PAPER II ETC/CSBC-Edcarllos-2017.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-<li>
-</b> Raylan, Marcos; Abitibol, Yuri;and Ochi, Luiz Satoru. (2017)<b> "Problema de Roteamento de Veículos voltado a minimização de emissões de dióxido de carbono". </b> 
-    Anais do <b> XLIX Simpósio Brasileiro de Pesquisa Operacional - XLIX SBPO </b> 2017<b>    
-<a  href="./conteudo/artigos/PAPER RAYLAN-SBPO2017.pdf">|PDF|</a></li> 
-
-
-
-</li>	
-
-
-<li>
-</b> Capua, Renatha; Abitibol, Yuri; Ochi, Luiz Satoru.; Vida, Thibaut; and Sadykov, Ruslan.  (2017)<b> "Métodos Exatos para o Problema de Empacotamento com Dependências". </b> 
-    Anais do <b> XLIX Simpósio Brasileiro de Pesquisa Operacional - XLIX SBPO </b> 2017<b>    
-<a  href="./conteudo/artigos/PAPER RENATHA-SBPO2017.pdf">|PDF|</a></li> 
-
-
-
-
-</li>	
-
-
-<li>
-</b> Silva, Andre Renato V.; Ochi, Luiz Satoru.; Silva, Ueverton; Barros, Bruno S.; and Pinheiro, Rian G. S.  (2017)<b> "Algoritmos heurísticos e exatos para o Problema de Imundação livre em grafos". </b> 
-    Anais do <b> XLIX Simpósio Brasileiro de Pesquisa Operacional - XLIX SBPO </b> 2017<b>    
-<a  href="./conteudo/artigos/PAPER ANDRE RENATO-SBPO2017.pdf">|PDF|</a></li> 
-
-
-
-
-</li>	
-
-
-</ol>
-
-
-<b>2016</b><br/><br/>
-
-<b>Accepted/Published</b>
-
-<ol>
-
-
-<li>
-Silva, André Renato Villela da., Ochi, Luiz Satoru.  (2016)<b> "An efficient hybrid algorithm for the Traveling Car Renter Problem". </b> 
+1. Silva, André Renato Villela da., Ochi, Luiz Satoru.  (2016)<b> "An efficient hybrid algorithm for the Traveling Car Renter Problem". </b> 
   <b> Expert Systems With Applications - ELSEVIER, volume 64, pp. 132-140, 2016 </b> DOI: 10.1016/j.eswa.2016.07.038
-<a  href="./conteudo/artigos/ES&A-ANDRE.pdf">|PDF|</a></li> 
 
+	
+1. Bastos, Lucas., Ochi, Luiz Satoru., Protti, Fabio., Subramanian, Anand., Martins, Ivan., Pinheiro, Rian.  (2016)<b> "Efficient Algorithms for Cluster Editing". Journal of Combinatorial Optimization - Springer, Volume 31, Issue 1, pp 347-371, 2016  DOI 10.1007/s10878-014-9756-7
 
-</li>	
 
 
-<li>
-Bastos, Lucas., Ochi, Luiz Satoru., Protti, Fabio., Subramanian, Anand., Martins, Ivan., Pinheiro, Rian.  (2016)<b> "Efficient Algorithms for Cluster Editing". </b> 
-  <b> Journal of Combinatorial Optimization - Springer, Volume 31, Issue 1, pp 347-371, 2016 </b> DOI 10.1007/s10878-014-9756-7
-<a  href="./conteudo/artigos/JOCO2014.pdf">|PDF|</a></li> 
+1. Pinheiro, Rian G., , Martins, Ivan C., Ochi, Luiz Satoru., Protti, Fabio., Simonetti, Luidi., and Subramanian, Anand. (2016).   "On Solving Manufacturing Cell Formation via Bicluster Editing".  European Journal of Operations Research - EJOR, volume 254, pp. 769-779, ELSEVIER. 2016  
 
 
-</li>	
 
+1. Teobaldo L Bulhões Junior; Gilberto F. Souza Filho; Lucídio Anjos Formiga Cabral; Luiz Satoru Ochi; and Fabio Protti. (2016)<b>
+  "New heuristics for the Bicluster Editing Problem".  Aceito para ser publicado em:<b> Annals of Operations Research - ANOR. SPRINGER 2016 </b> 
 
+	
+1. Vidal, Thiabaut., Maculan, Nelson., Ochi, Luiz Satoru, and Penna, Puca H. V..  (2016) "Large Neighborhoods with Implicit Customer Selection for Vehicle Routing Problems with Profits". Transportation Science, Volume 50(2), pp. 720-734, INFORMS 2016.
+	
+	
+1. Igor Coelho Machado; Pablo Luiz A. Munhoz; Luiz Satoru Ochi; Marcone J. F. Souza; Ricardo Farias  and Cristiana Bentes (2015). "An Integated CPU-GPU heuristic inspired on Variable Neighborhhod Search for the Vehicle Routing Problem with Deliveries and Selective Pickups".  International Journal of Production Research (IJPR), Volume 54 (4), Page 945-962 , 2016. DOI:10.1080/00207543.2015.1035811
 
-<li>	Pinheiro, Rian G., , Martins, Ivan C., Ochi, Luiz Satoru., Protti, Fabio., Simonetti, Luidi., and Subramanian, Anand. (2016)<b>
-  "On Solving Manufacturing Cell Formation via Bicluster Editing". </b> 
-  <b> European Journal of Operational Research - EJOR, volume 254, pp. 769-779, ELSEVIER. 2016 </b> 
-<a  href="./conteudo/artigos/PAPER EJOR RIAN.pdf">|PDF|</a></li> DOI: 10.1016/j.ejor.2016.05.010
 
+1. Santos, Edcarllos,, Ochi, Luiz Satoru.,Simonetti, Luidi., and Gonzalez, Pedro H. (2016)<b> "A Hybrid Heuristic based on Iterated Local Search for Multivehicle Inventory Routing Problem". Electronic Notes in Discrete Mathematics 52, pp. 197204, ELSEVIER. 2016 
 
 
+1. Rios, Eyder,, Ochi, Luiz Satoru.,Boeres, Cristina., Coelho, Igor Machado, Coelho,Vitor., and Nenad Mladenovic. (2016)<b> "A Performance Study on Multi Ivement Neighborhood Search Strategy". Aceito para: 4th International Conference on Variable Neighborhood Search Málaga (Spain), 3 - 5 October 2016 
+	
 
-</li>
-<li> Teobaldo L Bulhões Junior; Gilberto F. Souza Filho; Lucídio Anjos Formiga Cabral; Luiz Satoru Ochi; and Fabio Protti. (2016)<b>
-  "New heuristics for the Bicluster Editing Problem". </b> 
-  Aceito para ser publicado em:<b> Annals of Operations Research - ANOR. SPRINGER 2016 </b> 
-<a  href="./conteudo/artigos/PAPER ANOR2016.pdf">|PDF|</a></li> DOI:10.1007/s10479-016-2261-x
+## **2015**
 
+## **Accepted/Published**
 
 
 
-</li>	
 
-<li>
-Vidal, Thiabaut., Maculan, Nelson., Ochi, Luiz Satoru, and Penna, Puca H. V..  (2016)<b>
-"Large Neighborhoods with Implicit Customer Selection for Vehicle Routing Problems with Profits". </b> 
-    <b> Transportation Science, Volume 50(2), pp. 720-734, INFORMS 2016. </b> 
-DOI information: http://dx.doi.org/10.1287/trsc.2015.0584 
-<a  href="./conteudo/artigos/PAPER TRSC-Thibaut.pdf">|PDF|</a></li>
+1. Martins, Ivan., Pinheiro, Rian, Protti, Fabio, and Ochi, Luiz Satoru.  (2015) "A Hybrid Iterated Local Search and Variable Neighborhood Descent Heuristic Applied to the Cell   Formation Problem". Expert Systems with Applications,vol 42, pp. 8947-8955, 2015 - ELSEVIER. DOI information: 10.1016/j.eswa.2015.07.050 
 
+1. Neves., Tiago A,  Ochi, Luiz Satoru., Albuquerque, Celio.  (2015). "A New Hybrid Heuristic for Replica Placement and Request Distribution in Content Distribution Networks".  Optimization Letters - Springer,volume 9(4), pp. 677-692, 2015 
 
-</li>
+	
+1. Silva, Marcos Melo, Subramanian, Anand., and Ochi, Luiz Satoru.  (2015). "An Iterated Local Search heuristic for the Split Delivery Vehicle Routing Problem". 
+  Computers & Operations Research (COR),2015, pp. 234-249 - ELSEVIER. DOI information: 10.1016/j.cor.2014.08.005  
 
-<li>
-Igor Coelho Machado; Pablo Luiz A. Munhoz; Luiz Satoru Ochi; Marcone J. F. Souza; Ricardo Farias 
-and Cristiana Bentes (2015)<b>
-"An Integated CPU-GPU heuristic inspired on Variable Neighborhhod Search for the Vehicle Routing Problem with 
-Deliveries and Selective Pickups". </b> 
-  <b> International Journal of Production Research (IJPR), Volume 54 (4), Page 945-962 , 2016.</b> 
-<a  href="./conteudo/artigos/PAPERIJPR2016-IGOR.pdf">|PDF|</a></li> DOI:10.1080/00207543.2015.1035811
+	
+1. Igor Coelho Machado; Pablo Luiz A. Munhoz; Luiz Satoru Ochi; Marcone J. F. Souza; Ricardo Farias and Cristiana Bentes (2015). "An Integated CPU-GPU heuristic inspired on Variable Neighborhhod Search for the Vehicle Routing Problem with Deliveries and Selective Pickups". To appear in International Journal of Production Research. 
+	
+	
+1. Teobaldo L Bulhões Junior; Gilberto F. Souza Filho; Lucídio Anjos Formiga Cabral; Luiz Satoru Ochi; and Fabio Protti (2015). "A parallel hybrid metaheuristic for bicluster editing".  To appear in International Transactions in Operational Research - ITOR. 
+	
 
+1. Santos, Edcarllos.; Simonetti, Luidi.; Ochi, Luiz Satoru.; and Gonzalez, Pedro H.  (2015). "A Hybrid Heuristic based on Iterated Local Search for Multivehicle Inventory Routing Problem". Proc. of the <a href="http://www.inoc2015.pl/">7th International Network Optimization Conference - INOC 2015  Warsaw, Poland  
 
+	
+1. Capua, Renatha; Frota, Yuri.; Ochi, Luiz Satoru and Vidal, Thibaut.  (2015). "A bin packing problem with conflicts arising in hazardous materials transportation".  Proc. of the Sixth International triennial workshop on Freight Transportation and Logistics (ODYSSEUS 2015). Ajaccio - France.  
+	
+1. Andrade, Marcos R. Q., Ochi, Luiz Satoru; and Martins, Simone L. (2015). "Heuristics for the Periodic Mobile Piston Pump Unit Routing Problem". 
+  International Journal of Natural Computing Research - IJNCR, volume 5(1), pp. 1-25, 2015. 
+	
+	
+1. Haddad, Matheus Nohra., Thibaut Vidal, Richard Hartl, Luiz Satoru Ochi, Marcone Jamilson Freitas Souza (2015) "The Pickup and Delivery Problem with Split Loads: A Random Variable Neighborhood Descent Heuristic".   Proc. of the VeRoLog 2015 </b> The fourth meeting of the EURO Working Group on Vehicle Routing and Logistics Optimization - VeRoLog Vienna, Austria, June 8-10 
 
-</li>
+	
+1. Cruz, Marcelo Dib, and Ochi, Luiz Satoru (2015) "A multi-start heuristic based on GRASP for an automatic clustering Problem". Pesquisa Operacional para Desenvolvimento - PODes, Vol 7(2) </b>, pp. 130-146, 2015. 
 
+	
+1. Semaan, Gustavo Silva., Vasconcelos, Raphael B., Brito, Jose André M., and Ochi, Luiz Satoru (2015) "A new method for the automatic clustering problem based on density and grid concepts". Revista Pesquisa Naval, Brasília - DF, n. 27, 2015, p. 126-135.. 
 
+	
+1. Rios, Eyder., Ochi, Luiz Satoru., Boeres, M. Cristina S., Coelho, Igor M., and Farias, Ricardo. (2015) "A Performance Study on GPU-based Neighborhood Search Algorithms for Vehicle Routing". Proc. of the Workshop on Applications for Multi Core Architectures, Held in conjunction with the 27th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2015)</b> Florianópolis-Sc, Brasil.
 
-
-
-
-<li>	Santos, Edcarllos,, Ochi, Luiz Satoru.,Simonetti, Luidi., and Gonzalez, Pedro H. (2016)<b> "A Hybrid Heuristic based on Iterated Local Search for Multivehicle Inventory Routing Problem". </b> 
-  <b> Electronic Notes in Discrete Mathematics 52, pp. 197204, ELSEVIER. 2016 </b> 
-<a  href="./conteudo/artigos/PAPER ENDM2016.pdf">|PDF|</a></li> http://dx.doi.org/10.1016/j.endm.2016.03.026
-
-
-</li>	
-
-
-<li> Rios, Eyder,, Ochi, Luiz Satoru.,Boeres, Cristina., Coelho, Igor Machado, Coelho,Vitor., and Nenad Mladenovic. (2016)<b> "A Performance Study on Multi Improvement Neighborhood Search Strategy". </b> 
-  <b> Aceito para: 4th International Conference on Variable Neighborhood Search Málaga (Spain), 3 - 5 October 2016 </b> 
-<a  href="./conteudo/artigos/PAPER VNS EYDER2016.pdf">|PDF|</a></li> 
-
-
-</li>	
-
-
-</ol>
-
-<b>2015</b><br/><br/>
-
-<b>Accepted/Published</b>
-
-<ol>
-
-
-
-
-
-
-<li>
-Martins, Ivan., Pinheiro, Rian, Protti, Fabio, and Ochi, Luiz Satoru.  (2015)<b>
-"A Hybrid Iterated Local Search and Variable Neighborhood Descent Heuristic Applied to the Cell
-  Formation Problem". </b> 
-    <b> Expert Systems with Applications,vol 42, pp. 8947-8955, 2015 - ELSEVIER. </b> 
-DOI information: 10.1016/j.eswa.2015.07.050 
-<a  href="./conteudo/artigos/PAPER ESWA2015-IVAN.pdf">|PDF|</a></li>
-
-
-
-<li>
-Neves., Tiago A,  Ochi, Luiz Satoru., Albuquerque, Celio.  (2015)<b>
-"A New Hybrid Heuristic for Replica Placement and Request Distribution in Content Distribution Networks". </b> 
-  <b> Optimization Letters - Springer,volume 9(4), pp. 677-692, 2015 </b> 
-<a  href="./conteudo/artigos/PAPER-TIAGO-FINAL-OPTLETTERS2014.pdf">|PDF|</a></li>
-
-
-
-<li>
-Silva, Marcos Melo, Subramanian, Anand., and Ochi, Luiz Satoru.  (2015)<b>
-"An Iterated Local Search heuristic for the Split Delivery Vehicle Routing Problem". </b> 
-  <b> Computers & Operations Research (COR),2015, pp. 234-249 - ELSEVIER. </b>DOI information: 10.1016/j.cor.2014.08.005  
-<a  href="./conteudo/artigos/PAPER2-COR-MARCOS.pdf">|PDF|</a></li>
-
-
-</li>
-
-<li>
-Igor Coelho Machado; Pablo Luiz A. Munhoz; Luiz Satoru Ochi; Marcone J. F. Souza; Ricardo Farias 
-and Cristiana Bentes (2015)<b>
-"An Integated CPU-GPU heuristic inspired on Variable Neighborhhod Search for the Vehicle Routing Problem with 
-Deliveries and Selective Pickups". </b> 
-  <b> To appear in International Journal of Production Research. </b> 
-<a  href="./conteudo/artigos/PAPERIJPR2015-IGOR.pdf">|PDF|</a></li>
-
-
-</li>
-
-
-<li>
-Teobaldo L Bulhões Junior; Gilberto F. Souza Filho; Lucídio Anjos Formiga Cabral; Luiz Satoru Ochi; and Fabio Protti (2015)<b>
-"A parallel hybrid metaheuristic for bicluster editing". </b> 
-  <b> To appear in International Transactions in Operational Research - ITOR. </b> 
-<a  href="./conteudo/artigos/PAPER ITOR-GILBERTO.pdf">|PDF|</a></li>
-
-
-</li>
-
-
-
-<li>
-Santos, Edcarllos.; Simonetti, Luidi.; Ochi, Luiz Satoru.; and Gonzalez, Pedro H.  (2015)<b>
-"A Hybrid Heuristic based on Iterated Local Search for Multivehicle Inventory Routing Problem". </b> 
-  <b> Proc. of the <a href="http://www.inoc2015.pl/">7th International Network Optimization 
-Conference - INOC 2015 </b>- Warsaw, Poland  
-<a  href="./conteudo/artigos/Edcarllos-INOC2015.pdf">|PDF|</a></li>
-
-
-</li>
-
-<li>
-Capua, Renatha; Frota, Yuri.; Ochi, Luiz Satoru and Vidal, Thibaut.  (2015)<b>
-"A bin packing problem with conflicts arising in hazardous materials transportation". </b> 
-  <b> Proc. of the <a href="http://odysseus2015.sciencesconf.org/"> Sixth International triennial workshop on Freight Transportation and Logistics 
-(ODYSSEUS 2015). Ajaccio - France.  </b>  
-<a  href="./conteudo/artigos/Edcarllos-INOC2015.pdf">|PDF|</a></li>
-
-
-
-<li>
-Andrade, Marcos R. Q., Ochi, Luiz Satoru; and Martins, Simone L. (2015)<b>
-"Heuristics for the Periodic Mobile Piston Pump Unit Routing Problem". </b> 
-  <b> International Journal of Natural Computing Research - IJNCR, volume 5(1), pp. 1-25, 2015. </b> 
-<a  href="./conteudo/artigos/PAPER IJNCR MARCOS QUINET.pdf">|PDF|</a></li>
-
-
-</li>
-
-<li>
-  Haddad, Matheus Nohra., Thibaut Vidal, Richard Hartl, Luiz Satoru Ochi, Marcone Jamilson Freitas Souza (2015)<b>
-"The Pickup and Delivery Problem with Split Loads: A Random Variable Neighborhood Descent Heuristic". </b> 
-  <b>  Proc. of the <a href="http://verolog2015.univie.ac.at/">  
-VeRoLog 2015 </b> The fourth meeting of the EURO Working Group on Vehicle Routing and Logistics Optimization - VeRoLog
-Vienna, Austria, June 8-10 
-<a  href="./conteudo/artigos/Matheus Verolog2015.pdf">|PDF|</a></li>
-
-
-
-<li>
-Cruz, Marcelo Dib, and Ochi, Luiz Satoru (2015)<b>
-"A multi-start heuristic based on GRASP for an automatic clustering Problem". </b> 
-    <b> Pesquisa Operacional para Desenvolvimento - PODes, Vol 7(2) </b>, pp. 130-146, 2015. 
-<a  href="./conteudo/artigos/PAPER POPD DIB.pdf">|PDF|</a></li> </b>
-
-
-
-<li>
-Semaan, Gustavo Silva., Vasconcelos, Raphael B., Brito, Jose André M., and Ochi, Luiz Satoru (2015)<b>
-"A new method for the automatic clustering problem based on density and grid concepts". </b> 
-    <b> Revista Pesquisa Naval, Brasília - DF, n. 27, 2015, p. 126-135.. 
-<a  href="./conteudo/artigos/PAPER RPN Gustavo Semaan.pdf">|PDF|</a></li> </b>
-
-
-
-
-<li>
-  Rios, Eyder., Ochi, Luiz Satoru., Boeres, M. Cristina S., Coelho, Igor M., and Farias, Ricardo. (2015)<b>
-"A Performance Study on GPU-based Neighborhood Search Algorithms for Vehicle Routing". </b> 
-  <b>  Proc. of the Workshop on Applications for Multi Core Architectures, Held in conjunction with the
-27th International Symposium on Computer Architecture and High Performance Computing
-(SBAC-PAD 2015)</b> Florianópolis-Sc, Brasil.
-<a  href="./conteudo/artigos/EYDER WAMCA2015.pdf">|PDF|</a></li>
-
-
-
-<li>
-Machado, Victor Mouffron Carvalho, Neves, Tiago A and Ochi, Luiz Satoru (2015)<b>
+	
+1. Machado, Victor Mouffron Carvalho, Neves, Tiago A and Ochi, Luiz Satoru (2015)<b>
 "Resolução do Problema de Alocação e Roteamento de Operadores em Células de Manufatura: Abordagem Exata e Heurística" . 
 </b> (Artigo classificado entre os três(3) melhores na categoria PIC-Prêmio de Iniciação Científica - XLVII SBPO). 
     Anais do XLVII SBPO </b>, pp. 3686-3693, 2015. 
-<a  href="./conteudo/artigos/VICTOR-SBPO2015.pdf">|PDF|</a></li> </b>
 
-
-
-<li>
-Silva, Thiago Gouveia., Queiroga, Eduardo Vieira., Cabral, Lucidio F.,  and Ochi, Luiz Satoru (2015)<b>
+	
+1. Silva, Thiago Gouveia., Queiroga, Eduardo Vieira., Cabral, Lucidio F.,  and Ochi, Luiz Satoru (2015)<b>
 "Novos Ótimos para o Poblema da Árvore Geradora com Rotulação Mínima" . 
 </b> Anais do XLVII SBPO </b>, pp. 4214-4225, 2015. 
-<a  href="./conteudo/artigos/THIAGO-SBPO2015.pdf">|PDF|</a></li> </b>
 
+	
+1. Coelho, Igor Machado, Roberti, Giancarlo F, Pinto, Paulo E D Pinto, and Ochi, Luiz Satoru (2015)<b>
+"Estruturas Eficientes para Buscas Locais Aplicadas a um Problema de Roteamento de Veículos" . Anais do XLVII SBPO </b>, PP. 4130-4141, 2015. 
 
+	
+1. Capua, Renatha, Frota, Yuri, Vidal, Thibaut. and Ochi, Luiz Satoru (2015) "Um algoritmo heurístico para o Problema de Bin-Packing com Conflitos" . 
+Anais do XLVII SBPO </b>, pp. 4252-4261, 2015. 
 
-<li>	
-Coelho, Igor Machado, Roberti, Giancarlo F, Pinto, Paulo E D Pinto, and Ochi, Luiz Satoru (2015)<b>
-"Estruturas Eficientes para Buscas Locais Aplicadas a um Problema de Roteamento de Veículos" . 
-</b> Anais do XLVII SBPO </b>, PP. 4130-4141, 2015. 
-<a  href="./conteudo/artigos/IGOR-SBPO2015.pdf">|PDF|</a></li> </b>
-
-
-<li>	
-Capua, Renatha, Frota, Yuri, Vidal, Thibaut. and Ochi, Luiz Satoru (2015)<b>
-"Um algoritmo heurístico para o Problema de Bin-Packing com Conflitos" . 
-</b> Anais do XLVII SBPO </b>, pp. 4252-4261, 2015. 
-<a  href="./conteudo/artigos/RENATHA-SBPO2015.pdf">|PDF|</a></li> </b>
-
-
-<li>	
-Pinheiro, Rian G. S., Martins, Ivan César, Protti, Fábio. and Ochi, Luiz Satoru (2015)<b>
+	
+1. Pinheiro, Rian G. S., Martins, Ivan César, Protti, Fábio. and Ochi, Luiz Satoru (2015)<b>
 "Um algoritmo eficiente para o Problema de Biclusterização em Grafos" . 
 </b> Anais do XLVII SBPO </b>, pp.4240-4251, 2015. 
-<a  href="./conteudo/artigos/RIAN-SBPO2015.pdf">|PDF|</a></li> </b>
 
-
-
-<li>	
-Santos, Nádia Mendes dos, Brito, José André M , Semaan, Gustavo S  and Ochi, Luiz Satoru (2015)<b>
+	
+1. Santos, Nádia Mendes dos, Brito, José André M , Semaan, Gustavo S  and Ochi, Luiz Satoru (2015)<b>
 "Metaheuristicas GRASP e VNS para Problema de Grafo com Restrições de Capacidade e Conexidade" . 
 </b> Anais do XLVII SBPO </b>, pp.4202-4213, 2015. 
-<a  href="./conteudo/artigos/NADIA-SBPO2015.pdf">|PDF|</a></li> </b>
 
-
-</li>	
-
-
-<li>	
-Haddad, Matheus N., Vidal, Thibaut., Harth, Richard., and Ochi, Luiz Satoru (2015)<b>
+	
+1. Haddad, Matheus N., Vidal, Thibaut., Harth, Richard., and Ochi, Luiz Satoru (2015)<b>
 "Uma Estratégia Heurística para o Problema de Roteamento de Veículos com
 Coleta e Entrega Fracionadas um-para-um" . 
 </b> Anais do XLVII SBPO </b>, pp.4240-4251, pp. 4166-4177, 2015. 
-<a  href="./conteudo/artigos/RIAN-SBPO2015.pdf">|PDF|</a></li> </b>
 
+	
+1. Souza, Marques Moreira de.,	 Gonçalves, Luciana Brugiolo., Coelho, Igor Machado., and Ochi, Luiz Satoru (2015). "Variable Neighborhood Search Heuristic for the Traveling Salesman Problem with hotel selection" .  Aceito para XLI Conferencia Latinoamericana en Informática (CLEI 2015), Arequipa - Peru   2015. 
 
-
-<li>	
-Souza, Marques Moreira de.,	 Gonçalves, Luciana Brugiolo., Coelho, Igor Machado., and Ochi, Luiz Satoru (2015). 
-<b>"Variable Neighborhood Search Heuristic for the Traveling Salesman Problem with hotel selection" . 
-</b> Aceito para XLI Conferencia Latinoamericana en Informática (CLEI 2015), Arequipa - Peru
-  </b>, 2015. 
-<a  href="./conteudo/artigos/MARQUES-CLEI2015.pdf">|PDF|</a></li> </b>
-
-
-<li>
-Filho, Gilberto F. S., Kramer, Hugo H., Silva, Thiago Gouveia., Junior, Teobaldo B., Protti, Fabio., Cabral, Lucidio F.,  and Ochi, Luiz Satoru (2015)<b>
+	
+1. Filho, Gilberto F. S., Kramer, Hugo H., Silva, Thiago Gouveia., Junior, Teobaldo B., Protti, Fabio., Cabral, Lucidio F.,  and Ochi, Luiz Satoru (2015)<b>
 "Branch-and-Price aplicado ao Problema de Particionamento  de Bigrafos por edição de arestas" . 
 </b> Anais do XLVII SBPO </b>, pp. 4190-4201, 2015. 
-<a  href="./conteudo/artigos/GILBERTO-SBPO2015.pdf">|PDF|</a></li> </b>
 
+	
+1. Ochi, Luiz Satoru., Penna, Puca H. V., and Coelho, Igor Machado (2015) - MINI CURSO NO XLVII SBPO 2015 "Problemas de Roteamento de Veículos: Abordagens Eficientes Sequenciais e Paralelos em Ambientes Heterogêneos (CPU & GPU)." Anais do XLVII SBPO </b>, pp. 3838-3982, 2015. 
 
+	
+## **2014**
+	
+## **Accepted/Published**
 
-<li>	
-Ochi, Luiz Satoru., Penna, Puca H. V., and Coelho, Igor Machado (2015)<b>
-  - MINI CURSO NO XLVII SBPO 2015 "Problemas de Roteamento de Veículos: Abordagens Eficientes Sequenciais e Paralelos
-em Ambientes Heterogêneos (CPU & GPU)." . 
-</b> Anais do XLVII SBPO </b>, pp. 3838-3982, 2015. 
-<a  href="./conteudo/artigos/IGOR-SBPO2015.pdf">|PDF|</a></li> </b>
-
-
-
-</li>	
-
-
-
-</ol>
-
-<b>2014</b><br/><br/>
-
-<b>Accepted/Published</b>
-
-<ol>
-
-<li>
 
 
 Vidal, Thibaut.,Maculan, Nelson.,Ochi, Luiz Satoru., and  Penna, Puca Huachi Vaz.  (2014)<b>
