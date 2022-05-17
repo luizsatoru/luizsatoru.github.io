@@ -1,6 +1,6 @@
 ---
 layout: page
-title: home
+title: Home
 order: 1
 #permalink: /home
 lang: en
@@ -22,7 +22,6 @@ news_limit: 5
 
 ## Prof. Dr. Luiz Satoru Ochi
 
-**D.Sc.**
 
 - **Professor Titular do [Instituto de Computação - IC/UFF](http://www.ic.uff.br) & [Coordenador do LabIC - Laboratório de Inteligência Computacional do IC-UFF](https://www.facebook.com/groups/588329561328235)**
 -  
