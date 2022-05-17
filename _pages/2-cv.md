@@ -1,6 +1,6 @@
 ---
 layout: page
-title: curriculum vitae
+title: ▪ Curriculum Vitae
 permalink: /cv
 order: 2
 lang: en

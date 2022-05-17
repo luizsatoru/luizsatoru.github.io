@@ -1,6 +1,6 @@
 ---
 layout: page
-title: labic ic/uff
+title: ▪ Labic ic/uff
 permalink: /labic
 order: 7
 lang: en

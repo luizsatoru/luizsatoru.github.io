@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projetos de pesquisa
+title: ▪ Projetos de pesquisa
 permalink: /projetos
 order: 6
 lang: en

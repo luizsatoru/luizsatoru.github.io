@@ -1,6 +1,6 @@
 ---
 layout: page
-title: temas de pesquisas
+title: ▪ Temas de pesquisas
 permalink: /temas
 order: 5
 lang: en

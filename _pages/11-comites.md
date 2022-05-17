@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Participação em Comitês de Programa e/ou de Organização Recentes
+title: ▪ Participação em Comitês de Programa e/ou de Organização Recentes
 permalink: /comites
 order: 11
 lang: en

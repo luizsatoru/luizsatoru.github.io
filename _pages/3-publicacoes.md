@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publicações
+title: ▪ Publicações
 permalink: /publicacoes
 order: 3
 lang: en

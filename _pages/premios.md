@@ -1,6 +1,6 @@
 ---
 layout: page
-title: prêmios
+title: ▪ Prêmios
 permalink: /premios
 order: 3
 lang: en

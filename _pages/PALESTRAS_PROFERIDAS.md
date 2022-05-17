@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Algumas Palestras Proferidas
+title: ▪ Palestras
 permalink: /palestras
 order: 3
 lang: en
