@@ -21,7 +21,7 @@ news_limit: 5
 ---
 
 
-## **PRÊMIOS E CONDECORAÇÕES RECEBIDAS NOS ÚLTIMOS ANOS**
+## **PRÊMIOS E/OU CONDECORAÇÕES RECEBIDAS RECENTEMENTE**
 
 **•	2022 – PRÊMIO:
 Em 2022, A TESE de DOUTORADO do egresso Janio Carlos Silva - IFTO, “Algorithmic Aspects of Problems Related to Optimization, Circuits, and Parameterized Complexity”, orientado pelos Profs. Ueverton Souza & Luiz Satoru Ochi foi classificado entre as SEIS MELHORES TESES DE DOUTORADO EM COMPUTAÇÃO DO BRASIL - No Concurso de Teses e Dissertação do Congresso da Sociedade Brasileira de Computação - CTD CSBC 2022.**
