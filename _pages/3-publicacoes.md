@@ -20,8 +20,6 @@ social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
 
-## **Publicações**
-
 ## **publications (by year)**
 
 ## **2022**
