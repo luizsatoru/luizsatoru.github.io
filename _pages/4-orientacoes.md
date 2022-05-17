@@ -25,132 +25,91 @@ news_limit: 5
 
 ## **SUPERVISÃO DE PÓSDOC CONCLUÍDAS**
 
-<ol>
 
-
-<li>
- Vitor Nazario Coelho (Doutorado pela EE-UFMG - MG) - Pós-Doutorado Nota 10 - FAPERJ</a> 
-<a href="vncoelho@gmail.com"> e-mail</a> </li>; 
+1. Vitor Nazario Coelho (Doutorado pela EE-UFMG - MG) - Pós-Doutorado Nota 10 - FAPERJ. Assunto: Autonomia em redes inteligentes assistida por ferramentas da inteligencia computacional. ; Período: 09/2016 a 08/2017 & 09/2017 a 08/2018. Bolsa - Pós Doutorado Nota 10 da FAPERJ.  Orientador: Luiz Satoru Ochi (IC-UFF)
  
-<b>Assunto: Autonomia em redes inteligentes assistida por ferramentas da inteligencia computacional. </b>; Período: 09/2016 a 08/2017 & 09/2017 a 08/2018. Bolsa - Pós Doutorado Nota 10 da FAPERJ.
+1. Carlos Bazilio Martins (Prof. UFF - Polo Rio das Ostras/RJ - Licença Capacitação).; Assunto:Metaheurísticas e Crowdsoucing; Período: 2016. Supervisor: Luiz Satoru Ochi (IC-UFF).
+ 
+1. Lucidio dos Anjos Formiga Cabral (Prof. UFPB - João Pessoa) (Concluido) Assunto: Exact and Heuristic Algorithms for Automatic Clustering Problems; Período: 03/2011 a 02/2012. Projeto PROCAD-NF - CAPES. Supervisor: Luiz Satoru Ochi (IC-UFF)
+ 
+ 
+1. Marcone Jamilson Freitas Souza (Prof. UFOP-MG) (Concluido). Assunto: Algoritmos eficientes para problemas de sequenciamento de tarefas em máquinas com penalidade
+por antecipação e atraso de produção ; Período: 03/2008 a 02/2009. Bolsa de Pós Doutorado Senior da FAPERJ.  Orientador: Luiz Satoru Ochi (IC-UFF)
+ 
+1. José Andre de Moura Brito (IBGE-RJ) (concluido); Assunto: Heurísticas para a solução de problemas de Otimização Combinatória; Período: 05/2007 a 04/2008.
  Orientador: Luiz Satoru Ochi (IC-UFF)
- </li>
-
-
+ 
+1. Haroldo Gambini Santos (Posdoc pela COPPE SISTEMAS/UFRJ, Prof. UFOP-MG) (concluido); Assunto: Mathematical Programming and Metaheuristics; Período: 07/2007 a 06/2008. Bolsa de Pós Doutorado do CNPq. Orientadores: Nelson Maculan (COPPE/UFRJ); Luiz Satoru Ochi (IC-UFF) e Eduardo Uchoa (DEP-UFF).
   
-<li>
- Carlos Bazilio Martins (Prof. UFF - Polo Rio das Ostras/RJ - Licença Capacitação)</a> 
-<a href="carlosbazilio@id.uff.br"> e-mail</a> </li>; 
-<b>Assunto:Metaheurísticas e Crowdsoucing </b>; Período: 2016. 
-Supervisor: Luiz Satoru Ochi (IC-UFF).
- </li>
-
-  
-<li>
- Lucidio dos Anjos Formiga Cabral (Prof. UFPB - João Pessoa) (Concluido) <a href="http://www3.di.ufpb.br/lucidio/">|site|</a> 
-<a href="lucidio@di.ufpb.br">|e-mail|</a> </li>; 
-<b>Assunto: Exact and Heuristic Algorithms for Automatic Clustering Problems </b>; Período: 03/2011 a 02/2012. Projeto PROCAD-NF - CAPES.
- Supervisor: Luiz Satoru Ochi (IC-UFF)
- </li>
-
-<li>
- Marcone Jamilson Freitas Souza (Prof. UFOP-MG) (Concluido) <a href="http://www.decom.ufop.br/prof/marcone/">|site|</a> 
-<a href="marcone@iceb.ufop.br">|e-mail|</a> </li>; 
-<b>Assunto: Algoritmos eficientes para problemas de sequenciamento de tarefas em máquinas com penalidade
-por antecipação e atraso de produção </b>; Período: 03/2008 a 02/2009. Bolsa de Pós Doutorado Senior da FAPERJ.
- Orientador: Luiz Satoru Ochi (IC-UFF)
- </li>
-
-
-<li>
-  José Andre de Moura Brito (IBGE-RJ) (concluido); 
-<b>Assunto: Heurísticas para a solução de problemas de Otimização Combinatória</b>; Período: 05/2007 a 04/2008.
- Orientador: Luiz Satoru Ochi (IC-UFF)
- </li>
-
- <li>
-  Haroldo Gambini Santos (Posdoc pela COPPE SISTEMAS/UFRJ, Prof. UFOP-MG) (concluido); 
-<b>Assunto: Mathematical Programming and Metaheuristics</b>; Período: 07/2007 a 06/2008. Bolsa de Pós Doutorado do CNPq.
-Orientadores: Nelson Maculan (COPPE/UFRJ); Luiz Satoru Ochi (IC-UFF) e Eduardo Uchoa (DEP-UFF).
-  </li>
-
-<li>
-  Luciana Roque Brito (Posdoc pela COPPE-SISTEMAS/UFRJ) (concluido); 
-<b>Assunto: Algoritmos para o Problema da Não Resposta (Métodos de Imputação)</b>; Período: 11/2007 a 10/2008. Bolsa de Pós doutorado
-do CNPq.   Orientadores: Nelson Maculan (COPPE - UFRJ) e Luiz Satoru Ochi (IC - UFF)
+1. Luciana Roque Brito (Posdoc pela COPPE-SISTEMAS/UFRJ) (concluido); Assunto: Algoritmos para o Problema da Não Resposta (Métodos de Imputação); Período: 11/2007 a 10/2008. Bolsa de Pós doutorado do CNPq.   Orientadores: Nelson Maculan (COPPE - UFRJ) e Luiz Satoru Ochi (IC - UFF)
 
 
 ## **ORIENTAÇÃO DE TESES DE DOUTORADO CONCLUÍDAS**
 
- JANIO CARLOS NASCIMENTO SILVA ,  Aluno de Doutorado em Computação - IC/UFF (orientadores: Luiz Satoru Ochi e Ueverton Souza;
+
+1. JANIO CARLOS NASCIMENTO SILVA ,  Aluno de Doutorado em Computação - IC/UFF (orientadores: Luiz Satoru Ochi e Ueverton Souza;
  Assunto:Algorithmic Aspects of Problems Related to Optimization, Circuits, and Parameterized Complexity; Defesa: 2021.  
  
  
-  Marques M Souza,  Aluno de Doutorado em Computação - IC/UFF </b> (orientadores: euiz Satoru Ochi e Simone Lima Martins):
+1. Marques M Souza,  Aluno de Doutorado em Computação - IC/UFF </b> (orientadores: euiz Satoru Ochi e Simone Lima Martins):
   Titulo: Heuristicas para a resolução do Problema do Caixeiro Viajante com Seleção de Hotéis; Defesa: 03/2020.  
   
-  Edcarllos Santos,  </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> (orientadores: Luiz Satoru Ochi e Luidi Simonetti (UFRJ):
+1. Edcarllos Santos,  </a> <b> Aluno de Doutorado em Computação - IC/UFF </b> (orientadores: Luiz Satoru Ochi e Luidi Simonetti (UFRJ):
   Titulo:<b> On two logistic problems in Smart Cities </b>; 
 Defesa: 08/2019.  
   
-  Thiago Gouveia da Silva,  Aluno de Doutorado (Cotutela) em Computação - IC/UFF &  UNIVERSITY OF AVIGNON - France (orientadores da UFF: Luiz Satoru Ochi e Lucidio F Cabral (UFPB):  Orientadores pela University of Avignon: Philippe Michelon and . Serigne Gueye, UAPV, France;  Titulo: The Minimum Labeling Spanning Tree and Related Problems - TESE PREMIADA COMO SEGUNDA MELHOR TESE DE DOUTORADO EM COMPUTAÇÃO PELA SBC Sociedade Brasileira de Computação EM 2019; Defesa: 11/2018.  
+1. Thiago Gouveia da Silva,  Aluno de Doutorado (Cotutela) em Computação - IC/UFF &  UNIVERSITY OF AVIGNON - France (orientadores da UFF: Luiz Satoru Ochi e Lucidio F Cabral (UFPB):  Orientadores pela University of Avignon: Philippe Michelon and . Serigne Gueye, UAPV, France;  Titulo: The Minimum Labeling Spanning Tree and Related Problems - TESE PREMIADA COMO SEGUNDA MELHOR TESE DE DOUTORADO EM COMPUTAÇÃO PELA SBC Sociedade Brasileira de Computação EM 2019; Defesa: 11/2018.  
 
 
-  Renatha Oliva Capua,  Aluna de Doutorado em Computação - IC/UFF (orientadores: Luiz Satoru Ochi e Yuri Abitbol M Frota);  Titulo: Métodos de Resolução para o Problema de Bin Packing com Conflitos e para o Problema de Bin Packing com Dependências; Defesa: 08/2017.  
+1. Renatha Oliva Capua,  Aluna de Doutorado em Computação - IC/UFF (orientadores: Luiz Satoru Ochi e Yuri Abitbol M Frota);  Titulo: Métodos de Resolução para o Problema de Bin Packing com Conflitos e para o Problema de Bin Packing com Dependências; Defesa: 08/2017.  
   
 
-  Matheus Haddad, Aluno de Doutorado em Computação - IC/UFF (orientadores: Luiz Satoru Ochi e Simone Lima Martins);  Título:<b> The Split Delivery Vehicle Routing Problems; Defesa: 04/2017.  
+1. Matheus Haddad, Aluno de Doutorado em Computação - IC/UFF (orientadores: Luiz Satoru Ochi e Simone Lima Martins);  Título:<b> The Split Delivery Vehicle Routing Problems; Defesa: 04/2017.  
  
 
-  Ivan César Martins,Aluno de Doutorado em Computação - IC/UFF Orientadores: Luiz Satoru Ochi e Fábio Protti; Tema: The manufacturing cell formation problems.; Defesa: 04/2017.
+1. Ivan César Martins,Aluno de Doutorado em Computação - IC/UFF Orientadores: Luiz Satoru Ochi e Fábio Protti; Tema: The manufacturing cell formation problems.; Defesa: 04/2017.
 
 
-Gilberto Farias Souza Filho, Prof. UFPB/João Pessoa, Aluno de Doutorado em Computação - IC/UFF (Orientadores: Fábio Protti & Luiz Satoru Ochi); Título: Efficient Exact and heuristic Algorithms for the Bicluster Editing Problems. </b>; Defesa: 25/08/2016.
+1. Gilberto Farias Souza Filho, Prof. UFPB/João Pessoa, Aluno de Doutorado em Computação - IC/UFF (Orientadores: Fábio Protti & Luiz Satoru Ochi); Título: Efficient Exact and heuristic Algorithms for the Bicluster Editing Problems. </b>; Defesa: 25/08/2016.
 
 
-  Eyder Franco Souza Rios, Aluno de Doutorado em Computação - IC/UFF  (orientadores: Luiz Satoru Ochi e Cristina Boeres) Título: Exploração de Estratégias de Busca Local em Ambientes CPU/GPU; Defesa: 07/2016.
+1. Eyder Franco Souza Rios, Aluno de Doutorado em Computação - IC/UFF  (orientadores: Luiz Satoru Ochi e Cristina Boeres) Título: Exploração de Estratégias de Busca Local em Ambientes CPU/GPU; Defesa: 07/2016.
 
-  Rian Gabriel Santos Pinheiro, Aluno de Doutorado em Computação - IC/UFF (orientadores: Luiz Satoru & Fabio Protti); Título: The Relationships between the Bicluster Graph Editing Problemand theManufacturing Cell Formation Problem; Defesa: 03/2016. 
+1. Rian Gabriel Santos Pinheiro, Aluno de Doutorado em Computação - IC/UFF (orientadores: Luiz Satoru & Fabio Protti); Título: The Relationships between the Bicluster Graph Editing Problemand theManufacturing Cell Formation Problem; Defesa: 03/2016. 
  
 
-  Marcos Ribeiro Quinet de Andrade, Aluno de Doutorado em Computação - IC/UFF (orientadores: Luiz Satoru & Simone Martins); Título: <b> Heuristicas para a solução do Problema de Roteamento Periódico de Unidades Móveis de Pistoneio; Defesa: 02/2016. 
+1. Marcos Ribeiro Quinet de Andrade, Aluno de Doutorado em Computação - IC/UFF (orientadores: Luiz Satoru & Simone Martins); Título: <b> Heuristicas para a solução do Problema de Roteamento Periódico de Unidades Móveis de Pistoneio; Defesa: 02/2016. 
  
 
-  Igor Machado Coelho,  Aluno de Doutorado em Computação - IC/UFF (co-orientadores: Marcone J F Souza e Luidi Simoneti); Título: 
-<b> Hybrid and Parallel Algorithms for Single and Multi-Objective Routing Problems; Defesa: 03/2015. 
+1. Igor Machado Coelho,  Aluno de Doutorado em Computação - IC/UFF (co-orientadores: Marcone J F Souza e Luidi Simoneti); Título: 
+Hybrid and Parallel Algorithms for Single and Multi-Objective Routing Problems; Defesa: 03/2015. 
 
 
-  Nadia Mendes dos Santos, Profa. IFPI - Teresina/PI, Doutorado em Computação - IC/UFF (convênio DINTER IC-UFF & IFPI) Orientador: Luiz Satoru Ochi, Co-orientador: J. André M Brito; Título: Um estudo de problemas de clusterização com restrições de capacidade e conectividade ; Defesa: 11/2014. 
+1. Nadia Mendes dos Santos, Profa. IFPI - Teresina/PI, Doutorado em Computação - IC/UFF (convênio DINTER IC-UFF & IFPI) Orientador: Luiz Satoru Ochi, Co-orientador: J. André M Brito; Título: Um estudo de problemas de clusterização com restrições de capacidade e conectividade ; Defesa: 11/2014. 
  
 
- Gustavo Resende de Carvalho,  Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF </b> Orientador: Luiz Satoru Ochi, Co-oreintadora: Aline Nascimento; <b> Título: Um Algoritmo ILS para o Problema de Localização-Roteamento Capacitado com Dois Níveis </b>; 
+1. Gustavo Resende de Carvalho,  Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF </b> Orientador: Luiz Satoru Ochi, Co-oreintadora: Aline Nascimento; <b> Título: Um Algoritmo ILS para o Problema de Localização-Roteamento Capacitado com Dois Níveis </b>; 
 Defesa: 08/08/2014. 
  
 
-Puca Huachi Vaz Penna, Prof. UFF/Pádua,  Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF Orientador: Luiz Satoru Ochi;<b> Título: Um algoritmo unificado para uma classe de problemas de roteamento de veículos com frota heterogênea </b>; 
+1. Puca Huachi Vaz Penna, Prof. UFF/Pádua,  Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF Orientador: Luiz Satoru Ochi;<b> Título: Um algoritmo unificado para uma classe de problemas de roteamento de veículos com frota heterogênea </b>; 
 Defesa: 29/11/2013. 
 
 
-  Gustavo Silva Semaan, Prof. UFF/INFES, Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF </b> Orientador: Luiz Satoru Ochi;<b> Título: Algoritmos para Problemas de Agrupamento Automático;  Defesa: 10/09/2013. 
+1. Gustavo Silva Semaan, Prof. UFF/INFES, Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF </b> Orientador: Luiz Satoru Ochi;<b> Título: Algoritmos para Problemas de Agrupamento Automático;  Defesa: 10/09/2013. 
 
  
- Lucas de Oliveira Bastos,   </a> <b> FINEP-RJ, Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF </b>(orientadores: Luiz Satoru Ochi e Fábio Protti);
-<b> Titulo: Novos Algoritmos e Resultados Teóricos para o Problema de Particionamento de Grafos por Edição de Arestas </b>
-Defesa: 27 Fevereiro de 2012.  <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
+1. Lucas de Oliveira Bastos,   FINEP-RJ, Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF. (orientadores: Luiz Satoru Ochi e Fábio Protti); Titulo: Novos Algoritmos e Resultados Teóricos para o Problema de Particionamento de Grafos por Edição de Arestas. Defesa: 27 Fevereiro de 2012.  
 
 
-  Anand Subramanian,  Prof. UFPB - João Pessoa, </a> <b> Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF </b>(orientador: Luiz Satoru Ochi; Co-orientador: Eduardo Uchoa); <b> Título: Heuristic, Exact and Hybrid Approaches for Vehicle Routing Problems </b>; 
-Defesa: 05/03/2012. <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
+1. Anand Subramanian,  Prof. UFPB - João Pessoa,  Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF (orientador: Luiz Satoru Ochi; Co-orientador: Eduardo Uchoa); <b> Título: Heuristic, Exact and Hybrid Approaches for Vehicle Routing Problems; Defesa: 05/03/2012. 
   
 
-  Tiago Araujo Neves, Prof. UFF/Volta Redonda - Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF; 
-<b>Título: Redes de Distribuição de Conteúdos: Abordagens Exatas, Heuristicas e Híbridas</b>; Defesa: 08/2011.
-Orientadores: Luiz Satoru Ochi e Célio Albuquerque.   <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
+1. Tiago Araujo Neves, Prof. UFF/Volta Redonda - Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF; 
+Título: Redes de Distribuição de Conteúdos: Abordagens Exatas, Heuristicas e Híbridas; Defesa: 08/2011. Orientadores: Luiz Satoru Ochi e Célio Albuquerque.   
  
 
-  Mário Mestria, Prof. IFES/Colatina-ES - Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF; 
-<b>Título: Metaheuristicas Híbridas para a Resolução do Problema do Caixeiro Viajante com Grupamentos</b>; Defesa: 01/2011.
-Orientadores: Luiz Satoru Ochi e Simone de Lima Martins. <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
+1. Mário Mestria, Prof. IFES/Colatina-ES - Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF; Título: Metaheuristicas Híbridas para a Resolução do Problema do Caixeiro Viajante com Grupamentos; Defesa: 01/2011. Orientadores: Luiz Satoru Ochi e Simone de Lima Martins. 
  
  Luciana Brugiolo Gonçalves,  Profa. UFJF - MG, Doutorado em Computação - Instituto de Computação. Universidade Federal Fluminense - IC/UFF; Título: Heurísticas para o Problema de Cobertura de Conjuntos por Pares; Defesa: 08/2010. Orientadores: Simone de Lima Martins e Luiz Satoru Ochi  <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">(PDF) </a> 
 
