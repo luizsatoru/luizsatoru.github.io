@@ -20,7 +20,6 @@ social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
 
-## CV
 
 **O Prof. Luiz Satoru Ochi, é Doutor em Engenharia de Sistemas e Computação. 
 Atualmente ele é Professor Titular no [IC-UFF](http://www.ic.uff.br) Instituto de Computação da Universidade Federal Fluminense (UFF) e 
