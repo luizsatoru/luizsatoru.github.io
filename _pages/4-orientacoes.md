@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ORIENTAÇÕES DE TESES
+title: Orientações de Teses
 permalink: /orientacoes
 order: 4
 lang: en
