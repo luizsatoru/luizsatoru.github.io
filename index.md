@@ -37,10 +37,6 @@ news_limit: 5
 
 Universidade Federal Fluminense
 
-Rua Passo da Pátria, 156 - Prédio novo da Computação - 5o Andar - Sala 549
-
-São Domingos, Niterói - RJ, Brasil, 24210-240
-
 E-mail: [satoru@ic.uff.br](mailto:satoru@ic.uff.br) ou [luiz.satoru@gmail.com](mailto:luiz.satoru@gmail.com)
  
 [Mais informações?? clique AQUI!!!!!!](https://luizsatoru.github.io/)
