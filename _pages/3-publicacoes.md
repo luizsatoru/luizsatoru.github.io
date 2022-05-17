@@ -71,7 +71,7 @@ news_limit: 5
 **1. Zudio, Anderson ; Coelho, Igor M. ; Ochi, Luis Satoru . Biased Random-key Genetic Algorithm for theHybrid Vehicle-drone Routing Problem for Pickup and Delivery. In: CBIC - Congresso Brasileiro de Inteligencia Computacional 2021, 2021, remoto. Anais do CBIC - Congresso Brasileiro de Inteligencia Computacional 2021, 2021. v. 1. p. 1-8.**
 
 
-**1. Silva, Janio C N. ; Souza, Ueverton ; Ochi, Luis Satoru . Parameterized complexity classes defined by threshold circuits: Using sorting networks to show collapses with W-hierarchy classes. In: 14th Annual International Conference on Combinatorial Optimization and Applications, 2021, Tianjin. Proc. of the COCOA 2021. v. 1. p. 1.**
+**1. Silva, Janio C N. ; Souza, Ueverton ; Ochi, Luis Satoru . Parameterized complexity classes defined by threshold circuits: Using sorting networks to show collapses with W-hierarchy classes. In: 14th Annual International Conference on Combinatorial Optimization and Applications, 2021, Tianjin. Proc. of the COCOA 2021.**
 
 
 
