@@ -173,42 +173,42 @@ Luiz Satoru Ochi (IC-UFF). Defesa: 07/2010. (Engenharia de Sistemas e Computaç�
 Título: Formulações e Algoritmos para o Problema de Programação de Horários em Escolas</b>; Defesa: 05/2007.  (co-orientador: Eduardo Uchoa)
 
 
-  Luciana Roque Brito, Doutorado pela COPPE-SISTEMAS/UFRJ.Título: Novas contribuições para o Problema de Recobrimento de Rotas.  (Orientadora pela UFRJ: Susana S. Makler). 05/2005. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro. 
+**1. Luciana Roque Brito, Doutorado pela COPPE-SISTEMAS/UFRJ.Título: Novas contribuições para o Problema de Recobrimento de Rotas.  (Orientadora pela UFRJ: Susana S. Makler). 05/2005. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro. 
 
 
 
-<li>
+
    
 
-  Marcone Jamilson Freitas Souza.  Prof. UFOP - MG   Doutorado pela COPPE-SISTEMAS/UFRJ. <b>Título: Programação de horários em escolas: Uma aproximação  via Metaheurísticas.</b> (Orientador principal: D.Sc. Nelson Maculan - COPPE/UFRJ). 2000. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro. 
+**1. Marcone Jamilson Freitas Souza.  Prof. UFOP - MG   Doutorado pela COPPE-SISTEMAS/UFRJ. <b>Título: Programação de horários em escolas: Uma aproximação  via Metaheurísticas.</b> (Orientador principal: D.Sc. Nelson Maculan - COPPE/UFRJ). 2000. Tese   (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro. 
   
 
 
 
-<li>
-
-## **ORIENTAÇÕES DE TESES DE DOUTORADO EM ANDAMENTO**
 
 
+## **1. ORIENTAÇÕES DE TESES DE DOUTORADO EM ANDAMENTO**
 
 
-<li>
 
-**Anderson Zudio de Moraes**, Aluno de Doutorado em Computação - IC/UFF(orientador: Luiz Satoru Ochi;Co-orientador: Igor Coelho Machado (UERJ)  Assunto: Processamento de Alto Desempenho em Problemas de Otimização & Inteligencia Computacional; Previsão de término: 12/2022.  
 
-<li>
-**Bruno José da Silva Barros**, Aluno de Doutorado em Computação - IC/UFF  Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); Tema: Problemas de Arvore Geradora de Custo Minimo com Restrições de Conflito. 
+
+
+**1. Anderson Zudio de Moraes**, Aluno de Doutorado em Computação - IC/UFF(orientador: Luiz Satoru Ochi;Co-orientador: Igor Coelho Machado (UERJ)  Assunto: Processamento de Alto Desempenho em Problemas de Otimização & Inteligencia Computacional; Previsão de término: 12/2022.  
+
+
+**1. Bruno José da Silva Barros**, Aluno de Doutorado em Computação - IC/UFF  Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); Tema: Problemas de Arvore Geradora de Custo Minimo com Restrições de Conflito. 
 Previsão de término: 12/2022.
   
-<li>
-**Elias Lawrence** ,  Aluno de Doutorado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema: The Unmanned Aerial Vehicle (UAV) Fleet Routing Problem.; Previsão de término: 02/2023.
 
-  <li>
- ***Augusto Beltrao** ,  Aluno de Doutorado em Computação - IC/UFF  
+**1. Elias Lawrence** ,  Aluno de Doutorado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema: The Unmanned Aerial Vehicle (UAV) Fleet Routing Problem.; Previsão de término: 02/2023.
+
+
+***1. Augusto Beltrao** ,  Aluno de Doutorado em Computação - IC/UFF  
 Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema (provisorio): Problemas de Otimização e Inteligencia Computacional .Previsão de término: 07/2023.
 
-  <li>
-  **Alfredo Lima Moura Silva**. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Problemas de Logística Reversa: Métodos e Aplicações. Orientadores: Luiz Satoru Ochi e Rian Pinheiro. Previsão de término: 12/2025.
+ 
+**1. Alfredo Lima Moura Silva**. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Problemas de Logística Reversa: Métodos e Aplicações. Orientadores: Luiz Satoru Ochi e Rian Pinheiro. Previsão de término: 12/2025.
   <li>
   
 **Marcos Souza**. Aluno de Doutorado em Computação IC/UFF. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Problemas de Logística Inteligente e Transportes: Métodos e Aplicações. Orientador: Luiz Satoru Ochi. Previsão término: 12/2025
