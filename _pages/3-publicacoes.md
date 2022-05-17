@@ -373,95 +373,62 @@ Coleta e Entrega Fracionadas um-para-um" .
 
 
 
-Vidal, Thibaut.,Maculan, Nelson.,Ochi, Luiz Satoru., and  Penna, Puca Huachi Vaz.  (2014)<b>
+1. Vidal, Thibaut.,Maculan, Nelson.,Ochi, Luiz Satoru., and  Penna, Puca Huachi Vaz.  (2014)<b>
 "Large neighborhoods with implicit customer selection for vehicle routing problems with profits". </b> 
   <b> To appear in Transportation Science - INFORMS, 2014. </b> 
-<a  href="./conteudo/artigos/PAPER-TS-THIBAUT.pdf">|PDF|</a></li>
 
-
-
-<li>
-Bastos, Lucas., Ochi, Luiz Satoru., Protti, Fabio., Subramanian, Anand., Martins, Ivan., Pinheiro, Rian.  (2014)<b> "Efficient Algorithms for Cluster Editing". </b> 
+	
+1. Bastos, Lucas., Ochi, Luiz Satoru., Protti, Fabio., Subramanian, Anand., Martins, Ivan., Pinheiro, Rian.  (2014)<b> "Efficient Algorithms for Cluster Editing". 
   <b> To appear in Journal of Combinatorial Optimization - Springer,2014 </b> 
-<a  href="./conteudo/artigos/JOCO2014.pdf">|PDF|</a></li>
 
-
-<li>
-Semaan, Gustavo S., Rodrigues, Wallace., Brito, Jose André M., and Ochi, Luiz Satoru. (2014)<b> "Método baseado em combinação de soluções com particionamento de grafos para o problema de agrupamento automático". </b> 
+	
+1. Semaan, Gustavo S., Rodrigues, Wallace., Brito, Jose André M., and Ochi, Luiz Satoru. (2014)<b> "Método baseado em combinação de soluções com particionamento de grafos para o problema de agrupamento automático". </b> 
   <b> To appear in Learning & Nonlinear Models (L&NLM) (2014)</b> 
 
 
 
-<li>
-Dib, Marcelo.,and Ochi, Luiz Satoru. (2014)<b> "Hybrid Method Using Evolutionary Algorithm and a Linear Integer Model to Solve the Automatic Clustering Problem". </b> 
-  <b> To appear in Learning & Nonlinear Models (L&NLM) (2014)</b> 
+1. Dib, Marcelo.,and Ochi, Luiz Satoru. (2014)<b> "Hybrid Method Using Evolutionary Algorithm and a Linear Integer Model to Solve the Automatic Clustering Problem".  To appear in Learning & Nonlinear Models (L&NLM) (2014)</b> 
 
 
-<li>
-Semaan, Gustavo S., Torres, Claudio, Brito, Jose André M., and Ochi, Luiz Satoru. (2014)<b> "Um método baseado em combinação de soluções com co-associação para o problema de agrupamento automático". </b> 
-  <b> To appear in Revista Brasileira de Estatística - RBEs (2014)</b> 
+
+1. Semaan, Gustavo S., Torres, Claudio, Brito, Jose André M., and Ochi, Luiz Satoru. (2014)<b> "Um método baseado em combinação de soluções com co-associação para o problema de agrupamento automático". To appear in Revista Brasileira de Estatística - RBEs (2014)</b> 
 
 
-<li>
-Semaan, Gustavo S., Torres, Vasconcelos, Raphael., Jose André M., and Ochi, Luiz Satoru. (2014)<b> "Proposta de um Método Baseado em Densidade e Grade para o Problema de Agrupamento Automático". </b> 
-  <b> Anais do XVII Simpósio de Pesquisa Operacional e Logística da Marinha (SPOLM). 
+
+1. Semaan, Gustavo S., Torres, Vasconcelos, Raphael., Jose André M., and Ochi, Luiz Satoru. (2014)<b> "Proposta de um Método Baseado em Densidade e Grade para o Problema de Agrupamento Automático". Anais do XVII Simpósio de Pesquisa Operacional e Logística da Marinha (SPOLM). 
 Paper classificado entre os 10 melhores trabalhos apresentados no Simpósio de Pesquisa Operacional e Logística da Marinha. (2014)</b> 
 
 
-</li>
-
-</ol>
-
-
-
-<b>2013</b>
+## **2013**
 
 
 
 
-<b>Accepted/Published</b>
+## **Accepted/Published**
 
-<ol>
 
-<li>
 Silva, André Renato Villela, and  Ochi, Luiz Satoru. (2013). <b>"A dynamic resource constrained project scheduling problem"</b>. 
 <b> International Journal of Data Mining, Modelling and Management (IJDMMM), volume 5(4), pp: 370-379, InderScience Publishers, ISSN: 1759-1163 - Special Issue: Evolutionary Computation and Related Meta-heuristics </b> - 
-<a  href="./conteudo/artigos/PAPER-IJDMB-Andre.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Subramanian, Anand., Uchoa, E., Pessoa, Artur., and Ochi, Luiz Satoru. (2013)<b> "Branch-cut-and-price for the Vehicle Routing Problem with  Simultaneous
-Pickup and Delivery". </b> 
-  <b> Optimization Letters - Elsevier, 2013(7), pp: 1569-1581, 2013</b> 
-<a  href="./conteudo/artigos/Paper Optimization Letters -2013.pdf">|PDF|</a></li>
+Pickup and Delivery". Optimization Letters - Elsevier, 2013(7), pp: 1569-1581, 2013</b> 
 
-
-<li>
+	
 Subramanian, Anand., Uchoa, E., and Ochi, Luiz Satoru. (2013)<b> "A Hybrid Algorithm for a Class of Vehicle Routing Problems". </b> 
     <b> Computers & Operations Research (COR), Volume 40, pp. 2519-2531 - Elsevier (2013)</b> DOI information: http://dx.doi.org/10.1016/j.cor.2013.01.013
-<a  href="./conteudo/artigos/COR2013-ANAND.pdf">|PDF|</a></li>
 
-
-
-<li>
 Mestria, Mario, Martins, Simone, and Ochi, Luiz Satoru. (2013)<b> GRASP with Path Relinking for the Symmetric Euclidean Clustered Traveling Salesman Problem. </b> 
     <b> Computers & Operations Research (COR), Volume 40, pp. 3218 - 3229 - Elsevier (2013)</b> 
-<a  href="./conteudo/artigos/COR2013-MESTRIA.pdf">|PDF|</a></li>
 
-
-
-<li>
+	
 Penna, Puca Huachi Vaz., Subramanian, Anand., and Ochi, Luiz Satoru. (2013). 
 <b> "An Iterated Local Search heuristic for the Heterogeneous Fleet Vehicle Routing Problem".</b>
   <b> Journal of Heuristics, Volume 19(2), pp. 201-232, Print ISSN 1381-1231, Publisher Springer US, 2013. </b>
 DOI information:10.1007/s10732-011-9186-y
-<a  href="./conteudo/artigos/Paper-JH-PUCA-2013.pdf">|PDF|</a></li>
-</li>
 
+	
 
-
-<li>
 Sallaume, Silas., Martins, Simone L., Ochi, Luiz Satoru, Silva, Warley, Lavor, Carlile and Liberti, Leo. (2013). 
 <b> "A discrete search algorithm for finding the structure of  protein backbones and side chains".</b>
   <b> International Journal of Bioinformatics Research and Applications, Vol 9(3), pp. 261-270, 2013. </b>
@@ -478,724 +445,380 @@ Semaan, Gustavo S., Cruz, M.D., Brito, Jose André M., and Ochi, Luiz Satoru. (2
 
 
 
-<li>
+
 Semaan, Gustavo S.,Brito, Jose André M., and Ochi, Luiz Satoru. (2013)<b> "Um método hierárquico para a determinação do número ideal de grupos". </b> 
   Aceito para <b> Revista Brasileira de Estatística, (2013)</b> 
-<a  href="./conteudo/artigos/RBE-Gustavo.pdf">|PDF|</a></li>
 
 
-<li>
+
 Penna, Puca Huachi Vaz, Subramanian, Anand., Souza, Marcone Jamilson Freitas, and Ochi, Luiz Satoru (2013)<b> "Uma heuristica eficiente para Problemas de Roteamento de Veículos".</b>
 Capítulo de livro (Capítulo 25), pg: 165-180: <b> Metaheuristicas em Pesquisa Operacional</b> - Editores: Heitor S Lopes, Maria Teresinha Arns Steiner e Luiz Carlos A Rodrigues - Editora OMNIPAX, ISBN: 978-85-64619-10-4 
-<a  href="./conteudo/artigos/Capitulo de Livro-PUCA.pdf">|PDF|</a></li>
 
-
-
-<li>
-Vidal, Thibaut., Penna, Puca H Vaz., Maculan, Nelson., and Ochi, Luiz Satoru. (2013)<b> "Large Neighborhoods with implicit customer selection for Prize-Collecting Vehicle Routing Problem 
-and Team-Orienteering Problems".  </b>  Proc. of XLV Simpósio Brasileiro de Pesquisa Operacional - XLV SBPO (CD-ROM), Special Session on  Multi attribute vehicle routing problems,  pp: 3308-3319, Natal - RN. <b>  (2013). 
+	
+Vidal, Thibaut., Penna, Puca H Vaz., Maculan, Nelson., and Ochi, Luiz Satoru. (2013)<b> "Large Neighborhoods with implicit customer selection for Prize-Collecting Vehicle Routing Problem and Team-Orienteering Problems".  </b>  Proc. of XLV Simpósio Brasileiro de Pesquisa Operacional - XLV SBPO (CD-ROM), Special Session on  Multi attribute vehicle routing problems,  pp: 3308-3319, Natal - RN. <b>  (2013). 
 (Artigo classificado entre os 6 melhores neste evento)
-<a  href="./conteudo/artigos/SBPO2013-Thibaut">|PDF|</a></li>
 
+	
+Penna, Puca H Vaz., Vidal, Thibaut., Prins, Christian., and Ochi, Luiz Satoru. (2013)<b> "New Compound Neighborhoods Structures for the Heterogeneuous Fixed Vehicle Routing Problems".  </b>  Proc. of XLV Simpósio Brasileiro de Pesquisa Operacional - XLV SBPO (CD-ROM), Special Session on  Multi attribute vehicle routing problems,  pp: 3623-3633, Natal - RN. <b>  (2013). 
 
+	
 
-<li>
-Penna, Puca H Vaz., Vidal, Thibaut., Prins, Christian., and Ochi, Luiz Satoru. (2013)<b> "New Compound Neighborhoods Structures for the Heterogeneuous Fixed Vehicle Routing Problems".  
-</b>  Proc. of XLV Simpósio Brasileiro de Pesquisa Operacional - XLV SBPO (CD-ROM), Special Session on  Multi attribute vehicle routing problems,  pp: 3623-3633, Natal - RN. <b>  (2013). 
-<a  href="./conteudo/artigos/SBPO2013-Puca">|PDF|</a></li>
-
-
-
-<li>
 Semaan, Gustavo S., Montenegro, Flavio., Brito, J. Andre M., and Ochi, Luiz Satoru. (2013)<b> "Um método sistemático de particionamento de grafos aplicado ao problema de agrupamento automático".
 </b>  Proc. of X OPTIMA & VI RED-M - Concepción - Chile <b>  (2013). 
-<a  href="./conteudo/artigos/XXXXX">|PDF|</a></li>
 
-
-<li>
+	
 Santos, Nadia., Semaan, Gustavo S., Brito, J. Andre M., and Ochi, Luiz Satoru. (2013)<b> "Metaheuristica híbrida para a solução do problema de particionamento de grafos com restrições de capacidade e de conexidade".
 </b> </b> Proc. of X OPTIMA & VI RED-M - Concepción - Chile <b>  (2013). 
-<a  href="./conteudo/artigos/YYYYYYY">|PDF|</a></li>
 
-
-
-<li>
+	
 Quinet, Marcos.; Martins, Simone L.; and Ochi, Luiz Satoru. (2013)<b> "Metaheurística GRASP para a solução do Problema de Roteamento Periódico de Unidades Móveis de Pistoneio.".
 </b> </b> Proc. of the X Encontro Nacional de Inteligência Artificial e Computacional (ENIAC) held in conjunction with the The 2nd Brazilian Conference on Intelligent Systems (BRACIS-13). Fortaleza - CE.  <b>  (2013). 
-<a  href="./conteudo/artigos/YYYzzzz">|PDF|</a></li>
 
-
-<li>
+	
 Bulhões Junior, Treobaldo., Souza Filho, Gilberto F., Cabral, Lucidio F., Protti, Fabio., and Ochi, Luiz Satoru. (2013)<b> "Integer Programming Formulation and GRASP for the Non-Automatic Bicluster Editing Problem".  
 </b> Proc. of XLV Simpósio Brasileiro de Pesquisa Operacional - XLV SBPO (CD-ROM),  pp: 1982-1992, Natal - RN. <b>  (2013). 
-<a  href="./conteudo/artigos/SBPO2013-Teobaldo">|PDF|</a></li>
 
-
-
-<li>
+	
 Pinheiro, Rian., Martins, Ivan Cesar M., Simoneti, Luidi., Protti, Fabio., and Ochi, Luiz Satoru. (2013)<b> "Um algoritmo exato para uma classe de problemas de programação linear-fracionária". 
   </b>  Proc. of XLV Simpósio Brasileiro de Pesquisa Operacional - XLV SBPO (CD-ROM), pp: 2533-2542,  Natal - RN. <b>  (2013). 
-<a  href="./conteudo/artigos/SBPO2013-Rian">|PDF|</a></li>
 
+	
+Lopes, Emanuella T., Frota, Yuri Abitibol M., and Ochi, Luiz Satoru. (2013)<b> "Uma variante do Problema da Árvore Geradora Mínima Generalizado com Prêmios nos Vértices".  </b>  Proc. of XLV Simpósio Brasileiro de Pesquisa Operacional - XLV SBPO (CD-ROM),  pp: 2590-2601, Natal - RN. <b>  (2013). 
 
-
-<li>
-Lopes, Emanuella T., Frota, Yuri Abitibol M., and Ochi, Luiz Satoru. (2013)<b> "Uma variante do Problema da Árvore Geradora Mínima Generalizado com Prêmios nos Vértices".  
-</b>  Proc. of XLV Simpósio Brasileiro de Pesquisa Operacional - XLV SBPO (CD-ROM),  pp: 2590-2601, Natal - RN. <b>  (2013). 
-<a  href="./conteudo/artigos/SBPO2013-Teobaldo">|PDF|</a></li>
-
-
-
-<li>
+	
 Carvalho, Gustavo R., Nascimento, Aline., Cabral, Lucidio F., and Ochi, Luiz Satoru. (2013)<b> "A Parallel Aproach for the
 Location-Routing Problem". 	</b>  Proc. of <b> 3rd Workshop on Applications for Multi-Core Architectures (WAMCA), held in conjunction with the 24th International 
 Symposium on Computer Architect (SBAC/PAD)</b>, October 22-24, Porto de Galinhas - PE <b>  (2013). 
-<a  href="./conteudo/artigos/WAMCA2013-Gustavo Resende">|PDF|</a></li>
-
-
-
-</li>
-
-</ol>
-
-
-
-<b>2012</b>
-
-
-<b>Accepted/Published</b>
-
-<ol>
-
-
-<li>
-Silva, Marcos Melo, Subramanian, Anand, Vidal, Thibaut., and Ochi, Luiz Satoru.,  (2012)<b> "A Simple and Effective Metaheuristic for the Minimum Latency Problem". </b> 
-  <b> European Journal of Operational Research - Elsevier, Volume 221, pp: 513-520 (2012)</b>. DOI information: 10.1016/j.ejor.2012.03.044
-<a  href="./conteudo/artigos/EJOR2012-Marcos.pdf">|PDF|</a></li>
-
-
-<li>
-Subramanian, Anand., Penna, Puca Huachi Vaz., Ochi, Luiz Satoru., amd Uchoa, Eduardo. (2012)<b> "A Hybrid Algorithm for the Heterogeneous Fleet Vehicle Routing Problem". </b> 
-  <b>  European Journal of Operational Research - Elsevier, Volume 221, pp: 285-295 (2012)</b>.
-<a  href="./conteudo/artigos/EJOR2012-Anand.pdf">|PDF|</a></li>
-
-
-
-<li>
-Mestria, Mário., Martins, Simone L, and Ochi, Luiz Satoru (2012/2013)<b> "GRASP with Path Relinking for the Symmetric Euclidean Clustered Traveling Salesman Problem". </b> 
-  <b> To appear in Computers & Operations Research - ELSEVIER - (2012/2013) DOI information:10.1016/j.cor.2012.10.001 </b>.
-  <a href="./conteudo/artigos/COR2012-Mestria.pdf">|PDF|</a></li>
 
 
 
 
-<li>  
-Ferreira, Cristiane S.,  Ochi, Luiz Satoru, Parada, Victor., and Uchoa, Eduardo. (2012). <b>A GRASP based approach to the generalized minimum spanning tree problem.</b> 
-<b>Expert Systems With Application, Volume 39, Issue 3, PP 3526-3536 - ELSEVIER </b>.
-<a  href="./conteudo/artigos/ES2012-Cristiane.pdf">|PDF|</a></li> DOI: 10.1016/j.eswa.2011.09.043 
-</li>
+## **2012**
+
+
+## **Accepted/Published**
+
+	
+Silva, Marcos Melo, Subramanian, Anand, Vidal, Thibaut., and Ochi, Luiz Satoru.,  (2012)<b> "A Simple and Effective Metaheuristic for the Minimum Latency Problem". European Journal of Operational Research - Elsevier, Volume 221, pp: 513-520 (2012)</b>. DOI information: 10.1016/j.ejor.2012.03.044
+
+	
+Subramanian, Anand., Penna, Puca Huachi Vaz., Ochi, Luiz Satoru., amd Uchoa, Eduardo. (2012)<b> "A Hybrid Algorithm for the Heterogeneous Fleet Vehicle Routing Problem".  European Journal of Operational Research - Elsevier, Volume 221, pp: 285-295 (2012)</b>.
+
+	
+Mestria, Mário., Martins, Simone L, and Ochi, Luiz Satoru (2012/2013)<b> "GRASP with Path Relinking for the Symmetric Euclidean Clustered Traveling Salesman Problem".  To appear in Computers & Operations Research - ELSEVIER - (2012/2013) DOI information:10.1016/j.cor.2012.10.001 </b>.
+ 
+	
+Ferreira, Cristiane S.,  Ochi, Luiz Satoru, Parada, Victor., and Uchoa, Eduardo. (2012). <b>A GRASP based approach to the generalized minimum spanning tree problem.Expert Systems With Application, Volume 39, Issue 3, PP 3526-3536 - ELSEVIER </b>.
 
 
 
-<li>
-Gonçalves, Luciana Brugiolo., Martins, Simone de Lima., Ochi, Luiz Satoru., and Subramanian, Anand. (2012)<b> "Exact and heuristic approaches for the Set Cover with Pair Problems". </b> 
-  <b> Optimization Letters, Volume 6(4), PP: 641-653 - Elsevier (2012)</b> DOI: 10.1007/s11590-011-0289-z.
-<a  href="./conteudo/artigos/OL2012-Brugiolo.pdf">|PDF|</a></li>
+Gonçalves, Luciana Brugiolo., Martins, Simone de Lima., Ochi, Luiz Satoru., and Subramanian, Anand. (2012)<b> "Exact and heuristic approaches for the Set Cover with Pair Problems". </b>   <b> Optimization Letters, Volume 6(4), PP: 641-653 - Elsevier (2012)</b> DOI: 10.1007/s11590-011-0289-z.
 
-
-<li>
+	
 Santos, Haroldo Gambini., Uchoa, Eduardo., Ochi, Luiz Satoru., and Maculan, Nelson (2012) <b> 
 "Strong Bounds with Cut and Column Generation for Class-Teacher Timetabling".</b>
 <b> Annals of Operations Research - SPRINGER, Volume 194, issue 1, pp: 399-412</b>.
-<a  href="./conteudo/artigos/AOR2010-Haroldo.pdf">|PDF| DOI 10.1007/s10479-010-0709-y </a>
-</li>
 
-  
-
-<li>
+	
 Penna, Puca H. V., Souza, Marcone J. F., Gonçalves, Frederico A.C., and Ochi, Luiz Satoru (2012). <b>"Uma heurística híbrida para minimizar custos com antecipação e atraso do sequênciamento da produção em uma máquina"</b>. 
   <b> Revista PRODUÇÃO - ABEPRO, Volume 22(4), pp. 766-777.  (ISSN: 0103-6513). DOI:10.1590/S0103-65132012005000020 </b>
-<a  href="./conteudo/artigos/Paper PRODUCAO-PUCA-2011.pdf">|PDF|</a></li>
-</a>
-</li>
 
-
-<li>
+	
 Santos, Nádia Mendes dos., Ochi, Luiz Satoru., Semaan, Gustavo. (2012)<b> 
 "Metaheuristic GRASP with Path-Relinking to the solution of the Graph Partitioning Problem with Capacity and Connexity Constraints".</b>
   <b> LNCS 7435 - Lecture Notes in Computer Science - Springer, Volume 7435, pp: 630-641, </b> & Proc. of the IDEAL 2012: The 13th International Conference on Intelligent Data Engineering and Automated Learning.</b> Natal-RN, Brasil (2012). 
-<a  href="./conteudos/IDEAL-Nadia.pdf">|PDF|</a></li>
-</li>
 
 
-
-
-<li>
 Souza Filho, Gilberto S., Cabral, Lucidio F., Ochi, Luiz Satoru. and Protti, Fábio. (2012)<b> 
 "Hybrid Metaheuristic for Bicluster Editing".</b>
   <b> Electronic Notes in Discrete Mathematics -(ENDM),pp. 35-42 - Elsevier, DOI: 10.1016/j.endm.2012.10.006, </b> (2012). 
-<a  href="./conteudos/EURO-VNS2012-Igor.pdf">|PDF|</a></li>
-</li>
 
-
-
-<li>
+	
 Coelho, Igor M., Munhoz, Pablo L., Ochi, Luiz Satoru, Haddad, Matheus., and Souza, Marcone J. F. (2012)<b> 
 "A General Variable Neighborhood Search Heuristic for the Single Vehicle Routing Problem with Deliveries and Selective Pickups".</b>
   <b> Electronic Notes in Discrete Mathematics - (ENDM1), 39, pp: 99-106 - Elsevier, DOI: 10.1016/j.endm.2012.10.014  </b> (2012). 
-<a  href="./conteudos/EURO-VNS2012-Gilberto.pdf">|PDF|</a></li>
-</li>
 
-
-
-
-<li>
+	
 Neves, Tiago A., Ochi, Luiz Satoru., and Albuquerque, Célio. (2012)<b> 
 "Soluções exatas para o Problema de Replicação e Distribuição de requisições em Redes de Distribuição de Conteúdos".</b>
 <b> Proc. of the XXX Brazilian Symposium on Computer Networks and Distributed Systems (SBRC)</b> (CD-ROM), Ouro Preto-MG (2012). 
-<a  href="./conteudo/artigos/SBRC2012-Tiago.pdf">|PDF|</a></li>
-</li>
-
-
-
-
 
   
 
-<li>
+
 Coelho, Igor M., Munhoz, Pablo L., Ochi, Luiz Satoru., Souza, Marcone J. F., Farias, Ricardo., and Bentes, Cristiana. (2012)<b> 
 "The Single Vehicle Routing Problem with Deliveries and Selective Pickups in a CPU-GPU Heterogeneous Environment".</b>
   Proc. of <b> 2012 IEEE 14th International Conference on High Performance Computing and Communications, pp: 1606-1611</b>, 
 Liverpool, UK, 25-27 June 2012. (2012). 
-<a  href="./conteudos/EMCA2012-Igor.pdf">|PDF|</a></li>
-</li>
-
-
-
-
-
-<li>
+	
+	
 Coelho, Igor M., Haddad, Matheus, Ochi, Luiz Satoru., Souza, Marcone J. F., and Farias, Ricardo.(2012)<b> 
 "A hybrid CPU-GPU local search heuristic for the Unrelated Parallel Machine Scheduling Problem".</b>
-  To appear in Proc. of <b> 3rd Workshop on Applications for Multi-Core Architectures (WAMCA), held in conjunction with the 24th International Symposium on Computer Architect (SBAC/PAD)</b>, 
-October 24-25, New York - USA. (2012). 
-<a  href="./conteudos/WAMCA2012-Igor.pdf">|PDF|</a></li>
-</li>
+  To appear in Proc. of <b> 3rd Workshop on Applications for Multi-Core Architectures (WAMCA), held in conjunction with the 24th International Symposium on Computer Architect (SBAC/PAD)</b>, October 24-25, New York - USA. (2012). 
 
 
 
-<li>
-Pinheiro, Rian, G., Martins, Ivan, C., Protti, Fabio., Simoneti, Luidi., and Ochi, Luiz Satoru. (2012)<b> "Métodos exatos e heuristicas para a Biclusterização em Grafos".</b>
-Proc. of XVI CLAIO & XLIV Simpósio Brasileiro de Pesquisa Operacional - XVI CLAIO/XLIV SBPO, pg. 2646-2657 <b>  (2012). 
-<a  href="./conteudos/CLAIO/SBPO2012-RIAN-IVAN.pdf">|PDF|</a></li> </b>
-</li>
+Pinheiro, Rian, G., Martins, Ivan, C., Protti, Fabio., Simoneti, Luidi., and Ochi, Luiz Satoru. (2012)<b> "Métodos exatos e heuristicas para a Biclusterização em Grafos".</b> Proc. of XVI CLAIO & XLIV Simpósio Brasileiro de Pesquisa Operacional - XVI CLAIO/XLIV SBPO, pg. 2646-2657 <b>  (2012). 
 
-<li>
+	
 Melo, Marcos M., and Ochi, Luiz Satoru. (2012)<b> "Uma heuristic baseada em Iterated Local Search para o Problema de Roteamento de Veículos com entrega fracionária".
 </b>  Proc. of XVI CLAIO & XLIV Simpósio Brasileiro de Pesquisa Operacional - XVI CLAIO/XLIV SBPO, pg. 2849-2860 <b>  (2012). 
-<a  href="./conteudos/CLAIO/SBPO2012-Marcos.pdf">|PDF|</a></li> </b>
-</li>
 
-
-<li>
+	
 Pinheiro, Rian, G. S., Martins, Ivan, C., Protti, Fabio, and Ochi, Luiz Satoru. (2012)<b> 
 "A Pre-Processing Procedure for the Bicluster Graph Editing Problem".</b>
   Proc. of <b> The 5th Latin American Workshop on Cliques in Graphs</b> (Abstract), 
 November 5-7th, 2012 - Buenos Aires. (2012). 
-<a  href="./conteudos/CLIQUES2012-Rian.pdf">|PDF|</a></li>
-</li>
 
-
-
-<li>
+	
 Souza Filho, Gilberto F., Cabral, Lucidio Formiga., Protti, Fabio, and Ochi, Luiz Satoru. (2012)<b> 
 "GRASP com memória adaptativa > aplicada ao problema de particionamento de grafos bipartidos por edição
 de arestas".</b>  Proc. of <b> ENIA2012 - em conjunto com o Brazilian Conference on Intelligent System (BRACIS'2012). </b> Curitiba-PR, 20-25 October (2012). 
-<a  href="./conteudos/ENIA2012-Gilberto.pdf">|PDF|</a></li>
-</li>
 
-
-
-
-<li>
+	
 Munhoz, Pablo L., Ochi, Luiz Satoru, and Souza, Marcone J. F. (2012)<b> 
 "Um algoritmo baseado em Iterated Local Search para o Problema de Roteamento de Veículos Periódico".</b>  Proc. of <b> XXXII ENEGEP2012 -  XXXII Encontro Nacional de Engenharia de Produção, </b> 15-18 Outubro, Bento Gonçalves/RS (2012). 
-<a  href="./conteudos/ENEGEP2012-Pablo.pdf">|PDF|</a></li>
-</li>
 
-
-
-
-<li>
+	
 Penna, Puca Huachi vaz., Subramanian, Anand., and Ochi, Luiz Satoru. (2012)<b> 
 "An iterated local search algorithm for Open Vehicle Routing Problems" (Special Session).</b>  Proc. of XVI CLAIO & XLIV Simpósio Brasileiro de Pesquisa Operacional - XVI CLAIO/XLIV SBPO, pp. 4504-4514 <b>  (2012). 
-<a  href="./conteudos/CLAIO/SBPO2012-Puca.pdf">|PDF|</a></li> </b>
-</li>
 
-
-
-<li>
+	
 Souza Filho, Gilberto S., Cabral, Lucidio A Formiga., Protti, Fábio., and Ochi, Luiz Satoru. (2012)<b> 
 "Metaheuristic GRASP for the Bicluster Editing Problem" </b>  Proc. of XVI CLAIO & XLIV Simpósio Brasileiro de Pesquisa Operacional - XVI CLAIO/XLIV SBPO, pp. 2564-2575 <b>  (2012). 
-<a  href="./conteudos/CLAIO/SBPO2012-Gilberto.pdf">|PDF|</a></li> </b>
-</li>
 
-
-<li>
+	
 Neves, Tiago, A., Albuquerque, Célio., and Ochi, Luiz Satoru. (2012)<b> 
 "Heuristicas ILS para o Problema de Posicionamento de Réplicas e Distribuições de Requisições".</b>  Proc. of XVI CLAIO & XLIV Simpósio Brasileiro de Pesquisa Operacional - XVI CLAIO/XLIV SBPO, pg. 2528-2539 <b>  (2012). 
-<a  href="./conteudos/CLAIO/SBPO2012-TIAGO.pdf">|PDF|</a></li> </b>
-</li>
 
 
-
-      </ol>
-
-
-<b>2011</b>
+## **2011**
 
 
 
 
-<b>Accepted/Published</b>
-
-<ol>
+## **Accepted/Published**
 
 
-<li>
-Silva, Geiza Cristina da, Bahiense, Laura., Ochi, Luiz Satoru, and Boaventura, Paulo O. (2012)<b> "The dynamic space allocation problem: applying a hybrid GRASP and tabu search metaheuristics". </b> 
-  <b> Computers & Operations Research - ELSEVIER, Volume 39, pp: 671-677  - (2012)</b>.
-  <a href="./conteudo/artigos/COR2011-Geiza.pdf">|PDF|</a></li>
-  (DOI: 10.1016/j.cor.2011.05.016)</li>
-
-
-<li>
-Penna, Puca Huachi Vaz, Subramanian, Anand, and Ochi, Luiz Satoru (2012)<b> "An Iterated Local Search heuristic for the Heterogeneous Fleet Vehicle Routing Problem". </b> 
-  <b> To appear in Journal of HEURISTICS - Springer  - (2012)</b>.
-<a  href="./conteudo/artigos/PAPER PUCA-JHeuristics-2011.pdf"> |PDF|</a></li>
+Silva, Geiza Cristina da, Bahiense, Laura., Ochi, Luiz Satoru, and Boaventura, Paulo O. (2012)<b> "The dynamic space allocation problem: applying a hybrid GRASP and tabu search metaheuristics". </b>   <b> Computers & Operations Research - ELSEVIER, Volume 39, pp: 671-677  - (2012)</b>.
   
+	
+Penna, Puca Huachi Vaz, Subramanian, Anand, and Ochi, Luiz Satoru (2012)<b> "An Iterated Local Search heuristic for the Heterogeneous Fleet Vehicle Routing Problem". </b>   <b> To appear in Journal of HEURISTICS - Springer  - (2012)</b>.
 
+	
+Subramanian, Anand., Uchoa, Eduardo., Pessoa, Artur., and Ochi, Luiz Satoru (2011)<b> "Branch-and-cut with lazy separation for the Vehicle Routing Problem with Simultaneous Pickup and Delivery". Operations Research Letters - ELSEVIER, Vol. 39, pp: 338-341 (2011)</b>.
 
-
-<li>
-Subramanian, Anand., Uchoa, Eduardo., Pessoa, Artur., and Ochi, Luiz Satoru (2011)<b> "Branch-and-cut with lazy separation for the Vehicle Routing Problem with Simultaneous Pickup and Delivery". </b> 
-  <b> Operations Research Letters - ELSEVIER, Vol. 39, pp: 338-341 (2011)</b>.
-<a  href="./conteudo/artigos/ORL2011-Anand.pdf">|PDF|</a></li>
-
-
-  
-<li>
-Souza, Marcone J. F., Mine, Márcio T., Silva, Matheus S. A., Ochi, Luiz
-Satoru, and Subramanian, Anand. (2011). <b>"A hybrid heuristic, based on
-Iterated Local Search and GENIUS, for the Vehicle Routing Problem with
-Simultaneous Pickup and Delivery"</b>, <b>International Journal of
+	
+Souza, Marcone J. F., Mine, Márcio T., Silva, Matheus S. A., Ochi, Luiz Satoru, and Subramanian, Anand. (2011). <b>"A hybrid heuristic, based on
+Iterated Local Search and GENIUS, for the Vehicle Routing Problem with Simultaneous Pickup and Delivery"</b>, <b>International Journal of
 Logistics Systems Management (IJLSM), Vol. 10, No.2  pp. 142 - 157. Inderscience Publishers</b>, ISSN (Print): 1742-7967
-<a  href="./conteudo/artigos/IJLSM-Marcio.pdf">|PDF|</a></li>
-</li>
 
+	
+Dib, Marcelo, and Ochi, Luiz Satoru. (2011). <b>"Um Algoritmo Evolutivo com Memória Adaptativa para o Problema de Clusterização Automática"</b>. <b>Learning and Nonlinear Models, Volume 8(4), pp. 227-239. </b>
 
-<li>
-Dib, Marcelo, and Ochi, Luiz
-Satoru. (2011). <b>"Um Algoritmo Evolutivo com Memória Adaptativa para o Problema de
-Clusterização Automática"</b>. <b>Learning and Nonlinear Models, Volume 8(4), pp. 227-239. </b>
-</a>
-</li>
+	 
 
-
-  
-<li>
 Silva, André Renato V., Ochi, Luiz Satoru (2011)<b> "Heuristicas Híbridas para o Problemas de Escalonamento de Projetos com Restrição de Recursos Dinâmicos".</b>
 Capítulo 13 do livro: <b> Computação Evolucionária em Problemas da Engenharia, pp: 273-300. </b> Editores: Heitor S Lopes (ITFPR) e Ricardo Hiroshi C Takahashi (UFMG)
 ISBN: 978-85-84619-00-5</li>
 
 
-<li>
+
 Ribas, Sabir., Subramanian, Anand., Coelho, Igor M., Ochi, L. Satoru., and Souza, Marcone J F (2011)<b> 
 "A Hybrid Algorithm for the Vehicle Routing Problem with Time-Windows".</b>
   <b> Proc. of the Int. Conference on Industrial Engineering and Systems Management - IESM'2011 , May, 25-27, 2011, Metz - France (2011) </b>.
-<a  href="./conteudo/artigos/PAPER IESM2011-SABIR.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Penna, Puca H. V., Subramanian, Anand., Ochi, L. Satoru., and Uchoa, Eduardo (2011)<b> 
 "A hybrid algorithm for the Fleet Size and Mix Vehicle Routing Problem".</b>
 <b> Proc. of the Int. Conference on Industrial Engineering and Systems Management - IESM'2011 , May, 25-27, 2011, Metz - France (2011) </b>.
-<a  href="./conteudo/artigos/PAPER-IESM2011.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 José André Moura Brito, Nelson Maculan, Luiz Satoru Ochi, Flávio Montenegro, and Luciana Brito (2011)<b> 
 "An Imputation algorithm applied the Nonresponse problem".</b>
 <b> Proc. of the VII ALIO/EURO - Workshop on Applied Combinatorial Optimization, pp. 102-105, Porto - Portugal, May 4-6, 2011 </b>.
-<a  href="./conteudo/artigos/PAPER ALIO-EURO2011-Andre.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Gustavo Silva Semaan, José André Moura Brito, and Luiz Satoru Ochi (2011)<b> 
 "Efficient algorithms for Regionalization: An approach based on Graph Partition".</b>
 <b> Proc. of the VII ALIO/EURO - Workshop on Applied Combinatorial Optimization, pp. 34-37, Porto - Portugal, May 4-6, 2011 </b>.
-<a  href="./conteudo/artigos/PAPER ALIO-EURO2011-Gustavo.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Sabir Ribas, Anand Subramanian, Igor Coelho, Luiz Satoru Ochi and Marcone J. F. Souza (2011)<b> 
 "An algorithm based on iterated local search and set partitioning for the vehicles routing problem with time windows".</b>
 <b> Proc. of the VII ALIO/EURO - Workshop on Applied Combinatorial Optimization, pp. 143-146, Porto - Portugal, May 4-6, 2011 </b>.
-<a  href="./conteudo/artigos/PAPER ALIO-EURO2011-Sabir.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Igor Coelho, Pablo Luiz Araújo Munhoz, Matheus Nohra Haddad, Vitor Nazario Coelho, Marcos de Melo da Silva,Luiz Satoru Ochi and Marcone J. F. Souza (2011)<b> 
 "OPTFRAME: A Computational Framework for problems of Combinatorial optimization".</b>
 <b> Proc. of the VII ALIO/EURO - Workshop on Applied Combinatorial Optimization, pp: 50-53, Porto - Portugal, May 4-6, 2011 </b>.
-<a  href="./conteudo/artigos/PAPER ALIO-EURO2011-Sabir.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Machado, Alex, L. V.; Clua, Esteban.; Santos, Ochi, Luiz Satoru, Santos, U. O., Santos, H., and Gonçalves, R. (2011)<b> 
 "Real Time Pathfinding with Genetic Algorithm".
 Trabalho classificado em terceiro lugar  Categoria: Melhores trabalhos Completos  Trilha de Computação, 
 Anais do X Simpósio Brasileiro de Games e Entretenimento Digital  (X SBGames) </b>/ Salvador - Bahia. Dias 7 à 9 de Novembro de 2011 -  Brasil, 2011.
-</li>
 
-
-
-<li>
-André Luis Vasconcelos Botelho, Gustavo Silva Semmaan, Luiz Satoru Ochi (2011)<b> 
-"Agrupamento de Sistemas Orientados a Objetos com Metaheuristicas Evolutivas".</b>
+	
+André Luis Vasconcelos Botelho, Gustavo Silva Semmaan, Luiz Satoru Ochi (2011)<b> "Agrupamento de Sistemas Orientados a Objetos com Metaheuristicas Evolutivas".</b>
 <b> Anais do VII Simpósio Brasileiro de Sistemas de Informação - VII SBSI, 2011 </b>.
-<a  href="./conteudo/artigos/PAPER SBSI2011-Gustavo Semaan.pdf">|PDF|</a></li>
-</li>
 
+	
+Gustavo Resende de Carvalho, Anand Subramanian, Lucidio Cabral and, Luiz Satoru Ochi (2011)<b> "Uma heuristica eficiente baseada em busca local iterada para o problema de localização-roteamento".</b> <b> A ser publicado nos Anais do XXV ANPET- Congresso de Pesquisa e Ensino em Transportes, Belo Horizonte/MG , 2011 </b>.
 
-
-<li>
-Gustavo Resende de Carvalho, Anand Subramanian, Lucidio Cabral and, Luiz Satoru Ochi (2011)<b> 
-"Uma heuristica eficiente baseada em busca local iterada para o problema de localização-roteamento".</b>
-<b> A ser publicado nos Anais do XXV ANPET- Congresso de Pesquisa e Ensino em Transportes, Belo Horizonte/MG , 2011 </b>.
-<a  href="./conteudo/artigos/PAPER ANPET2011-Gustavo.pdf">|PDF|</a></li>
-</li>
-
-
-<li>
-Silva, Marcos, Subramanian, Anand., and Ochi, L. Satoru. (2011)<b> 
-"Uma heurística baseada em GRASP e Iterated Local Search para o Problema da Mínima Latência".</b>
+	
+Silva, Marcos, Subramanian, Anand., and Ochi, L. Satoru. (2011)<b> "Uma heurística baseada em GRASP e Iterated Local Search para o Problema da Mínima Latência".</b>
 Anais do XLIII Simpósio Brasileiro de Pesquisa Operacional (XLIII SBPO)(CD-ROM), pp: 1813-1823, Ubatuba-SP (2011).
-<a  href="./conteudo/artigos/SBPO2011-Marcos.pdf">|PDF|</a></li>
-</li>
 
+	
+Botelho, André, Semaan, Gustava., and Ochi, L. Satoru. (2011)<b> "Heurístca Baseada em Busca Local Iterada para a resolução do Problema de Agrupamento de Sistemas Orientados a Objetos".</b> Anais do XLIII Simpósio Brasileiro de Pesquisa Operacional (XLIII SBPO)(CD-ROM), pp: 1735-1744, Ubatuba-SP (2011).
 
-<li>
-Botelho, André, Semaan, Gustava., and Ochi, L. Satoru. (2011)<b> 
-"Heurístca Baseada em Busca Local Iterada para a resolução do Problema de Agrupamento de Sistemas Orientados a Objetos".</b>
-Anais do XLIII Simpósio Brasileiro de Pesquisa Operacional (XLIII SBPO)(CD-ROM), pp: 1735-1744, Ubatuba-SP (2011).
-<a  href="./conteudo/artigos/SBPO2011-Gustavo.pdf">|PDF|</a></li>
-</li>
+	
+Semaan, Gustavo Silva., Subramanian, Anand., Brito, José André M., and Ochi, Luiz Satoru (2011)<b>  "Um algoritmo ILS aplicado ao Problema do Caixeiro Viajante com Coleta e Entrega".</b> Anais do X Congresso Brasileiro de Inteligência Computacional (X CBIC), Fortaleza - CE, (2011).
 
+	
+Toscano, Rennan., Formiga, Lucidio., Souza, Marcone J Freitas., and Ochi, Luiz Satoru.(2011)<b>  "GRASP com algoritmos híbridos aplicado ao Problema da Árvore Geradora de Custo Mínimo Capacitada em Níveis".</b> Anais do X Congresso Brasileiro de Inteligência Computacional (X CBIC), Fortaleza - CE, (2011).
 
-<li>
-Semaan, Gustavo Silva., Subramanian, Anand., Brito, José André M., and Ochi, Luiz Satoru (2011)<b> 
-"Um algoritmo ILS aplicado ao Problema do Caixeiro Viajante com Coleta e Entrega".</b>
+	
+Bastos, Lucas de Oliveira., Ochi, Luiz Satoru., and Protti, Fábio.(2011)<b> "A Multi-Thread GRASP/VND for the Cluster Editing Problem.".</b>
 Anais do X Congresso Brasileiro de Inteligência Computacional (X CBIC), Fortaleza - CE, (2011).
-<a  href="./conteudo/artigos/CBIC2011-Gustavo.pdf">|PDF|</a></li>
-</li>
+
+	
+Silva, Geiza Cristina., Ochi, Luiz Satoru., Bahiense, Laura., and Boaventura, Paulo O.(2011)<b> "Efficient Metaheuristics for the Dynamic Space Allocation Problem".</b> Anais do X Congresso Brasileiro de Inteligência Computacional (X CBIC), Fortaleza - CE, (2011).
 
 
-<li>
-Toscano, Rennan., Formiga, Lucidio., Souza, Marcone J Freitas., and Ochi, Luiz Satoru.(2011)<b> 
-"GRASP com algoritmos híbridos aplicado ao Problema da Árvore Geradora de Custo Mínimo Capacitada em Níveis".</b>
-Anais do X Congresso Brasileiro de Inteligência Computacional (X CBIC), Fortaleza - CE, (2011).
-<a  href="./conteudo/artigos/CBIC2011-Renan.pdf">|PDF|</a></li>
-</li>
-
-
-<li>
-Bastos, Lucas de Oliveira., Ochi, Luiz Satoru., and Protti, Fábio.(2011)<b> 
-"A Multi-Thread GRASP/VND for the Cluster Editing Problem.".</b>
-Anais do X Congresso Brasileiro de Inteligência Computacional (X CBIC), Fortaleza - CE, (2011).
-<a  href="./conteudo/artigos/CBIC2011-Lucas.pdf">|PDF|</a></li>
-</li>
-
-
-<li>
-Silva, Geiza Cristina., Ochi, Luiz Satoru., Bahiense, Laura., and Boaventura, Paulo O.(2011)<b> 
-"Efficient Metaheuristics for the Dynamic Space Allocation Problem".</b>
-Anais do X Congresso Brasileiro de Inteligência Computacional (X CBIC), Fortaleza - CE, (2011).
-<a  href="./conteudo/artigos/CBIC2011-Geiza.pdf">|PDF|</a></li>
-</li>
-
-
-<li>
-Cruz, Marcelo Dib, e Ochi, Luiz Satoru.(2011)<b> 
-"O Problema de Clusterização Automática: Um novo método utilizando ILS".</b>
+Cruz, Marcelo Dib, e Ochi, Luiz Satoru.(2011)<b> "O Problema de Clusterização Automática: Um novo método utilizando ILS".</b>
 Anais do X Congresso Brasileiro de Inteligência Computacional (X CBIC), Fortaleza - CE, (2011).
 <a  href="./conteudo/artigos/CBIC2011-Dib.pdf">|PDF|</a></li>
-</li>
 
-
-
-<li>
+	
 Mestria, Mário, Martins, Simone de Lima, and Ochi, L. Satoru <b> "Iterated Local Search para o Problema do Caixeiro Viajante com Grupamentos" </b>
 Aceito para o XIV Simpósio de Pesquisa Operacional e Logística da Marinha (XIV SPOLM)(CD-ROM)  Rio de Janeiro/RJ  - 2011.
-</li>
 
-
-<li>
-Pinho, Fagner Silva, Semaana, Gustava S., Brito, José André M., and Ochi, L. Satoru <b> "Uma heuristica baseada em GRASP para a extração de associações em base de dados"</b> 
-Aceito para o XIV Simpósio de Pesquisa Operacional e Logística da Marinha (XIV SPOLM)(CD-ROM)  Rio de Janeiro/RJ  - 2011.
-</li>
-
-
-<a href="#inicio">&#171; Topo da página</a>
-</ol>
-
-
-<b>2010</b>
+	
+Pinho, Fagner Silva, Semaana, Gustava S., Brito, José André M., and Ochi, L. Satoru <b> "Uma heuristica baseada em GRASP para a extração de associações em base de dados"</b> Aceito para o XIV Simpósio de Pesquisa Operacional e Logística da Marinha (XIV SPOLM)(CD-ROM)  Rio de Janeiro/RJ  - 2011.
 
 
 
 
-<b>Accepted/Published</b>
-
-<ol>
+## **2010**
 
 
 
-<li>  
-Pailla, Andrés; Parada, Victor; Trindade, Athila R.; and Ochi, Luiz Satoru (2010). <b>A numerical
-  comparison between simulated annealing and evolutionary approaches to the cell formation problem.</b> 
-<b>Expert Systems With Application - ELSEVIER, Volume 37, pp: 5076-5483 </b> ).
-<a  href="./conteudo/artigos/ESWA2010-Victor.pdf">|PDF| DOI: 10.1016/j.eswa.2010.02.064 </a>
-</li>
+
+## **Accepted/Published**
 
 
-<li>  
+Pailla, Andrés; Parada, Victor; Trindade, Athila R.; and Ochi, Luiz Satoru (2010). <b>A numerical   comparison between simulated annealing and evolutionary approaches to the cell formation problem.</b> <b>Expert Systems With Application - ELSEVIER, Volume 37, pp: 5076-5483 </b> ).
+
+	
 Brito, J. André M., Ochi, Luiz Satoru, Montenegro, Flávio, and Maculan, Nelson (2010). <b>An ILS  Approach
-  Applied to the Optimal Stratification Problem.</b> 
-  <b> International Transaction in Operational Research (ITOR), Volume 17, pp. 753-764, Wiley-Blackwell</b>.
-<a  href="./conteudo/artigos/ITOR2010-Andre Britto.pdf">|PDF| DOI: 10.1111/j.1475-3995.2010.00773.x </a>
-</li>
+  Applied to the Optimal Stratification Problem.</b>   <b> International Transaction in Operational Research (ITOR), Volume 17, pp. 753-764, Wiley-Blackwell</b>.
 
-
-<li>
+	
 Gonçalves, Luciana Brugiolo., Martins, Simone L., and Ochi, Luiz Satoru (2010)<b> "Effective heuristics for the Set Covering with Pairs Problem" </b>. 
   <b> International Transaction in Operational Research (ITOR), Volume 17, pp. 739-751, Wiley-Blackwell </b> (2010).
-<a  href="./conteudo/artigos/ITOR2010-Luciana.pdf">|PDF|</a></li>
-</li>
 
+	
+Subramanian, Anand., Drummond, L. M. A., Bentes, C., Ochi, L. Satoru., and Farias, R. (2010)<b> "A Parallel heuristic for the Vehicle Routing Problem with Simultaneous   Pickup and Delivery". </b>   <b> Computers & Operations Research - ELSEVIER </b> - Volume 37(11), p. 1899-1911 - (2010).
 
-<li>
-Subramanian, Anand., Drummond, L. M. A., Bentes, C., Ochi, L. Satoru., and Farias, R. (2010)<b> "A Parallel heuristic for the Vehicle Routing Problem with Simultaneous
-  Pickup and Delivery". </b> 
-  <b> Computers & Operations Research - ELSEVIER </b> - Volume 37(11), p. 1899-1911 - (2010).
-<a  href="./conteudo/artigos/COR2009-Anand.pdf">|PDF|</a></li>
-</li>
-
-
-
-    <li>
-Santos, Ivairton M., Martinhon, Carlos A. J., and Ochi, Luiz Satoru (2010)<b>  
-"Near-Optimal Solutions for the Generalized Max-Controlled Set Problem".</b>
+	
+Santos, Ivairton M., Martinhon, Carlos A. J., and Ochi, Luiz Satoru (2010)<b>  "Near-Optimal Solutions for the Generalized Max-Controlled Set Problem".</b>
 <b> Computers & Operations Research, volume 37, p. 1805-1813 - ELSEVIER </b> 
-<a  href="./conteudo/artigos/C&OR2010-Ivairton.pdf">|PDF|</a></li>
-</li>
 
 
-  <li>
 Mine, Márcio., Silva, Matheus S., Ochi, L. Satoru., and Souza, Marcone J F (2010) <b> "Um Algoritmo Evolutivo Híbrido para o Problema
   de Recobrimento de Rotas com Coleta de Prêmios".</b>
 Learning & Nonlinear Models (L&NLM), Volume 8(2), pp: 100-110<b>  (2010) </b>.
-<a  href="./conteudo/artigos/L&NM-Marcio.pdf">|PDF|</a></li>
-</li>
 
-
-
-<li>
+	
 Mine, Márcio., Silva, Matheus S., Ochi, L. Satoru., and Souza, Marcone J F (2010)<b> "O Problema de roteamento de veículos com coleta e
-entrega simultânea: Uma abordagem via Iterated Local Search e GENIUS".</b>
-Publicado como capítulo III do livro: <b> Transporte em Transformação, ISBN: 978-85-99082-10-2, volume XIV, pp. 61-80 - (2010)</b>, editado pela 
-Confederação Nacional do Transporte (CNT).
-<a  href="./conteudo/artigos/Paper Livro CNT-2010-Márcio.pdf">|PDF|</a></li>
-</li>
+entrega simultânea: Uma abordagem via Iterated Local Search e GENIUS".</b> Publicado como capítulo III do livro: <b> Transporte em Transformação, ISBN: 978-85-99082-10-2, volume XIV, pp. 61-80 - (2010)</b>, editado pela Confederação Nacional do Transporte (CNT).
 
-
-
-<li>
+	
 Neves, Tiago A., Drummond, Lucia M A., Ochi, L. Satoru., Albuquerque, Célio., and Uchoa, Eduardo (2010)<b> "Solving replica placement and request 
-distribution in content distribution networks".</b>
-<b> Eletronic Notes in Discrete Mathematics 36, pp. 89-96 - 2010 - ELSEVIER.</b>
-<a  href="./conteudo/artigos/ISCO2010-Tiago.pdf">|PDF|</a></li>
-</li>
+distribution in content distribution networks".</b> <b> Eletronic Notes in Discrete Mathematics 36, pp. 89-96 - 2010 - ELSEVIER.</b>
 
-
-<li>
+	
 Subramanian, Anand., Uchoa, Eduardo., and Ochi, L. Satoru.(2010)<b> "New Lower Bound for the Vehicle Routing Problem with Simultaneous 
-Pickup and Delivery".</b>
-<b> Lecture Notes in Computer Science (LNCS) - SPRINGER, Volume 6049, pp 276-287 - </b>Proc. of the 9th International Symposium on Experimental 
-Algorithms (SEA-2010) - Ischia Island - Italy (2010).
-<a  href="./conteudo/artigos/SEA2010-Anand.pdf">|PDF|</a></li> 
-</li>
+Pickup and Delivery".</b> <b> Lecture Notes in Computer Science (LNCS) - SPRINGER, Volume 6049, pp 276-287 - </b>Proc. of the 9th International Symposium on Experimental Algorithms (SEA-2010) - Ischia Island - Italy (2010).
 
+	
+Silva, André Renato V.  and Ochi, L. Satoru <b> "Hybrid Algorithms for Dynamic Resource-Constrained Project Scheduling Problem".</b>
+<b> Lecture Notes in Computer Science (LNCS) - SPRINGER, Volume 6373, pp: 73-87, 2010. </b>- Proc. of the <b> 7th International Workshop on Hybrid Metaheuristics (HM2010)</b>.,   Vienna - 2010.
 
-<li>
-Silva, André Renato V.  and Ochi, L. Satoru <b> "Hybrid Algorithms for Dynamic Resource-Constrained 
-Project Scheduling Problem".</b>
-<b> Lecture Notes in Computer Science (LNCS) - SPRINGER, Volume 6373, pp: 73-87, 2010. </b>- Proc. of the <b> 7th International Workshop on Hybrid Metaheuristics (HM2010)</b>.,
-  Vienna - 2010.
-<a  href="./conteudo/artigos/HM2010-Andre.pdf">|PDF|</a></li>
-</li>
-
-
-
-<li>
+	
 Mine, Márcio., Silva, Matheus S., Ochi, L. Satoru., Souza, Marcone J F., and Silva, Thais Cotta Barbosa. (2010) <b> "O problema de roteamento de veículos com coleta e
-entrega simultânea: uma abordagem via Iterated Local Search e GENIUS".</b>
-Revista TRANSPORTES, Volume XVIII, numero 3, pp. 60-71 (2010) </b>.
-<a  href="./conteudo/artigos/Transportes-Marcio.pdf">|PDF|</a></li>
-</li>
+entrega simultânea: uma abordagem via Iterated Local Search e GENIUS".</b> Revista TRANSPORTES, Volume XVIII, numero 3, pp. 60-71 (2010) </b>.
 
-
-
-<li>
 Coelho, Igor M., Coelho, Vitor N., Coelho, Bruno N., Haddad, M. N., Ochi, L. Satoru., and Souza, Marcone J F (2010)<b> 
 "A general variable neighborhood search approach for the resolution of the ETERNITY II Prize".</b>
 Proc. of the Int. Conference on Metaheuristics and Nature Inspired Computing - META'10" , Djerba Island, Tunisia (2010).
-<a  href="./conteudo/artigos/META2010-Igor.pdf">|PDF|</a></li>
-</li>
 
+	
+Motta, Luciene C., Ochi, L. Satoru., and Nogueira, Loana T. (2010)<b> "Improving performance of algorithms for the covering tour problem by applying reduction rules".</b> Proc. of the 25th Mini-EURO Conference on Uncertainty and Robustness in Planning and Decision Making(URPDM2010)(CD-ROM) University of Coimbra, Portugal (2010).  ISBN 978-989-95055-3-7
 
-<li>
-Motta, Luciene C., Ochi, L. Satoru., and Nogueira, Loana T. (2010)<b> "Improving performance of algorithms for 
-the covering tour problem by applying reduction rules".</b>
-Proc. of the 25th Mini-EURO Conference on Uncertainty and Robustness in Planning and Decision Making(URPDM2010)(CD-ROM)
-University of Coimbra, Portugal (2010).  ISBN 978-989-95055-3-7
-<a  href="./conteudo/artigos/URPDM2010-Luciene.pdf">|PDF|</a></li>
-</li>
-
-
-<li>
+	
 Mine, Márcio., Silva, Matheus S., Subramanian, Anand., Ochi, L. Satoru., and Souza, Marcone J F (2010)<b> "A hybrid algorithm, based on Iterated Local Search for the
-Vehicle Routing Problem with simultaneous pickup and delivery".</b>
-Proc. of the ICIL 2010 - International Conference on Industrial Logistics "Logistics and Sustainability" (2010) (CD-ROM).
-<a  href="./conteudo/artigos/ICIL2010-Marcio.pdf">|PDF|</a></li>
-</li>
+Vehicle Routing Problem with simultaneous pickup and delivery".</b> Proc. of the ICIL 2010 - International Conference on Industrial Logistics "Logistics and Sustainability" (2010) (CD-ROM).
 
+Machado, Igor., Munhoz, Pablo L. A., Ribas, Sabir, Merche, Mário, Ochi, L. Satoru., and Souza, Marcone J F (2010)<b> "OptFrame: a computational framework for combinatorial optimization problems".</b> Anais do XLII Simpósio Brasileiro de Pesquisa Operacional (XLII SBPO) (CD-ROM) pp: 1887-1898 - Bento Gonçalves/RS (2010).
 
+	
+Paes, Bruno, Subramanian, Anand., and Ochi, L. Satoru. (2010)<b> "Uma heurística híbrida para o Problema do Caixeiro Viajante com Coleta e Entrega envolvendo um único tipo de produto".</b> Anais do XLII Simpósio Brasileiro de Pesquisa Operacional (XLII SBPO)(CD-ROM) pp: 1513-1524 - Bento Gonçalves/RS (2010).
 
-
-<li>
-Machado, Igor., Munhoz, Pablo L. A., Ribas, Sabir, Merche, Mário, Ochi, L. Satoru., and Souza, Marcone J F (2010)<b> 
-"OptFrame: a computational framework for combinatorial optimization problems".</b>
-Anais do XLII Simpósio Brasileiro de Pesquisa Operacional (XLII SBPO) (CD-ROM) pp: 1887-1898 - Bento Gonçalves/RS (2010).
-<a  href="./conteudo/artigos/SBPO2010-Igor.pdf">|PDF|</a></li>
-</li>
-
-
-<li>
-Paes, Bruno, Subramanian, Anand., and Ochi, L. Satoru. (2010)<b> 
-"Uma heurística híbrida para o Problema do Caixeiro Viajante com Coleta e Entrega envolvendo um único tipo de produto".</b>
-Anais do XLII Simpósio Brasileiro de Pesquisa Operacional (XLII SBPO)(CD-ROM) pp: 1513-1524 - Bento Gonçalves/RS (2010).
-<a  href="./conteudo/artigos/SBPO2010-Bruno.pdf">|PDF|</a></li>
-</li>
-
-
-<li>
+	
 Merche, Mário., Subramanian, Anand, Munhoz, Pablo L. A.,and Ochi, L. Satoru. (2010)<b> 
 "Uma heurística baseada em Iterated Local Search para o Problema de Roteamento de Veículos com Múltiplos Depósitos".</b>
 Anais do XLII Simpósio Brasileiro de Pesquisa Operacional (XLII SBPO)(CD-ROM)pp: 1827-1838 - Bento Gonçalves/RS (2010).
-<a  href="./conteudo/artigos/SBPO2010-Mario.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Mestria, Mario., Martins, Simone L., and Ochi, L. Satoru <b> "Heurísticas Híbridas para o Problema do Caixeiro Viajante com
-Grupamentos".</b>
-Anais do XXX Encontro Nacional de Engenharia de Produção (XXX ENEGEP) (CD-ROM)  São Carlos/SP - 2010.
-<a  href="./conteudo/artigos/ENEGEP2010-Mario.pdf">|PDF|</a></li>
-</li>
+Grupamentos".</b> Anais do XXX Encontro Nacional de Engenharia de Produção (XXX ENEGEP) (CD-ROM)  São Carlos/SP - 2010.
 
-
-<li>
+	
 Semaan, Gustavo S., Brito, J. André M., and Ochi, Luiz Satoru <b> "Efficient Algorithms for the capacity and connectivity graph partition problem".</b>
 Mecanica Computacional, Volume XXIX, pp. 9499-9509, Proc. of the CILAMCE 2010 - XXXI Iberian-Latin-American Congress on Computational Methods in Engineering, Buenos Aires - 2010.
-<a  href="./conteudo/artigos/CILAMCE2010-Gustavo.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Ribas, Sabir, Subramanian, Anand, Coelho, Igor M., Souza, Marcone J. F., and Ochi, Luiz Satoru <b> "Um algoritmo híbrido para a resolução do Problema 
-de Roteamento de Veiculos com Janelas de Tempo".</b>
-Mecanica Computacional, Volume XXIX, pp. 9471-9484, Proc. of the CILAMCE 2010 - XXXI Iberian-Latin-American Congress on Computational Methods in Engineering, Buenos Aires - 2010.
+de Roteamento de Veiculos com Janelas de Tempo".</b> Mecanica Computacional, Volume XXIX, pp. 9471-9484, Proc. of the CILAMCE 2010 - XXXI Iberian-Latin-American Congress on Computational Methods in Engineering, Buenos Aires - 2010.
 <a  href="./conteudo/artigos/CILANCE2010-Sabir.pdf">|PDF|</a></li>
 </li>
 
 
-
-<a href="#inicio">&#171; Topo da página</a>
-</ol>
+## **2009**
 
 
-<b>2009</b>
+## **Accepted/Published**
 
 
-<b>Accepted/Published</b>
-
-<ol>
-
-<li>
+	
 Silva, André Renato V.  and Ochi, L. Satoru <b> "New Sequential and Parallel Algorithms for Dynamic Constrained 
-Project Scheduling Problem".</b>
-Proc. of the <b> 12th International Workshop on Nature Inspired Distributed Computing (NIDISC2009) held in conjunction with The 23th IEEE/ACM
-International Parallel and Distributed Processing Symposium (IPDPS2009)</b>., Rome, Italy - 2009.
-<a  href="./conteudo/artigos/NIDISC2009-André.pdf">|PDF|</a></li>
-</li>
+Project Scheduling Problem".</b> Proc. of the <b> 12th International Workshop on Nature Inspired Distributed Computing (NIDISC2009) held in conjunction with The 23th IEEE/ACM International Parallel and Distributed Processing Symposium (IPDPS2009)</b>., Rome, Italy - 2009.
 
-
-<li>
+	
 Ferreira, Cristiane., Ochi, L. Satoru., Uchoa, E., and Parada, Victor <b> "A GRASP approach for solve the Generalized Spanning Tree Problem".</b>
 <b> Proc. of the TRANSLOG: Transportation and Logistics Workshop </b> -  Chile - 12/2009.
-</li>
 
-
-<li>
+	
 Cruz, Marcelo Dib.  and Ochi, L. Satoru <b> "A hybrid method using evolutionary algorithm and a linear integer model to solve 
-the automatic clustering problem".</b>
-<b> Proc. of the ICEC 2009  International Conference on Evolutionary Computation </b>. -  Portugal - 2009.
-<a  href="./conteudo/artigos/ICEC2009-Dib.pdf">|PDF|</a></li>
-</li>
+the automatic clustering problem".</b> <b> Proc. of the ICEC 2009  International Conference on Evolutionary Computation </b>. -  Portugal - 2009.
 
-
-<li>
+	
 Coelho, Igor M., Ribas, Sabir., Coelho, Vitor N., Souza, Marcone J. F., and Ochi, L. Satoru 
 <b> "A hybrid heuristic algorithm based on GRASP, VND, ILS and Path Relinking for the open-pit-mining operational
-planning problem".</b>
-Proc. of the <b> 30th edition of the Iberian-Latin-American Congress on Computational Methods in Engineering - 30th CILAMCE </b>. , (CD-ROM)  Búzios-RJ  - 2009.
-<a  href="./conteudo/artigos/CILAMCE2009-Igor.pdf">|PDF|</a></li>
-</li>
+planning problem".</b> Proc. of the <b> 30th edition of the Iberian-Latin-American Congress on Computational Methods in Engineering - 30th CILAMCE </b>. , (CD-ROM)  Búzios-RJ  - 2009.
 
-
-<li>
+	
 Mine, Marcio T., Silva, Matheus S., Souza, Marcone J. F., and Ochi, L. Satoru <b> "O Problema de roteamento de veículos com coleta e
 entrega simultânea: Uma abordagem via Iterated Local Search e GENIUS" (Artigo premiado pela Confederação Nacional do Transporte - CNT ano 2009).</b>
 Anais do XXIII ANPET(CD-ROM)  Vitória/ES  - 2009.
-<a  href="./conteudo/artigos/Paper Livro CNT-2010-Márcio.pdf">|PDF|</a></li>
-</li>
 
+	
+Gonçalves, Tiago. L. ; Fampa, Márcia. H. C. ; Santos, André G. , and Ochi, L. Satoru <b> "Metaheurística Busca Tabu e Programação Matemática: uma abordagem híbrida aplicada ao Problema   de Programação de Tripulações" Ciencia Tecnologia y Desarrollo , v. 7, p. 1-7 - 2009.
 
-<li>
-Gonçalves, Tiago. L. ; Fampa, Márcia. H. C. ; Santos, André G. , and Ochi, L. Satoru <b> "Metaheurística Busca Tabu e Programação Matemática: uma abordagem híbrida aplicada ao Problema
-  de Programação de Tripulações" Ciencia Tecnologia y Desarrollo , v. 7, p. 1-7 - 2009.
-<a  href="./conteudo/artigos/Paper Tiago-COPPE2009.pdf">|PDF|</a></li>
-</li>
-
-
-<li>
+	
 Cruz, Marcelo Dib.  and Ochi, L. Satoru <b> "Um algoritmo evolutivo com memória adaptativa e busca local para o problema de clusterização".</b>
 Anais do XXIX Encontro Nacional de Engenharia de Produção (XXIX ENEGEP) (CD-ROM)  Salvador/BA  - 2009.
 <a  href="./conteudo/artigos/ENEGEP2009-Dib.pdf">|PDF|</a></li>
@@ -1226,390 +849,218 @@ Anais do XLI Simposio Brasileiro de Pesquisa Operacional (XLI SBPO) (CD-ROM), pg
 <li>
 Brito, Jose Andre M, Montenegro, Flavio and Ochi, L. Satoru <b> "Um algoritmo ILS para melhoria de eficiência da estratificação estatística".</b>
 Anais do XLI Simposio Brasileiro de Pesquisa Operacional (XLI SBPO) (CD-ROM), pg: 2133-2144 - Porto Seguro/BA  - 2009.
-<a  href="./conteudo/artigos/SBPO2009-Andre&Flavio.pdf">|PDF|</a></li>
-</li>
 
+	
+Silva, Geiza Cristina., Boaventura, Paulo., Bahiense, Laura and Ochi, L. Satoru <b> "O problema de alocação dinâmica de espaços: aplicação das metaheuristicas BRASP e Busca Tabu".</b> Anais do XLI Simposio Brasileiro de Pesquisa Operacional (XLI SBPO) (CD-ROM) - Porto Seguro/BA  - 2009.
 
-<li>
-Silva, Geiza Cristina., Boaventura, Paulo., Bahiense, Laura and Ochi, L. Satoru <b> "O problema de alocação dinâmica de espaços: aplicação das metaheuristicas BRASP e Busca Tabu".</b>
-Anais do XLI Simposio Brasileiro de Pesquisa Operacional (XLI SBPO) (CD-ROM) - Porto Seguro/BA  - 2009.
-<a  href="./conteudo/artigos/SBPO2009-Geiza.pdf">|PDF|</a></li>
-</li>
-
-
-<li>
+	
 Sallaume, Silas, Silva, Warley Gramacho, Lavor, Carlile, Martins, Simone L., and Ochi, L. Satoru <b> 
 "Determining protein structures using the discretizable molecular distance geometry problem".</b>
 Proc. of the LAGOS2009  Latin-American Algorithms, Graphs, and Optimization Symposium (CD-ROM) - Gramado/RS  - 2009.
 <a  href="./conteudo/artigos/LAGOS2009-Silas.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Mestria, Mário, Martins, Simone Lima,and Ochi, L. Satoru <b> "Desenvolvimento e análise experimental de heuristicas GRASP para o Problema
-do Caixeiro Viajante com Grupamentos".</b>
-Anais do IX Congresso Brasileiro de Redes Neurais e Inteligência Computacional  (IX CBRN) (CD-ROM)  Outro Preto/MG  - 2009.
-<a  href="./conteudo/artigos/CBRN2009-Mario.pdf">|PDF|</a></li>
-</li>
+do Caixeiro Viajante com Grupamentos".</b> Anais do IX Congresso Brasileiro de Redes Neurais e Inteligência Computacional  (IX CBRN) (CD-ROM)  Outro Preto/MG  - 2009.
 
+	
+Mine, Marcio T., Silva, Matheus S., Souza, Marcone J. F., and Ochi, L. Satoru  <b> "Um algoritmo evolutivo híbrido para o problema de recobrimento de rotas com coleta de prêmios".</b> Anais do IX Congresso Brasileiro de Redes Neurais e Inteligência Computacional  (IX CBRN) (CD-ROM)  Outro Preto/MG  - 2009.
+ 
+	
+Semaan, Gustavo, Brito, J Andre Moura., and Ochi, L. Satoru  <b> "Um algoritmo evolutivo hibrido aplicado ao problema de clusterização em grafos com restrições de capacidade e contiguidade".</b> Anais do IX Congresso Brasileiro de Redes Neurais e Inteligência Computacional  (IX CBRN) (CD-ROM)  Outro Preto/MG  - 2009.
 
-<li>
-Mine, Marcio T., Silva, Matheus S., Souza, Marcone J. F., and Ochi, L. Satoru  <b> "Um algoritmo evolutivo híbrido para o problema de recobrimento de rotas com coleta de prêmios".</b>
-Anais do IX Congresso Brasileiro de Redes Neurais e Inteligência Computacional  (IX CBRN) (CD-ROM)  Outro Preto/MG  - 2009.
-<a  href="./conteudo/artigos/CBRN2009-Matheus.pdf">|PDF|</a></li>
-</li>
-
-
-<li>
-Semaan, Gustavo, Brito, J Andre Moura., and Ochi, L. Satoru  <b> "Um algoritmo evolutivo hibrido aplicado ao problema de clusterização em grafos com restrições de capacidade e contiguidade".</b>
-Anais do IX Congresso Brasileiro de Redes Neurais e Inteligência Computacional  (IX CBRN) (CD-ROM)  Outro Preto/MG  - 2009.
-<a  href="./conteudo/artigos/CBRN2009-Gustavo.pdf">|PDF|</a></li>
-</li>
-
-
-<li>
+	
 Motta, Luciene C. S., and Ochi, L. Satoru  <b> "Metaheurísticas com memória adaptativa para o Problema de Recobrimento de Rotas".</b>
 Anais do IX Congresso Brasileiro de Redes Neurais e Inteligência Computacional  (IX CBRN) (CD-ROM)  Outro Preto/MG  - 2009.
-<a  href="./conteudo/artigos/CBRN2009-Luciene.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Mine, Marcio T., Silva, Matheus S., Souza, Marcone J. F., and Ochi, L. Satoru <b> "Uma abordagem híbrida, baseada em metaheurísticas 
 e na heurística genius, aplicada ao problema de roteamento de veículos com coleta e entrega simultânea" (Premiado como o melhor artigo da área de 
-Logística).</b>
-Anais do XII Simpósio de Pesquisa Operacional e Logística da Marinha (XII SPOLM)(CD-ROM)  Rio de Janeiro/RJ  - 2009.
-<a  href="./conteudo/artigos/SPOLM2009-Marcio.pdf">|PDF|</a></li>
-</li>
+Logística).</b> Anais do XII Simpósio de Pesquisa Operacional e Logística da Marinha (XII SPOLM)(CD-ROM)  Rio de Janeiro/RJ  - 2009.
 
 
-<a href="#inicio">&#171; Topo da página</a>
-</ol>
+## **2008**
 
 
-<b>2008</b>
+## **Accepted/Published**
 
 
-<b>Accepted/Published </b>
-
-<ol>
-<li>
 Santos, I. M., Martinhon, C. A. J. and Ochi, L. Satoru <b> 	"The Generalized Max-Controlled Set Problem".</b>
 Electronic Notes in Discrete Mathematics 30, 183-188 - ELSEVIER - 2008.
-<a  href="./conteudo/artigos/ENDM2008.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Santos, Haroldo G.,Uchoa, Eduardo., Ochi, L. Satoru, and Maculan, Nelson. <b> "Strong Bounds with Cuts and
 Column Generations for Class-Teacher Timetabling"</b>.
 Proc. of the 7th International Conference on the Practice and Theory of Automated Timetabling
   - PATAT2008, Université de Montréal, 2008.
-<a  href="./conteudo/artigos/PATAT2008-Haroldo.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Gonçalves, Luciana Brugiolo, Martins, Simone L., Ochi, Luiz Satoru and Resende, Mauricio G. C. <b> "Effective heuristics for the 
 Set Cover by Pairs Problem"</b>. Proc. of the VI ALIO - EURO Conference on Applied Combinatorial 
 Optimization, 12/2008, Buenos Aires, Argentina, 2008.
-<a  href="./conteudo/artigos/ALIO-EURO2008-Luciana.pdf">|PDF|</a></li>
-</li>
 
-
-
-<li>
+	
 Souza, Marcone J. F., Maculan, Nelson, and Ochi, L. Satoru. <b> "Minimizing earliness and tardiness penalties on a single machine scheduling problem with distinct 
 due windows and sequence-dependent setup times"</b>. 	Proc. of the VI ALIO - EURO Conference on 
 Applied Combinatorial Optimization, 12/2008, Buenos Aires,Argentina, 2008.
-<a  href="./conteudo/artigos/ALIO-EURO2008-Marcone.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Brito,J. André de M., Montenegro, Flávio, Ochi, L. Satoru, and Maculan, Nelson. <b> "An ILS Approach Applied to the Optimal 
 Stratification Problem"</b>.
 Proc. of the VI ALIO - EURO Conference on Applied Combinatorial Optimization, 12/2008, Buenos Aires, 
 Argentina, 2008.
-<a  href="./conteudo/artigos/ALIO-EURO2008-Andre&Flavio.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Silva, André Renato V. da,Ochi, L. Satoru, and Santos, H. G. <b> "A New Effective Hybrid Evolutionary Algorithm 
-for the Dynamic Resource Task Scheduling
-Problem"</b>.
-Proc. of the International Conference on Engineering Optimization (EngOpt2008). Sponsoring Societies: Mathematical
+for the Dynamic Resource Task Scheduling Problem"</b>. Proc. of the International Conference on Engineering Optimization (EngOpt2008). Sponsoring Societies: Mathematical Programming Society (MPS), ISSMO, EUROPT, ABCM.
+ 
+Bastos, Lucas O.,Ochi, L. Satoru <b> "A Genetic Algorithm with Evolutionary Path-Relinking for the Sonet Ring  Assignment Problem"</b>. Proc. of the International Conference on Engineering Optimization (EngOpt2008). Sponsoring Societies: Mathematical 	Programming Society (MPS), ISSMO, EUROPT, ABCM.
+
+	
+Sallaume, S., Silva, M. S. A., Mine, M. T., Ochi, L. Satoru, Souza, M. J. F., Plastino, A., and Martins, S. L. <b>   "One Dimensional Cutting Stock Problem with Redevelopment of the Surplus Material"</b>. Proc. of the International Conference on Engineering Optimization (EngOpt2008). Sponsoring Societies: Mathematical
 Programming Society (MPS), ISSMO, EUROPT, ABCM.
-<a  href="./conteudo/artigos/EngOpt2008-André.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
-Bastos, Lucas O.,Ochi, L. Satoru <b> "A Genetic Algorithm with Evolutionary Path-Relinking for the Sonet Ring 
-Assignment Problem"</b>. Proc. of the International Conference on Engineering Optimization (EngOpt2008). 
-Sponsoring Societies: Mathematical 	Programming Society (MPS), ISSMO, EUROPT, ABCM.
-<a  href="./conteudo/artigos/EngOpt2008-Lucas.pdf">|PDF|</a></li>
-</li>
-
-
-<li>
-Sallaume, S., Silva, M. S. A., Mine, M. T., Ochi, L. Satoru, Souza, M. J. F., Plastino, A., and Martins, S. L. <b>
-  "One Dimensional Cutting Stock Problem with Redevelopment of the Surplus Material"</b>. Proc. of the International 
-Conference on Engineering Optimization (EngOpt2008). Sponsoring Societies: Mathematical
-Programming Society (MPS), ISSMO, EUROPT, ABCM.
-<a  href="./conteudo/artigos/EngOpt2008-Silas.pdf">|PDF|</a></li>
-</li>
-
-
-<li>
+	
 Semaan, Gustavo S., Ochi, L. Satoru, Brito, J. André M., and Montenegro, Flávio <b>
   "An Efficient Evolutionary Algorithm for the Aggregated Weighting Areas Problem"</b>. Proc. of the International Conference on Engineering Optimization (EngOpt2008). Sponsoring Societies: Mathematical
 Programming Society (MPS), ISSMO, EUROPT, ABCM.
-<a  href="./conteudo/artigos/EngOpt2008-Gustavo.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
 Neves, Tiago, Ochi, L. Satoru., Drummond, Lucia., Uchoa, Eduardo., and Albuquerque, Célio.<b>
-  "Optimization in Contend Distribution Networks"</b>.	Proc. of the International Conference on Engineering Optimization (EngOpt2008). Sponsoring Societies: Mathematical
-Programming Society (MPS), ISSMO, EUROPT, ABCM.
-<a  href="./conteudo/artigos/EngOpt2008-Tiago.pdf">|PDF|</a></li>
-</li>
-
-
-<li>
+  "Optimization in Contend Distribution Networks"</b>.	Proc. of the International Conference on Engineering Optimization (EngOpt2008). Sponsoring Societies: Mathematical Programming Society (MPS), ISSMO, EUROPT, ABCM.
+ 
+	
 Silva, Geiza C. da, Ferreira, Tiago G., Costa, Tatiana A., Boaventura, Paulo O., and Ochi, L. Satoru.<b>
-  "A Tabu Search Heuristic for the Dynamic Space Allocation Problem"</b>. Proc. of the International Conference on Engineering Optimization (EngOpt2008). Sponsoring Societies: Mathematical
-Programming Society (MPS), ISSMO, EUROPT, ABCM.
-<a  href="./conteudo/artigos/EngOpt2008-Geiza.pdf">|PDF|</a></li>
-</li>
+  "A Tabu Search Heuristic for the Dynamic Space Allocation Problem"</b>. Proc. of the International Conference on Engineering Optimization (EngOpt2008). Sponsoring Societies: Mathematical Programming Society (MPS), ISSMO, EUROPT, ABCM.
 
+	
+Seixas, Flávio L., Ochi, L. Satoru., Conci, Aura., and Saade, Débora.C.M.<b>   "Image Registration using Genetic Algorithms" </b>. Proc. of the GECCO: Genetic and Evolutionary Computation Conference 2008 (17th Int. Conference on GA and the 13th Annual Genetic Programming Conference)- Atlanta - USA - 2008.
 
-<li>
-Seixas, Flávio L., Ochi, L. Satoru., Conci, Aura., and Saade, Débora.C.M.<b>
-  "Image Registration using Genetic Algorithms" </b>. Proc. of the GECCO: Genetic and Evolutionary Computation 
-Conference 2008 (17th Int. Conference on GA and the 13th Annual Genetic Programming Conference)- Atlanta - USA - 2008.
-<a  href="./conteudo/artigos/GECCO2008-Flávio.pdf">|PDF-Abstract|</a>
-</li>
-
-
-<li>
+	
 Souza, Marcone J. F., Ochi, Luiz Satoru, Gonçalves, Frederico, A. C. A., and Penna, Puca, H. U.<b>  "GRASP, TABU SEARCH and Path Relinking for 
-solving single machine total earliness and tardiness
-scheduling with distinct due windows and sequence dependent setups":</b> Proc. of the XXIX CILAMCE - 
+solving single machine total earliness and tardiness scheduling with distinct due windows and sequence dependent setups":</b> Proc. of the XXIX CILAMCE - 
 Iberian Latin American Congress on Computational Methods in Engineering - 2008
-</li><a href="./conteudo/artigos/XXIX CILAMCE-Marcone.pdf">|PDF|</a></li>
-</li>
 
-
-
-<li>
+	
 Subramanian, Anand, Cabral, Lucidio A. F., and Ochi, Luiz Satoru, <b>  "An efficient Iterated Local Search Algorithm 
 for the Vehicle Routing Problem with Simultaneous Pickup and Delivery":</b> Proc. of the XL SBPO (CD-ROM), pp: 1569-1580 - João Pessoa/PB - 2008
-</li><a href="./conteudo/artigos/XSBPO2008-Anand.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Silva, Warley G., Lavor, Carlile C., and Ochi, Luiz Satoru, <b>  "Cálculo de estruturas de proteínas":</b> Status: 
 Anais do XL SBPO (CD-ROM), pp: 1604-1615 - João Pessoa/PB - 2008
-</li><a href="./conteudo/artigos/SBPO2008-Warley.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Gonçalves, Luciana Brugiolo, Martins, Simone L, Resende, Mauricio., and Ochi, Luiz Satoru, <b>  "Uma heurística
 eficiente para o problema de cobertura de conjunto por pares":</b>Anais do XL SBPO (CD-ROM), pp: 1916-1923 - João Pessoa/PB - 2008
-</li><a href="./conteudo/artigos/SBPO2008-Luciana.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Gonçalves, Tiago., Fampa, Márcia H. C., Santos, André, and Ochi, Luiz Satoru, <b>  "Metaheuristica Busca Tabu e
 Programação Matemática: Uma abordagem hibrida aplicada ao Problema de Programação de Tripulações":</b> Anais do XXXXI CNMAC (CD-ROM) - Belém/PA - 2008
-</li><a href="./conteudo/artigos/CNMAC2008-Tiago.pdf">|PDF|</a></li>
-</li>
-
-
-<li>
+ 
+	
 Silva, Geiza C., Boaventura, Paulo O., and Ochi, L. Satoru <b> 	"Heuristica GRASP para o Problema da Alocação Dinâmica de
-Espaços".</b>
-Revista Gestão Industrial, volume 4(1), pp: 160-174, 2008 (ISSN 1808-0448)
-<a  href="./conteudo/artigos/GesInd2008.pdf">|PDF|</a></li>
-</li>
+Espaços".</b> Revista Gestão Industrial, volume 4(1), pp: 160-174, 2008 (ISSN 1808-0448)
 
-
-<li>
+	
 Britto, Luciana R., Britto, José André M., Montenegro, Flávio, and Ochi, Luiz Satoru, <b>  "Algoritmo ILS aplicado ao
 Problema da K-Mediana Capacitado":</b> Anais do XI Simpósio de Pesquisa Operacional e Logística
 da Marinha (XI SPOLM)- 2008
-</li><a href="./conteudo/artigos/SPOLM2008-Andre Britto.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Souza, Marcone J. F., Penna, P. H. V., Gonçalves, F. A. C. A., e Ochi, Luiz Satoru, <b>  "Uma Heurística Híbrida
 para minimizar custos com antecipação e atrasos em sistemas de produção com janelas de entrega e tempos de preparação
 dependentes da sequencia":</b> Anais do XI Simpósio de Pesquisa Operacional e Logística
 da Marinha (XI SPOLM)- 2008
-</li><a href="./conteudo/artigos/SPOLM2008-Marcone.pdf">|PDF|</a></li>
-</li>
-
-
-<li>
+	
+	
 Subramanian, Anand, Cabral, Lucidio A. F., and Ochi, Luiz Satoru, <b>  "An Efficient ILS Heuristic for the Vehicle Routing
 Problem with Simultaneous Pickup and Delivery ":</b> Technical Report - RT 07/08 - IC-UFF - 2008
-</li><a href="./conteudo/artigos/TR2008-Anand.pdf">|PDF|</a></li>
-</li>
 
 
+## **2007**
 
-<a href="#inicio">&#171; Topo da página</a>
-</ol>
-
-
+**Accepted/Published**
 
 
-<b>2007</b>
-
-<i>Accepted/Published</i>
-
-<ol>
-<li>
+	
 Silva, André Renato V. da,OCHI, L. Satoru <b> "A hybrid evolutionary algorithm for the dynamic Resource Task Scheduling
-Problem"</b>.
-Proc. of the 10th International Workshop on Nature Inspired Distributed Computing (NIDISC' 07) held in conjunction with The 21th 
+Problem"</b>. Proc. of the 10th International Workshop on Nature Inspired Distributed Computing (NIDISC' 07) held in conjunction with The 21th 
 IEEE/ACM Int. Parallel and Distributed Processing Symposium (IPDPS 2007), March 2007, Long Beach, California, USA.
-<a  href="./conteudo/artigos/NIDISC2007-Andre.pdf">|PDF|</a></li>
-</li>
 
-<li>
+	
 Silva, André Renato V. da, Ochi, L. Satoru.<b> "Effective GRASP for the Dynamic Resource Task Scheduling
-Problem"</b>.
-Aceito para o International Network Optimization Conference (INOC 2007), April 2007, Spa, Belgium.
-<a  href="./conteudo/artigos/INOC2007-Andre.pdf">|PDF|</a></li></li>
-</li> 
+Problem"</b>. Aceito para o International Network Optimization Conference (INOC 2007), April 2007, Spa, Belgium.
 
-
-<li>
+	
 Silva, Geiza C., Andrade, M. R. Q., Ochi, L. Satoru., Martins, S. L.and Plastino, A. <b> "New Heuristics for the Maximum Diversity 
-Problem"</b>. 
-Journal of Heuristics - SPRINGER (2007), Volume 13, pp: 315-336.
-<a  href="./conteudo/artigos/JHeuristics2006-Geiza.pdf">|PDF|</a></li>
-</li>
+Problem"</b>. Journal of Heuristics - SPRINGER (2007), Volume 13, pp: 315-336.
 
-<li>
+	
 
 Santos, Haroldo G., Uchoa, Eduardo and, Ochi, L. Satoru,  <b> "Extended Formulation with Cut and Column Generation for Timetabling"</b>.
 Proc. of the ORP3 2007 Conference - Portugal.
-<a  href="./conteudo/artigos/ORP32007-Haroldo.pdf">|PDF|</a></li>
-</li>
-	
-<li>
+
 
 Ferreira, Cristiane M. S., Ochi, L. Satoru. <b> "Metaheuristicas GRASP com Memória Adaptativa para a solução do Problema 
-da Árvore Geradora Mínima Generalizado"</b>.
-Proc. of the VI Encontro Nacional de Inteligência Artificial (VI ENIA), realizado em conjunto com o XXVII Congresso
+da Árvore Geradora Mínima Generalizado"</b>. Proc. of the VI Encontro Nacional de Inteligência Artificial (VI ENIA), realizado em conjunto com o XXVII Congresso
 da SBC, pp: 1202-1211 - Agosto de 2007.
-<a  href="./conteudo/artigos/ENIA2007-Cristiane.pdf">|PDF|</a></li></li>
 
-<li>
+	
 
 Neves, Tiago A., Ochi, L. Satoru.,  <b> "GRASP com Memória Adaptativa Aplicado ao Problema de Escalonamento de Sondas de
-Manutenção"</b>.
-Proc. of the VI Encontro Nacional de Inteligência Artificial (VI ENIA)), realizado em conjunto com o XXVII Congresso
+Manutenção"</b>. Proc. of the VI Encontro Nacional de Inteligência Artificial (VI ENIA)), realizado em conjunto com o XXVII Congresso
 da SBC, pp: 1242-1251 - Agosto de 2007.
-<a  href="./conteudo/artigos/ENIA2007-Tiago.pdf">|PDF|</a></li></li>
 
-
-<li>
+	
 Tafur, Johnny E. V., Rocha, H. R. O., Meza, E. B. M., Stacchini, J. C., Couto Filho, M. B., and Ochi, L. Satoru <b>
 "Heuristic GRASP for Planning Metering Systems for Electrical Power Network Monitoring".</b>.
 Proc. of the VI International Conference on Operational Research Development (ICORD VI), pp: 357-367 - 2007.
-<a  href="./conteudo/artigos/ICORD-Johnny.pdf">|Abstract|</a>
-<a  href="./conteudo/artigos/ICORD2007-Johnny-Completo.pdf">|PDF|</a></li>
 
-</li>
 	
-
-<li>
 Neto, Carlos A. S., Schilling, Marcus T., Stacchini, Julio C., and Ochi, L. Satoru <b>
 "Power Systems Dynamic Security Enhancement by the use of Efficient Heuristics".</b>.
 Proc. of the VI International Conference on Operational Research Development (ICORD VI), pp: 324-333 - 2007.
-<a  href="./conteudo/artigos/ICORD-Carlos.pdf">|Abstract|</a>
-<a  href="./conteudo/artigos/ICORD2007-Carlos-Completo.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
+	
 Santos, I. M., Martinhon, C. A. J. and Ochi, L. Satoru <b> 	"The Generalized Max-Controlled Set Problem".</b>
-Proc. of the LAGOS' 07 - 
-IV Latin-American Algorithms Graphs and Optimizations Symposium - Puerto Varas - Chile - 2007.
-<a  href="./conteudo/artigos/LAGOS-2007.pdf">|PDF|</a></li>
-</li>
+Proc. of the LAGOS' 07 - IV Latin-American Algorithms Graphs and Optimizations Symposium - Puerto Varas - Chile - 2007.
 
-
-<li>
+	
 Ferreira, Cristiane S., Ochi, Luiz Satoru, and Macambira, E. M.  <b> "Desenvolvimento e Análise Experimental de Heurísticas
 GRASP para uma Generalização do Problema da Árvore Geradora Mínima" :</b> Anais do XXXIX SBPO (CD-ROM)- Fortaleza-CE - 2007
-</li><a href="./conteudo/artigos/SBPO2007-Cristiane.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Gonçalves, Luciana B., Martins, Simone L., and Ochi, Luiz Satoru, <b>  "Proposta e Análise Experimental de Heurísticas
 GRASP para um Problema de Roteamento Periódico de Veículos":</b> Anais do XXXIX SBPO (CD-ROM)- Fortaleza-CE - 2007
-</li><a href="./conteudo/artigos/SBPO2007-Luciana.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Santos, Haroldo G., Uchoa, Eduardo B., and Ochi, Luiz Satoru, <b>  "Formulação Estendida com Geração de Cortes e Colunas 
 para o Problema de Programação de Horários em Escolas":</b> Anais do XXXIX SBPO (CD-ROM) - Fortaleza-CE - 2007
-</li><a href="./conteudo/artigos/SBPO2007-Haroldo.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Diogo, Thiago de S., Cavalcante, Daniel P., and Ochi, Luiz Satoru, <b> "Desenvolvimento e Análise Experimental de Algoritmos 
 Evolutivos para o Problema de Clusterização Automática":</b> Trabalho de Iniciação Científica classificado
 entre os 5 melhores do XXXIX SBPO, Anais do XXXIX SBPO (CD-ROM), 2007 - Fortaleza - CE.
-</li>
 
-
-<li>
 Silva, Geiza C., Boaventura, Paulo O., and Ochi, Luiz Satoru, <b>  " Heuristicas GRASP para o Problema de Alocação
 Dinâmica de Espaços":</b> Anais do XXVII ENEGEP - 2007
-</li><a href="./conteudo/artigos/Geiza ENEGEP2007.pdf">|PDF|</a></li>
-</li>
 
-
-<li>
+	
 Tafur, Johnny, E. V., Rocha, Helder, R. O., Meza, E. B. M., Souza, J. C. S., Couto, Milton B., and 
 Ochi, Luiz Satoru <b>"Heuristica GRASP aplicada ao planejamento de sistemas de medição para a supervisão de redes
 elétricas" ":</b>  Anais do VIII Congresso Brasileiro de Redes Neurais (VIII CBRN)/I Simpósio Brasileiro de Inteligência 
 Computacional (I SBIC), Outubro de 2007.
-</li>
 
-
-<li>
+	
 Semaan, Gustavo S., and Ochi, Luiz Satoru <b>"Algoritmo Evolutivo para o Problema de Clusterização em Grafos Orientados" ":</b>  
 Anais do Simpósio de Pesquisa Operacional e Logística da Marinha, Rio de Janeiro, Brasil. X SPOLM - 2007.
-</li>
 
 
+## **2006**
+
+## **Accepted/Published**
 
 
-<a href="#inicio">&#171; Topo da página</a>
-</ol>
-
-<b>2006</b>
-
-<i>Accepted/Published</i>
-
-<ol>
-<li>
 Santos, Haroldo G., Ochi, L. Satoru.,Marinho, E. H., Drummond, L. M. A. <b>Combining an Evolutionary Algorithm with 
 Data Mining to solve a Vehicle Routing Problem</b>. 
 NEUROCOMPUTING - ELSEVIER, volume 70(1-3), pp. 70-77, (2006).
