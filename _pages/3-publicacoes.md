@@ -68,6 +68,17 @@ news_limit: 5
 
 **1. Fadel, Augusto César; Ochi, Luiz Satoru ; Brito, Jose André Moura ; Semaan, Gustavo S. (2021). Microaggregation heuristic applied to statistical disclosure control. [INFORMATION SCIENCES , (Qualis A1 - Impact Factor: 6,97) v. 548, p. 37-55, 2021.](http://doi.org/10.1016/j.ins.2020.09.069)**
 
+**1. Zudio, Anderson ; Coelho, Igor M. ; Ochi, Luis Satoru . Biased Random-key Genetic Algorithm for theHybrid Vehicle-drone Routing Problem for Pickup and Delivery. In: CBIC - Congresso Brasileiro de Inteligencia Computacional 2021, 2021, remoto. Anais do CBIC - Congresso Brasileiro de Inteligencia Computacional 2021, 2021. v. 1. p. 1-8.**
+
+
+**1. Silva, Janio C N. ; Souza, Ueverton ; Ochi, Luis Satoru . Parameterized complexity classes defined by threshold circuits: Using sorting networks to show collapses with W-hierarchy classes. In: 14th Annual International Conference on Combinatorial Optimization and Applications, 2021, Tianjin. Proc. of the COCOA 2021. v. 1. p. 1.**
+
+
+
+**1. Silva, Janio C N. ; DOS SANTOS SOUZA, UÉVERTON ; Ochi, Luis Satoru . Energy Complexity of Satisfying Assignments in Monotone Circuits: On the Complexity of Computing the Best Case. In: International Conference on Algorithmic Applications in Management, AAIM 2021, 2021. Proc. of the AAIM 2021, 2021.**
+
+
+
 ## **2020**
 
 
