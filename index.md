@@ -33,8 +33,8 @@ news_limit: 5
 
 [**Instituto de Computação**](http://www.ic.uff.br) - [**O Programa de Pós-Graduação em Computação do IC-UFF é um dos 10 Programas de Excelência em Computação do Brasil - CAPES**](http://www.ic.uff.br/PosGraduacao/coordenacao.php) 
 
-## **[Venha conhecer o nosso Labs LABIC - LABORATÓRIO DE INTELIGENCIA COMPUTACIONAL DO IC UFF](https://www.facebook.com/groups/588329561328235)**
 
+[**Venha  conhecer nosso Labs LABIC - LABORATÓRIO DE INTELIGENCIA COMPUTACIONAL DO IC UFF**](https://www.facebook.com/groups/588329561328235)
 Universidade Federal Fluminense
 
 E-mail: [satoru@ic.uff.br](mailto:satoru@ic.uff.br) ou [luiz.satoru@gmail.com](mailto:luiz.satoru@gmail.com)
