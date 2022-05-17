@@ -196,14 +196,14 @@ Orientadores: Luiz Satoru Ochi & Jose Andre M Brito; <b>Titulo:Heuristica Hibrid
 Defesa: 12/2019.
 
 
-1. Bruno José da Silva Barros, </a> <b> Aluno de Mestrado em Computação - IC/UFF. Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); <b>Tema: Problemas de Arvore Geradora de Custo Minimo com Restrições de Conflito.  Defesa: 08/2019.
+1. Bruno José da Silva Barros, </a> <b> Aluno de Mestrado em Computação - IC/UFF. Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); Tema: Problemas de Arvore Geradora de Custo Minimo com Restrições de Conflito.  Defesa: 08/2019.
 
 
 
 1. Willian Soares Girão, Aluno de Mestrado em Computação - IC/UFF. Orientador: Luiz Satoru Ochi;<b>Tema: Data Mule Routing; Concluido em: 03/2020.
   
 
-1.Elio David Linares.   Aluno de Mestrado em Computação.  Tema: O Problema da árvore geradora de representação mínima. Orientador:Luiz Satoru Ochi. Defesa: 04/2018.
+1. Elio David Linares.   Aluno de Mestrado em Computação.  Tema: O Problema da árvore geradora de representação mínima. Orientador:Luiz Satoru Ochi. Defesa: 04/2018.
 
 
 1. Marcos Raylan S Matos.  Aluno de Mestrado em Computação. Tema: Problema de Roteamento de Veículos voltado para redução de emissões de carbono. Orientadores:Yuri Abtibol e Luiz Satoru Ochi. Defesa: 03/2018.
@@ -313,137 +313,70 @@ Dissertação (Computação) - Universidade Federal Fluminense. Orientadores:Lui
   (Computação) - Universidade Federal Fluminense.
  
 	
-  Elsenclever Freitas de Aguiar. <b>Determinação da influência da reatividade dos grupos
-  sanguíneos ABO e RH na etnia simplificada através da utilização de redes neurais artificiais.</b>
-  2004. (Computação) - Universidade Federal Fluminense. Co-orientadora: Priscila Machado.
-  <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">PDF </a> 
-	</li>
-
-  <li>
-  <a href="http://www.ic.uff.br/~ssoares/"> Stênio Sã Furtado Soares.</a> <b>Metaheuristicas para o Problema de Clusterização Automática.</b>
-  2004. (Computação) - Universidade Federal Fluminense.
-  <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">PDF </a> 
-</li>
-
-  <li>
-  Fábio Linhares Dalboni. <b>Algoritmos evolutivos eficientes para um problema de roteamento
-  de veículos.</b> 2003. (Computação) - Universidade Federal Fluminense. Orientadores: Lúcia Drummond e Luiz Satoru Ochi.
-  <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">PDF </a> 
-</li>
-
-  <li>
-  Paulo Marcos F de Andrade. <b>Metaheurística GRASP para o Problema de diversidade máxima.</b>
-  2003. (Computação) - Universidade Federal Fluminense. Orientadores: Alexandre Plastino, Simone Martins e Luiz Satoru Ochi.
-   <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">PDF </a> 
-</li>
-
-  <li>
-  Aloísio Carlos Tortelly Junior. <b>O Problema de roteamento periódico de veículos: Uma
-  abordagem via metaheurística GRASP.</b> 2003. (Computação) - Universidade Federal Fluminense.
-  <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">PDF </a> 
- </li>
-
-  <li>
-  Luis André Ramos Ferreira. <b>Metaheuristicas sequenciais e paralelas para o problema de
-  coleta seletiva de prêmios.</b> 2002. (Computação) - Universidade Federal Fluminense. Orientadores: Lucia Drummond e Luiz Satoru Ochi.
-  <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">Resumo </a> 
-</li>
-
-  <li>
-  Leonardo Soares Vianna. <b>Metaheurísticas paralelas paralelas para problemas de escalonamento
-  de tarefas e roteamento de veículos.</b> 2002. (Computação) - Universidade Federal Fluminense.
-  Orientadores: Lúcia Drummond e Luiz Satoru Ochi.
-  <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">Resumo </a> 
-</li>
-
-  <li>
-  Luciene Cristina Soares Motta. <b>Algoritmos e testes de reduções para o Problema de
-  Recobrimento de Rotas.</b> 2001. (Computação) - Universidade Federal Fluminense.
-  Co-orientador: Carlos Martinhon.
-  <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">PDF </a> 
-</li>
-
-  <li>
-  Mozar Baptista da Silva. <b>Metaheuristicas Sequenciais e Paralelas para uma Generalização do
-  Problema do Caixeiro Viajante.</b> 2001. (Computação) - Universidade Federal Fluminense.
-Orientadores: Lúcia Drummond e Luiz Satoru Ochi.
-  <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">PDF </a> 
- </li>
-
-  <li>
-  Valdir Agustinho de Melo. <b>Metaheurísticas para o Problema do Caixeiro Viajante com Coleta
-  de Prêmios.</b> 2001. (Computação) - Universidade Federal Fluminense. Co-orientador: Carlos Martinhon.
-  <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">Resumo </a> 
-</li>
-
-<li>
- Melise Maria Veiga de Paula. <b>Título: Heuristicas e Metaheuristicas para o Problema do Caixeiro Viajante com Grupamentos.</b> 
-12/2001. Mestrado em Engenharia de Sistemas e Computação - Universidade Federal do Rio de Janeiro. Orientadores: Luiz Satoru Ochi (IC-UFF)
-e Nelson Maculan (COPPE-SISTEMAS/UFRJ).
-  </li> 
-
-  <li>
-  Eduardo Ferreira da Silva. <b>Um estudo de metaheurísticas aplicadas ao problema Job Shop
-  Scheduling.</b> 2000. (Computação) - Universidade Federal Fluminense.
-  </li>
-
-  <li>
-  Ana Lúcia Gondim Tavares Ribeiro. <b>Metaheurísticas Híbridas baseadas em Redes Elásticas
-  e Algoritmos Evolutivos para a solução de problemas de roteamento de uma frota de veículos.</b>
-  1999. (Computação) - Universidade Federal Fluminense. Orientadores: Cristina Boeres e Luiz Satoru Ochi.
-  </li>
-
-  <li>
-  Dalessandro Soares Vianna. <b>Projeto e Implementação de um algoritmo evolutivo paralelo
-  para o problema de roteamento de veículos com frota heterogênea.</b> 1999. (Computação) -
-  Universidade Federal Fluminense. Orientadores: Lúcia Drummond e Luiz Satoru Ochi.
-  </li>
-
-  <li>
-  Paramahansa Werner Polo Vieyra. <b>Uma metaheuristica genética não convencional e Ant Colony
-  Systems para a solução do Problema do Caixeiro Viajante com Grupamentos.</b> 1999. (Computação)
-  - Universidade Federal Fluminense.
-   <a href="http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes">Resumo </a> 
-</li>
-
-  <li>
-  Marco Antonio Xaves Valentim. <b>Algoritmos genéticos não convencionais para uma generalização
-  do Problema do Caixeiro Viajante.</b> 1998. (Computação) - Universidade Federal Fluminense.
-  </li>
-
-  <li>
-  Marcelo Lisboa Rocha. <b>Solução de Problemas de Roteamento Periódico de Veículos via Algoritmos
-  Genéticos.</b> 1998. (Computação) - Universidade Federal Fluminense.
-  </li>
-
-  <li>
-  José Elias Cláudio Arroyo. <b>Um algoritmo genético híbrido para o problema de Steiner em
-  Grafos Direcionados.</b> 1998. (Computação) - Universidade Federal Fluminense.
-  </li>
-
-  <li>
-  Roberto Barbosa David. <b>Geração de limites inferiores para a solução de problemas de
-  roteamento de uma frota de veículos com janelas de tempo.</b> 1992. (Engenharia de Transportes)
-  - Instituto Militar de Engenharia.
-  </li>
-
-  <li>
-  Júlio Luiz Nunes de Carvalho. <b>Geração de percursos ótimos e quase-ótimos para uma frota
-  de veículos.</b> 1992. (Engenharia de Transportes) - Instituto Militar de Engenharia.
-  </li>
-
-  <li>
-  Miriam Izú. <b>O Problema do Caixeiro Viajante: Um enfoque para o sistema de manufatura
-  flexível.</b> (Orientadora principal: D.Sc. Dina Feigenbaum Clein). 1991. Dissertação
-  (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.
-  </li>
-
-  <li>
-  Roberto Becker. <b>Programação de uma frota de petroleiros: Proposta de um método para o
-  longo curso.</b> (Orientador principal: D.Sc. Nelson Maculan). 1987. (Engenharia de Sistemas
-  e Computação) - Universidade Federal do Rio de Janeiro.
-  </li>
+1. Elsenclever Freitas de Aguiar. Determinação da influência da reatividade dos grupos sanguíneos ABO e RH na etnia simplificada através da utilização de redes neurais artificiais.  2004. (Computação) - Universidade Federal Fluminense. Co-orientadora: Priscila Machado.
   
+	
+1. Stênio Sã Furtado Soares.</a> <b>Metaheuristicas para o Problema de Clusterização Automática. 2004. (Computação) - Universidade Federal Fluminense.
+  
+	
+1. Fábio Linhares Dalboni. <b>Algoritmos evolutivos eficientes para um problema de roteamento  de veículos.</b> 2003. (Computação) - Universidade Federal Fluminense. Orientadores: Lúcia Drummond e Luiz Satoru Ochi.
+	
+	
+1. Paulo Marcos F de Andrade. <b>Metaheurística GRASP para o Problema de diversidade máxima. 2003. (Computação) - Universidade Federal Fluminense. Orientadores: Alexandre Plastino, Simone Martins e Luiz Satoru Ochi.
+	
+	
+1. Aloísio Carlos Tortelly Junior. <b>O Problema de roteamento periódico de veículos: Uma  abordagem via metaheurística GRASP.</b> 2003. (Computação) - Universidade Federal Fluminense.
+  
+	
+1. Luis André Ramos Ferreira. <b>Metaheuristicas sequenciais e paralelas para o problema de  coleta seletiva de prêmios.</b> 2002. (Computação) - Universidade Federal Fluminense. Orientadores: Lucia Drummond e Luiz Satoru Ochi.
+  
+	
+1. Leonardo Soares Vianna. Metaheurísticas paralelas paralelas para problemas de escalonamento  de tarefas e roteamento de veículos.</b> 2002. (Computação) - Universidade Federal Fluminense.   Orientadores: Lúcia Drummond e Luiz Satoru Ochi.
+
+1. Luciene Cristina Soares Motta. <b>Algoritmos e testes de reduções para o Problema de  Recobrimento de Rotas.</b> 2001. (Computação) - Universidade Federal Fluminense.   Co-orientador: Carlos Martinhon.
+  
+	
+1. Mozar Baptista da Silva. <b>Metaheuristicas Sequenciais e Paralelas para uma Generalização do  Problema do Caixeiro Viajante.</b> 2001. (Computação) - Universidade Federal Fluminense. Orientadores: Lúcia Drummond e Luiz Satoru Ochi.
+ 
+	
+1. Valdir Agustinho de Melo. <b>Metaheurísticas para o Problema do Caixeiro Viajante com Coleta  de Prêmios.</b> 2001. (Computação) - Universidade Federal Fluminense. Co-orientador: Carlos Martinhon.
+ 
+	
+1. Melise Maria Veiga de Paula. <b>Título: Heuristicas e Metaheuristicas para o Problema do Caixeiro Viajante com Grupamentos. 12/2001. Mestrado em Engenharia de Sistemas e Computação - Universidade Federal do Rio de Janeiro. Orientadores: Luiz Satoru Ochi (IC-UFF) e Nelson Maculan (COPPE-SISTEMAS/UFRJ).
+ 
+	
+1. Eduardo Ferreira da Silva. <b>Um estudo de metaheurísticas aplicadas ao problema Job Shop Scheduling.</b> 2000. (Computação) - Universidade Federal Fluminense.
+ 
+	
+1. Ana Lúcia Gondim Tavares Ribeiro. Metaheurísticas Híbridas baseadas em Redes Elásticas e Algoritmos Evolutivos para a solução de problemas de roteamento de uma frota de veículos. 1999. (Computação) - Universidade Federal Fluminense. Orientadores: Cristina Boeres e Luiz Satoru Ochi.
+ 
+	
+1. Dalessandro Soares Vianna. Projeto e Implementação de um algoritmo evolutivo paralelo  para o problema de roteamento de veículos com frota heterogênea. 1999. (Computação) - Universidade Federal Fluminense. Orientadores: Lúcia Drummond e Luiz Satoru Ochi.
+ 
+	
+1. Paramahansa Werner Polo Vieyra. <b>Uma metaheuristica genética não convencional e Ant Colony Systems para a solução do Problema do Caixeiro Viajante com Grupamentos.1999. (Computação) - Universidade Federal Fluminense.
+  
+	
+1. Marco Antonio Xaves Valentim. <b>Algoritmos genéticos não convencionais para uma generalização do Problema do Caixeiro Viajante.</b> 1998. (Computação) - Universidade Federal Fluminense.
+  
+	
+1. Marcelo Lisboa Rocha. <b>Solução de Problemas de Roteamento Periódico de Veículos via Algoritmos Genéticos.</b> 1998. (Computação) - Universidade Federal Fluminense.
+  
+	
+1. José Elias Cláudio Arroyo. <b>Um algoritmo genético híbrido para o problema de Steiner em Grafos Direcionados.</b> 1998. (Computação) - Universidade Federal Fluminense.
+ 
+	
+1. Roberto Barbosa David. <b>Geração de limites inferiores para a solução de problemas de roteamento de uma frota de veículos com janelas de tempo.</b> 1992. (Engenharia de Transportes) - Instituto Militar de Engenharia.
+  
+	
+1. Júlio Luiz Nunes de Carvalho. <b>Geração de percursos ótimos e quase-ótimos para uma frota de veículos.</b> 1992. (Engenharia de Transportes) - Instituto Militar de Engenharia.
+  
+	
+1. Miriam Izú. <b>O Problema do Caixeiro Viajante: Um enfoque para o sistema de manufatura  flexível. (Orientadora principal: D.Sc. Dina Feigenbaum Clein). 1991. Dissertação (Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.
+  
+	
+1. Roberto Becker. <b>Programação de uma frota de petroleiros: Proposta de um método para o  longo curso.</b> (Orientador principal: D.Sc. Nelson Maculan). 1987. (Engenharia de Sistemas  e Computação) - Universidade Federal do Rio de Janeiro.
+ 
   <a href="#inicio">&#171; Topo da página</a>
 </ol>
 
