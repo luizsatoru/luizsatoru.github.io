@@ -42,7 +42,7 @@ Em 2021 recebi a MEDALHA e o TÍTULO/DIPLOMA: "AMIGO DA MARINHA" – Distinção
 
 **• 2019 - CERTIFICADO CASNAV 2021: recebido pelo comando da CASNAV - Marinha do Brasil pelos serviços relevantes prestados - Capitão de Mar e Guerra Carlos Rodrigo Cerveira, CASNAV MARINHA**.
 
-**•	2018 - Recebi o Prêmio/Grant: Cientista do Estado do Rio de Janeiro - CNE (Grant 2018 - 02/2022(prorrogado devido pandemia)), FAPERJ: Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro**.
+**•	2018 - Recebi o Prêmio/Grant: Cientista do Estado do Rio de Janeiro - CNE (Grant 2018 - 2021), FAPERJ: Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro**.
 
 
 **•	2017 - Tese de Doutorado do Eyder Rios, sob a minha orientação e da Profa Cristina Boeres classificada entre as 3 melhores teses no WSCAD/SBAC-PAD 2017 – Campinas-SP**. 
