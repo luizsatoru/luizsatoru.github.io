@@ -30,7 +30,7 @@ Em 2022, A TESE de DOUTORADO do egresso Janio Carlos Silva - IFTO, “Algorithmi
 Em 2021 recebi a MEDALHA e o TÍTULO/DIPLOMA: "AMIGO DA MARINHA" – Distinção recebida do Primeiro Distrito Naval – Almirante Eduardo Vasquez**.
 
 
-**•	2021 - Recebi o Prêmio Cientista do Estado do Rio de Janeiro - CNE (Grant 2022 - 2024), FAPERJ: Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro**.
+**•	2021 - Recebi o Prêmio/Grant: Cientista do Estado do Rio de Janeiro - CNE (Grant 2022 - 2024), FAPERJ: Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro**.
 
 **• 2021 - CERTIFICADO CASNAV 2021: recebido pelo comando da CASNAV - Marinha do Brasil pelos serviços relevantes prestados - Capitão de Mar e Guerra Carlos Rodrigo Cerveira, CASNAV MARINHA**.
 
@@ -41,6 +41,8 @@ Em 2021 recebi a MEDALHA e o TÍTULO/DIPLOMA: "AMIGO DA MARINHA" – Distinção
 **•	2019 – PRÊMIO 1: Tese de Doutorado de Thiago Gouveia da Silva, sob a minha orientação junto com Philippe Michelon (Doutorado cotutela entre IC/UFF & University of Avignon), foi premiada como a segunda melhor Tese de Doutorado em Computação, no Concurso de Teses em Computação pelo CSBC 2019 – Belém/PA**.
 
 **• 2019 - CERTIFICADO CASNAV 2021: recebido pelo comando da CASNAV - Marinha do Brasil pelos serviços relevantes prestados - Capitão de Mar e Guerra Carlos Rodrigo Cerveira, CASNAV MARINHA**.
+
+**•	2018 - Recebi o Prêmio/Grant: Cientista do Estado do Rio de Janeiro - CNE (Grant 2018 - 02/2022(prorrogado devido pandemia)), FAPERJ: Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro**.
 
 
 **•	2017 - Tese de Doutorado do Eyder Rios, sob a minha orientação e da Profa Cristina Boeres classificada entre as 3 melhores teses no WSCAD/SBAC-PAD 2017 – Campinas-SP**. 
