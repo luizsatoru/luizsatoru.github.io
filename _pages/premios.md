@@ -79,22 +79,22 @@ Em 2021 recebi a MEDALHA e o TÍTULO/DIPLOMA: "AMIGO DA MARINHA" – Distinção
 2009**
 **•	Prêmio melhor trabalho área Logística no XII SPOLM 2009 - autor principal: Márcio T. Mine, co-autores: Mathes S. A. Silva, Marcone J. F. Souza, Luiz Satoru Ochi, SPOLM.**
 
-2009
+**2009**
 **•	Prêmio CNT de Produção Acadêmica 2009 - Concedido pela Confederação Nacional de Transporte (CNT), CNT/XXIII ANPET: autores: Márcio Mine, Matheus Silva, Marcone J F Souza, Luiz Satoru Ochi**.
 
-2008
-•	Artigo completo selecionado entre os 5 melhores trabalhos do Simpósio no premio oferecido pela SOBRAPO no XL SBPO - 2008 (autores: Anand Subramanian, Lucidio A. F. Cabral, Luiz Satoru Ochi), Prêmio pela comemoração dos 40 anos de existencia da SOBRAPO.
+**2008**
+**•	Artigo completo selecionado entre os 5 melhores trabalhos do Simpósio no premio oferecido pela SOBRAPO no XL SBPO - 2008 (autores: Anand Subramanian, Lucidio A. F. Cabral, Luiz Satoru Ochi), Prêmio pela comemoração dos 40 anos de existencia da SOBRAPO.**
 
-2007
-•	Trabalho de Iniciação Científica classificado entre os 5 melhores no XXXIX Simpósio Brasileiro de Pesquisa Operacional, como orientador dos alunos: Thiago S. Diogo, e Daniel Cavalcante, SOBRAPO.
+**2007**
+**•	Trabalho de Iniciação Científica classificado entre os 5 melhores no XXXIX Simpósio Brasileiro de Pesquisa Operacional, como orientador dos alunos: Thiago S. Diogo, e Daniel Cavalcante, SOBRAPO.**
 
-2006
-•	Trabalho de Iniciação Científica classificado entre os 5 melhores no XXXVIII Simpósio Brasileiro de Pesquisa Operacional (XXXVIII SBPO), como co-autor. Alunos: Matheus Silva, Marcio T. Mine(UFOP)., Orientadores: Marcone J F Souza (UFOP) e Gustavo P Silva (UFOP) - SOBRAPO.
+**2006**
+**•	Trabalho de Iniciação Científica classificado entre os 5 melhores no XXXVIII Simpósio Brasileiro de Pesquisa Operacional (XXXVIII SBPO), como co-autor. Alunos: Matheus Silva, Marcio T. Mine(UFOP)., Orientadores: Marcone J F Souza (UFOP) e Gustavo P Silva (UFOP) - SOBRAPO.**
 
-2005
-•	Trabalho de Iniciação Científica classificado entre os 5 melhores no XXXVII Simpósio Brasileiro de Pesquisa Operacional (XXXVII SBPO), como orientador dos alunos: Felipe N. Aguiar e Gustavo Honorato, SOBRAPO.
+**2005**
+**•	Trabalho de Iniciação Científica classificado entre os 5 melhores no XXXVII Simpósio Brasileiro de Pesquisa Operacional (XXXVII SBPO), como orientador dos alunos: Felipe N. Aguiar e Gustavo Honorato, SOBRAPO.**
 
-2002
-•	Trabalho classificado entre os 5 melhores artigos de Iniciação científica do XXXIII SBPO, prêmio recebido pela orientanda Adria Ramos de Lyra., Sociedade Brasileira de Pesquisa Operacional (SOBRAPO).
+**2002**
+**•	Trabalho classificado entre os 5 melhores artigos de Iniciação científica do XXXIII SBPO, prêmio recebido pela orientanda Adria Ramos de Lyra., Sociedade Brasileira de Pesquisa Operacional (SOBRAPO).**
 
 
