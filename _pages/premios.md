@@ -47,8 +47,6 @@ Em 2021 recebi a MEDALHA e o TÍTULO/DIPLOMA: "AMIGO DA MARINHA" – Distinção
 
 **•	2017 - Tese de Doutorado do Eyder Rios, sob a minha orientação e da Profa Cristina Boeres classificada entre as 3 melhores teses no WSCAD/SBAC-PAD 2017 – Campinas-SP**. 
 
-**•	2018 - Cientista do Estado do Rio de Janeiro - CNE (Grant 2018 - 2020), FAPERJ: Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro**.
-
 
 **•	2016 - Best Paper WAMCA 2016: 7th Workshop on Applications for Multi-Core Architectures -Held in conjunction with the 28th International Symposium on Computer Architecture and High Performance Computing, SBC**.
 
