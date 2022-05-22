@@ -167,7 +167,7 @@ Symposium Series on Computational Intelligence </a> (Organizers: Vitor Nazario, 
   
 ## **2016**
 
-  >
+ 
 <a href="http://sbpo2016.ufes.br/"> <b> XLVIII Simpósio Brasileiro de Pesquisa Operacional - XLVIII SBPO (Presidente do Comitê Científico)</a>   
 <b>,  27 a 30 de Setembro de 2016 - Campus da UFES - Vitória - ES </b> </a>
 
