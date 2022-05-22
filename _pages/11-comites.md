@@ -56,29 +56,24 @@ news_limit: 5
 
 
 
-**2020**
+## **2020**
 
-<a href="http://www.icvns2020.info/"> <b> The 8th International Conference on Variable Neighborhood Search (ICVNS 2020) will be co-organized by the EURO Working Group on Metaheuristics (EWG EU/ME) - (Program Committee Member- PC )</a>   
-<b>, Khalifa University,Abu Dhabi, U.A.E. - October 22-25, 2020</b> </a>
-
-
-
-<a href="http://www.sobrapo.org.br/"> <b> LII Simpósio Brasileiro de Pesquisa Operacional (evento online) - LII SBPO (Presidente do Comitê Científico)</a>   
-<b>, 03 a 05 Novembro de Outubro de 2020 - Centro de Convencoes - Joao Pessoa-PB </b> </a>
+<a href="http://www.icvns2020.info/"> The 8th International Conference on Variable Neighborhood Search (ICVNS 2020) will be co-organized by the EURO Working Group on Metaheuristics (EWG EU/ME) - (Program Committee Member- PC ), Khalifa University,Abu Dhabi, U.A.E. - October 22-25, 2020
 
 
 
-<a href="http://www2.sbc.org.br/csbc2020/ctd-2020-xxxiii-concurso-de-teses-e-dissertacoes/"> <b> CTD 2020 - XXXIII CONCURSO DE TESES E DISSERTACOES do CSBC 2020 - Membro Comissao de Avaliação</a>   
-<b>, 03 a 05 Novembro de Outubro de 2020 - Centro de Convencoes - Joao Pessoa-PB </b> </a>
+<a href="http://www.sobrapo.org.br/"> LII Simpósio Brasileiro de Pesquisa Operacional (evento online) - LII SBPO (Presidente do Comitê Científico)   
+, 03 a 05 Novembro de Outubro de 2020 - Centro de Convencoes - Joao Pessoa-PB 
 
 
-<a href=""> <b> Program Committee of the Special Session - Signal and Image Processing for Smart Cities, WSSIP 2020 </a>   
-<b>, WSSIP 2020 will be held in UFF-Niter�i, metropolitan region of the city of Rio de Janeiro, Brazil, from June 03 to 05, 2020 </b> </a>
+
+<a href="http://www2.sbc.org.br/csbc2020/ctd-2020-xxxiii-concurso-de-teses-e-dissertacoes/"> <b> CTD 2020 - XXXIII CONCURSO DE TESES E DISSERTACOES do CSBC 2020 - Membro Comissao de Avaliação,  03 a 05 Novembro de Outubro de 2020 - Centro de Convencoes - Joao Pessoa-PB 
+
+<a href=""> Program Committee of the Special Session - Signal and Image Processing for Smart Cities, WSSIP 2020 , WSSIP 2020 will be held in UFF-Niterói, metropolitan region of the city of Rio de Janeiro, Brazil, from June 03 to 05, 2020 
 
 
-<a href="http://wscad.sbc.org.br/current/index.html"> <b> Membro Titular da Comissao de Avaliação no Concurso de Teses e Dissertacoes na XXI Edição do Simposio em Sistemas
-Computacionais de Alto Desempenho (WSCAD CTD 2020 2020 </a>   
-<b>, O XXI Simp�sio em Sistemas Computacionais de Alto Desempenho (WSCAD-2020), sera realizado remotamente de 21  23 Outubro 2020</b> </a>
+<a href="http://wscad.sbc.org.br/current/index.html"> Membro Titular da Comissao de Avaliação no Concurso de Teses e Dissertacoes na XXI Edição do Simposio em Sistemas
+Computacionais de Alto Desempenho (WSCAD CTD 2020 2020.  O XXI Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD-2020), sera realizado remotamente de 21  23 Outubro 2020
 
 
 **2019**
@@ -87,596 +82,330 @@ Computacionais de Alto Desempenho (WSCAD CTD 2020 2020 </a>
 <b>, October 15-18, Campo Grande, MS.</b> </a>
 
 
-</ol>
-
-
-
-
-<ol>
-<li>
 <a href="http://www.sobrapo.org.br/"> <b> LI Simpósio Brasileiro de Pesquisa Operacional - LI SBPO (Presidente do Comitê Científico)</a>   
 <b>, 03 a 06 de Setembro de 2019 - UNICAMP - Campus de Limeira/SP </b> </a>
 
 
-</ol>
-
-
-
-<ol>
-<li>
 <a href="https://www.euro-online.org/websites/eume/event/13th-metaheuristics-international-conference-mic-2019/"> <b> Metaheuristics International Conference - MIC 2019 - (Program Committee Member- PC )</a>   
 <b>, Universidad de los Andes campus in Cartagena, Colombia from July 28 to 31, 2019. </b> </a>
 
-</ol>
 
-<ol>
-
-
-<li>
 <a href="http://icvns2019.com/"> <b> The 7th International Conference on Variable Neighborhood Search - ICVNS 2019. - (Program Committee Member- PC )</a>   
 <b>, Rabat, Morocco during October 02-04, 2019. </b> </a>
 
-</ol>
 
-<ol>
-<li>
 <a href="http://csbc2019.sbc.org.br/eventos/32ctd/"> <b> Comitê de AvaliaÇÃO do XXXII
 Concurso de Teses e Disserta�oes da SBC (CTD 2019). - (Program Committee Member- PC )</a>   
 <b>, 14 a 18 Julho - Centro de Convencoes da Amazonia - Belém/PA - 2019. </b> </a>
 
 
-</ol>
-
-<ol>
-
-
-<li>
 
 <a href="http://csbc2019.sbc.org.br/"> <b> IV ETC - IV ENCONTRO DE TEORIA DA COMPUTAÇÃO, evento satélite do CSBC 2019 (Membro do Comitê de Programa)</a>   
  Período: 14 a 18 de julho de 2019, Belém/PA </a>
 
 
-</ol>
-<ol>
-
-
-<li>
 <a href="http://www.bracis2019.ufba.br/eniac.html"> <b> ENIAC2019 - Encontro Nacional de Inteligencia Artificial e Computacional 2019. - (Program Committee Member- PC )</a>   
 <b>, Salvador-BA, 15-18 Outubro, 2019. </b> </a>
 
-</ol>
 
-<ol>
-
-<li>
 <a href="http://www.mirlabs.net/ibica19/"> <b> IBICA 2019 (10th
 International Conference on Innovations in Bio-Inspired Computing and Applications - (Program Committee Member- PC)</a>   
 <b>,India - December 16-18 , 2019. </b> </a>
 
-</ol>
 
-<ol>
+## **2018**
 
-
-</ol>
-
-<li>
-
-<b> 2018 </b>
-</li>
-
-<ol>
-<li>
+  
 <a href="http://www.sobrapo.org.br/"> <b> L Simpósio Brasileiro de Pesquisa Operacional - L SBPO (Presidente do Comitê Científico)</a>   
 <b>, 06 a 09 de Agosto de 2018 - PUC - Rio/RJ </b> </a>
 
-</ol>
 
-<ol>
-<li>
 
 <a href="http://natal.uern.br/eventos/csbc2018/"> <b> III ETC - III ENCONTRO DE TEORIA DA COMPUTAÇÃO, evento satélite do CSBC 2018 (Membro do Comitê de Programa)</a>   
  Período: 22 a 26 de julho de 2018, Natal/RN </a>
-</li>
 
-</ol>
-
-<ol>
-<li>
+  
 <a href="http://www.sopios.org.pe/claio2018/about"> <b>XIX CLAIO 2018 - XIX Latin-Iberoamerican Conference on Operations Research - (Program Committee Member)</a>   
 <b>, Lima, Peru, September 24th to 27th, 2018 </b> </a>
 
-</ol>
 
-<ol>
-</ol>
+<a href="http://www.ecomp.poli.br/~wcci2018/wp-content/uploads/2018/04/WCCI_2018_SmartCities_final_v1.0.pdf"> <b> Workshop: Computational Intelligence and Smart Cities.  </b> </a>  Organizers: Vitor Nazario Coelho; Igor Machado Coelho, Luiz Satoru Ochi; Thays Aparecida de Oliveira, Helena Ramalhinho Lourenço, Miguel Oliver, Andrea Cynthia Santos. <b> Website: https://creating.city.</b> Evento vinculado ao: <a href="http://www.ecomp.poli.br/~wcci2018/"> <b>
+  
+  
+The IEEE WCCI 2018 will host three conferences: The 2018 International Joint Conference on Neural Networks (IJCNN 2018 is co-sponsored by International Neural Network Society -  INNS), the 2018 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2018),  and the 2018 IEEE Congress on Evolutionary Computation (IEEE CEC 2018), </a>  8 - 13 July - Rio de Janeiro - Brazil   
 
+  
+ 
+## **2017**
 
-<ol>
-<li>
-<a href="http://www.ecomp.poli.br/~wcci2018/wp-content/uploads/2018/04/WCCI_2018_SmartCities_final_v1.0.pdf"> <b> Workshop: Computational Intelligence and Smart Cities.  </b> </a>  Organizers: Vitor Nazario Coelho; Igor Machado Coelho, Luiz Satoru Ochi; 
-Thays Aparecida de Oliveira, Helena Ramalhinho Louren�o, Miguel Oliver, Andrea Cynthia Santos. <b> Website: https://creating.city.</b> Evento vinculado ao: <a href="http://www.ecomp.poli.br/~wcci2018/"> <b>
-The IEEE WCCI 2018 will host three conferences: The 2018 International Joint Conference on Neural Networks (IJCNN 2018 � co-sponsored by International Neural Network Society � INNS), 
-the 2018 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2018),  and the 2018 IEEE Congress on Evolutionary Computation (IEEE CEC 2018), </a>  8 - 13 July - Rio de Janeiro - Brazil   
-<b>, 2018 </a>
-
-</ol>
-
-<ol>
-</ol>
-
-</ol>
-
-
-</ol>
-<li>
-<b> 2017 </b>
-</li>
-
-<ol>
-<li>
+  
 <a href="http://www.sbpo.com.br/"> <b> XLIX Simpósio Brasileiro de Pesquisa Operacional - XLIX SBPO (Presidente do Comitê Científico)</a>   
 <b>,  27 a 30 de Agosto de 2017 - FURB - Blumenau - SC </b> </a>
 
-</ol>
-
-<ol>
-</ol>
-
-<ol>
-<li>
-
-<a href="http://csbc2017.mackenzie.br/eventos/2-etc"> <b> II ETC - II ENCONTRO DE TEORIA DA COMPUTAÇÃO, evento satélite do CSBC 2017 (Membro do Comitê de Programa)</a>   
- Período: 02 a 06 de julho de 2017, Universidade Presbiteriana Mackenzie SP </a>
-</li>
 
 
+<a href="http://csbc2017.mackenzie.br/eventos/2-etc"> <b> II ETC - II ENCONTRO DE TEORIA DA COMPUTAÇÃO, evento satélite do CSBC 2017 (Membro do Comitê de Programa)</a>    Período: 02 a 06 de julho de 2017, Universidade Presbiteriana Mackenzie SP </a>
 
+  
 
-</ol>
+<a href="http://www.bracis2017.ufu.br/eniac-encontro-nacional-de-inteligencia-artificial-e-computacional"> <b> XIV National Meeting on Artificial and Computational Intelligence - ENIAC'2017 (Program Committee Member)</a>     2 a 5 de Outubro de 2017 em Uberlândia, MG </a>
 
-<ol>
-<li>
-
-<a href="http://www.bracis2017.ufu.br/eniac-encontro-nacional-de-inteligencia-artificial-e-computacional"> <b> XIV National Meeting on Artificial and Computational Intelligence - ENIAC'2017 (Program Committee Member)</a>   
-  2 a 5 de Outubro de 2017 em Uberlândia, MG </a>
-</li>
-
-
-</ol>
-
-<ol>
-<li>
+  
 
 <a href="http://vnsconference.ufop.br/"> <b> 5th International Conference on Variable Neighborhood Search - Ouro Preto/MG/Brasil-2017 (Program Committee Member)</a>   
   October 02, 2017 - October 4, 2017 </a>
-</li>
 
-
-
-</ol>
-
-<ol>
-<li>
+  
 
 <a href="http://www.ele.uri.edu/ieee-ssci2017/CIES_files/CFP-SC-SSCI2017-HAWAII%284%29.pdf"> <b> "Special Session on Computational Intelligence for Smart Cities" - IEEE SSCI 2017 - 
 Symposium Series on Computational Intelligence </a> (Organizers: Vitor Nazario, Igor Coelho, Luiz Satoru Ochi and Thays Aparecida de Oliveira)   
   November 27 to December 1, Honolulu, Hawaii, 2017 </a>
-</li>
 
-
-</ol>
-
-<ol>
-<li>
+  
 
 <a href="http://cbic2017.org/Workshops"> <b> "Workshop on Computational Intelligence for Smart Cities" XIII Brazilian Congress on Computational Intelligence - XIII CBIC 2017 - 
  </a> (Organizers: Vitor Nazario, Igor Coelho, Luiz Satoru Ochi and Thays Aparecida de Oliveira)   
   October 30 to November 1, Instituto de Computação - UFF, 2017 </a>
-</li>
 
+  
+## **2016**
 
-
-
-</ol>
-<li>
-<b> 2016 </b>
-</li>
-
-<ol>
-<li>
+  >
 <a href="http://sbpo2016.ufes.br/"> <b> XLVIII Simpósio Brasileiro de Pesquisa Operacional - XLVIII SBPO (Presidente do Comitê Científico)</a>   
 <b>,  27 a 30 de Setembro de 2016 - Campus da UFES - Vitória - ES </b> </a>
 
-</ol>
 
-<ol>
-<li>
 
 <a href="http://www.compsulmt.com.br//"> <b> VI Congresso de Computação do Sul de Mato Grosso (COMPSULMT 2016) em conjunto com a VII Escola Regional de Informática - Mato Grosso (ERI-MT 2016) (Membro do Comitê Científico)</a>   
 <b> Data 14 - 18 Novembro de 2016 - Rondonópolis/MT </b> </a>
 
-</ol>
-
-<ol>
-<li>
 
 <a href="http://www.csbc2016.com.br/"> <b> I ETC - I ENCONTRO DE TEORIA DA COMPUTAÇÃO, evento satélite do CSBC 2016 (Membro do Comitê de Programa)</a>   
  Período: 7 de julho de 2016, Porto Alegre </a>
-</li>
 
-
-</ol>
-
-<ol>
-<li>
+  
 
 <a href="http://cin.ufpe.br/~bracis2016/call-for-papers-eniac.html"> <b> XIII National Meeting on Artificial and Computational Intelligence - ENIAC'2016 (Program Committee Member)</a>   
   Recife, Pernambuco, from October 9th to 12th, 2016 </a>
-</li>
 
+  
+  
+## **2015**
 
-
-
-
-
-
-
-</ol>
-<li>
-<b> 2015 </b>
-</ol>
-
-
-<ul>
-<li>
+  
 <a href="http://cdsid.org.br/sbpo2015/"> <b> XLVII Simpósio Brasileiro de Pesquisa Operacional - XLVII SBPO (Presidente do Comitê Científico)</a>   
-<b> 25 a 28 de Agosto de 2015 - Porto de Galinhas - PE </b> </a>
+<b> 25 a 28 de Agosto de 2015 - Porto de Galinhas - PE 
 
 
-<li>
+
 <a href="http://optima2015.cl/"> <b> X Congreso Chileno de Investigación Operativa (ICHIO) (Membro do Comitê Científico)</a>   
  18 a 21 Octobre del 2015 - Universidad Católica del Norte, sede Antofagasta- Chile </a>
-</li>
 
-<li>
+  
 <a href="http://emlconseil.free.fr/eml/?page_id=104&lang=en"> <b> 3rd AI4KM (3rd Artificial Intelligence for Knowledge Management (Program Committee Member)</a>   
 <b> Buenos Aires, Argentina July 25th to July 31st, 2015.</a>
-</li>
 
- 
-<li>
+  
 <a href="http://bracis2015.imd.ufrn.br/">  <b> The III Brazilian Conference on Intelligent Systems (BRACIS-15) &  
 Encontro Nacional de Inteligência Artificial e Computacional (ENIAC-2015) (Program Committee) </a>, November 04-07,   
 2015 , Natal - RN, Brazil. </b> </a>
-</li>
 
-<li>
+  
 <a href="http://la-cci.org//">  <b> The II LA-CCI (Latin American) and XII CBIC (Brazilian) Congress on Computational Intelligence. (Program Committee) </a>,  October, 13-16/2015. 
 Universidade Tecnológica Federal do Paraná - Curitiba-Paraná, Brazil. </b> </a>
-</li>
-</ul>
 
+  
+## **2014**
 
-<li>
-<b> 2014 </b>
-</li>
-
-<ol>
-<li>
+  
 <a href="http://jcris2014.icmc.usp.br/index.php/bracis-eniac">  <b> The 2nd Brazilian Conference on Intelligent Systems (BRACIS-14) &  
 Encontro Nacional de Inteligência Artificial e Computacional (ENIAC-2014) (Program Committee) </a>, October 18 - 23,   
 2014 , São Carlos, SP, Brazil. </b> </a>
-</ol>
 
-<ol>
-<li>
+  
 <a href="http://www.sobrapo.org.br/"> <b> XLVI Simpósio Brasileiro de Pesquisa Operacional - XLVI SBPO (Presidente do Comitê Científico)</a>   
 <b> 16 a 19 de Setembro de 2014 - Salvador - Bahia </a>
-</ol>
 
+  
+## **2013**
 
-</ol>
-<li>
-<b> 2013 </b>
-</ol>
-
-<ol>
-<li>
+  
 <a href="http://www2.unifor.br/bracis2013/">  <b> The 2nd Brazilian Conference on Intelligent Systems (BRACIS-13)(Program Committee) - </a>, October 19 - 24,   
 2013 , in Fortaleza, CE, Brazil. </b> </a>
-</ol>
 
-<ol>
-<li>
-<a href="http://www2.unifor.br/bracis2013/eniac/">  <b> X Encontro Nacional de Inteligência Artificial e Computacional (X ENIAC) (Program Committee) - </a>, October 19 - 24,   
-2013 , in Fortaleza, CE, Brazil. </b> </a>
-</ol>
+  
+<a href="http://www2.unifor.br/bracis2013/eniac/">  <b> X Encontro Nacional de Inteligência Artificial e Computacional (X ENIAC) (Program Committee) - </a>, October 19 - 24,   2013 , in Fortaleza, CE, Brazil. </b> </a>
 
-
-
-
-<ol>
-<li>
+  
 <a href="http://www.optima2013.cl/"> <b> X Congresso del Instituto Chileno de Investigación Operativa - X OPTIMA & VI RED-M (Program Committee)</a>, October 27 - 30,   
 2013 - Chile </b> </a>
-</ol>
 
-
-<ol>
-<li>
+  
 <a href="http://www.brics-cci.org"> <b>International BRICS Countries Congress on Computational Intelligence 
 co-located with sister conference 11th Brazilian Congress on Computational Intelligence (BRICS-CCI & CBIC 2013) (Program Committee)</a>   
 September 8 - 11, 2013 - Porto de Galinhas - PE </b> </a>
-</ol>
 
-
-<ol>
-<li>
+  
 <a href="http://www.sbpo2013.ect.ufrn.br/"> <b> XLV Simpósio Brasileiro de Pesquisa Operacional - XLV SBPO (Presidente do Comitê Científico)</a>   
 <b> 16 a 19 de Setembro de 2013 - Natal - Rio Grande do Norte </a>
-</ol>
 
-<ol>
-<li>
+  
 <a href="http://www.compsulmt.com.br/"> <b> V Congresso de Computação do Sul de Mato Grosso (V COMPSULMT) (Comitê Científico)</a>   
 <b> 21 a 23 Agosto de 2013 - Rondonópolis - MT </a>
-</ol>
 
-<ol>
-<li>
-<a href="http://www.ic.ufal.br/csbc2013/noticias/ctic"> <b> CTIC - XXXII Concurso de Trabalhos de Iniciação Científica da SBC - Sociedade Brasileira de Computação (Comitê de Programa)</a>   
-<b> De 23 a 26 Julho - Maceió/AL </a>
-</ol>
+  
+<a href="http://www.ic.ufal.br/csbc2013/noticias/ctic"> <b> CTIC - XXXII Concurso de Trabalhos de Iniciação Científica da SBC - Sociedade Brasileira de Computação (Comitê de Programa)</a>   <b> De 23 a 26 Julho - Maceió/AL </a>
 
+  
+<a href="http://www.abepro.org.br/indexsub.asp?ss=44"> <b> XXXIII Encontro Nacional de Engenharia de Produção (XXXIII ENEGEP) - (Membro do Comitê Técnico-Científico)</a>   <b> 08 a 11 de Outubro de 2013 - Salvador - BA </a>
 
-<ol>
-<li>
-<a href="http://www.abepro.org.br/indexsub.asp?ss=44"> <b> XXXIII Encontro Nacional de Engenharia de Produção (XXXIII ENEGEP) - (Membro do Comitê Técnico-Científico)</a>   
-<b> 08 a 11 de Outubro de 2013 - Salvador - BA </a>
-</ol>
+  
+  
+## **2012**
 
-</ol>
-<li>
-<b> 2012 </b>
-</ol>
-
-<ol>
-<li>
+  
 <a href="http://www.inf.ufpr.br/bracis2012/SBIA.html"> <b> Brazilian Conference on Intelligent Systems - BRACIS - (Program Committee)</b> </a>   
 <b> 20-25 October, 2012 - Curitiba - PR </a>
-</ol>
 
-
-<ol>
-<li>
+  
 <a href="http://www.inf.ufpr.br/bracis2012/SBIA.html"> <b>  IX Encontro Nacional de Inteligência Artificial - ENIA 2012 (Program Committee)</b> </a>   
 <b> October, 2012 - Curitiba - PR </a>
-</ol>
 
-
-<ol>
-<li>
+  
 <a href="http://www-2.dc.uba.ar/alio/eventos2010-pt.htm">  <b> XVI Latin-Ibero-American Conference on Operations Research (XVI CLAIO) a ser realizado em conjunto com o
  XLIV Brazilian Symposium of Operations Research - XLIV SBPO (XVI CLAIO & XLIV SBPO 2012: </a>  Scientific Committee (Chair) & Organizing Committee (Member) 
   24 a 28 de Setembro de 2012 - Sede da Fundação Getúlio Vargas (FGV) - Centro - Rio de Janeiro - Brasil </a> </b>
-</ol>
 
-<ol>
-<li>
-<a href="http://www.abepro.org.br/indexsub.asp?m=1051&ss=42&c=1092"> <b> XXXII Encontro Nacional de Engenharia de Produção (ENEGEP 2012) ) - (Comitê Técnico Cientifico)</b> </a>   
-<b> 15 a 18 de Outubro de 2012 - Bento Gonçalves - RS </a>
-</ol>
+  
+<a href="http://www.abepro.org.br/indexsub.asp?m=1051&ss=42&c=1092"> <b> XXXII Encontro Nacional de Engenharia de Produção (ENEGEP 2012) ) - (Comitê Técnico Cientifico)</b> </a>   <b> 15 a 18 de Outubro de 2012 - Bento Gonçalves - RS </a>
 
-</ol>
-<li>
-<b> 2011 </b>
-</ol>
+  
+  
+## **2011**
 
-
-<ol>
-<li>
+  
 <a href="http://www.sbrn.org.br/"> <b> X Congresso Brasileiro de Inteligência Computacional (CBIC'2011) - (Comitê de Programa)</b> </a>   
 <b> 08 a 11 Novembro de 2011 - Fortaleza/CE </a>
-</ol>
 
-<ol>
-<li>
+  
 <a href="http://www.dimap.ufrn.br/csbc2011/eventos/semish.php"> 38th Seminar on Software and Hardware 
- (XXXVIII SEMISH) (Program Committee) em conjunto com o XXXI CSBC2011</a>   
-<b> 19 a 22 de Julho de 2011 - NATAL/RN  </a>
-</ol>
+ (XXXVIII SEMISH) (Program Committee) em conjunto com o XXXI CSBC2011</a>   <b> 19 a 22 de Julho de 2011 - NATAL/RN  </a>
 
-<ol>
-<li>
-<a href="http://www.dimap.ufrn.br/csbc2011/eventos/enia.php"> VIII Encontro Nacional de
-Inteligência Artificial (VIII ENIA) (Comitê de Programa) em conjunto com o XXXI CSBC2011</a>   
-<b> 19 a 22 Julho de 2011 - Natal - RN </a>
-</ol>
+  
+<a href="http://www.dimap.ufrn.br/csbc2011/eventos/enia.php"> VIII Encontro Nacional de Inteligência Artificial (VIII ENIA) (Comitê de Programa) em conjunto com o XXXI CSBC2011</a>   <b> 19 a 22 Julho de 2011 - Natal - RN </a>
 
-
-<ol>
-<li>
+  
 <a href="http://www.feg.unesp.br/dpd/xliiisbpo/"> XLIII Simpósio Brasileiro de Pesquisa Operacional - XLIII SBPO (Presidente do Comitê Científico)</a>   
 <b>  16 a 19 Agosto de 2011 - Ubatuba - São Paulo </a>
-</ol>
 
-<ol>
-<li>
+  
 <a href="http://www-2.dc.uba.ar/lagos2011/"> Latin-American Algorithms, Graphs, and Optimization 
-Symposium (LAGOS-2011) (Scientific Committee)</a>   
-<b> April 2011 - Bariloche - Argentina</a>
-</ol>
+Symposium (LAGOS-2011) (Scientific Committee)</a>   <b> April 2011 - Bariloche - Argentina</a>
 
-<ol>
-<li>
+  
 <a href="http://www.dimap.ufrn.br/csbc2011/eventos/wcama.php"> III Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais - III WCAMA 
-(Comitê de Programa) em conjunto com o XXXI CSBC2011</a>   
-<b> 19 a 22 Julho de 2011 - Natal - RN </a>
-</ol>
+(Comitê de Programa) em conjunto com o XXXI CSBC2011</a>   <b> 19 a 22 Julho de 2011 - Natal - RN </a>
 
-
-<ol>
-<li>
+  
 <a href="http://www.dcc.ufam.edu.br/erpono2011/"> I Encontro Regional de Pesquisa Operacional da Região Norte
- (I ERPO-NO) (Comitê Científico)</a>   
-<b> 25 a 27 Maio de 2011 - Manaus/AM </a>
-</ol>
+ (I ERPO-NO) (Comitê Científico)</a>   <b> 25 a 27 Maio de 2011 - Manaus/AM </a>
 
-<ol>
-<li>
+  
 <a href="http://operationsresearcher.blogspot.com/2011/04/iii-congreso-peruano-de-investigacion.html">  III Congreso  Peruano de Investigación Operativa y de Sistemas - COPIOS 2011, (Scientific Committee)</a>   
 <b> 17 al  19 de noviembre 2011 - Lima - Peru </a>
-</ol>
 
-</ol>
-<li>
-<b> 2010 </b>
-</ol>
+  
+## **2010**
 
-
-<ol>
-<li>
+  
 <a href="http://www.sobrapo.org.br"> XLII Simpósio Brasileiro de Pesquisa Operacional - XLII SBPO (Presidente do Comitê Científico)</a>   
 <b> De 28 Agosto a 03 de Setembro de 2010 - Bento Gonçalves - Rio Grande do Sul </a>
-</ol>
 
-<ol>
- <li>
+  
 <a href="http://www.sbia10.fei.edu.br/."> 20th Brazilian Symposium on Artificial Intelligence (XIX SBIA)(Program Committee)</a>   
 <b> October 24-28, 2010. FEI, São Bernardo do Campo, SP, Brazil. </a>
-</ol>
 
-<ol>
-<li>
+  
 <a href="http://www.inf.pucminas.br/sbc2010/index.php?page=cfp-semish"> XXXVII Seminário Integrado de Software e Hardware
- (XXXVII SEMISH) (Comitê de Programa) em conjunto com o XXX CSBC2010</a>   
-<b> Julho de 2010 - PUC - Belo Horizonte/MG </a>
-</ol>
+ (XXXVII SEMISH) (Comitê de Programa) em conjunto com o XXX CSBC2010</a>   <b> Julho de 2010 - PUC - Belo Horizonte/MG </a>
 
-<ol>
- <li>
+  
 <a href="http://www.inf.pucminas.br/sbc2010/index.php?page=cfp-ctd"> XXIII Concurso de 
-Teses e Dissertações da SBC (CTD 2010) (Comitê de Avaliação)</a>   
-<b> De 20 a 23 de Julho de 2010 - PUC - Belo Horizonte/MG </a>
-</ol>
+Teses e Dissertações da SBC (CTD 2010) (Comitê de Avaliação)</a>   <b> De 20 a 23 de Julho de 2010 - PUC - Belo Horizonte/MG </a>
 
-</ol>
-<li>
-<b> 2009 </b>
-</ol>
+  
+  
+## **2009**
 
-
-<ol>
-<li>
+  
 <a href="http://www.inf.ufrgs.br/lagos09/"> Latin-American Algorithms, Graphs, and Optimization 
-Symposium (LAGOS09) (Comitê Científico)</a>   
-<b> De 03 a 07 de Novembro de 2009 - Gramado - Rio Grande do Sul </a>
-</ol>
+Symposium (LAGOS09) (Comitê Científico)</a>   <b> De 03 a 07 de Novembro de 2009 - Gramado - Rio Grande do Sul </a>
 
-<ol>
-<li>
+  
 <a href="http://csbc2009.inf.ufrgs.br/index.php?option=com_content&task=view&id=28&Itemid=28/"> XXXVI Seminário Integrado de Software e Hardware
- (XXXVI SEMISH) (Comitê de Programa) em conjunto com o XXIX CSBC2009</a>   
-<b> Julho de 2009 - Bento Gonçalves - Rio Grande do Sul </a>
-</ol>
+ (XXXVI SEMISH) (Comitê de Programa) em conjunto com o XXIX CSBC2009</a>   <b> Julho de 2009 - Bento Gonçalves - Rio Grande do Sul </a>
 
-<ol>
-<li>
+  
 <a href="http://csbc2009.inf.ufrgs.br/index.php?option=com_content&task=view&id=13&Itemid=26/"> VII Encontro Nacional de
 Inteligência Artificial (VII ENIA) (Comitê de Programa) em conjunto com o XXIX CSBC2009</a>   
 <b> Julho de 2009 - Bento Gonçalves - Rio Grande do Sul </a>
-</ol>
 
-<ol>
- <li>
+  
 <a href="http://www.sobrapo.org.br//"> XLI Simpósio Brasileiro de Pesquisa Operacional (XLI SBPO) (Presidente Comitê Científico)</a>   
 <b> De 01 a 04 de Setembro de 2009 - Porto Seguro - BA </a>
-</ol>
 
-<ol>
- <li>
+  
 <a href="http://labic.ic.uff.br/cnmac2009/index.html"> XXXII Congresso Nacional de Matemática Aplicada e Computacional (XXXII CNMAC) (Coordenador Prêmio de
-Iniciação Científica)</a>   
-<b> De 08 a 11 de Setembro de 2009 - Cuiabá - MT </a>
-</ol>
+Iniciação Científica)</a> <b> De 08 a 11 de Setembro de 2009 - Cuiabá - MT </a>
 
-<ol>
- <li>
+  
 <a href="http://www.sobrapo.org.br/erpo/"> III Encontro Regional de Pesquisa Operacional do Nordeste (III ERPONE) (Membro do Comitê Científica)</a>   
 <b> De 19 a 20 de Novembro de 2009 - Fortaleza - CE </a>
-</ol>
 
-</ol>
-<li>
-<b> 2008 </b>
-</ol>
+  
+  
+## **2008**
 
 
-<ol>
-<li>
+  
 <a href="http://sistemas.unmsm.edu.pe/elavio2008//"> XIII Escuela Latino Americana de Verano de Investigación Operativa 
 (XIII ELAVIO)(Comitê Cientifico Internacional)</a>   
 <b> Fevereiro de 2008 - Lima - Peru </a>
-</ol>
 
-<ol>
- <li>
+  
 <a href="http://www.ufpb.br/sbpo2008/"> XL Simpósio Brasileiro de Pesquisa Operacional (XL SBPO) (Presidente Comitê Científico) </a>   
 <b> De 02 a 05 de Setembro de 2008 - João Pessoa - PB </a>
-</ol>
 
-<ol>
- <li>
+  
 <a href="http://www.sbia2008.ufba.br/sbia_committee.php"> 19th Brazilian Symposium on Artificial Intelligence (XIX SBIA) (Comitê de Programa)</a>   
 <b> De 26 a 30 de Outubro de 2008 - Salvador - BA </a>
-</ol>
 
-<ol>
- <li>
+  
 <a href="http://wtdia-ctdia.labic.icmc.usp.br/"> IV Workshop on MSc Dissertation and PhD Thesis in 
-Artificial Intelligence - WTDIA 2008/ CTDIA 2008 (Comitê de Avaliação)</a>   
-<b> De 26 a 30 de Outubro de 2008 - Salvador - BA </a>
-</ol>
+Artificial Intelligence - WTDIA 2008/ CTDIA 2008 (Comitê de Avaliação)</a>   <b> De 26 a 30 de Outubro de 2008 - Salvador - BA </a>
 
-</ol>
-<li>
-<b> 2007 </b>
-</ol>
+  
+  
+## **2007**
 
-
-<ol>
- <li>
+  
 <a href="http://www.ic.uff.br/elavio//"> XII Escuela Latino Americana de Verano de Investigación Operativa (XII ELAVIO) (Presidente comitê Organizador)</a>   
 <b> Fevereiro de 2007 - Petrópolis - RJ </a>
-</ol>
 
- <ol>
-  <li>
-<a href="http://selasi.utalca.cl/"> III European-Latin-American Workshop on Engineering Systems (III SELASI) (comitê cientifico), Universidad Talca, Curicó, Chile</a>   
-<b> De 30 Abril a 03 de Maio de 2007</a>
-</ol>
+  
+<a href="http://selasi.utalca.cl/"> III European-Latin-American Workshop on Engineering Systems (III SELASI) (comitê cientifico), Universidad Talca, Curicó, Chile</a>   <b> De 30 Abril a 03 de Maio de 2007</a>
 
-<ol>
-  <li>
+  
 <a href="http://www.sobrapo.org.br/simposios/XXXIX/Portugues/simposiotodo.htm"> XXXIX Simpósio Brasileiro de Pesquisa Operacional (XXXIX SBPO)(Presidente do 
-Comitê Cientifico) </a>   
-<b> De 28 - 31 de Agosto de 2007 - Fortaleza - CE </a>
-</ol>
+Comitê Cientifico) </a>   <b> De 28 - 31 de Agosto de 2007 - Fortaleza - CE </a>
 
- <ol>
-  <li>
+  
 <a href="http://www.sbc.de9.ime.eb.br/br/eventos/enia.htm"> VI Encontro Nacional de Inteligência Artificial (VI ENIA)(Comitê de programa), realizada em conjunto com
-o XXVII Congresso da Sociedade Brasileira de Computação (XXVII SBC), no IME-RJ</a>   
-<b> De 30 Junho a 06 de Julho 2007 no IME - Rio de Janeiro</a>
-</ol>
+o XXVII Congresso da Sociedade Brasileira de Computação (XXVII SBC), no IME-RJ</a>   <b> De 30 Junho a 06 de Julho 2007 no IME - Rio de Janeiro</a>
 
-<ol>
-  <li>
+  
 <a href="http://www.sobrapo.org.br/ICORD_VI/index.htm"> IV International Conference on Operations Research for Development (ICORD-IV)(Comitê de programa)
 , realizada em conjunto com o XXXIX Simpósio Brasileiro de Pesquisa Operacional (XXXIX SBPO), <b> Fortaleza - CE </a>   
 <b> De 29-31 Agosto de 2007</a>
-</ol>
 
-<a href="#inicio">&#171; Topo da página</a>
-</ol>
+  
