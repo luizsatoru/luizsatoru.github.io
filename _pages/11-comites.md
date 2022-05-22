@@ -76,7 +76,7 @@ news_limit: 5
 Computacionais de Alto Desempenho (WSCAD CTD 2020 2020.  O XXI Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD-2020), sera realizado remotamente de 21  23 Outubro 2020
 
 
-**2019**
+## **2019**
 
 <a href="https://creating.city/proceedings/whpcsc2019/"> <b> Workshop on High Performance Computing for Smart Cities - WHPCSC 2019 (Organization Committee Member) will be held as a workshop inside the SBAC PAD 2019</a>   
 <b>, October 15-18, Campo Grande, MS.
