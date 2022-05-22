@@ -79,38 +79,35 @@ Computacionais de Alto Desempenho (WSCAD CTD 2020 2020.  O XXI Simpósio em Sist
 **2019**
 
 <a href="https://creating.city/proceedings/whpcsc2019/"> <b> Workshop on High Performance Computing for Smart Cities - WHPCSC 2019 (Organization Committee Member) will be held as a workshop inside the SBAC PAD 2019</a>   
-<b>, October 15-18, Campo Grande, MS.</b> </a>
+<b>, October 15-18, Campo Grande, MS.
 
 
 <a href="http://www.sobrapo.org.br/"> <b> LI Simpósio Brasileiro de Pesquisa Operacional - LI SBPO (Presidente do Comitê Científico)</a>   
-<b>, 03 a 06 de Setembro de 2019 - UNICAMP - Campus de Limeira/SP </b> </a>
-
+<b>, 03 a 06 de Setembro de 2019 - UNICAMP - Campus de Limeira/SP 
+  
 
 <a href="https://www.euro-online.org/websites/eume/event/13th-metaheuristics-international-conference-mic-2019/"> <b> Metaheuristics International Conference - MIC 2019 - (Program Committee Member- PC )</a>   
-<b>, Universidad de los Andes campus in Cartagena, Colombia from July 28 to 31, 2019. </b> </a>
+<b>, Universidad de los Andes campus in Cartagena, Colombia from July 28 to 31, 2019. 
 
 
 <a href="http://icvns2019.com/"> <b> The 7th International Conference on Variable Neighborhood Search - ICVNS 2019. - (Program Committee Member- PC )</a>   
-<b>, Rabat, Morocco during October 02-04, 2019. </b> </a>
+<b>, Rabat, Morocco during October 02-04, 2019. 
 
 
-<a href="http://csbc2019.sbc.org.br/eventos/32ctd/"> <b> Comitê de AvaliaÇÃO do XXXII
-Concurso de Teses e Disserta�oes da SBC (CTD 2019). - (Program Committee Member- PC )</a>   
-<b>, 14 a 18 Julho - Centro de Convencoes da Amazonia - Belém/PA - 2019. </b> </a>
+<a href="http://csbc2019.sbc.org.br/eventos/32ctd/"> <b> Comitê de AvaliaÇÃO do XXXII Concurso de Teses e Dissertaçoes da SBC (CTD 2019). - (Program Committee Member- PC )</a>   <b>, 14 a 18 Julho - Centro de Convencoes da Amazonia - Belém/PA - 2019.  
 
 
 
 <a href="http://csbc2019.sbc.org.br/"> <b> IV ETC - IV ENCONTRO DE TEORIA DA COMPUTAÇÃO, evento satélite do CSBC 2019 (Membro do Comitê de Programa)</a>   
- Período: 14 a 18 de julho de 2019, Belém/PA </a>
+ Período: 14 a 18 de julho de 2019, Belém/PA  
 
 
-<a href="http://www.bracis2019.ufba.br/eniac.html"> <b> ENIAC2019 - Encontro Nacional de Inteligencia Artificial e Computacional 2019. - (Program Committee Member- PC )</a>   
-<b>, Salvador-BA, 15-18 Outubro, 2019. </b> </a>
+<a href="http://www.bracis2019.ufba.br/eniac.html"> <b> ENIAC2019 - Encontro Nacional de Inteligencia Artificial e Computacional 2019. - (Program Committee Member- PC )</a>   <b>, Salvador-BA, 15-18 Outubro, 2019. 
 
 
 <a href="http://www.mirlabs.net/ibica19/"> <b> IBICA 2019 (10th
 International Conference on Innovations in Bio-Inspired Computing and Applications - (Program Committee Member- PC)</a>   
-<b>,India - December 16-18 , 2019. </b> </a>
+<b>,India - December 16-18 , 2019.  
 
 
 ## **2018**
