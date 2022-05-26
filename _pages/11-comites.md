@@ -35,6 +35,8 @@ news_limit: 5
 
 04.	Comissão Organizadora do [III Workshop Brasileiro de Cidades Inteligentes – III WBCI, evento em conjunto com o CSBC 2022, Niteroi-RJ](https://csbc.sbc.org.br/2022/wbci/)
 
+05. PC Member of ICVNS2022 · [The 9th International Conference on Variable Neighborhood Search]()
+
 ### 2021
 
 1. Presidente Comitê Científico LIII SBPO 2021 - J Pessoa (evento remoto)
