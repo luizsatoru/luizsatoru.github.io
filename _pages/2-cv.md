@@ -23,7 +23,7 @@ news_limit: 5
 
 **O Prof. Luiz Satoru Ochi, é Doutor em Engenharia de Sistemas e Computação. 
 Atualmente ele é Professor Titular no [IC-UFF](http://www.ic.uff.br) Instituto de Computação da Universidade Federal Fluminense (UFF) e 
-pesquisador do [CNPq](http://www.cnpq.br), [área de Ciência da Computação, nível 1C](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787740E9).
+pesquisador do [CNPq](http://www.cnpq.br), [área de Ciência da Computação, nível 1C]([http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787740E9](http://lattes.cnpq.br/9171815778534257)).
 Algumas das funções atuais incluem: Editor Associado da revista Pesquisa Operacional da [SOBRAPO](http://www.sobrapo.org.br/) e da  Revista Electrônica 
 del Instituto Chileno de Investigación Operativa [ICHIO](http://lia.dis.ufro.cl/pkp/ojs-2.2.4/index.php/ICHIO); Consultor Ad Hoc dos seguintes órgãos de fomento: [CNPq](http://www.cnpq.br), [CAPES](http://www.capes.gov.br),
  [FAPERJ-RJ](http://www.faperj.br), FAPESP-SP, FAPEMIG-MG, 
