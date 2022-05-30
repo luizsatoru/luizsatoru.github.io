@@ -55,8 +55,7 @@ Coordenador: Luiz Satoru Ochi (IC-UFF)
   
 **Projeto de Pesquisa CNPq - Ciência sem Fronteira, edital: MEC/MCTI/CAPES/CNPq/FAPs No 71/2013 Pesquisador Visitante Especial - Linha 2, 
 "Métodos eficientes para Problemas de Roteamento de Veículos com Aplicações Reais** ",
- Professor visitante convidado: Christian Prins (Université de Technologie de Troyes (UTT)) - France </b>
-- Coordenador do Projeto: Luiz Satoru Ochi (Vigência: 2013 - 2016).
+ Professor visitante convidado: Christian Prins (Université de Technologie de Troyes (UTT)) - France - Coordenador do Projeto: Luiz Satoru Ochi (Vigência: 2013 - 2016).
 
 
  **Gestão da Informação através da Inteligência Computacional (GINICOM)-Parte II. Projeto parcialmente 
