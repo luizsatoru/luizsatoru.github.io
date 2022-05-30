@@ -27,7 +27,7 @@ veja nossas sugestões:**
 
 **Existem vários temas de pesquisa de nosso interesse, contudo a vertente principal atualmente é direcionada ao desenvolvimento de novas tecnologias envolvendo conceitos e técnicas de forma isolada ou híbrida (algoritmos e sistemas). Nas versões híbridas. conjugamos um ou mais conceitos de: Inteligência Computacional, Inteligencia Artificial,  Otimização  Combinatória, Pesquisa Operacional, Ciência de Dados, entre outros conhecimentos.**
 
-## **ONDE APLICAMOS ESSE FERRAMENTAL???**
+## **ONDE APLICAMOS ESSE FERRAMENTAL**
  
  **Uma das áreas onde atualmente aplicamos TODAS ESTAS TECNOLOGIAS, é um TEMA SUPER ATUAL, SUPER IMPORTANTE, chamado: Cidades & Regiões Inteligentes, Cidades & Regiões Digitais, Cidades e Regiões Sustentáveis!!!!, Cidades Verdes!!! <a href="https://creating.city/proceedings/"> SMART CITIES & GREEN COMPUTING & DIGITAL CITIES </a> (veja mais sobre este tema em: veja no
 link <a href="https://creating.city/"> "Creating.City portal"), Dentro do escopo de Smart Cities temos interesse em segmentos incluindo: Segurança Publica, Logistica Humanitaria, e-commerce, Roteamento e Scheduling de VANTS (Veiculos Aereos Nao Tripulados - DRONES), Mobilidade Urbana e Social; Sustentabilidade; Meio Ambiente; Defesa; Logística Humanitária; Logística Reversa,  entre outros itens..  </a>, Mineração de Dados e Processamento Paralelo e Distribuido (Incluindo implementação em CPU & GPU). [MAIS INFORMAÇÕES?? CLIQUE AQUI:](https://luizsatoru.github.io/)**
