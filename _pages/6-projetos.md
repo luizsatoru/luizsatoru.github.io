@@ -21,9 +21,6 @@ news_limit: 5
 ---
 ## **PROJETOS**
 
-**TÍTULO: A INTELIGÊNCIA COMPUTACIONAL & OTIMIZAÇÃO NA BUSCA DE ALGORITMOS EFICIENTES
-PARA PROBLEMAS COMPLEXOS**; Bolsa de Produtividade PQ Nível 1C – CA-CC, Processo 303492/2021-0, Modalidade/Nível: PQ-1C, Edital/Chamada: Chamada CNPq Nº 4/2021 - Bolsas de Produtividade em Pesquisa - PQCNPq/MCT-CNPq, Período: 2022 – 2026. Coordenador do Projeto: Luiz Satoru Ochi.
-
 **TÍTULO: GRANT DE PESQUISA VINCULADO AO PRÊMIO CIENTISTA DO ESTADO DO RIO DE JANEIRO 2022-2024** – Da Fundação de Amparo a Pesquisa no Estado do Rio de Janeiro (FAPERJ) - Projeto: **SMART & DIGITAL CITIES: Novas Tecnologias Para Melhorar a Qualidade dos Serviços Públicos e Privados**. Coordenador do Projeto: Luiz Satoru Ochi.
 
 **TÍTULO: Projeto CAPES/PROCAD: Policia Federal, UFPB & IC-UFF: Desenvolvimento de tecnologias e formação de recursos humanos em Engenharia Legal destinadas à automatização aplicáveis a análises de Conformidade de Obras Públicas**, coordenado pelo Prof Dr Sandro Marden Torres. Coordenador Institucional pela UFF do Projeto: Luiz Satoru Ochi. Vigência: 2021-2024.
@@ -37,10 +34,12 @@ Coordenador: Roberto de Andrade Medronho-UFRJ). <b>Membros comitê de gestao:  G
 **Projeto FAPERJ: Otimização e Inteligencia Computacional para Resolução de Problemas de Planejamento e Decisao**.
  Edital: Apoio as Instituições de Ensino e Pesquisa sediadas no Estado do Rio de Janeiro - Edital: E-11/2018, Periodo: 2019-2020. Coordenador: Luiz Satoru Ochi (IC-UFF) 
 
-**SMART CITIES: Novas Tecnologias Para Melhorar Servicos Publicos e Privados**. 
-	Projeto parcialmente financiado pelo CNPq - Edital UNIVERSAL 28/2018 - Faixa C.
- Edital UNIVERSAL 28/2018 - Faixa C. Vigencia: 2019 - 2021**.
-Coordenador: Luiz Satoru Ochi (IC-UFF) 
+**TÍTULO: A INTELIGÊNCIA COMPUTACIONAL & OTIMIZAÇÃO NA BUSCA DE ALGORITMOS EFICIENTES
+PARA PROBLEMAS COMPLEXOS**; Bolsa de Produtividade PQ Nível 1C – CA-CC, Processo 303492/2021-0, Modalidade/Nível: PQ-1C, Edital/Chamada: Chamada CNPq Nº 4/2021 - Bolsas de Produtividade em Pesquisa - PQCNPq/MCT-CNPq, Período: 2022 – 2026. Coordenador do Projeto: Luiz Satoru Ochi.
+	
+	
+**SMART CITIES: Novas Tecnologias Para Melhorar Servicos Publicos e Privados**. Projeto parcialmente financiado pelo CNPq - Edital UNIVERSAL 28/2018 - Faixa C.
+ Edital UNIVERSAL 28/2018 - Faixa C. Vigencia: 2019 - 2021**. Coordenador: Luiz Satoru Ochi (IC-UFF) 
 
 
 **SMART CITIES: Novas Tecnologias Para Melhorar Servicos Publicos e Privados em Grandes Cidades**. 
