@@ -23,7 +23,6 @@ news_limit: 5
 
 **TÍTULO: GRANT DE PESQUISA VINCULADO AO PRÊMIO CIENTISTA DO ESTADO DO RIO DE JANEIRO 2022-2024** – Da Fundação de Amparo a Pesquisa no Estado do Rio de Janeiro (FAPERJ) - Projeto: **SMART & DIGITAL CITIES: Novas Tecnologias Para Melhorar a Qualidade dos Serviços Públicos e Privados**. Coordenador do Projeto: Luiz Satoru Ochi.
 
-**TÍTULO: Projeto CAPES/PROCAD: Policia Federal, UFPB & IC-UFF: Desenvolvimento de tecnologias e formação de recursos humanos em Engenharia Legal destinadas à automatização aplicáveis a análises de Conformidade de Obras Públicas**, coordenado pelo Prof Dr Sandro Marden Torres. Coordenador Institucional pela UFF do Projeto: Luiz Satoru Ochi. Vigência: 2021-2024.
 
 **TÍTULO: Curso para a Empresa LOGGI: Tema - Otimização Combinatória**. **Parceria entre o LABIC-IC/UFF e a Empresa Loggi.com visando a capacitação dos seus funcionários no segmento de Logística Inteligente e Transportes de Mercadorias através de metodologias de Otimização Combinatória - 2021 & 2022. Coordenador do Projeto: Luiz Satoru Ochi (LabIC IC/UFF & IC UFF)**
 
@@ -41,7 +40,9 @@ PARA PROBLEMAS COMPLEXOS**; Bolsa de Produtividade PQ Nível 1C – CA-CC, Proce
 **SMART CITIES: Novas Tecnologias Para Melhorar Servicos Publicos e Privados**. Projeto parcialmente financiado pelo CNPq - Edital UNIVERSAL 28/2018 - Faixa C.
  Edital UNIVERSAL 28/2018 - Faixa C. Vigencia: 2019 - 2021**. Coordenador: Luiz Satoru Ochi (IC-UFF) 
 
-
+**TÍTULO: Projeto CAPES/PROCAD: Policia Federal, UFPB & IC-UFF: Desenvolvimento de tecnologias e formação de recursos humanos em Engenharia Legal destinadas à automatização aplicáveis a análises de Conformidade de Obras Públicas**, coordenado pelo Prof Dr Sandro Marden Torres. Coordenador Institucional pela UFF do Projeto: Luiz Satoru Ochi. Vigência: 2021-2024.
+	
+	
 **SMART CITIES: Novas Tecnologias Para Melhorar Servicos Publicos e Privados em Grandes Cidades**. 
 Projeto parcialmente financiado pela FAPERJ - GRANT Cientista do Nosso Estado (CNE).
 Edital CNE 2017 </b> edital FAPERJ CNE 2017. Vigencia: 01/2018 - 06/2021.
