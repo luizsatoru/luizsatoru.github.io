@@ -31,9 +31,9 @@ news_limit: 5
 
 02.	Presidente Comitê Científico [LIV SBPO 2022 – UFJF – MG, 08 – 11 Novembro 2022](https://sbpo2022.galoa.com.br/)
 
-03.	Membro comissão avaliação [CTD da SBC 2022, Niterói, 31/7 a 5/8](https://csbc.sbc.org.br/2022/ctd/)
+03.	Membro comissão avaliação [CTD da CSBC 2022, Niterói, 31/7 a 5/8](https://csbc.sbc.org.br/2022/ctd/)
 
-04.	Comissão Organizadora do [III Workshop Brasileiro de Cidades Inteligentes – III WBCI, evento em conjunto com o CSBC 2022, Niteroi-RJ](https://csbc.sbc.org.br/2022/wbci/)
+04.	Comissão Organizadora do [III Workshop Brasileiro de Cidades Inteligentes – III WBCI, evento em conjunto com o CSBC 2022, Niteroi-RJ]([https://csbc.sbc.org.br/2022/wbci-en/])
 
 05. PC Member of ICVNS2022 · [The 9th International Conference on Variable Neighborhood Search - October, 25-28, 2022, Abu Dhabi, U.A.E., Hybrid mode](http://www.icvns2022.info/)
 
