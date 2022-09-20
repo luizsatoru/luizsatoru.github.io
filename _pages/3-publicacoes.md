@@ -26,7 +26,7 @@ news_limit: 5
 
 ## **Accepted/Published**
 
-**1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). An extended assessment of metaheuristics-based feature selection for intrusion detection in CPS perception layer. [ANNALS OF TELECOMMUNICATIONS - 2022.](http://doi.org/10.1007/s12243-022-00912-z)** 
+**1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). An extended assessment of metaheuristics-based feature selection for intrusion detection in CPS perception layer. [ANNALS OF TELECOMMUNICATIONS - 2022, vol 7, p. 457-471.](http://doi.org/10.1007/s12243-022-00912-z)** 
  
 **1. Elias Marques Júnior, Elias Marques Júnior, "Vitor Nazário Coelho, Igor Machado Coelho,Yuri Abitbol De Menezes Frota, Roozbeh Haghnazar Koochaksaraei, Luiz Satoru Ochi,  and Bruno Nazário Coelho (2022). "UAVs routes optimization on smart cities and regions". [RAIRO – Operations Research, Volume 56, Number 2, pp. 853 - 869, March-April 2022 - (Impact Factor*: 2.526)](https://doi.org/10.1051/ro/2022036)**
 
