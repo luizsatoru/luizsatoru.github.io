@@ -143,10 +143,10 @@ Título: Formulações e Algoritmos para o Problema de Programação de Horário
 
 
 
-1. Anderson Zudio de Moraes, Aluno de Doutorado em Computação - IC/UFF(orientador: Luiz Satoru Ochi;Co-orientador: Igor Coelho Machado (UERJ)  Assunto: Processamento de Alto Desempenho em Problemas de Otimização & Inteligencia Computacional; Previsão de término: 12/2022.  
+1. Anderson Zudio de Moraes, Aluno de Doutorado em Computação - IC/UFF(orientador: Luiz Satoru Ochi;Co-orientador: Igor Coelho Machado (UERJ)  Assunto: Problemas de Roteamento & Scheduling de Veículos tripulados e não tripulados: Soluções via Otimização & Inteligencia Computacional; Previsão de término: 12/2022.  
 
 
-1. Bruno José da Silva Barros, Aluno de Doutorado em Computação - IC/UFF  Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); Tema: Problemas de Arvore Geradora de Custo Minimo com Restrições de Conflito. 
+1. Bruno José da Silva Barros, Aluno de Doutorado em Computação - IC/UFF  Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); Tema: Problemas de Otimização em Grafos com Restrições de Conflito. 
 Previsão de término: 12/2022.
   
 
@@ -154,7 +154,7 @@ Previsão de término: 12/2022.
 
 
 1. Augusto Beltrao ,  Aluno de Doutorado em Computação - IC/UFF  
-Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema (provisorio): Problemas de Otimização e Inteligencia Computacional .Previsão de término: 07/2023.
+Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema (provisorio): Algoritmos heuristicos e híbridos para Problemas de Otimização e Inteligencia Computacional .Previsão de término: 07/2023.
 
  
 1. Alfredo Lima Moura Silva. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Problemas de Logística Reversa: Métodos e Aplicações. Orientadores: Luiz Satoru Ochi e Rian Pinheiro. Previsão de término: 12/2025.
