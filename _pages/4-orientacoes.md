@@ -146,7 +146,7 @@ Título: Formulações e Algoritmos para o Problema de Programação de Horário
 1. Anderson Zudio de Moraes, Aluno de Doutorado em Computação - IC/UFF(orientador: Luiz Satoru Ochi;Co-orientador: Igor Coelho Machado (UERJ)  Assunto: Hybrid Vehicle-drone Routing Problem: Heuristic and Hybrid Algorithms; Previsão de término: 12/2022.  
 
 
-1. Bruno José da Silva Barros, Aluno de Doutorado em Computação - IC/UFF  Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); Tema: Problemas de Otimização em Grafos com Restrições de Conflito. 
+1. Bruno José da Silva Barros, Aluno de Doutorado em Computação - IC/UFF  Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); Tema: The minimum spanning tree problem with conflict constraints and its variations. 
 Previsão de término: 12/2022.
   
 
