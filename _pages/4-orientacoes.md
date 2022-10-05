@@ -171,7 +171,7 @@ Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema (pro
 1. João Ricardo Weissmann Santos**, Aluno de Mestrado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema: Problemas de Otimização de Portfólio de Projetos exploratórios na area de Petróleo & Gas. Previsão de término: 12/2022.
   
 
-1. Silvana Nazaré de Freitas Ávila**. Aluna de Mestrado em Computação IC/UFF. Tema: Problemas de Coleta do Lixo Eletronico: Algoritmos e Variantes.  Orientadores: Luiz Satoru Ochi e Simone de Lima Martins. Previsão término: 07/2023.
+1. Silvana Nazaré de Freitas Ávila**. Aluna de Mestrado em Computação IC/UFF. Tema: Heuristic algorithms for waste electrical and electronic equipment collection problems, Orientadores: Luiz Satoru Ochi e Simone de Lima Martins. Previsão término: 07/2023.
 
 
 1. Alexandre dos Santos Mello**. Aluno de Mestrado em Computação IC/UFF. Tema provisório:Heterogeneous fleet vehicle routing problem with Split Deliveries Constraints Orientadores: Luiz Satoru Ochi e Matheus Haddad (UFV). Previsão de término: 12/ 2023
