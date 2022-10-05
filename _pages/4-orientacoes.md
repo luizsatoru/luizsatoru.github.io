@@ -177,7 +177,7 @@ Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema (pro
 1. Alexandre dos Santos Mello**. Aluno de Mestrado em Computação IC/UFF. Tema provisório: Problemas de Roteamento com entregas fracionárias – Aplicações da empresa Loggi. Orientadores: Luiz Satoru Ochi e Matheus Haddad (UFV). Previsão de término: 12/ 2023
 
 
-1. Guilherme Haddad**, Aluno de Mestrado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema: Otimização & Machine Learning na solução de Problemas de Scheduling com Frotas Híbridas: Caminhões & Drones. Previsão de término: 12/2023.
+1. Guilherme Haddad**, Aluno de Mestrado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema: Reinforcement Learning and Combinatorial Optimization for Hybrid Vehicle-drone Routing Problem. Previsão de término: 12/2023.
 
 
 ## **ORIENTAÇÃO DE DISSERTAÇÕES DE MESTRADO CONCLUÍDAS**
