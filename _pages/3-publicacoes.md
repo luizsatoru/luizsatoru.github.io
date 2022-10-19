@@ -26,7 +26,7 @@ news_limit: 5
 
 ## **Accepted/Published**
 
-**1. Barros, Bruno; Ochi, Luis Satoru; Pinheiro, Rian; and Souza, Ueverton (2022). "Using Adaptive Memory in GRASP to find Minimum Conflit-Free Spanning Trees".To appear in [SOFT COMPUTING - SPRINGER. Impact Factor: 3,73 (2021). Qualis A1].
+**1. Barros, Bruno; Ochi, Luis Satoru; Pinheiro, Rian; and Souza, Ueverton (2022). "Using Adaptive Memory in GRASP to find Minimum Conflit-Free Spanning Trees".To appear in [SOFT COMPUTING - SPRINGER. Impact Factor: 3,73 (2021). Qualis A1]..
 
 **1. Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). An extended assessment of metaheuristics-based feature selection for intrusion detection in CPS perception layer. [ANNALS OF TELECOMMUNICATIONS - 2022, vol 7, p. 457-471.](http://doi.org/10.1007/s12243-022-00912-z)** 
  
