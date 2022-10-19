@@ -33,7 +33,7 @@ news_limit: 5
 **1. Elias Marques Júnior, Elias Marques Júnior, "Vitor Nazário Coelho, Igor Machado Coelho,Yuri Abitbol De Menezes Frota, Roozbeh Haghnazar Koochaksaraei, Luiz Satoru Ochi,  and Bruno Nazário Coelho (2022). "UAVs routes optimization on smart cities and regions". [RAIRO – Operations Research, Volume 56, Number 2, pp. 853 - 869, March-April 2022 - (Impact Factor*: 2.526)](https://doi.org/10.1051/ro/2022036)**
 
 
-**1. Couto Filho, M. B.; Braga Flor, Vinicius B.; Souza, J. C. S.; Ochi, Luis Satoru (2022). Strategic Observation of Power Grids for Reliable Monitoring. [International Journal of Electrical Power and Energy Systems (Qualis A1) - Impact Factor: 4,630 (2022) , volume 138, 2022. Keywords: State Estimation, Criticalities, Optimization, Metaheuristics, Computational Intelligence.](  https://doi.org/10.1016/j.ijepes.2022.107959).**
+**1. Couto Filho, M. B.; Braga Flor, Vinicius B.; Souza, J. C. S.; Ochi, Luis Satoru (2022). Strategic Observation of Power Grids for Reliable Monitoring. [International Journal of Electrical Power and Energy Systems (Qualis A1) - Impact Factor: 5,659, CiteScore: 9,4, volume 138, 2022. Keywords: State Estimation, Criticalities, Optimization, Metaheuristics, Computational Intelligence.](  https://doi.org/10.1016/j.ijepes.2022.107959).**
 
 **1. Bhering, Fabiano; Passos, Diego; Ochi, Luis Satoru ; Obraczka, Katia ; Albuquerque, C. (2022). Wireless Multipath Video Transmission - When IoT Video Applications Meet Networking: A Survey. [Multimedia Systems Qualis A2,  2022, v. 22, p. 1-15.Impact Factor:2,34 - ](https://doi.org/10.1007/s00530-021-00885-4)**
 
