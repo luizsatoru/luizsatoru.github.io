@@ -43,7 +43,7 @@ news_limit: 5
 
 1. **Quincozes, Silvio; Passos, Diego; Albuquerque, C.; MOSSE, D.; Ochi, Luis Satoru (2022). On the Performance of GRASP-Based Feature Selection for CPS Intrusion Detection. [IEEE Transactions on Network and Service Management, 2022; Volume 19(1), pp.614 - 626. Impact Factor 4,195](http://doi.org/10.1109/TNSM.2021.3088763)**
 
-1. **Carlos Alberto Poncinelli Filho, Elias Lawrence Marques Júnior, Victor Chang, Leonardo Matsumoto Rosendo dos Santos, Flavia Bernardini, Luiz Satoru Ochi, Paulo de Figueiredo Pires,and  Flavia Coimbra Delicato (2022).  A Systematic Literature Review on Distributed Machine Learning in Edge Computing.  in Journal SENSORS, v. 22, p. 2665-2701; 2022, (ISSN 1424-8220).Impact Factor: 3.576) ; (5-Year Impact Factor: 3.735); DOI: https://doi.org/10.3390/s22072665**
+1. **Carlos Alberto Poncinelli Filho, Elias Lawrence Marques Júnior, Victor Chang, Leonardo Matsumoto Rosendo dos Santos, Flavia Bernardini, Luiz Satoru Ochi, Paulo de Figueiredo Pires,and  Flavia Coimbra Delicato (2022).  A Systematic Literature Review on Distributed Machine Learning in Edge Computing.  Journal SENSORS, v. 22, p. 2665-2701; 2022, (ISSN 1424-8220).Impact Factor: 3.576) ; (5-Year Impact Factor: 3.735); DOI: https://doi.org/10.3390/s22072665**
 
 1. **Barros, B.; Ochi, Luiz. Satoru; Pinheiro, Rian ; Souza, Ueverton S. (2022). On Conflict-Free Spanning Tree: Algorithms and Complexity. In: International Conference on Algorithms and Discrete Applied Mathematics, CALDAM, 2022, Puducherry. 8th Annual International Conference on Algorithms and Discrete Applied Mathematics, Lecture Notes in Computer Science, 2022. v. 13179. p. 91-102**
 
@@ -123,7 +123,7 @@ news_limit: 5
 
 1. **Coelho V.N.; Coelho, I.M.; Mladenovic, N.; Ramalhinho, H.; Ochi, L.S.; Guimarães, F.G.; Souza, M.J.F. (2019) Less Is More: The Neighborhood Guided Evolution Strategies Convergence on Some Classic Neighborhood Operators. In: Sifaleras A., Salhi S., Brimberg J. (eds). Variable Neighborhood Search. ICVNS 2018. Lecture Notes in Computer Science, vol 11328, pp. 77-88. Springer, DOI: 10.1007/978-3-030-15843-9_7.**
 
-1.**Thiago Gouveia da Silva (autor Tese Doutorado Co-tutela entre IC-UFF & University of Avignon), Philippe Michelon, Luiz Satoru Ochi, Lucidio Cabral, and Serigne Gueye (orientadores UFF & Univ Avignon), (2019) "The Minimum Labeling Spanning Tree and Related Problems - Tese de Doutorado classificada segundo lugar", Concurso de Teses & Dissertacoes do CTD-CSBC 2019.**
+1. **Thiago Gouveia da Silva (autor Tese Doutorado Co-tutela entre IC-UFF & University of Avignon), Philippe Michelon, Luiz Satoru Ochi, Lucidio Cabral, and Serigne Gueye (orientadores UFF & Univ Avignon), (2019) "The Minimum Labeling Spanning Tree and Related Problems - Tese de Doutorado classificada segundo lugar", Concurso de Teses & Dissertacoes do CTD-CSBC 2019.**
 
 1. **Elias Lawrence Marques Junior, Vitor Nazario Coelho, Igor Machado Coelho, Bruno Nazario Coelho and Luiz Satoru Ochi (2019) "A Multi-objective Metaheuristic for a Green UAV Grid Routing Problem". Aceito para ser publicado na serie LNCS 11299 - SPRINGER.** 
 
