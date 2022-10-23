@@ -31,7 +31,7 @@ news_limit: 5
 
  [**Prêmio & GRANT CIENTISTA DO ESTADO DO RIO DE JANEIRO - CNE pela FAPERJ desde 2008 até o momento!!!!**](http://www.faperj.br). 
  
- [**PRÊMIO DE EXCELÊNCIA CIENTÍFICA PELA UFF em 2020 - (a mais alta honraria da área cientifica das Universidade Públicas oferecida anualmente a pesquisadores de maior destaque em pesquisa)**](https://www.uff.br/sites/default/files/informes/resultado_final_-_premios_de_excelencia_2020.pdf),
+ [**PRÊMIO DE EXCELÊNCIA CIENTÍFICA PELA UFF em 2020 - (a mais alta honraria da área cientifica das Universidades Públicas oferecida anualmente a pesquisadores de maior destaque em pesquisa)**](https://www.uff.br/sites/default/files/informes/resultado_final_-_premios_de_excelencia_2020.pdf),
 
 [**Instituto de Computação**](http://www.ic.uff.br) - [**O Programa de Pós-Graduação em Computação do IC-UFF é um dos 10 Programas de Excelência em Computação do Brasil - CAPES**](http://www.ic.uff.br/PosGraduacao/coordenacao.php) 
 
