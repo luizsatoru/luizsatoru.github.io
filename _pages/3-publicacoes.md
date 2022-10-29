@@ -59,8 +59,9 @@ news_limit: 5
 
 1. **Zudio, Anderso; Coelho, Igor M.; and Ochi, Luiz Satoru. (2022). Algoritmo VNS para o Problema de Roteamento Híbrido com Veículo-Drone para Serviço de Entrega e Coleta. Anais [III Workshop Brasileiro de Cidades Inteligentes – III WBCI, evento integrante do CSBC 2022.](https://csbc.sbc.org.br/2022/wbci/)**
 
+1. **Silva, Victor Ferreira Teixeira da, Coelho, Igor Machado, and Ochi, Luiz Satoru. (2022). “Aplicação de algoritmos de otimização evolucionária para trading de criptomedas” Aceito para o [LIV Simpósio Brasileiro de Pesquisa Operacional – LIV SBPO](https://sbpo2022.galoa.com.br/)**
 
-1. **Victor Ferreira Teixeira da Silva, Igor Machado Coelho, Luiz Satoru Ochi (2022). “Aplicação de algoritmos de otimização evolucionária para trading de criptomedas” Aceito para o [LIV Simpósio Brasileiro de Pesquisa Operacional – LIV SBPO](https://sbpo2022.galoa.com.br/)**
+
 ## **2021**
 
 ## **Accepted/Published**
