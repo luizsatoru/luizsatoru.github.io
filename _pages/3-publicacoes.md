@@ -25,7 +25,7 @@ news_limit: 5
 ## **2023**
 
 ## **Accepted/Published**
-1. **Marques Junior, Elias; Ochi, Luis Satoru; Coelho, Igor Machado; Maculan, Nelson; Mladenovic, Nenad; Nazário, Vitor; and Coelho, Bruno N. (2023). "A Two-Phase Multi-objective metaheuristicfor a Green UAV Grid Routing Problem". Accepted for publication in [Optimization Letters - Springer-2023]**.
+1. **Marques Junior, Elias; Ochi, Luis Satoru; Coelho, Igor Machado; Maculan, Nelson; Mladenovic, Nenad; Nazário, Vitor; and Coelho, Bruno N. (2023). "A Two-Phase Multi-objective metaheuristicfor a Green UAV Grid Routing Problem". Accepted for publication in [Optimization Letters - Springer]** 2023.
 
 ## **2022**
 
