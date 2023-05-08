@@ -179,7 +179,7 @@ Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema (pro
 
 ## **ORIENTAÇÃO DE DISSERTAÇÕES DE MESTRADO CONCLUÍDAS**
 
-1. João Ricardo Weissmann Santos, Aluno de Mestrado em Computação - IC/UFF Orientador: Luiz Satoru Ochi, co-orientaador: David Sotelo (Petrobrás); <b>Título: Problema de Alocação de Sondas para Projetos Exploratórios com Restrições Orçamentárias: Soluções Exatas e Heurísticas </b>; Defesa: 04/2023.
+1. João Ricardo Weissmann Santos, Aluno de Mestrado em Computação - IC/UFF Orientador: Luiz Satoru Ochi, co-orientador: David Sotelo (Petrobrás); <b>Título: Problema de Alocação de Sondas para Projetos Exploratórios com Restrições Orçamentárias: Soluções Exatas e Heurísticas </b>; Defesa: 04/2023.
 
 1. Augusto Beltrao,  Aluno de Mestrado em Computação - IC/UFF  Orientadores: Luiz Satoru Ochi & Jose Andre M Brito; <b>Titulo:Heuristicas Hibridas aplicadas ao Problema do Caixeiro Viajante com Seleção de Hoteis . </b>; Defesa: 03/2020.
  
