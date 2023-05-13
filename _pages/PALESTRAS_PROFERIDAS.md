@@ -22,7 +22,7 @@ news_limit: 5
 
 ## **ALGUMAS APRESENTAÇÕES DE PALESTRAS RECENTES**
 
-**2023 – Palestra FAPERJ/CNE – Palestra proferida na UEPB/Campina Grande-PB no evento: Seminários Nacional de Cidades Inteligentes-Gestão e Planejamento Hídrico: **Cidades e Regiões Inteligentes & Sustentáveis - CRIS** (a convite do Prof José Irivaldo A. O. Silva (UFCG-PB)). 2023.**                                                                          
+**2023 – Palestra FAPERJ/CNE – Palestra proferida na UEPB/Campina Grande-PB no evento: Seminário Nacional de Cidades Inteligentes - Gestão e Planejamento Hídrico: **Cidades e Regiões Inteligentes & Sustentáveis - CRIS** (a convite do Prof José Irivaldo A. O. Silva (UFCG-PB)). 2023.**                                                                          
 
 **2022 – Palestra FAPERJ/CNE – Palestra proferida na UFPB: **Cidades e Regiões Inteligentes & Sustentáveis** (a convite do Prof Lucidio Cabral-Diretor do Centro de Intormatica da UFPB). 2022.**
 
