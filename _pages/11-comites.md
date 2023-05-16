@@ -24,6 +24,12 @@ news_limit: 5
 
 ## **Minha participação em comitês de programa e/ou comitê organizador nos Congressos/Simpósios nos últimos anos**
 
+### 2023
+
+01.	Presidente Comitê Científico [LV SBPO 2023 – ITA/UNIFESP São José dos Campos-SP, 06 – 09 Novembro 2023](https://eventos.galoa.com.br/sbpo-2023/page/2271-home)
+
+02.	Membro comissão avaliação [CTD da CSBC 2023, João Pessoa-PB, 06 a 11 Agosto](https://csbc.sbc.org.br/2023/ctd/)
+
 ### 2022
 
 01.	Program Commitee Member - [MIC 2022 - 14th Metaheuristics International Conference
