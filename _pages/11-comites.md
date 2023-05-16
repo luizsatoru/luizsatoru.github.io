@@ -26,9 +26,11 @@ news_limit: 5
 
 ### 2023
 
-01.	Presidente Comitê Científico [LV SBPO 2023 – ITA/UNIFESP São José dos Campos-SP, 06 – 09 Novembro 2023](https://eventos.galoa.com.br/sbpo-2023/page/2271-home)
+01.	Presidente Comitê Científico - [LV SBPO 2023 – ITA/UNIFESP São José dos Campos-SP, 06 – 09 Novembro 2023](https://eventos.galoa.com.br/sbpo-2023/page/2271-home)
 
-02.	Membro comissão avaliação [CTD da CSBC 2023, João Pessoa-PB, 06 a 11 Agosto](https://csbc.sbc.org.br/2023/ctd/)
+02.	Membro comissão avaliação - [CTD da CSBC 2023, João Pessoa-PB, 06 a 11 Agosto](https://csbc.sbc.org.br/2023/ctd/)
+
+03.	Comissão Organizadora do [Cluster: Cidades Inteligentes e suas aplicações – Sessão Especial (SE) do LV SBPO 2023 – ITA/UNIFESP São José dos Campos-SP, 06 – 09 Novembro 2023](https://eventos.galoa.com.br/sbpo-2023/page/2271-home)
 
 ### 2022
 
