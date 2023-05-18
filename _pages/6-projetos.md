@@ -21,7 +21,7 @@ news_limit: 5
 ---
 ## **PROJETOS**
 
-**TÍTULO: GRANT DE PESQUISA VINCULADO AO PRÊMIO CIENTISTA DO ESTADO DO RIO DE JANEIRO 2022-2024** – Da Fundação de Amparo a Pesquisa no Estado do Rio de Janeiro (FAPERJ) - Projeto: **SMART & DIGITAL CITIES: Novas Tecnologias Para Melhorar a Qualidade dos Serviços Públicos e Privados**. Coordenador do Projeto: Luiz Satoru Ochi.
+**TÍTULO: GRANT DE PESQUISA VINCULADO AO PRÊMIO CIENTISTA DO ESTADO DO RIO DE JANEIRO 2022-2024** – Da Fundação de Amparo a Pesquisa no Estado do Rio de Janeiro (FAPERJ) - Projeto: **SMART & DIGITAL CITIES: Novas Tecnologias Para Melhorar a Qualidade dos Serviços Públicos e Privados**. Coordenador do Projeto: Luiz Satoru Ochi..
 
 
 **TÍTULO: Curso para a Empresa LOGGI: Tema - Otimização Combinatória**. **Parceria entre o LABIC-IC/UFF e a Empresa Loggi.com visando a capacitação dos seus funcionários no segmento de Logística Inteligente e Transportes de Mercadorias através de metodologias de Otimização Combinatória - 2021 & 2022. Coordenador do Projeto: Luiz Satoru Ochi (LabIC IC/UFF & IC UFF)**
