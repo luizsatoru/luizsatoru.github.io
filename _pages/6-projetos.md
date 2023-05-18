@@ -26,7 +26,7 @@ news_limit: 5
 
 **TÍTULO: Curso para a Empresa LOGGI: Tema - Otimização Combinatória**. **Parceria entre o LABIC-IC/UFF e a Empresa Loggi.com visando a capacitação dos seus funcionários no segmento de Logística Inteligente e Transportes de Mercadorias através de metodologias de Otimização Combinatória - 2021 & 2022. Coordenador do Projeto: Luiz Satoru Ochi (LabIC IC/UFF & IC UFF)**
 
-**PROJETO INCT/CNPq 2022 :Programa Institutos Nacionais de Ciência e Tecnologia/CNPq: IAIA**. **Instituto Nacional de Inteligência Artificial - 12/2022 & 12/2027. Coordenadora do Projeto: Teresa B. Ludermir (UFPE). Participante: Luiz Satoru Ochi (LabIC IC/UFF & IC UFF)**
+**PROJETO INCT/CNPq 2022 :Programa Institutos Nacionais de Ciência e Tecnologia/CNPq: IAIA**. **Instituto Nacional de Inteligência Artificial - 12/2022 & 12/2027. Coordenadora do Projeto: Teresa B. Ludermir (UFPE). Membro Participante: Luiz Satoru Ochi (LabIC IC/UFF & IC UFF)**
 
 **Projeto FAPERJ: Centro de Excelência em Transformação Digital e Inteligência Artificial do Estado do Rio de Janeiro (Hub.Rio)**: **Rede Tematica de Combate aos Efeitos da Covid-19 .  Edital: Chamada C,  Ação Emergencial Projetos para Combater os Efeitos da Covid-19** , Parceria Faperj/SES, 2020. 
 Coordenador: Roberto de Andrade Medronho-UFRJ). <b>Membros comitê de gestao:  Guilherme Travassos (UFRJ), Luiz Satoru Ochi (IC-UFF),  Marley Vellasco (PUC-Rio), Nivio Ziviani (LNCC),  Alberto Martin Rivera Davila (Fiocruz). 
