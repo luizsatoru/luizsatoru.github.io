@@ -27,6 +27,8 @@ news_limit: 5
 ## **Accepted/Published**
 1. **Marques Junior, Elias; Ochi, Luis Satoru; Coelho, Igor Machado; Maculan, Nelson; Mladenovic, Nenad; Nazário, Vitor; and Coelho, Bruno N. (2023). "A Two-Phase Multi-objective metaheuristicfor a Green UAV Grid Routing Problem". Accepted for publication in [Optimization Letters - Springer.  2023 - DOI 10.1007/s11590-023-02013-9](https://trebuchet.public.springernature.app/get_content/f07ded27-3f02-4c2f-83d2-b9a4582bf308)**.
 
+2. **Luiz Satoru Ochi (2023). "Cidades & Regiões Inteligentes e Sustentáveis – CRIS; Capítulo do livro". Aceito para publicação no [Livro: Cidades Inteligentes: Gestão de recursos hídricos e planejamento], Copyright © 2023 Editora Meraki Ltda.**.
+
 ## **2022**
 
 ## **Accepted/Published**
@@ -64,7 +66,7 @@ news_limit: 5
 
 1. **Zudio, Anderso; Coelho, Igor M.; and Ochi, Luiz Satoru. (2022). Algoritmo VNS para o Problema de Roteamento Híbrido com Veículo-Drone para Serviço de Entrega e Coleta. Anais [III Workshop Brasileiro de Cidades Inteligentes – III WBCI, evento integrante do CSBC 2022.](https://csbc.sbc.org.br/2022/wbci/)**
 
-1. **Silva, Victor Ferreira Teixeira da, Coelho, Igor Machado, and Ochi, Luiz Satoru. (2022). “Aplicação de algoritmos de otimização evolucionária para trading de criptomedas” Aceito para o [LIV Simpósio Brasileiro de Pesquisa Operacional – LIV SBPO](https://sbpo2022.galoa.com.br/)**
+1. **Silva, Victor Ferreira Teixeira da, Coelho, Igor Machado, and Ochi, Luiz Satoru. (2022). “Aplicação de algoritmos de otimização evolucionária para trading de criptomedas” Anais do [LIV Simpósio Brasileiro de Pesquisa Operacional – LIV SBPO](https://sbpo2022.galoa.com.br/)**
 
 
 ## **2021**
