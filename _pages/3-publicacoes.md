@@ -27,7 +27,7 @@ news_limit: 5
 ## **Accepted/Published**
 1. **Marques Junior, Elias; Ochi, Luis Satoru; Coelho, Igor Machado; Maculan, Nelson; Mladenovic, Nenad; Nazário, Vitor; and Coelho, Bruno N. (2023). "A Two-Phase Multi-objective metaheuristicfor a Green UAV Grid Routing Problem". Accepted for publication in [Optimization Letters - Springer.  2023 - DOI 10.1007/s11590-023-02013-9](https://trebuchet.public.springernature.app/get_content/f07ded27-3f02-4c2f-83d2-b9a4582bf308)**.
 
-2. **Luiz Satoru Ochi (2023). "Cidades & Regiões Inteligentes e Sustentáveis – CRIS; Capítulo do livro". Aceito para publicação no Livro: Cidades Inteligentes: Gestão de recursos hídricos e planejamento**, Copyright © 2023 Editora Meraki Ltda.
+2. **Luiz Satoru Ochi (2023). "Cidades & Regiões Inteligentes e Sustentáveis – CRIS; Capítulo do livro". Aceito para publicação no Livro: Cidades Inteligentes: Gestão de recursos hídricos e planejamento**, Copyright © 2023 Editora Meraki Ltda. ISBN:978 65 88781 80 7
 
 ## **2022**
 
