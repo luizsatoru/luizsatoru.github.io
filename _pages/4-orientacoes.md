@@ -143,7 +143,7 @@ Título: Formulações e Algoritmos para o Problema de Programação de Horário
 
 
 
-1. Anderson Zudio de Moraes, Aluno de Doutorado em Computação - IC/UFF(orientador: Igor Machado Coelho;Co-orientador: Luiz Satoru Ochi  Assunto: Hybrid Vehicle-drone Routing Problem: Heuristic Algorithms; Previsão de término: 08/2023.  
+1. Anderson Zudio de Moraes, Aluno de Doutorado em Computação - IC/UFF - orientador: Igor Machado Coelho; Co-orientador: Luiz Satoru Ochi,  Assunto: Hybrid Vehicle-drone Routing Problem: Heuristic Algorithms; Previsão de término: 12/2023.  
 
 
 1. Bruno José da Silva Barros, Aluno de Doutorado em Computação - IC/UFF  Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); Tema: The minimum spanning tree problem with conflict constraints and its variations. 
@@ -157,10 +157,10 @@ Previsão de término: 12/2023.
 Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema: Efficient algorithms for the Cluster Ensemble Problem .Previsão de término: 12/2023.
 
  
-1. Alfredo Lima Moura Silva. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Problemas de Logística Reversa: Métodos e Aplicações. Orientadores: Luiz Satoru Ochi e Rian Pinheiro. Previsão de término: 12/2025.
+1. Alfredo Lima Moura Silva. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Reverse Logistics Problems: Methods and Applications. Orientadores: Luiz Satoru Ochi e Rian Pinheiro. Previsão de término: 12/2025.
 
   
-1. Marcos Souza. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Reverse Logistics Problems: Methods and Applications. Orientador: Luiz Satoru Ochi. Previsão término: 12/2025
+1. Marcos Souza. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Hybrid fleet routing issues. Orientador: Luiz Satoru Ochi. Previsão término: 12/2025
 
 1. Augusto Fadel. Aluno de Doutorado em Computação IC/UFF. Tema(provisorio): Efficient algorithms for the multivariate microaggregation problem. Orientadores: Luiz Satoru Ochi, co-orientador: José Andre M Brito (IBGE). Previsão término: 12/2026
 
