@@ -29,6 +29,20 @@ news_limit: 5
 
 2. **Luiz Satoru Ochi (2023). "Cidades & Regiões Inteligentes e Sustentáveis – CRIS: Alguns segmentos e tecnologias de solução; pp; 91-110, Capítulo do livro". No Livro: Cidades Inteligentes: Gestão de recursos hídricos e planejamento**, editor: Jose Irivaldo (UFCG/PB), Copyright © 2023 Editora Meraki Ltda. ISBN:978 65 88781 80 7
 
+3. **Costa, Daniel Ferreira; Aloise, Dario José; Costa, Heitor Nunes; and Ochi, Luiz Satoru (2023). “Uma Abordagem Meta-Heurística Evolutiva para a Otimização de Rotas de Entrega Fracionada de Mercadorias Utilizando Caminhões e Drones” – SE: Cidades Inteligentes e suas aplicações. Aceito para o LV SBPO – SJC/SP, 2023**
+
+4. **Haddad, Guilherme M.; and Ochi, Luiz Satoru (2023). "Combinando Técnicas de Machine Learning e Otimização para Roteamento Combinado de Veículos Tripulados e Não Tripulados" – SE: Cidades Inteligentes e suas aplicações. Aceito para o LV SBPO – SJC/SP, 2023**
+
+5. **Fadel, Augusto; Brito, Jose André M; and Ochi, Luiz Satoru (2023). “Heuristica BRKGA aplicada a resolução do Problema de Microagregação Multivariada” – Aceito para o LV SBPO – SJC/SP, 2023**
+
+6. **Mello, Alexandre dos Santos; Haddad, Matheus Nohra; Coelho, Igor M.; and Ochi, Luiz Satoru (2023). “Resolvendo o problema de roteamento de veículos elétricos com frota heterogênea e entregas fracionárias: Duas abordagens heurísticas”. Aceito para o LV SBPO – SJC/SP, 2023**
+
+7. **Nogueira, Bruno; and Ochi, Luiz Satoru (2023). Last-Mile Delivery no contexto de Cidades Inteligentes e¬ Logística Sustentável. Aceito para o LV SBPO – SJC/SP, 2023**
+
+8. **Oliveira, Otavio Henrique Flaeschen; and Ochi, Luiz Satoru (2023). Desenvolvimento de uma ferramenta de monitoramento de alagamentos para cidades inteligentes: o caso do Rio de Janeiro. Aceito para o LV SBPO – SJC/SP, 2023**
+
+9. **Arese, Marcio C.; Ochi, Luiz Satoru. (2023). “O Transporte de mercadorias e o plano de mobilidade nas cidades inteligentes: o caso da cidade de Niterói-RJ” Aceito para o LV SBPO – SJC/SP, 2023**
+
 ## **2022**
 
 ## **Accepted/Published**
