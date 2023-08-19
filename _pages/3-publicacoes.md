@@ -35,13 +35,13 @@ news_limit: 5
 
 5. **Fadel, Augusto; Brito, Jose André M; and Ochi, Luiz Satoru (2023). “Heuristica BRKGA aplicada a resolução do Problema de Microagregação Multivariada” – Aceito para o LV SBPO – SJC/SP, 2023**
 
-6. **Mello, Alexandre dos Santos; Haddad, Matheus Nohra; Coelho, Igor M.; and Ochi, Luiz Satoru (2023). “Resolvendo o problema de roteamento de veículos elétricos com frota heterogênea e entregas fracionárias: Duas abordagens heurísticas”. Aceito para o LV SBPO – SJC/SP, 2023**
+6. **Mello, Alexandre dos Santos; Haddad, Matheus Nohra; Coelho, Igor M.; and Ochi, Luiz Satoru (2023). “Resolvendo o problema de roteamento de veículos elétricos com frota heterogênea e entregas fracionárias: Duas abordagens heurísticas” – SE: Cidades Inteligentes e suas aplicações. Aceito para o LV SBPO – SJC/SP, 2023**
 
-7. **Nogueira, Bruno; and Ochi, Luiz Satoru (2023). Last-Mile Delivery no contexto de Cidades Inteligentes e Logística Sustentável. Aceito para o LV SBPO – SJC/SP, 2023**
+7. **Nogueira, Bruno; and Ochi, Luiz Satoru (2023). Last-Mile Delivery no contexto de Cidades Inteligentes e Logística Sustentável – SE: Cidades Inteligentes e suas aplicaçõesAceito para o LV SBPO – SJC/SP, 2023**
 
-8. **Oliveira, Otavio Henrique Flaeschen; and Ochi, Luiz Satoru (2023). Desenvolvimento de uma ferramenta de monitoramento de alagamentos para cidades inteligentes: o caso do Rio de Janeiro. Aceito para o LV SBPO – SJC/SP, 2023**
+8. **Oliveira, Otavio Henrique Flaeschen; and Ochi, Luiz Satoru (2023). Desenvolvimento de uma ferramenta de monitoramento de alagamentos para cidades inteligentes: o caso do Rio de Janeiro – SE: Cidades Inteligentes e suas aplicações. Aceito para o LV SBPO – SJC/SP, 2023**
 
-9. **Arese, Marcio C.; Ochi, Luiz Satoru. (2023). “O Transporte de mercadorias e o plano de mobilidade nas cidades inteligentes: o caso da cidade de Niterói-RJ” Aceito para o LV SBPO – SJC/SP, 2023**
+9. **Arese, Marcio C.; Ochi, Luiz Satoru. (2023). “O Transporte de mercadorias e o plano de mobilidade nas cidades inteligentes: o caso da cidade de Niterói-RJ” – SE: Cidades Inteligentes e suas aplicações. Aceito para o LV SBPO – SJC/SP, 2023**
 
 ## **2022**
 
