@@ -37,7 +37,7 @@ news_limit: 5
 
 6. **Mello, Alexandre dos Santos; Haddad, Matheus Nohra; Coelho, Igor M.; and Ochi, Luiz Satoru (2023). “Resolvendo o problema de roteamento de veículos elétricos com frota heterogênea e entregas fracionárias: Duas abordagens heurísticas”. Aceito para o LV SBPO – SJC/SP, 2023**
 
-7. **Nogueira, Bruno; and Ochi, Luiz Satoru (2023). Last-Mile Delivery no contexto de Cidades Inteligentes e¬ Logística Sustentável. Aceito para o LV SBPO – SJC/SP, 2023**
+7. **Nogueira, Bruno; and Ochi, Luiz Satoru (2023). Last-Mile Delivery no contexto de Cidades Inteligentes e Logística Sustentável. Aceito para o LV SBPO – SJC/SP, 2023**
 
 8. **Oliveira, Otavio Henrique Flaeschen; and Ochi, Luiz Satoru (2023). Desenvolvimento de uma ferramenta de monitoramento de alagamentos para cidades inteligentes: o caso do Rio de Janeiro. Aceito para o LV SBPO – SJC/SP, 2023**
 
