@@ -29,7 +29,8 @@ news_limit: 5
 01.	Program Commitee Member - [MIC 2024 - 15th Metaheuristics International Conference
 the 4th and 7th of June 2024 and will be held in city of Lorient in France.](https://mic2024.fr/)
 
-02. Program Committee Member - [SIGNAL 2024, The Ninth International Conference on Advances in Signal, Image and Video Processing. SIGNAL 2024 is scheduled to be March 10 - 14, 2024 in Athens, Greece](https://www.iaria.org/conferences2024/SIGNAL24.html)
+02. Program Committee Member - [SIGNAL 2024, The Ninth International Conference on Advances in Signal, Image and Video Processing. SIGNAL 2024 is scheduled to be March 10 - 14, 2024 in Athens, Greece](https://www.iaria.org/conferences2024/SIGNAL24.html).
+   
 
 ### 2023
 
