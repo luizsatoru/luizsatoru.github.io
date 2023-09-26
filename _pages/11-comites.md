@@ -40,6 +40,8 @@ the 4th and 7th of June 2024 and will be held in city of Lorient in France.](htt
 
 03.	Comissão Organizadora do [Cluster: Cidades Inteligentes e suas aplicações – Sessão Especial (SE) do LV SBPO 2023 – ITA/UNIFESP São José dos Campos-SP, 06 – 09 Novembro 2023](https://eventos.galoa.com.br/sbpo-2023/page/2271-home)
 
+4.	Membro Comitê de Programa da [XII Escola Regional de Informática de Mato Grosso - ERI-MT](https://erimt2023.ic.ufmt.br/)
+
 ### 2022
 
 01.	Program Commitee Member - [MIC 2022 - 14th Metaheuristics International Conference
