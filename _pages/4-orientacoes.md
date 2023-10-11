@@ -172,7 +172,8 @@ Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema: Eff
 
 1. Guilherme Haddad**, Aluno de Mestrado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema: Reinforcement Learning and Combinatorial Optimization for Hybrid Vehicle-drone Routing Problem. Previsão de término: 12/2023.
 
-
+1. Otavio Henrique Flaeschen Oliveira**, Aluno de Mestrado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema Provisório: Smart & Sustainable Cities and Regions. Previsão de término: 12/2024.
+   
 ## **ORIENTAÇÃO DE DISSERTAÇÕES DE MESTRADO CONCLUÍDAS**
 
 1. Alexandre dos Santos Mello. Aluno de Mestrado em Computação IC/UFF. Título: Efficient Heuristic Algorithms for the Electric Vehicle Routing Problem with Heterogeneous Fleet and Split Deliveries. Orientadores: Luiz Satoru Ochi e Matheus Haddad (UFV). Defesa: 08/2023.
