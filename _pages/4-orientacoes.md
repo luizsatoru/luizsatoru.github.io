@@ -147,14 +147,14 @@ Título: Formulações e Algoritmos para o Problema de Programação de Horário
 
 
 1. Bruno José da Silva Barros, Aluno de Doutorado em Computação - IC/UFF  Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); Tema: The minimum spanning tree problem with conflict constraints and its variations. 
-Previsão de término: 12/2023.
+Previsão de término: 02/2024.
   
 
-1. Elias Lawrence ,  Aluno de Doutorado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema: The Unmanned Aerial Vehicle (UAV) Fleet Routing Problem.; Previsão de término: 08/2023.
+1. Elias Lawrence ,  Aluno de Doutorado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema: The Unmanned Aerial Vehicle (UAV) Fleet Routing Problem.; Previsão de término: 08/2024.
 
 
 1. Augusto Beltrao ,  Aluno de Doutorado em Computação - IC/UFF  
-Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema: Efficient algorithms for the Cluster Ensemble Problem .Previsão de término: 12/2023.
+Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema: Efficient algorithms for the Cluster Ensemble Problem .Previsão de término: 12/2024.
 
  
 1. Alfredo Lima Moura Silva. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Reverse Logistics Problems: Methods and Applications. Orientadores: Luiz Satoru Ochi e Rian Pinheiro. Previsão de término: 12/2025.
@@ -168,7 +168,7 @@ Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema: Eff
 ## **ORIENTAÇÃO DE DISSERTAÇÕES DE MESTRADO EM ANDAMENTO**
   
 
-1. Silvana Nazaré de Freitas Ávila. Aluna de Mestrado em Computação IC/UFF. Tema: Heuristic algorithms for waste electrical and electronic equipment collection problems, Orientadores: Luiz Satoru Ochi e Simone de Lima Martins. Previsão término: 07/2023.
+1. Silvana Nazaré de Freitas Ávila. Aluna de Mestrado em Computação IC/UFF. Tema: Heuristic algorithms for waste electrical and electronic equipment collection problems, Orientadores: Luiz Satoru Ochi e Simone de Lima Martins. Previsão término: 02/2024.
 
 1. Guilherme Haddad, Aluno de Mestrado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema: Reinforcement Learning and Combinatorial Optimization for Hybrid Vehicle-drone Routing Problem. Previsão de término: 12/2023.
 
