@@ -176,7 +176,7 @@ Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema: Eff
    
 ## **ORIENTAÇÃO DE DISSERTAÇÕES DE MESTRADO CONCLUÍDAS**
 
-1. Guilherme Manso Haddad. Aluno de Mestrado em Computação IC/UFF. Título: Using Reinforcement Learning Technique to Hybrid Fleet Routing and Performance Analysis. Orientador: Luiz Satoru Ochi Defesa: 12/2023.
+1. Guilherme Manso Haddad. Aluno de Mestrado em Computação IC/UFF. Título: Using Reinforcement Learning Technique to Hybrid Fleet Routing and Performance Analysis. Orientador: Luiz Satoru Ochi;  Defesa: 12/2023.
 
 1. Alexandre dos Santos Mello. Aluno de Mestrado em Computação IC/UFF. Título: Efficient Heuristic Algorithms for the Electric Vehicle Routing Problem with Heterogeneous Fleet and Split Deliveries. Orientadores: Luiz Satoru Ochi e Matheus Haddad (UFV). Defesa: 08/2023.
 
