@@ -170,13 +170,13 @@ Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema: Eff
 
 1. Silvana Nazaré de Freitas Ávila. Aluna de Mestrado em Computação IC/UFF. Tema: Heuristic algorithms for waste electrical and electronic equipment collection problems, Orientadores: Luiz Satoru Ochi e Simone de Lima Martins. Previsão término: 02/2024.
 
-1. Guilherme Haddad, Aluno de Mestrado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema: Reinforcement Learning and Combinatorial Optimization for Hybrid Vehicle-drone Routing Problem. Previsão de término: 12/2023.
-
 1. Otavio Henrique Flaeschen Oliveira, Aluno de Mestrado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema Provisório: Computational Intelligence Techniques for Natural Disaster Prevention Problems. Previsão de término: 12/2024.
 
 1. Raphael Ricardo Gonçalves, Aluno de Mestrado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema Provisório: Generation of School Bus Routes in Real Time Using Hybrid Heuristic Algorithms; Previsão de término: 12/2024.
    
 ## **ORIENTAÇÃO DE DISSERTAÇÕES DE MESTRADO CONCLUÍDAS**
+
+1. Guilherme Manso Haddad. Aluno de Mestrado em Computação IC/UFF. Título: Using Reinforcement Learning Technique to Hybrid Fleet Routing and Performance Analysis. Orientador: Luiz Satoru Ochi Defesa: 12/2023.
 
 1. Alexandre dos Santos Mello. Aluno de Mestrado em Computação IC/UFF. Título: Efficient Heuristic Algorithms for the Electric Vehicle Routing Problem with Heterogeneous Fleet and Split Deliveries. Orientadores: Luiz Satoru Ochi e Matheus Haddad (UFV). Defesa: 08/2023.
 
@@ -184,7 +184,6 @@ Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema: Eff
 
 1. Augusto Beltrao,  Aluno de Mestrado em Computação - IC/UFF  Orientadores: Luiz Satoru Ochi & Jose Andre M Brito; <b>Titulo:Heuristicas Hibridas aplicadas ao Problema do Caixeiro Viajante com Seleção de Hoteis . </b>; Defesa: 03/2020.
  
-
 1. Elias Lawrence , </a> <b> Aluno de Mestrado em Computação - IC/UFF </b> 
 Orientador: Luiz Satoru Ochi; <b>Titulo: The Unmanned Aerial Vehicle (UAV) Fleet Routing Problem. </b>;
 Defesa: 02/2020.
