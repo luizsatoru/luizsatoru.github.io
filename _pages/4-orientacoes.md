@@ -164,6 +164,8 @@ Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema: Eff
 
 1. Augusto Fadel. Aluno de Doutorado em Computação IC/UFF. Tema(provisorio): Efficient algorithms for the multivariate microaggregation problem. Orientadores: Luiz Satoru Ochi, co-orientador: José Andre M Brito (IBGE). Previsão término: 12/2026
 
+1. Alexandre dos Santos Mello. Aluno de Doutorado em Computação IC/UFF. Tema(provisorio): Efficient Heuristic Algorithms for the Electric Vehicle Routing Problem with Heterogeneous Fleet and Split Deliveries. Orientadores: Luiz Satoru Ochi, co-orientador: Matheus Haddad (UFOP). Previsão término: 12/2027
+
 
 ## **ORIENTAÇÃO DE DISSERTAÇÕES DE MESTRADO EM ANDAMENTO**
   
