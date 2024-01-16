@@ -33,7 +33,7 @@ the 4th and 7th of June 2024 and will be held in city of Lorient in France.](htt
    
 03.	Program Commitee Member - [Concurso de Teses & Dissertações do CSBC2024 - 21 a 25 Julho 2024 - Brasília-DF.](https://csbc.sbc.org.br/2024/#/)
 
-04.	Presidente Comitê Científico - [LVI SBPO 2024 – 04 a 07 de Novembro de 2024 - Fortaleza - Ceará]([https://sobrapo.org.br/lvi-simposio-brasileiro-de-pesquisa-operacional)
+04.	Presidente Comitê Científico - [LVI SBPO 2024 – 04 a 07 de Novembro de 2024 - Fortaleza - Ceará](https://sobrapo.org.br/lvi-simposio-brasileiro-de-pesquisa-operacional)
    
 ### 2023
 
