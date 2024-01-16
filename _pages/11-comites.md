@@ -31,7 +31,10 @@ the 4th and 7th of June 2024 and will be held in city of Lorient in France.](htt
 
 02. Program Committee Member - [SIGNAL 2024, The Ninth International Conference on Advances in Signal, Image and Video Processing. SIGNAL 2024 is scheduled to be March 10 - 14, 2024 in Athens, Greece](https://www.iaria.org/conferences2024/SIGNAL24.html).
    
+03.	Program Commitee Member - [Concurso de Teses & Dissertações do CSBC2024 - 21 a 25 Julho 2024 - Brasília-DF.](https://csbc.sbc.org.br/2024/#/)
 
+04.	Presidente Comitê Científico - [LVI SBPO 2024 – 04 a 07 de Novembro de 2024 - Fortaleza - Ceará]([https://sobrapo.org.br/lvi-simposio-brasileiro-de-pesquisa-operacional)
+   
 ### 2023
 
 01.	Presidente Comitê Científico - [LV SBPO 2023 – ITA/UNIFESP São José dos Campos-SP, 06 – 09 Novembro 2023](https://eventos.galoa.com.br/sbpo-2023/page/2271-home)
