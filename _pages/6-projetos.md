@@ -41,7 +41,7 @@ PARA PROBLEMAS COMPLEXOS**; **Bolsa de Produtividade PQ Nível 1C – CA-CC, Pro
 **SMART CITIES: Novas Tecnologias Para Melhorar Servicos Publicos e Privados**. Projeto parcialmente financiado pelo CNPq - Edital UNIVERSAL 28/2018 - Faixa C.
  Edital UNIVERSAL 28/2018 - Faixa C. Vigencia: 2019 - 2021**. Coordenador: Luiz Satoru Ochi (IC-UFF) 
 
-**TÍTULO: Projeto CAPES/PROCAD: Policia Federal, UFPB & IC-UFF: Desenvolvimento de tecnologias e formação de recursos humanos em Engenharia Legal destinadas à automatização aplicáveis a análises de Conformidade de Obras Públicas**, coordenado pelo Prof Dr Sandro Marden Torres. Coordenador Institucional pela UFF do Projeto: Luiz Satoru Ochi. Vigência: 2021-2024.
+**TÍTULO: Projeto CAPES/PROCAD: Policia Federal, UFPB & IC-UFF: Desenvolvimento de tecnologias e formação de recursos humanos em Engenharia Legal destinadas à automatização aplicáveis a análises de Conformidade de Obras Públicas**, coordenado pelo Prof Dr Sandro Marden Torres. Coordenador Institucional pela UFF do Projeto: Luiz Satoru Ochi. Vigência: 2021-2025.
 	
 	
 **SMART CITIES: Novas Tecnologias Para Melhorar Servicos Publicos e Privados em Grandes Cidades**. 
