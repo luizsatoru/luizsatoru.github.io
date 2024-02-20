@@ -30,10 +30,11 @@ news_limit: 5
 the 4th and 7th of June 2024 and will be held in city of Lorient in France.](https://mic2024.fr/)
 
 02. Program Committee Member - [SIGNAL 2024, The Ninth International Conference on Advances in Signal, Image and Video Processing. SIGNAL 2024 is scheduled to be March 10 - 14, 2024 in Athens, Greece](https://www.iaria.org/conferences2024/SIGNAL24.html).
+3. Technical Program Committee for CADN 2024 - [Congresso Acadêmico sobre Defesa Nacional (CADN)](https://www.gov.br/esd/pt-br/a-esd/pesquisa-e-pos-graduacao/eventos-academicos/congresso-academico-sobre-defesa-nacional-cadn)
    
-03.	Program Commitee Member - [Concurso de Teses & Dissertações do CSBC2024 - 21 a 25 Julho 2024 - Brasília-DF.](https://csbc.sbc.org.br/2024/#/)
+5.	Program Commitee Member - [Concurso de Teses & Dissertações do CSBC2024 - 21 a 25 Julho 2024 - Brasília-DF.](https://csbc.sbc.org.br/2024/#/)
 
-04.	Presidente Comitê Científico - [LVI SBPO 2024 – 04 a 07 de Novembro de 2024 - Fortaleza - Ceará](https://sobrapo.org.br/lvi-simposio-brasileiro-de-pesquisa-operacional)
+6.	Presidente Comitê Científico - [LVI SBPO 2024 – 04 a 07 de Novembro de 2024 - Fortaleza - Ceará](https://sobrapo.org.br/lvi-simposio-brasileiro-de-pesquisa-operacional)
    
 ### 2023
 
