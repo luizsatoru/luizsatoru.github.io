@@ -30,7 +30,7 @@ news_limit: 5
 the 4th and 7th of June 2024 and will be held in city of Lorient in France.](https://mic2024.fr/)
 
 02. Program Committee Member - [SIGNAL 2024, The Ninth International Conference on Advances in Signal, Image and Video Processing. SIGNAL 2024 is scheduled to be March 10 - 14, 2024 in Athens, Greece](https://www.iaria.org/conferences2024/SIGNAL24.html).
-3. Technical Program Committee for CADN 2024 - [Congresso Acadêmico sobre Defesa Nacional (CADN)](https://www.gov.br/esd/pt-br/a-esd/pesquisa-e-pos-graduacao/eventos-academicos/congresso-academico-sobre-defesa-nacional-cadn)
+3. Technical Program Committee for XIX CADN 2024 RJ - [XIX Congresso Acadêmico sobre Defesa Nacional (XIX CADN)](https://www.gov.br/esd/pt-br/a-esd/pesquisa-e-pos-graduacao/eventos-academicos/congresso-academico-sobre-defesa-nacional-cadn)
    
 5.	Program Commitee Member - [Concurso de Teses & Dissertações do CSBC2024 - 21 a 25 Julho 2024 - Brasília-DF.](https://csbc.sbc.org.br/2024/#/)
 
