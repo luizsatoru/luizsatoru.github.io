@@ -24,7 +24,7 @@ news_limit: 5
 
 **2024 – Palestra FAPERJ/CNE – **[Palestra prevista p ser proferida na Academia Brasileira de Ciências (ABC) – “Mobilidade Urbana”, no evento “A Conferência Municipal de Ciência, Tecnologia e Inovação do Rio de Janeiro”. Dia 21 de Março de 2024](https://www.abc.org.br/evento/conferencia-municipal-de-ciencia-tecnologia-e-inovacao/). A convite do Fernando C.  A. Verissimo - Academia Brasileira de Ciências. 2024.**
 
-**2024 – Palestra FAPERJ/CNE – Palestra de abertura prevista p ser proferida no WorkShop do PPGCC - UERN/UFERSA, “Cidades & Regiões Inteligentes e Sustentáveis – CRIS”, Dia 14 de Março 2024, Campus de Mossoró/RN. A convite do Prof. Dario Aloise (UERN). 2024.**
+**2024 – Palestra FAPERJ/CNE – **[Palestra de abertura prevista p ser proferida no WorkShop do PPGCC - UERN/UFERSA, “Cidades & Regiões Inteligentes e Sustentáveis – CRIS”, Dia 14 de Março 2024, Campus de Mossoró/RN. A convite do Prof. Dario Aloise (UERN). 2024.](https://ppgcc.ufersa.edu.br/2024/03/05/workshop-de-integracao-2/)**
 
 **2024 – Palestra FAPERJ/CNE – Palestra proferida no IFF Campus de Quissamã-RJ para alunos escolas publicas do estado RJ “O que são cidades inteligentes e sustentáveis”. A convite do Prof  Daniel Vasconcelos Corrêa da Silva/IFF. Organização: IFF/Quissamã. 2024.**
 
