@@ -22,6 +22,8 @@ news_limit: 5
 
 ## **ALGUMAS APRESENTAÇÕES DE PALESTRAS RECENTES**
 
+**2024 – Palestra FAPERJ/CNE – Palestra proferida no IFF Campus de Quissamã-RJ para alunos escolas publicas do estado RJ “O que são cidades inteligentes e sustentáveis”. A convite do Prof  Daniel Vasconcelos Corrêa da Silva/IFF. Organização: IFF/Quissamã. 2024.**
+
 **2023 – Palestra FAPERJ/CNE – Palestra proferida no Mini Simpósio de Otimização do CNMAC2023: **Cidades e Regiões Inteligentes & Sustentáveis: Metodologias & Aplicações** (a convite das Profas Rubia Oliveira (UFMS) e Kelly Poldi (UNICAMP)). 2023.**
 
 **2023 – Palestra FAPERJ/CNE – Palestra proferida na UEPB/Campina Grande-PB no evento: Seminário Nacional de Cidades Inteligentes - Gestão e Planejamento Hídrico:**[Cidades e Regiões Inteligentes & Sustentáveis - CRIS** (a convite do Prof José Irivaldo A. O. Silva (UFCG-PB)). 2023.](ttps://pos-graduacao.uepb.edu.br/ppgdr/seminario-nacional-cidades-inteligentes-gestao-de-recursos-hidricos-e-planejamento/)(https://sites.google.com/professor.ufcg.edu.br/secirp/programa%C3%A7%C3%A3o)**                                                                          
