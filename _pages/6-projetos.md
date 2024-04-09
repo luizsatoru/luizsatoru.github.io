@@ -21,12 +21,14 @@ news_limit: 5
 ---
 ## **PROJETOS**
 
-**TÍTULO: GRANT DE PESQUISA VINCULADO AO PRÊMIO CNE FAPERJ - CIENTISTA DO ESTADO DO RIO DE JANEIRO 2022-2024** – Da Fundação de Amparo a Pesquisa no Estado do Rio de Janeiro (FAPERJ) - Projeto: **SMART & DIGITAL CITIES: Novas Tecnologias Para Melhorar a Qualidade dos Serviços Públicos e Privados**. Coordenador do Projeto: Luiz Satoru Ochi..
-
-
-**TÍTULO: Curso para a Empresa LOGGI: Tema - Otimização Combinatória**. **Parceria entre o LABIC-IC/UFF e a Empresa Loggi.com visando a capacitação dos seus funcionários no segmento de Logística Inteligente e Transportes de Mercadorias através de metodologias de Otimização Combinatória - 2021 & 2022. Coordenador do Projeto: Luiz Satoru Ochi (LabIC IC/UFF & IC UFF)**
+**TÍTULO: GRANT DE PESQUISA VINCULADO AO PRÊMIO CNE FAPERJ - CIENTISTA DO ESTADO DO RIO DE JANEIRO 2022-2025** – Da Fundação de Amparo a Pesquisa no Estado do Rio de Janeiro (FAPERJ) - Projeto: **SMART & DIGITAL CITIES: Novas Tecnologias Para Melhorar a Qualidade dos Serviços Públicos e Privados**. Coordenador do Projeto: Luiz Satoru Ochi..
 
 **PROJETO INCT/CNPq 2022 :Programa Institutos Nacionais de Ciência e Tecnologia/CNPq: IAIA**. **Instituto Nacional de Inteligência Artificial - 12/2022 & 12/2027. Coordenadora do Projeto: Teresa B. Ludermir (UFPE). Membros Participantes: Luiz Satoru Ochi (LabIC IC/UFF & IC UFF) e outros....**
+
+**TÍTULO: A INTELIGÊNCIA COMPUTACIONAL & OTIMIZAÇÃO NA BUSCA DE ALGORITMOS EFICIENTES
+PARA PROBLEMAS COMPLEXOS**; **Bolsa de Produtividade PQ Nível 1C – CA-CC, Processo 303492/2021-0, Modalidade/Nível: PQ-1C, Edital/Chamada: Chamada CNPq Nº 4/2021 - Bolsas de Produtividade em Pesquisa - PQCNPq/MCT-CNPq, Período: 2022 – 2026**. Coordenador do Projeto: Luiz Satoru Ochi.
+
+**TÍTULO: Curso para a Empresa LOGGI: Tema - Otimização Combinatória**. **Parceria entre o LABIC-IC/UFF e a Empresa Loggi.com visando a capacitação dos seus funcionários no segmento de Logística Inteligente e Transportes de Mercadorias através de metodologias de Otimização Combinatória - 2021 & 2022. Coordenador do Projeto: Luiz Satoru Ochi (LabIC IC/UFF & IC UFF)**
 
 **Projeto FAPERJ: Centro de Excelência em Transformação Digital e Inteligência Artificial do Estado do Rio de Janeiro (Hub.Rio)**: **Rede Tematica de Combate aos Efeitos da Covid-19 .  Edital: Chamada C,  Ação Emergencial Projetos para Combater os Efeitos da Covid-19** , Parceria Faperj/SES, 2020. 
 **Coordenador: Roberto de Andrade Medronho-(UFRJ)**. <b>Membros comitê de gestao:  Guilherme Travassos (UFRJ), Luiz Satoru Ochi (IC-UFF),  Marley Vellasco (PUC-Rio), Regina Célia Cerqueira de Almeida (LNCC),  Fabricio Silva (FIOCRUZ). 
@@ -34,10 +36,6 @@ news_limit: 5
 **Projeto FAPERJ: Otimização e Inteligencia Computacional para Resolução de Problemas de Planejamento e Decisao.
  Edital: Apoio as Instituições de Ensino e Pesquisa sediadas no Estado do Rio de Janeiro - Edital: E-11/2018, Periodo: 2019-2020 (prorrogado devido covid para outubro 2022)**. Coordenador: Luiz Satoru Ochi (IC-UFF) 
 
-**TÍTULO: A INTELIGÊNCIA COMPUTACIONAL & OTIMIZAÇÃO NA BUSCA DE ALGORITMOS EFICIENTES
-PARA PROBLEMAS COMPLEXOS**; **Bolsa de Produtividade PQ Nível 1C – CA-CC, Processo 303492/2021-0, Modalidade/Nível: PQ-1C, Edital/Chamada: Chamada CNPq Nº 4/2021 - Bolsas de Produtividade em Pesquisa - PQCNPq/MCT-CNPq, Período: 2022 – 2026**. Coordenador do Projeto: Luiz Satoru Ochi.
-	
-	
 **SMART CITIES: Novas Tecnologias Para Melhorar Servicos Publicos e Privados**. **Projeto parcialmente financiado pelo CNPq** - **Edital UNIVERSAL 28/2018 - Faixa C**.
  **Edital UNIVERSAL 28/2018 - Faixa C. Vigencia: 2019 - 2021**. Coordenador: Luiz Satoru Ochi (IC-UFF) 
 
