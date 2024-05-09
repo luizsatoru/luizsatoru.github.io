@@ -26,6 +26,8 @@ news_limit: 5
 
 **2024 – Palestra FAPERJ/CNE – **[Palestra Proferida no Instituto de Física da Universidade Federal Fluminense - IF UFF, Sede da AGIR/UFF, “Cidades & Regiões Inteligentes e Sustentáveis – CRIS: Aplicações & Metodologias”, Dia 26 de Março 2024](https://agir.uff.br/)**, A convite dos Profs. Thiago R Oliveira & Andrea Latge (IF-UFF). 2024.**
 
+**2024 – Palestra FAPERJ/CNE – **[Palestra Proferida no CEFET-RJ, “Cidades & Regiões Inteligentes e Sustentáveis – CRIS: Metodologias & Aplicações”, Dia 08 de Maio 2024]**, A convite dos Prof. Glauco Amorim. 2024.**
+
 **2024 – Palestra FAPERJ/CNE – **[Palestra proferida na Academia Brasileira de Ciências (ABC) – “Mobilidade Urbana no contexto de Cidades & Regiões Inteligentes & Sustentáveis”, no evento “A Conferência Municipal de Ciência, Tecnologia e Inovação do Rio de Janeiro”**. Dia 21 de Março de 2024](https://www.abc.org.br/evento/conferencia-municipal-de-ciencia-tecnologia-e-inovacao/)**. A convite da diretoria da Academia Brasileira de Ciências. 2024.**
 
 **2024 – Palestra FAPERJ/CNE – **[Palestra de abertura proferida no WorkShop do PPGCC - UERN/UFERSA, “Cidades & Regiões Inteligentes e Sustentáveis – CRIS”, Dia 14 de Março 2024, Campus de Mossoró/RN. (https://ppgcc.ufersa.edu.br/2024/03/05/workshop-de-integracao-2/)** A convite do Prof. Dario Aloise (UERN). 2024.]**
