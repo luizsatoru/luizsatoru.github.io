@@ -23,8 +23,7 @@ news_limit: 5
 
 ## **PRÊMIOS E/OU CONDECORAÇÕES RECEBIDAS RECENTEMENTE**
 
-**•	2022 – PRÊMIO:
-TÍTULO: CRIS: Cidades e Regiões Inteligentes e Sustentáveis(Smart and Sustainable Cities and Regions). Projeto parcialmente financiado pela FAPERJ (Fundação de Amparo a Pesquisa no Estado do Rio de Janeiro - FAPERJ- GRANT Cientista do Nosso Estado (CNE). Edital CNE 2023 edital FAPERJ CNE 2023. Vigencia prevista: 2024-2027. Coordenador: Luiz Satoru Ochi (IC-UFF)
+**•	2024 - Recebi o Prêmio/Grant: Cientista do Estado do Rio de Janeiro - CNE (Grant 2024 - 2027), FAPERJ: Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro**.
 
 **•	2022 – PRÊMIO:
 Em 2022, A TESE de DOUTORADO do egresso Janio Carlos Silva - IFTO, “Algorithmic Aspects of Problems Related to Optimization, Circuits, and Parameterized Complexity”, orientado pelos Profs. Ueverton Souza & Luiz Satoru Ochi foi classificado em terceiro lugar no CTD-CSBC2022 - Concurso de Teses e Dissertação do Congresso da Sociedade Brasileira de Computação - CTD CSBC 2022.**
