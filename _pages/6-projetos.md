@@ -21,12 +21,12 @@ news_limit: 5
 ---
 ## **PROJETOS**
 
-**Título: CRIS: Cidades e Regiões Inteligentes e Sustentáveis(Smart and Sustainable Cities and Regions).**. 
+**TÍTULO: CRIS: Cidades e Regiões Inteligentes e Sustentáveis(Smart and Sustainable Cities and Regions). 
 Projeto parcialmente financiado pela FAPERJ (Fundação de Amparo a Pesquisa no Estado do Rio de Janeiro - FAPERJ- GRANT Cientista do Nosso Estado (CNE).
-Edital CNE 2023 </b> edital FAPERJ CNE 2023. Projeto aprovado - Vigencia prevista: 2024-2027.
+Edital CNE 2023 </b> edital FAPERJ CNE 2023. Projeto aprovado - Vigencia prevista: 2024-2027**.
 Coordenador: Luiz Satoru Ochi (IC-UFF) 
 
-**TÍTULO: GRANT DE PESQUISA VINCULADO AO PRÊMIO CNE FAPERJ - CIENTISTA DO ESTADO DO RIO DE JANEIRO 2022-2025** – Da Fundação de Amparo a Pesquisa no Estado do Rio de Janeiro (FAPERJ) - Projeto: **SMART & DIGITAL CITIES: Novas Tecnologias Para Melhorar a Qualidade dos Serviços Públicos e Privados**. Coordenador do Projeto: Luiz Satoru Ochi..
+**TÍTULO: GRANT DE PESQUISA VINCULADO AO PRÊMIO CNE FAPERJ - CIENTISTA DO ESTADO DO RIO DE JANEIRO 2022-2025** – Da Fundação de Amparo a Pesquisa no Estado do Rio de Janeiro (FAPERJ) - Projeto: **SMART & DIGITAL CITIES: Novas Tecnologias Para Melhorar a Qualidade dos Serviços Públicos e Privados**. Coordenador do Projeto: Luiz Satoru Ochi.
 
 **PROJETO INCT/CNPq 2022 :Programa Institutos Nacionais de Ciência e Tecnologia/CNPq: IAIA**. **Instituto Nacional de Inteligência Artificial - 12/2022 & 12/2027. Coordenadora do Projeto: Teresa B. Ludermir (UFPE). Membros Participantes: Luiz Satoru Ochi (LabIC IC/UFF & IC UFF) e outros....**
 
