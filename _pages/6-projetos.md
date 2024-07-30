@@ -23,8 +23,8 @@ news_limit: 5
 
 **TÍTULO: CRIS: Cidades e Regiões Inteligentes e Sustentáveis(Smart and Sustainable Cities and Regions). 
 Projeto parcialmente financiado pela FAPERJ (Fundação de Amparo a Pesquisa no Estado do Rio de Janeiro - FAPERJ- GRANT Cientista do Nosso Estado (CNE).
-Edital CNE 2023 </b> edital FAPERJ CNE 2023. Projeto aprovado - Vigencia prevista: 2024-2027**.
-Coordenador: Luiz Satoru Ochi (IC-UFF) 
+Edital CNE 2023 </b> edital FAPERJ CNE 2023. Projeto aprovado - Vigencia prevista: 2024-2027.
+Coordenador: Luiz Satoru Ochi (IC-UFF)** 
 
 **TÍTULO: GRANT DE PESQUISA VINCULADO AO PRÊMIO CNE FAPERJ - CIENTISTA DO ESTADO DO RIO DE JANEIRO 2022-2025** – Da Fundação de Amparo a Pesquisa no Estado do Rio de Janeiro (FAPERJ) - Projeto: **SMART & DIGITAL CITIES: Novas Tecnologias Para Melhorar a Qualidade dos Serviços Públicos e Privados**. Coordenador do Projeto: Luiz Satoru Ochi.
 
