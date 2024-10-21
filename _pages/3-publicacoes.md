@@ -26,6 +26,10 @@ news_limit: 5
 
 ## **Accepted/Published**
 
+5. **Dias, Theodoro R; Francisco, Flavio M.; Principe, Lindemberg Rosa and Ochi, Luiz Satoru (2024). “Imigração Digital: A Evolução dos Processos e o Contexto Brasileiro” – CLUSTER/SE: CIDADES & REGIÕES INTELIGENTES E SUSTENTÁVEIS - CRIS. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
+   
+4. **Ávila, Silvana; Martins, Simone L; and Ochi, Luiz Satoru (2024). “Um estudo sobre o probema da coleta do lixo eletrônico” – CLUSTER/SE: CIDADES & REGIÕES INTELIGENTES E SUSTENTÁVEIS - CRIS. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
+   
 3. **Mendonça, Augusto; Pessoa, Filipe; Coelho, Igor M.; and Ochi, Luiz Satoru (2024). “Técnicas de Inteligência Computacional para Previsão e Mitigação de
 Enchentes em Eventos Climáticos Extremos: Uma Revisão Sistemática” – CLUSTER/SE: CIDADES & REGIÕES INTELIGENTES E SUSTENTÁVEIS - CRIS. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
    
