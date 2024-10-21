@@ -29,7 +29,9 @@ news_limit: 5
 1. **Beltrão, Augusto Pizano Vieira; Brito, Jose André M; and Ochi, Luiz Satoru (2024). “Algoritmo BRKGA aplicado ao comitê de agrupamentos”. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
    
 1. **Lima, Alfredo; Ochi, Luiz Satoru; Nogueira, Bruno and Pinheiro, Rian G S (2024). “Método Heurístico e Exato para o Minimum Broadcast Center”. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
-   
+
+1. **Souza, Israel Pereira de; Coelho, Igor M.; and Ochi, Luiz Satoru (2024). “Differential evolution for graph coloring Problem”. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
+      
 1. **Oliveira, Otavio Henrique Flaeschen.; Silva, Luis Resende; and Ochi, Luiz Satoru (2024). “Monitoramento de alagamentos em Cidades Inteligentes: Ferramenta operacional para coleta de dados & imagens integrando câmeras, waze e pluviômetros no Rio de Janeiro” – CLUSTER/SE: CIDADES & REGIÕES INTELIGENTES E SUSTENTÁVEIS - CRIS. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
    
 1. **Guaraná, Victor Hugo C.S.; and Ochi, Luiz Satoru (2024). “Análise e desenvolvvimento de algoritmos eficientes para Problemas de Roteamento de Veículos Híbridos com Caminhões & Drones” – CLUSTER/SE: CIDADES & REGIÕES INTELIGENTES E SUSTENTÁVEIS - CRIS. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
@@ -41,8 +43,6 @@ news_limit: 5
 1. **Mendonça, Augusto; Pessoa, Filipe; Coelho, Igor M.; and Ochi, Luiz Satoru (2024). “Técnicas de Inteligência Computacional para Previsão e Mitigação de
 Enchentes em Eventos Climáticos Extremos: Uma Revisão Sistemática” – CLUSTER/SE: CIDADES & REGIÕES INTELIGENTES E SUSTENTÁVEIS - CRIS. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
    
-1. **Souza, Israel Pereira de; Coelho, Igor M.; and Ochi, Luiz Satoru (2024). “Differential evolution for graph coloring Problem” – CLUSTER/SE: CIDADES & REGIÕES INTELIGENTES E SUSTENTÁVEIS - CRIS. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
-
 1. **Mello, Alexandre dos Santos; Haddad, Matheus Nohra; Munhoz, Pablo L ; Coelho, Igor M.; and Ochi, Luiz Satoru (2024). “Algoritmo MIG-ALBHW para resolver o Assembly Line Balancing with
 Hierarchical Worker Assignment” – CLUSTER/SE: CIDADES & REGIÕES INTELIGENTES E SUSTENTÁVEIS - CRIS. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
 
