@@ -22,6 +22,13 @@ news_limit: 5
 
 ## **publications (by year)**
 
+## **2024**
+
+## **Accepted/Published**
+
+1. **Mello, Alexandre dos Santos; Haddad, Matheus Nohra; Munhoz, Pablo L ; Coelho, Igor M.; and Ochi, Luiz Satoru (2023). “Algoritmo MIG-ALBHW para resolver o Assembly Line Balancing with
+Hierarchical Worker Assignment” – CLUSTER: Cidades Inteligentes e suas aplicações. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
+
 ## **2023**
 
 ## **Accepted/Published**
