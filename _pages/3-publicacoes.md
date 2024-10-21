@@ -26,8 +26,13 @@ news_limit: 5
 
 ## **Accepted/Published**
 
-1. **Mello, Alexandre dos Santos; Haddad, Matheus Nohra; Munhoz, Pablo L ; Coelho, Igor M.; and Ochi, Luiz Satoru (2023). “Algoritmo MIG-ALBHW para resolver o Assembly Line Balancing with
-Hierarchical Worker Assignment” – CLUSTER: Cidades Inteligentes e suas aplicações. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
+3. **Mendonça, Augusto; Pessoa, Filipe; Coelho, Igor M.; and Ochi, Luiz Satoru (2024). “Técnicas de Inteligência Computacional para Previsão e Mitigação de
+Enchentes em Eventos Climáticos Extremos: Uma Revisão Sistemática” – CLUSTER/SE: CIDADES & REGIÕES INTELIGENTES E SUSTENTÁVEIS - CRIS. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
+   
+2. **Souza, Israel Pereira de; Coelho, Igor M.; and Ochi, Luiz Satoru (2024). “Differential evolution for graph coloring Problem” – CLUSTER/SE: CIDADES & REGIÕES INTELIGENTES E SUSTENTÁVEIS - CRIS. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
+
+1. **Mello, Alexandre dos Santos; Haddad, Matheus Nohra; Munhoz, Pablo L ; Coelho, Igor M.; and Ochi, Luiz Satoru (2024). “Algoritmo MIG-ALBHW para resolver o Assembly Line Balancing with
+Hierarchical Worker Assignment” – CLUSTER/SE: CIDADES & REGIÕES INTELIGENTES E SUSTENTÁVEIS - CRIS. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
 
 ## **2023**
 
