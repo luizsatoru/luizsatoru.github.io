@@ -24,6 +24,10 @@ news_limit: 5
 
 ## **Minha participação em comitês de programa e/ou comitê organizador nos Congressos/Simpósios nos últimos anos**
 
+### 2025
+
+01.	Program Commitee Member - [XX Congresso Acadêmico sobre Defesa Nacional (CADN 2025) A edição 2024 foi realizada no Rio de Janeiro-RJ.](https://www.gov.br/esd/pt-br/central-de-conteudo/noticias/a-19a-edicao-do-congresso-academico-sobre-defesa-nacional-cadn-se-inicia-na-escola-naval-no-rio-de-janeiro-rj)
+
 ### 2024
 
 01.	Program Commitee Member - [MIC 2024 - 15th Metaheuristics International Conference
