@@ -25,7 +25,7 @@ news_limit: 5
 ## **2024**
 
 ## **Accepted/Published**
-6. **Victor Hugo Corpas dos Santos Guaraná, Victor Hugo C.S.; and Ochi, Luiz Satoru (2024). “Análise e desenvolvvimento de algoritmos eficientes para Problemas de Roteamento de Veículos Híbridos com Caminhões & Drones” – CLUSTER/SE: CIDADES & REGIÕES INTELIGENTES E SUSTENTÁVEIS - CRIS. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
+6. **Guaraná, Victor Hugo C.S.; and Ochi, Luiz Satoru (2024). “Análise e desenvolvvimento de algoritmos eficientes para Problemas de Roteamento de Veículos Híbridos com Caminhões & Drones” – CLUSTER/SE: CIDADES & REGIÕES INTELIGENTES E SUSTENTÁVEIS - CRIS. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
    
 5. **Dias, Theodoro R; Francisco, Flavio M.; Principe, Lindemberg Rosa and Ochi, Luiz Satoru (2024). “Imigração Digital: A Evolução dos Processos e o Contexto Brasileiro” – CLUSTER/SE: CIDADES & REGIÕES INTELIGENTES E SUSTENTÁVEIS - CRIS. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
    
