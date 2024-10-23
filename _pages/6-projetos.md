@@ -21,6 +21,8 @@ news_limit: 5
 ---
 ## **PROJETOS**
 
+**SUB-PROJETO SATÉLITE, DENTRO DO NOSSO PROJETO INCT/CNPq 2022 (Vigência do sub-projeto: à partir 01/2025): Título Sub-Projeto: Estudo Teórico sobre Aprendizado de Grafos, Explicabilidade e Aplicação na Análise de Dados de Fome (Theoretical Study on Graph Learning,Explainability, and Application in the Analysis of Hunger Data). PROJETO PRINCIPAL INCT: Programa Institutos Nacionais de Ciência e Tecnologia/CNPq: IAIA**. **Instituto Nacional de Inteligência Artificial - 12/2022 & 12/2027. Coordenadora do Projeto: Teresa B. Ludermir (UFPE). Membros Participantes DO Sub-Proejeto: Luiz Satoru Ochi (LabIC IC/UFF & IC UFF), Mariá Cristina Vasconcelos Nascimento (ITA), Zhao Liang (USP) e outros....**
+
 **TÍTULO: CRIS: Cidades e Regiões Inteligentes e Sustentáveis(Smart and Sustainable Cities and Regions). 
 Projeto parcialmente financiado pela FAPERJ (Fundação de Amparo a Pesquisa no Estado do Rio de Janeiro - FAPERJ- GRANT Cientista do Nosso Estado (CNE).
 Edital CNE 2023 </b> edital FAPERJ CNE 2023. Projeto aprovado - Vigencia prevista: 2024-2027.
