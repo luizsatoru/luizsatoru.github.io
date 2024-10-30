@@ -46,8 +46,8 @@ por antecipação e atraso de produção ; Período: 03/2008 a 02/2009. Bolsa de
 
 ## **ORIENTAÇÃO DE TESES DE DOUTORADO CONCLUÍDAS**
 
-1. ELIAS LAWRENCE MARQUES JUNIOR,  Aluno de Doutorado em Computação - IC/UFF orientadores: Luiz Satoru Ochi e Igor Machado Coelho-co-orientador;
- Titulo: Multi-Objective Metaheuristics for a Green UAV Grid Routing Problem; Defesa: 2024.  
+1. ELIAS LAWRENCE MARQUES JUNIOR,  Aluno de Doutorado em Computação - IC/UFF <b> orientadores: Luiz Satoru Ochi e Igor Machado Coelho-co-orientador;
+ Titulo:<b> Multi-Objective Metaheuristics for a Green UAV Grid Routing Problem; Defesa: 2024.</b>;  
 
 1. JANIO CARLOS NASCIMENTO SILVA ,  Aluno de Doutorado em Computação - IC/UFF (orientadores: Luiz Satoru Ochi e Ueverton Souza;
  Assunto:Algorithmic Aspects of Problems Related to Optimization, Circuits, and Parameterized Complexity; Defesa: 2021.  
