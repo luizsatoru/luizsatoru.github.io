@@ -171,7 +171,9 @@ Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema: Eff
 
 1. Raphael Ricardo Gonçalves, Aluno de Mestrado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema Provisório: Generation of School Bus Routes in Real Time Using Hybrid Heuristic Algorithms; Previsão de término: 12/2024.
 
- 1. Victor Hugo Corpas dos Santos Guaraná, Aluno de Mestrado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema Provisório: Efficient Algorithms for Hybrid Vehicle Fleet Routing Problems: Manned Trucks and Unmanned Aerial Vehicles; Previsão de término: 12/2025.  
+ 1. Victor Hugo Corpas dos Santos Guaraná, Aluno de Mestrado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema Provisório: Efficient Algorithms for Hybrid Vehicle Fleet Routing Problems: Manned Trucks and Unmanned Aerial Vehicles; Previsão de término: 12/2025.
+
+1. Fabio dos Santos Gonçalves, Aluno de Mestrado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema Provisório: Uso da red LORA para monitoramento e automação em propriedades ruraus, Previsão de término: 12/2025.
 
    
 ## **ORIENTAÇÃO DE DISSERTAÇÕES DE MESTRADO CONCLUÍDAS**
