@@ -26,7 +26,7 @@ news_limit: 5
 
 ## **Accepted/Published**
 
-1. ** Bruno José S. Barros; Luiz Satoru Ochi; Rian Gabriel S. Pinheiro; Ueverton dos Santos Souza (2025). "On Conflict-Free Spanning Tree: Mapping tractable and hard instances through the lenses of graph classes". To appear in Theoretical Computer Science – ELSEVIER, (Qualis A2)**.
+1. **Bruno José S. Barros; Luiz Satoru Ochi; Rian Gabriel S. Pinheiro; Ueverton dos Santos Souza (2025). "On Conflict-Free Spanning Tree: Mapping tractable and hard instances through the lenses of graph classes". To appear in Theoretical Computer Science – ELSEVIER, (Qualis A2)**.
   
 ## **2024**
 
