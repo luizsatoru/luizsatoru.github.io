@@ -33,7 +33,7 @@ news_limit: 5
 
 ## **Accepted/Published**
 
-1. **Koehler, Victor; Silva, Thiago; Souza Filho, Gilberto; Ochi, Luiz Satoru; Michelon, Philippe; Gueye, Serigne; Cabral, Lucídio (2024). "Solving the Minimum Labeling Global Cut Problem by Mathematical Programming". in International Transactions in Operational Research - ITOR, 315, 2, 499–510. - WILEY. (Qualis A2)**.DOI:https://doi.org/10.1111/itor.13571
+1. **Koehler, Victor; Silva, Thiago; Souza Filho, Gilberto; Ochi, Luiz Satoru; Michelon, Philippe; Gueye, Serigne; Cabral, Lucídio (2024). "Solving the Minimum Labeling Global Cut Problem by Mathematical Programming". in International Transactions in Operational Research - ITOR, 315, 2, 499–510. WILEY. (Qualis A2)**.DOI:https://doi.org/10.1111/itor.13571
    
 1. **Beltrão, Augusto Pizano Vieira; Brito, Jose André M; and Ochi, Luiz Satoru (2024). “Algoritmo BRKGA aplicado ao comitê de agrupamentos”. Anais do  LVI SBPO (Qualis A4) – Fortaleza/CE, 2024**
    
