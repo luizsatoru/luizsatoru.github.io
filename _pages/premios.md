@@ -23,7 +23,7 @@ news_limit: 5
 
 ## **PRÊMIOS E/OU CONDECORAÇÕES RECEBIDAS RECENTEMENTE**
 
-**•	2024 - Recebi o Prêmio/Grant: Cientista do Estado do Rio de Janeiro - CNE (Grant 2024 - 2027), FAPERJ: Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro**.
+**•	2024 - Recebi novamente o Prêmio/Grant: Cientista do Estado do Rio de Janeiro - CNE (Grant 2024 - 2027), FAPERJ: Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro**.
 
 **•	2022 – PRÊMIO:
 Em 2022, A TESE de DOUTORADO do egresso Janio Carlos Silva - IFTO, “Algorithmic Aspects of Problems Related to Optimization, Circuits, and Parameterized Complexity”, orientado pelos Profs. Ueverton Souza & Luiz Satoru Ochi foi classificado em terceiro lugar no CTD-CSBC2022 - Concurso de Teses e Dissertação do Congresso da Sociedade Brasileira de Computação - CTD CSBC 2022.**
