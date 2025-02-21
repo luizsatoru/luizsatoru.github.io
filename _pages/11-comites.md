@@ -31,6 +31,9 @@ news_limit: 5
 
 01.	Program Commitee Member - [XX Congresso Acadêmico sobre Defesa Nacional (CADN 2025) A edição 2024 foi realizada no Rio de Janeiro-RJ.](https://www.gov.br/esd/pt-br/central-de-conteudo/noticias/a-19a-edicao-do-congresso-academico-sobre-defesa-nacional-cadn-se-inicia-na-escola-naval-no-rio-de-janeiro-rj)
 
+01. Program Committee Member for Concurso de Teses e Dissertações do Congresso da Sociedade Brasileira de Computação (CTD 2025) - [Concurso de Teses & Dissertações do CSBC2025 - 20 a 24 Julho 2025 - Maceió/AL.](https://csbc.sbc.org.br/2025/ctd/#/)
+
+   
 ### 2024
 
 01.	Program Commitee Member - [MIC 2024 - 15th Metaheuristics International Conference
