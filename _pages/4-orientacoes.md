@@ -46,6 +46,9 @@ por antecipação e atraso de produção ; Período: 03/2008 a 02/2009. Bolsa de
 
 ## **ORIENTAÇÃO DE TESES DE DOUTORADO CONCLUÍDAS**
 
+1. Bruno J. S. Barros,  Aluno de Doutorado em Computação - IC/UFF <b> orientadores: Luiz Satoru Ochi e Rian Gabriel S Pinheiro (UFAL)-co-orientador;
+ Titulo:<b> Variations of the Minimum Spanning Tree Problem: Algorithmic approaches and complexity study; Defesa: 03/2025.</b>;  
+
 1. ELIAS LAWRENCE MARQUES JUNIOR,  Aluno de Doutorado em Computação - IC/UFF <b> orientadores: Luiz Satoru Ochi e Igor Machado Coelho-co-orientador;
  Titulo:<b> Multi-Objective Metaheuristics for a Green UAV Grid Routing Problem; Defesa: 2024.</b>;  
 
@@ -142,10 +145,6 @@ Título: Formulações e Algoritmos para o Problema de Programação de Horário
 
 ## ** ORIENTAÇÕES DE TESES DE DOUTORADO EM ANDAMENTO**
 
-
-1. Bruno José da Silva Barros, Aluno de Doutorado em Computação - IC/UFF  Orientadores: Luiz Satoru Ochi; co-orientador: Rian Gabriel Santos Pinheiro (UFAL); Tema: The minimum spanning tree problem with conflict constraints and its variations. 
-Previsão de término: 02/2024.
-  
 
 1. Elias Lawrence ,  Aluno de Doutorado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema: The Unmanned Aerial Vehicle (UAV) Fleet Routing Problem.; Previsão de término: 08/2024.
 
