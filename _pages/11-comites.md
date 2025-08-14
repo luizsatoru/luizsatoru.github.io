@@ -24,7 +24,7 @@ news_limit: 5
 
 ## **Minha participação em comitês de programa e/ou comitê organizador nos Congressos/Simpósios nos últimos anos**
 
-### 2025
+### 2025.
 
 01. ICVNS 2025 Scientific Committee Member - [International Conference on Variable Neighborhood Search (ICVNS), which will take place in Montreal, Canada, from May 12 to May 14, 2025.](https://2025.icvns.com/)
 
