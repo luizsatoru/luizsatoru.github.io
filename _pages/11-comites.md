@@ -26,7 +26,7 @@ news_limit: 5
 
 ### 2026
 
-01.	Program Commitee Member - [The International Conference on Operations Research and Enterprise Systems (ICORES), which will take place in Marbella, Spain, 9-11 March 2026.](https://icores.scitevents.org/)
+01.	ICORES 2026 - Program Commitee Member - [The International Conference on Operations Research and Enterprise Systems (ICORES), which will take place in Marbella, Spain, 9-11 March 2026.](https://icores.scitevents.org/)
 
 ### 2025.
 
