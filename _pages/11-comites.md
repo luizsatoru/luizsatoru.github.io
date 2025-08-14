@@ -19,14 +19,14 @@ selected_papers_cache: false # this can run on github pages
 social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
-### 2026
 
-01.	Program Commitee Member - [The International Conference on Operations Research and Enterprise Systems (ICORES)](https://icores.scitevents.org/)
-
-   
 ## **Comitês**
 
 ## **Minha participação em comitês de programa e/ou comitê organizador nos Congressos/Simpósios nos últimos anos**
+
+### 2026
+
+01.	Program Commitee Member - [The International Conference on Operations Research and Enterprise Systems (ICORES)](https://icores.scitevents.org/)
 
 ### 2025.
 
