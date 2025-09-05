@@ -57,8 +57,7 @@ por antecipação e atraso de produção ; Período: 03/2008 a 02/2009. Bolsa de
 
 1. JANIO CARLOS NASCIMENTO SILVA ,  Aluno de Doutorado em Computação - IC/UFF (orientadores: Luiz Satoru Ochi e Ueverton Souza;
  Assunto:Algorithmic Aspects of Problems Related to Optimization, Circuits, and Parameterized Complexity; Defesa: 2021.  
- 
- 
+  
 1. Marques M Souza,  Aluno de Doutorado em Computação - IC/UFF (orientadores: euiz Satoru Ochi e Simone Lima Martins):
   Titulo: Heuristicas para a resolução do Problema do Caixeiro Viajante com Seleção de Hotéis; Defesa: 03/2020.  
   
