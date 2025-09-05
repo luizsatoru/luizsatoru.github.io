@@ -46,6 +46,9 @@ por antecipação e atraso de produção ; Período: 03/2008 a 02/2009. Bolsa de
 
 ## **ORIENTAÇÃO DE TESES DE DOUTORADO CONCLUÍDAS**
 
+1. Augusto Pizano Vieira Beltrão,  Aluno de Doutorado em Computação - IC/UFF <b> orientadores: Luiz Satoru Ochi e José André M Brito (ENCE/IBGE)-co-orientador;
+ Titulo:<b> Algoritmos de Otimização aplicados ao Problema do Comitê de Agrupamentos; Defesa: 09/2025.</b>;
+
 1. Bruno J. S. Barros,  Aluno de Doutorado em Computação - IC/UFF <b> orientadores: Luiz Satoru Ochi e Rian Gabriel S Pinheiro (UFAL)-co-orientador;
  Titulo:<b> Variations of the Minimum Spanning Tree Problem: Algorithmic approaches and complexity study; Defesa: 03/2025.</b>;  
 
