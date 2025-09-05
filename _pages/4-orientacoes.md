@@ -61,8 +61,8 @@ por antecipação e atraso de produção ; Período: 03/2008 a 02/2009. Bolsa de
 1. Marques M Souza,  Aluno de Doutorado em Computação - IC/UFF (orientadores: euiz Satoru Ochi e Simone Lima Martins):
   Titulo: Heuristicas para a resolução do Problema do Caixeiro Viajante com Seleção de Hotéis; Defesa: 03/2020.  
   
-1. Edcarllos Santos,  Aluno de Doutorado em Computação - IC/UFF </b> (orientadores: Luiz Satoru Ochi e Luidi Simonetti (UFRJ):
-  Titulo:<b> On two logistic problems in Smart Cities; Defesa: 08/2019.  
+1. Edcarllos Santos,  Aluno de Doutorado em Computação - IC/UFF (orientadores: Luiz Satoru Ochi e Luidi Simonetti (UFRJ):
+  Titulo: On two logistic problems in Smart Cities; Defesa: 08/2019.  
   
 1. Thiago Gouveia da Silva,  Aluno de Doutorado (Cotutela) em Computação - IC/UFF &  UNIVERSITY OF AVIGNON - France (orientadores da UFF: Luiz Satoru Ochi e Lucidio F Cabral (UFPB):  Orientadores pela University of Avignon: Philippe Michelon and . Serigne Gueye, UAPV, France;  Titulo: The Minimum Labeling Spanning Tree and Related Problems - TESE PREMIADA COMO SEGUNDA MELHOR TESE DE DOUTORADO EM COMPUTAÇÃO PELA SBC Sociedade Brasileira de Computação EM 2019; Defesa: 11/2018.  
 
