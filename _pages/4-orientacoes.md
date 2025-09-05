@@ -26,7 +26,7 @@ news_limit: 5
 ## **SUPERVISÃO DE PÓSDOC CONCLUÍDAS**
 
 
-1.. Vitor Nazario Coelho (Doutorado pela EE-UFMG - MG) - Pós-Doutorado Nota 10 - FAPERJ. Assunto: Autonomia em redes inteligentes assistida por ferramentas da inteligencia computacional. ; Período: 09/2016 a 08/2017 & 09/2017 a 08/2018. Bolsa - Pós Doutorado Nota 10 da FAPERJ.  Orientador: Luiz Satoru Ochi (IC-UFF) !!
+1. Vitor Nazario Coelho (Doutorado pela EE-UFMG - MG) - Pós-Doutorado Nota 10 - FAPERJ. Assunto: Autonomia em redes inteligentes assistida por ferramentas da inteligencia computacional. ; Período: 09/2016 a 08/2017 & 09/2017 a 08/2018. Bolsa - Pós Doutorado Nota 10 da FAPERJ.  Orientador: Luiz Satoru Ochi (IC-UFF) !!
  
 1. Carlos Bazilio Martins (Prof. UFF - Polo Rio das Ostras/RJ - Licença Capacitação).; Assunto:Metaheurísticas e Crowdsoucing; Período: 2016. Supervisor: Luiz Satoru Ochi (IC-UFF).
  
