@@ -76,7 +76,7 @@ por antecipação e atraso de produção ; Período: 03/2008 a 02/2009. Bolsa de
 1. Ivan César Martins,Aluno de Doutorado em Computação - IC/UFF Orientadores: Luiz Satoru Ochi e Fábio Protti; Tema: The manufacturing cell formation problems.; Defesa: 04/2017.
 
 
-1. Gilberto Farias Souza Filho, Prof. UFPB/João Pessoa, Aluno de Doutorado em Computação - IC/UFF (Orientadores: Fábio Protti & Luiz Satoru Ochi); Título: Efficient Exact and heuristic Algorithms for the Bicluster Editing Problems. </b>; Defesa: 25/08/2016.
+1. Gilberto Farias Souza Filho, Prof. UFPB/João Pessoa, Aluno de Doutorado em Computação - IC/UFF (Orientadores: Fábio Protti & Luiz Satoru Ochi); Título: Efficient Exact and heuristic Algorithms for the Bicluster Editing Problems; Defesa: 25/08/2016.
 
 
 1. Eyder Franco Souza Rios, Aluno de Doutorado em Computação - IC/UFF  (orientadores: Luiz Satoru Ochi e Cristina Boeres) Título: Exploração de Estratégias de Busca Local em Ambientes CPU/GPU; Defesa: 07/2016.
@@ -94,7 +94,7 @@ Hybrid and Parallel Algorithms for Single and Multi-Objective Routing Problems; 
 1. Nadia Mendes dos Santos, Profa. IFPI - Teresina/PI, Doutorado em Computação - IC/UFF (convênio DINTER IC-UFF & IFPI) Orientador: Luiz Satoru Ochi, Co-orientador: J. André M Brito; Título: Um estudo de problemas de clusterização com restrições de capacidade e conectividade ; Defesa: 11/2014. 
  
 
-1. Gustavo Resende de Carvalho,  Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF </b> Orientador: Luiz Satoru Ochi, Co-oreintadora: Aline Nascimento; <b> Título: Um Algoritmo ILS para o Problema de Localização-Roteamento Capacitado com Dois Níveis </b>; 
+1. Gustavo Resende de Carvalho,  Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF Orientador: Luiz Satoru Ochi, Co-oreintadora: Aline Nascimento; Título: Um Algoritmo ILS para o Problema de Localização-Roteamento Capacitado com Dois Níveis; 
 Defesa: 08/08/2014. 
  
 
