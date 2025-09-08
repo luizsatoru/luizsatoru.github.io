@@ -34,7 +34,7 @@ news_limit: 5
 
 01. ICVNS 2025 Scientific Committee Member - [International Conference on Variable Neighborhood Search (ICVNS), which will take place in Montreal, Canada, from May 12 to May 14, 2025.](https://2025.icvns.com/)
 
-01.	SIGNAL 2025 - Program Commitee Member - [SIGNAL 2025, The Tenth International Conference on Advances in Signal, Image and Video Processing , which will take place in Lisbon, Portugal, from March 09, 2025 to March 13, 2025.](https://www.iaria.org/conferences2026/ComSIGNAL26.html](https://www.iaria.org/conferences2025/SIGNAL25.html)
+01.	SIGNAL 2025 - Program Commitee Member - [SIGNAL 2025, The Tenth International Conference on Advances in Signal, Image and Video Processing , which will take place in Lisbon, Portugal, from March 09, 2025 to March 13, 2025.](https://www.iaria.org/conferences2025/SIGNAL25.html)
    
 01.	Program Commitee Member - [XX Congresso Acadêmico sobre Defesa Nacional (CADN 2025) A edição 2024 foi realizada no Rio de Janeiro-RJ.](https://www.gov.br/esd/pt-br/central-de-conteudo/noticias/a-19a-edicao-do-congresso-academico-sobre-defesa-nacional-cadn-se-inicia-na-escola-naval-no-rio-de-janeiro-rj)
 
