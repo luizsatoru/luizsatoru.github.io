@@ -47,10 +47,4 @@ E-mail: [satoru@ic.uff.br](mailto:satoru@ic.uff.br) ou [luiz.satoru@gmail.com](m
  **Áreas de pesquisas do Prof. Luiz Satoru Ochi incluem:** **Inteligência Computacional - Inteligência Artificial, [Smart & Digital Cities, Green Computing](https://creating.city)) - Otimização Combinatória - Otimização no setor de Petróleo & Gás - Pesquisa Operacional - Programação Matemática - Grafos e Algoritmos - Algoritmos Paralelos em Otimização - Resolução de Problemas Complexos via GPU (CUDA) - Problemas de Logística Inteligente & Tomada de Decisão - Mobilidade Urbana & Social - Segurança Pública - Defesa - Green Vehicle Routing and Scheduling - UAVs/Drones - Meio Ambiente - Sustentabilidade  entre outros**....
 
  **Voce está a procura de TEMAS ATUAIS para sua dissertação de mestrado ou tese de doutorado ou um Pós Doutorado?? Clique [aqui](/temas) para ver sugestões de pesquisas**.
-<center>
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fsatoruff%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=3595628487161789" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/group.php?href=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F588329561328235&width=280&show_metadata=true&appId=3595628487161789&height=343" width="280" height="343" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-
-</center>
+ 
