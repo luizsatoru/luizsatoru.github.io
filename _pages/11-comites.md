@@ -30,7 +30,7 @@ news_limit: 5
 
 01.	SIGNAL 2026 - Program Commitee Member - [SIGNAL 2026, The Eleventh International Conference on Advances in Signal, Image and Video Processing , which will take place in Valencia, Spain, March 8 - 12, 2026.](https://www.iaria.org/conferences2026/ComSIGNAL26.html)
 
-   01.	Presidente Comitê Científico - [LVIII SBPO 2025 – 06 a 08 de OUTUBRO de 2026 - Belo Horizonte/MG](https://sbpo2025.galoa.com.br/sbpo-2025/page/5407-home?lang=pt-br))
+   01.	Presidente Comitê Científico - [LVIII SBPO 2026 – 06 a 08 de OUTUBRO de 2026 - Belo Horizonte/MG](https://sbpo2025.galoa.com.br/sbpo-2025/page/5407-home?lang=pt-br))
 ### 2025.
 
 01. ICVNS 2025 Scientific Committee Member - [International Conference on Variable Neighborhood Search (ICVNS), which will take place in Montreal, Canada, from May 12 to May 14, 2025.](https://2025.icvns.com/)
