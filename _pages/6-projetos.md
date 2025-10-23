@@ -21,7 +21,8 @@ news_limit: 5
 ---
 ## **PROJETOS**
 
-**TíTULO: PROJETO INCT/CNPQ-SUB-PROJETO SATÉLITE, DENTRO DO NOSSO PROJETO INCT/CNPq 2022 (Vigência do sub-projeto: à partir 01/2025): Título Sub-Projeto: Estudo Teórico sobre Aprendizado de Grafos, Explicabilidade e Aplicação na Análise de Dados de Fome (Theoretical Study on Graph Learning,Explainability, and Application in the Analysis of Hunger Data). PROJETO PRINCIPAL INCT: Programa Institutos Nacionais de Ciência e Tecnologia/CNPq: IAIA**. **Instituto Nacional de Inteligência Artificial - 12/2022 & 12/2027. Coordenadora do Projeto: Teresa B. Ludermir (UFPE). Membros Participantes do Sub-Projeto: Luiz Satoru Ochi (LabIC IC/UFF & IC UFF), Mariá Cristina Vasconcelos Nascimento (ITA), Zhao Liang (USP) e outros....**
+**TíTULO: PROJETO INCT/CNPQ-SUB-PROJETO SATÉLITE, DENTRO DO NOSSO PROJETO INCT/CNPq 2022 (Vigência do sub-projeto: à partir 01/2025): Título Sub-Projeto: Estudo Teórico sobre Aprendizado de Grafos, Explicabilidade e Aplicação na Análise de Dados de Fome (Theoretical Study on Graph Learning,Explainability, and Application in the Analysis of Hunger Data). PROJETO PRINCIPAL INCT: Programa Institutos Nacionais de Ciência e Tecnologia/CNPq: IAIA**. **Instituto Nacional de Inteligência Artificial - 12/2022 & 12/2027. Coordenadora do Projeto: Teresa B. Ludermir (UFPE). Membros Participantes do Sub-Projeto: Luiz Satoru Ochi (LabIC IC/UFF & IC UFF), Mariá Cristina Vasconcelos Nascimento (ITA), Zhao Liang (USP) e outros....** [:Brazilian National Institute
+of Artificial Intelligence -IAIA.](https://inct-iaia.vercel.app/)
 
 **TÍTULO: GRANT CNE-FAPERJ- CRIS: Cidades e Regiões Inteligentes e Sustentáveis(Smart and Sustainable Cities and Regions). 
 Projeto parcialmente financiado pela FAPERJ (Fundação de Amparo a Pesquisa no Estado do Rio de Janeiro - FAPERJ- GRANT Cientista do Nosso Estado (CNE).
