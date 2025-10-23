@@ -30,7 +30,8 @@ Coordenador: Luiz Satoru Ochi (IC-UFF)**
 
 **TÍTULO: GRANT DE PESQUISA VINCULADO AO PRÊMIO CNE FAPERJ - CIENTISTA DO ESTADO DO RIO DE JANEIRO 2022-11/2024 (vigência prorrogada pela FAPERJ)** – Da Fundação de Amparo a Pesquisa no Estado do Rio de Janeiro (FAPERJ) - Projeto: **SMART & DIGITAL CITIES: Novas Tecnologias Para Melhorar a Qualidade dos Serviços Públicos e Privados**. Coordenador do Projeto: Luiz Satoru Ochi.
 
-**PROJETO INCT/CNPq 2022 :Programa Institutos Nacionais de Ciência e Tecnologia/CNPq: IAIA**. **Instituto Nacional de Inteligência Artificial - 12/2022 & 12/2027. Coordenadora do Projeto: Teresa B. Ludermir (UFPE). Membros Participantes: Luiz Satoru Ochi (LabIC IC/UFF & IC UFF) e outros....**
+**PROJETO INCT/CNPq 2022 :Programa Institutos Nacionais de Ciência e Tecnologia/CNPq: IAIA**. **Instituto Nacional de Inteligência Artificial - 12/2022 & 12/2027. Coordenadora do Projeto: Teresa B. Ludermir (UFPE). Membros Participantes: Luiz Satoru Ochi (LabIC IC/UFF & IC UFF) e outros....** - [:Brazilian National Institute
+of Artificial Intelligence -IAIA.](https://inct-iaia.vercel.app/)
 
 **TÍTULO: PROJETO BOLSISTA PRODUTIVIDADE CNPQ-A INTELIGÊNCIA COMPUTACIONAL & OTIMIZAÇÃO NA BUSCA DE ALGORITMOS EFICIENTES
 PARA PROBLEMAS COMPLEXOS**; **Bolsa de Produtividade PQ Nível 1C – CA-CC, Processo 303492/2021-0, Modalidade/Nível: PQ-1C, Edital/Chamada: Chamada CNPq Nº 4/2021 - Bolsas de Produtividade em Pesquisa - PQCNPq/MCT-CNPq, Período: 2022 – 2026**. Coordenador do Projeto: Luiz Satoru Ochi.
