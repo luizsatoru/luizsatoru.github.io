@@ -22,7 +22,7 @@ news_limit: 5
 
 ## **ALGUMAS APRESENTAÇÕES DE PALESTRAS RECENTES**
 
-**2025 – Palestra FAPERJ/CNE – **[Palestra PREVISTA no Centro de Informática da UFPB - João Pessoa/PB, “Smart and Sustainable Cities & Regions – CRIS: Applications & Methodologies”, Dia 05 de Novembro 2025](https://www.ci.ufpb.br/)**, A convite do Prof. Lucidio A F Cabral). 2025.**
+**2025 – Palestra FAPERJ/CNE – **[Palestra PREVISTA no Centro de Informática da UFPB - João Pessoa/PB, “Smart and Sustainable Cities & Regions – CRIS: Applications & Methodologies”, Dia 05 de Novembro 2025 - JPOD - João Pessoa Optimization Day](https://www.ci.ufpb.br/)**, A convite do Prof. Lucidio A F Cabral). 2025.**
 
 **2024 – MEMBRO MESA REDONDA organizada pela ABC & SECRETARIA DE CIÊNCIA & TECNOLOGIA PREFEITURA DO RJ – **[DESAFIOS DAS CIDADES – “Mobilidade Urbana, Saude, Segurança Pública”, no evento “A Conferência Municipal de Ciência, Tecnologia e Inovação do Rio de Janeiro”. Dia 21 de Março de 2024](https://www.abc.org.br/evento/conferencia-municipal-de-ciencia-tecnologia-e-inovacao/)**. A convite da diretoria da Academia Brasileira de Ciências & Secretaria de Ciência & Tecnologia da Prefeitura da cidade do RJ. 2024.**
 
