@@ -22,7 +22,8 @@ news_limit: 5
 ## **PROJETOS**
 
 
-**PROJETO INCT/CNPq 2025 :Programa Institutos Nacionais de Ciência e Tecnologia/CNPq: IAPROBEM. Instituto Nacional de Inteligência Artificial para o Bem Social (IAPROBEM) - MCTI 408589/2024-8. Coordenador do Projeto: André Carlos Ponce de Leon Ferreira de. Carvalho ICMC USP SCarlos. Membros Participantes: Luiz Satoru Ochi (LabIC IC/UFF & IC UFF) e outros...Vigência: 2025 - 202X**- ..... - 
+**PROJETO INCT/CNPq 2025 :Programa Institutos Nacionais de Ciência e Tecnologia/CNPq: IAPROBEM. Instituto Nacional de Inteligência Artificial para o Bem Social (IAPROBEM) - MCTI 408589/2024-8. Coordenador do Projeto: André Carlos Ponce de Leon Ferreira de. Carvalho ICMC USP SCarlos. Membros Participantes: Luiz Satoru Ochi (LabIC IC/UFF & IC UFF) e outros...Vigência: 2025 - 202X**- ..... - [:Brazilian National Institute
+of Artificial Intelligence -IAPROBEM.](http://inct.cnpq.br/)
 
 **TíTULO: PROJETO INCT/CNPQ-SUB-PROJETO SATÉLITE, DENTRO DO NOSSO PROJETO INCT/CNPq 2022 (Vigência do sub-projeto: à partir 01/2025): Título Sub-Projeto: Estudo Teórico sobre Aprendizado de Grafos, Explicabilidade e Aplicação na Análise de Dados de Fome (Theoretical Study on Graph Learning,Explainability, and Application in the Analysis of Hunger Data). PROJETO PRINCIPAL INCT: Programa Institutos Nacionais de Ciência e Tecnologia/CNPq: IAIA**. **Instituto Nacional de Inteligência Artificial - 12/2022 & 12/2027. Coordenadora do Projeto: Teresa B. Ludermir (UFPE). Membros Participantes do Sub-Projeto: Luiz Satoru Ochi (LabIC IC/UFF & IC UFF), Mariá Cristina Vasconcelos Nascimento (ITA), Zhao Liang (USP) e outros....** [:Brazilian National Institute
 of Artificial Intelligence -IAIA.](https://inct-iaia.vercel.app/)
