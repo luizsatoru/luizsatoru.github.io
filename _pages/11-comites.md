@@ -37,7 +37,7 @@ news_limit: 5
 
 01.	SIGNAL 2025 - Program Commitee Member - [SIGNAL 2025, The Tenth International Conference on Advances in Signal, Image and Video Processing , which will take place in Lisbon, Portugal, from March 09, 2025 to March 13, 2025.](https://www.iaria.org/conferences2025/SIGNAL25.html)
    
-01.	Program Commitee Member - [XX Congresso Acadêmico sobre Defesa Nacional (CADN 2025) A edição 2024 foi realizada no Rio de Janeiro-RJ](https://www.gov.br/esd/pt-br/central-de-conteudo/noticias/a-19a-edicao-do-congresso-academico-sobre-defesa-nacional-cadn-se-inicia-na-escola-naval-no-rio-de-janeiro-rj)
+01.	Program Commitee Member - [XX Congresso Acadêmico sobre Defesa Nacional (CADN 2025) A edição 2024 foi realizada no Rio de Janeiro-RJ](https://www.gov.br/esd/pt-br/central-de-conteudo/noticias/vigesima-edicao-do-congresso-academico-de-defesa-nacional-tem-inicio-na-aman#:~:text=As%20boas%2Dvindas%20foram%20dadas,ministrada%20pelo%20Coronel%20Paulo%20Filho.&text=As%20atividades%20prosseguem%20ao%20longo,atuais%20de%20defesa%20e%20seguran%C3%A7a.&text=O%20CADN%2C%20que%20chega%20%C3%A0,estrat%C3%A9gico%20em%20benef%C3%ADcio%20do%20Brasil.)
 
 01. Program Committee Member for Concurso de Teses e Dissertações do Congresso da Sociedade Brasileira de Computação (CTD 2025) - [Concurso de Teses & Dissertações do CSBC2025 - 20 a 24 Julho 2025 - Maceió/AL.](https://csbc.sbc.org.br/2025/ctd/#/)
 
