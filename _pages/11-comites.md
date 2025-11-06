@@ -30,7 +30,7 @@ news_limit: 5
 
 01.	SIGNAL 2026 - Program Commitee Member - [SIGNAL 2026, The Eleventh International Conference on Advances in Signal, Image and Video Processing , which will take place in Valencia, Spain, March 8 - 12, 2026.](https://www.iaria.org/conferences2026/ComSIGNAL26.html)
 
-   01.	Presidente Comitê Científico - [LVIIII SBPO 2026 – 05 a 08 de OUTUBRO de 2026 - Belo Horizonte/MG](https://eventos.galoa.com.br/sbpo-2026/page/7035-inicio)
+   01.	Presidente Comitê Científico - [LVIIII SBPO 2026 – 05 a 08 de OUTUBRO de 2026 - Escola de Engenharia da UFMG, no campus Pampulha - Belo Horizonte/MG](https://eventos.galoa.com.br/sbpo-2026/page/7035-inicio)
    
    
    #### 2025.
