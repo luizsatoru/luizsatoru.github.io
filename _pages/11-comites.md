@@ -36,7 +36,7 @@ news_limit: 5
    01.	Presidente Comitê Científico - [LVIIII SBPO 2026 – 05 a 08 de OUTUBRO de 2026 - Escola de Engenharia da UFMG, no campus Pampulha - Belo Horizonte/MG](https://eventos.galoa.com.br/sbpo-2026/page/7035-inicio)
    
    
-   #### 2025.
+#### 2025
 
 01. ICVNS 2025 Scientific Committee Member - [International Conference on Variable Neighborhood Search (ICVNS), which will take place in Montreal, Canada, from May 12 to May 14, 2025.](https://2025.icvns.com/)
 
