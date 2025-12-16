@@ -26,6 +26,9 @@ news_limit: 5
 
 ### 2026
 
+01.	Program Commitee Member - [MIC 2026 - 16 MIC 2026, The 16th Metaheuristics International Conference, will be held in
+ Napoli, Italy, and in particular in Ischia Island, from June 8th to June 11th, 2026..](https://www.mic2026.unina.it/#about)
+
 01.	ICORES 2026 - Program Commitee Member - [:15th International Conference on Operations Research and Enterprise Systems (ICORES), which will take place in Marbella, Spain, 9-11 March 2026.](https://icores.scitevents.org/)
 
 01.	SIGNAL 2026 - Program Commitee Member - [SIGNAL 2026, The Eleventh International Conference on Advances in Signal, Image and Video Processing , which will take place in Valencia, Spain, March 8 - 12, 2026.](https://www.iaria.org/conferences2026/ComSIGNAL26.html)
