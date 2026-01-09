@@ -176,7 +176,7 @@ Hierarchical Worker Assignment” – CLUSTER/SE: CIDADES & REGIÕES INTELIGENTE
 
 1. **Thiago  Gouveia da Silva; Serigne Gueye; Philippe Michelon; Luiz Satoru Ochi; and Lucidio dos Anjos Formiga Cabral. (2019). "A polyhedral approach to the generalized minimum labeling spanning tree problem",  in [EURO Journal on Computational Optimization, volume 7, pages 47–77 - 2019 - SPRINGER](https://doi.org/10.1007/s13675-018-0099-5)** 
 
-1. **Vitor Nazario Coelho; Thays A. Oliveira; Luiz Satoru Ochi; and Igor Machado Coelho (2019) [BOOK: SMART AND DIGITAL CITIES: FROM COMPUTATIONAL INTELLIGENCE TO APPLIED SOCIAL SCIENE - URBAN COMPUTING - SPRINGER, 309 pp](https://doi.org/10.1007/978-3-030-12255-3. ISBN: 978-3-03012254-6, ISSN: 2510-2575. (The book had 15,000 accesses by December 2015))!!**
+1. **Vitor Nazario Coelho; Thays A. Oliveira; Luiz Satoru Ochi; and Igor Machado Coelho (2019) [BOOK: SMART AND DIGITAL CITIES: FROM COMPUTATIONAL INTELLIGENCE TO APPLIED SOCIAL SCIENE - URBAN COMPUTING - SPRINGER, 309 pp](https://doi.org/10.1007/978-3-030-12255-3. ISBN: 978-3-03012254-6, ISSN: 2510-2575. The book had 15,000 (15K) accesses by December 2015)**
    
 1. **Marques Moreira Sousa, Luiz Satoru Ochi, and Simone de Lima Martins (2019). "An Efficient Heuristic to the Traveling Salesperson Problem with Hotel Selection", In Hybrid Metaheuristics Book - Lecture Notes in Computer Science (LNCS) 11299, pp. 31-45 , SPRINGER, ISSN 0302-9743, https://doi.org/10.1007/978-3-030-05983-5.**
 
