@@ -33,7 +33,7 @@ news_limit: 5
  
  [**PRÊMIO DE EXCELÊNCIA CIENTÍFICA PELA UFF em 2020 - (honraria da área cientifica das Universidades oferecida anualmente a pesquisadores de maior destaque em pesquisas científicas)**](https://www.uff.br/pesquisa-e-inovacao/incentivo-a-pesquisa/),
 
-[**Instituto de Computação**](http://www.ic.uff.br) - [**O Programa de Pós-Graduação em Computação do IC-UFF é um dos 11 Programas de Excelência em Pós de Computação do Brasil - CAPES-2022**](http://www.ic.uff.br/PosGraduacao/coordenacao.php) 
+[**Instituto de Computação**](http://www.ic.uff.br) - [**O Programa de Pós-Graduação em Computação do IC-UFF é um Programa de Pós de Computação com NOTA MÁXIMA = 7 pela CAPES!!! Programa de Excelência Internacional em Computação - CAPES-2026**](http://www.ic.uff.br/PosGraduacao/coordenacao.php) 
 
 
 [**Venha  conhecer e ser parceiro/colabordor do nosso Labs LABIC - LABORATÓRIO DE INTELIGENCIA COMPUTACIONAL DO IC UFF (Facebook)**](https://www.facebook.com/groups/588329561328235)
