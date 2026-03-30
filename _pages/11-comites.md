@@ -35,7 +35,7 @@ news_limit: 5
 
 01.	Presidente Comitê Científico - [LVIIII SBPO 2026 – 05 a 08 de OUTUBRO de 2026 - Escola de Engenharia da UFMG, no campus Pampulha - Belo Horizonte/MG](https://eventos.galoa.com.br/sbpo-2026/page/7035-inicio)
    
-01.	Coordenador da Comissão Organizadora do CLUSTER(SE)- Cidades e Regiões Inteligentes & Sustentáveis - CRIS - Evento dentro do  [LVIIII SBPO 2026 – 05 a 08 de OUTUBRO de 2026 - Escola de Engenharia da UFMG, no campus Pampulha - Belo Horizonte/MG](https://eventos.galoa.com.br/sbpo-2026/page/7692-sessoes-especiais)
+01.	Coordenador da Comissão Organizadora do CLUSTER(SE2)- Cidades e Regiões Inteligentes & Sustentáveis - CRIS - Evento dentro do  [LVIIII SBPO 2026 – 05 a 08 de OUTUBRO de 2026 - Escola de Engenharia da UFMG, no campus Pampulha - Belo Horizonte/MG](https://eventos.galoa.com.br/sbpo-2026/page/7692-sessoes-especiais)
       
 #### 2025
 
