@@ -32,7 +32,6 @@ news_limit: 5
  
 1. Lucidio dos Anjos Formiga Cabral (Prof. UFPB - João Pessoa) (Concluido) Assunto: Exact and Heuristic Algorithms for Automatic Clustering Problems; Período: 03/2011 a 02/2012. Projeto PROCAD-NF - CAPES. Supervisor: Luiz Satoru Ochi (IC-UFF)
  
- 
 1. Marcone Jamilson Freitas Souza (Prof. UFOP-MG) (Concluido). Assunto: Algoritmos eficientes para problemas de sequenciamento de tarefas em máquinas com penalidade
 por antecipação e atraso de produção ; Período: 03/2008 a 02/2009. Bolsa de Pós Doutorado Senior da FAPERJ.  Orientador: Luiz Satoru Ochi (IC-UFF)
  
@@ -45,6 +44,9 @@ por antecipação e atraso de produção ; Período: 03/2008 a 02/2009. Bolsa de
 
 
 ## **ORIENTAÇÃO DE TESES DE DOUTORADO CONCLUÍDAS**
+
+1. Lima, Alfredo,  Aluno de Doutorado em Computação - IC/UFF <b> orientadores: Luiz Satoru Ochi e Rian Gabriel S Pinheiro (UFAL)-co-orientador;
+ Titulo:<b> Optimization of Propagation Strategies in P2P Communication Networks; Defesa: 04/2026.</b>;  
 
 1. Augusto Pizano Vieira Beltrão,  Aluno de Doutorado em Computação - IC/UFF <b> orientadores: Luiz Satoru Ochi e José André M Brito (ENCE/IBGE)-co-orientador;
  Titulo:<b> Optimization Algorithms Applied to the Cluster Ensemble Problem; Defesa: 09/2025.</b>;
