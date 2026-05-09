@@ -22,6 +22,12 @@ news_limit: 5
 
 ## **publications (by year)**
 
+## **2026**
+
+## **Accepted/Published**
+
+1. **Beltrão, Augusto Pizano Vieira; Brito, Jose André M; Semaan, G.; Fadel, Augusto and Ochi, Luiz Satoru (2026). “BRKGA applied to the cluster ensemble problem”.To appear in RAIRO - Operations Research,22026*
+
 ## **2025**
 
 ## **Accepted/Published**
