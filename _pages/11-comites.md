@@ -24,6 +24,14 @@ news_limit: 5
 
 ## **Minha participação em comitês de programa e/ou comitê organizador nos Congressos/Simpósios nos últimos anos**
 
+### 2027
+
+01.	ICORES 2026 - Program Commitee Member - [:17th International Conference on Operations Research and Enterprise Systems (ICORES), ICORES 2027 will be held in conjunction with MODELSWARD 2027, ICISSP 2027, ICPRAM 2027 and BIOSTEC 2027.
+Registration to ICORES allows free access to the MODELSWARD, ICISSP, ICPRAM and BIOSTEC conferences (as a non-speaker).which will take place in The Conference will be held at the Grand Hotel Excelsior in Valletta, Malta.(https://icores.scitevents.org/CallForPapers.aspx))]
+2.	
+https://icores.scitevents.org/ProgramCommittee.aspx
+
+
 ### 2026
 
 01.	Program Commitee Member - [MIC 2026 - 16 MIC 2026, The 16th Metaheuristics International Conference, will be held in
