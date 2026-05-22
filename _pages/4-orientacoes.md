@@ -90,7 +90,7 @@ Hybrid and Parallel Algorithms for Single and Multi-Objective Routing Problems; 
 1. Gustavo Resende de Carvalho,  Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF Orientador: Luiz Satoru Ochi, Co-oreintadora: Aline Nascimento; Título: Um Algoritmo ILS para o Problema de Localização-Roteamento Capacitado com Dois Níveis; 
 Defesa: 08/08/2014. 
  
-1. Puca Huachi Vaz Penna, Prof. UFF/Pádua,  Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF Orientador: Luiz Satoru Ochi;<b> Título: Um algoritmo unificado para uma classe de problemas de roteamento de veículos com frota heterogênea </b>; 
+1. Puca Huachi Vaz Penna, Prof. UFF/Pádua,  Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF Orientador: Luiz Satoru Ochi;<b> Título: Um algoritmo unificado para uma classe de problemas de roteamento de veículos com frota heterogênea; 
 Defesa: 29/11/2013. 
 
 1. Gustavo Silva Semaan, Prof. UFF/INFES, Doutorado em Computação - Instituto de Computação - Universidade Federal Fluminense - IC/UFF </b> Orientador: Luiz Satoru Ochi;<b> Título: Algoritmos para Problemas de Agrupamento Automático;  Defesa: 10/09/2013. 
@@ -116,7 +116,7 @@ Luiz Satoru Ochi (IC-UFF). Defesa: 07/2010. (Engenharia de Sistemas e Computaç�
 1. Geiza Cristina da Silva,  Profa. UFPE/PE, Doutorado em Engenharia de Produção, COPPE-PRODUÇÃO/UFRJ;  Assunto: Algoritmos heuristicos e híbridos para o Problema de Alocação Dinâmica de espaços; Defesa: 03/2010; Orientadores: Paulo O. Boaventura Netto e Laura Bahiense (Coppe-UFRJ), Luiz Satoru Ochi (Co-orientador externo).  
  
 1. André Renato Villela da Silva, Prof. UFF/Rio das Ostras, Doutorado em Computação - Instituto de Computação Universidade Federal Fluminense - IC/UFF; 
-<b>Título: Novos algoritmos heuristicos e híbridos para o Problema de Escalonamento de Projetos com Restrições 	de Recursos Dinâmicos</b>; Defesa: 01/2010.  
+Título: Novos algoritmos heuristicos e híbridos para o Problema de Escalonamento de Projetos com Restrições 	de Recursos Dinâmicos</b>; Defesa: 01/2010.  
 
 
 1. Haroldo Gambini Santos,   Prof. UFOP - MG, Doutorado em Computação - Instituto de Computação  Universidade Federal Fluminense - IC/UFF; 
