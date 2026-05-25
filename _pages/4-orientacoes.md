@@ -147,6 +147,8 @@ Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema: Eff
 
 1. Alexandre dos Santos Mello. Aluno de Doutorado em Computação IC/UFF. Tema(provisorio): Efficient Hybrid Algorithms for the Electric Vehicle Routing Problem with Heterogeneous Fleet and Split Deliveries. Orientadores: Luiz Satoru Ochi, co-orientador: Matheus Haddad (UFOP). Previsão término: 12/2027
 
+1. Daniela Nunes dos Santos Ferreira. Aluna de Doutorado em Computação IC/UFF. Tema provisório: Roteamento Inteligente para Operações Humanitárias em Enchentes Urbanas sob Infraestrutura Degradada. Orientador: Luiz Satoru Ochi: 12/2028.
+
 
 ## **ORIENTAÇÃO DE DISSERTAÇÕES DE MESTRADO EM ANDAMENTO**
   
