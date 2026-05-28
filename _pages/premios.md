@@ -23,6 +23,8 @@ news_limit: 5
 
 ## **PRÊMIOS E/OU CONDECORAÇÕES RECEBIDAS RECENTEMENTE**
 
+**•	2026 – Recebi durante o Workshop em homenagem a nota 7 (nota máxima) da Pós Graduação em Computação (PGC-UFF) do IC/UFF; junto a CAPES – Maio 2026. Uma Placa em homenagem as contribuições relevantes  prestadas ao PGC-IC/UFF – Maio 2026**.
+
 **•	2024 - Recebi novamente o Prêmio/Grant: Cientista do Estado do Rio de Janeiro - CNE (Grant 2024 - 2027), FAPERJ: Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro**.
 
 **•	2022 – PRÊMIO:
