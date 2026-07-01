@@ -149,8 +149,6 @@ Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema: Eff
 ## **ORIENTAÇÃO DE DISSERTAÇÕES DE MESTRADO EM ANDAMENTO**
   
 
-1. Otavio Henrique Flaeschen Oliveira, Aluno de Mestrado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema Provisório: Computational Intelligence Techniques for Natural Disaster Prevention Problems. Previsão de término: 12/2024.
-
 1. Raphael Ricardo Gonçalves, Aluno de Mestrado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Tema Provisório: Generation of School Bus Routes in Real Time Using Hybrid Heuristic Algorithms; Previsão de término: 12/2024.
 
 1. Fabio dos Santos Gonçalves, Aluno de Mestrado em Computação - IC/UFF Orientador: Luiz Satoru Ochi; Tema Provisório: Uso da rede LORA para monitoramento e automação em propriedades rurais, Previsão de término: 12/2025.
@@ -159,6 +157,8 @@ Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema: Eff
    
 ## **ORIENTAÇÃO DE DISSERTAÇÕES DE MESTRADO CONCLUÍDAS**
 
+1. Otavio Henrique Flaeschen Oliveira, Aluno de Mestrado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi; Título: Operational Decision-Support Tool for Flood Monitoring in the State of Rio de Janeiro. Defesa: 06/2026.
+ 
  1. Victor Hugo Corpas dos Santos Guaraná, Aluno de Mestrado em Computação - IC/UFF  Orientador: Luiz Satoru Ochi. Título: The Routing Problem of a Fleet of Manned and Unmanned Vehicles: Literature & New Algorithm; Defesa: 04/2026.
     
 1. Guilherme Manso Haddad. Aluno de Mestrado em Computação IC/UFF. Título: Using Reinforcement Learning Technique to Hybrid Fleet Routing and Performance Analysis. Orientador: Luiz Satoru Ochi;  Defesa: 12/2023.
