@@ -27,6 +27,8 @@ news_limit: 5
 ## **Accepted/Published**
 
 1. **Beltrão, Augusto Pizano Vieira; Brito, Jose André M; Semaan, G.; Fadel, Augusto and Ochi, Luiz Satoru (2026). “BRKGA applied to the cluster ensemble problem”.RAIRO - Operations Research,2026, volume 60(4), pp. 1931-1957**. DOI: https://doi.org/10.1051/ro/2026050
+   
+2. **; and Ochi, Luiz Satoru (2024). “Estratificação por Aptidão em Algoritmos Evolutivos: Teoria Estrutural e Resultados Experimentais” . Aceito como trabalho completo para o LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
 
 ## **2025**
 
