@@ -30,7 +30,7 @@ news_limit: 5
    
 2. **Paramahansa W. Polo Vieyra ; Ochi, Luiz Satoru; and Martinhon, Carlos A J (2026). “Estratificação por Aptidão em Algoritmos Evolutivos: Teoria Estrutural e Resultados Experimentais” . Aceito como trabalho completo para o LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
 
-3. 2. **LOPES, Michelangelo José de Mello Lima e Souza; Fabio Protti; and Ochi, Luiz Satoru;  (2026). “Problemas de Roteirização de Veículos Multi-Depósito com Drones: replicabilidade, revalidação e estratégias de clusterização” . Aceito como trabalho completo para o LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
+3. **LOPES, Michelangelo José de Mello Lima e Souza; Fabio Protti; and Ochi, Luiz Satoru;  (2026). “Problemas de Roteirização de Veículos Multi-Depósito com Drones: replicabilidade, revalidação e estratégias de clusterização” . Aceito como trabalho completo para o LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
 
 ## **2025**
 
