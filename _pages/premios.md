@@ -23,6 +23,9 @@ news_limit: 5
 
 ## **PRÊMIOS E/OU CONDECORAÇÕES RECEBIDAS RECENTEMENTE**
 
+**•	2026 – PRÊMIO:
+Em 2026, A TESE de DOUTORADO do egresso Bruno Barros - IC/UFF, “Variations of the Minimum Spanning Tree Problem: Algorithmic Approaches and Complexity Study”, orientado pelos Profs. Luiz Satoru Ochi & Rian Pinheiro (UFAL) foi classificado entre os finalistas do - Concurso de Teses e Dissertação do SBPO 2026-Simpósio Brasileiro de Pesquisa Operacional 2026.**
+
 **•	2026 – Recebi durante o Workshop em homenagem a nota 7 (nota máxima) da Pós Graduação em Computação (PGC-UFF) do IC/UFF; junto a CAPES – Maio 2026. Uma Placa em homenagem as contribuições relevantes  prestadas ao PGC-IC/UFF – Maio 2026**.
 
 **•	2024 - Recebi novamente o Prêmio/Grant: Cientista do Estado do Rio de Janeiro - CNE (Grant 2024 - 2027), FAPERJ: Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro**.
