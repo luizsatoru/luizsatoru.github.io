@@ -32,6 +32,8 @@ news_limit: 5
 
 3. **LOPES, Michelangelo José de Mello Lima e Souza; Fabio Protti; and Ochi, Luiz Satoru;  (2026). “Problemas de Roteirização de Veículos Multi-Depósito com Drones: replicabilidade, revalidação e estratégias de clusterização” . Aceito como trabalho completo para o LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
 
+04.	**Santos, João R Weissmann; Ochi, Luiz Satoru; Sotelo, David and Frota, Yuri Abitibol (2026). “Problema de escalonamento de sondas de perfuração com restrições orçamentárias: abordagens exatas e heuristicas”. Aceito para o LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
+
 ## **2025**
 
 ## **Accepted/Published**
