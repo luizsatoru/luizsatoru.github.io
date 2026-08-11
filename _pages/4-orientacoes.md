@@ -133,7 +133,7 @@ Título: Formulações e Algoritmos para o Problema de Programação de Horário
 ## ** ORIENTAÇÕES DE TESES DE DOUTORADO EM ANDAMENTO**
 
 
-1. Otavio Henrique Flaeschen Oliveira, Aluno de Mestrado em Computação - IC/UFF Orientador: Luiz Satoru Ochi; Título: Operational Decision-Support Tool for Flood Monitoring in the State of Rio de Janeiro - IC/UFF .Previsão de término:/2029.
+1. Otavio Henrique Flaeschen Oliveira, Aluno de Mestrado em Computação - IC/UFF Orientador: Luiz Satoru Ochi; Título: Operational Decision-Support Tool for Monitoring Flooding and Other Extreme Weather Events- IC/UFF .Previsão de término:/2029.
 
 1. Alfredo Lima Moura Silva. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Reverse Logistics Problems: Methods and Applications. Orientadores: Luiz Satoru Ochi e Rian Pinheiro. Previsão de término: 2026.
   
