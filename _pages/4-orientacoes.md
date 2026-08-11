@@ -133,10 +133,8 @@ Título: Formulações e Algoritmos para o Problema de Programação de Horário
 ## ** ORIENTAÇÕES DE TESES DE DOUTORADO EM ANDAMENTO**
 
 
-1. Augusto Beltrao ,  Aluno de Doutorado em Computação - IC/UFF  
-Orientadoes: Luiz Satoru Ochi;Co-orientador: Jose Andre M Brito (IBGE) Tema: Efficient algorithms for the Cluster Ensemble Problem .Previsão de término:/2026.
+1. Otavio Henrique Flaeschen Oliveira, Aluno de Mestrado em Computação - IC/UFF Orientador: Luiz Satoru Ochi; Título: Operational Decision-Support Tool for Flood Monitoring in the State of Rio de Janeiro - IC/UFF .Previsão de término:/2029.
 
- 
 1. Alfredo Lima Moura Silva. Aluno de Doutorado em Computação IC/UFF. Tema provisório: Reverse Logistics Problems: Methods and Applications. Orientadores: Luiz Satoru Ochi e Rian Pinheiro. Previsão de término: 2026.
   
 1. Augusto Fadel. Aluno de Doutorado em Computação IC/UFF. Tema(provisorio): Efficient algorithms for the multivariate microaggregation problem. Orientadores: Luiz Satoru Ochi, co-orientador: José Andre M Brito (IBGE). Previsão término: 12/2027
