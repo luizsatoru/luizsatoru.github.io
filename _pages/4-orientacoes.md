@@ -47,7 +47,7 @@ por antecipação e atraso de produção ; Período: 03/2008 a 02/2009. Bolsa de
 
 
 1. Fadel, Augusto César,  Aluno de Doutorado em Computação - IC/UFF <b> orientadores: Luiz Satoru Ochi e José Andre M Brito (IBGE)-co-orientador;
- Titulo:<b> Abordagem de Otimização para Alocação de Privacy Budget no Problema de Agrupamento Diferencialmente Privado; Defesa: 08/2026.</b>;
+ Titulo:<b> Optimization Approach for Privacy Budget Allocation in the Differentially Private Clustering Problem; Defesa: 08/2026.</b>;
 
 1. Lima, Alfredo,  Aluno de Doutorado em Computação - IC/UFF <b> orientadores: Luiz Satoru Ochi e Rian Gabriel S Pinheiro (UFAL)-co-orientador;
  Titulo:<b> Optimization of Propagation Strategies in P2P Communication Networks; Defesa: 04/2026.</b>;  
