@@ -23,6 +23,9 @@ news_limit: 5
 
 ## **PRÊMIOS E/OU CONDECORAÇÕES RECEBIDAS RECENTEMENTE**
 
+**•	2026 – PRÊMIO
+Recebi o Prêmio: FELLOW DA SOBRAPO - DA SOCIEDADE BRASILEIRA DE PESQUISA OPERACIONAL**.
+
 **•	2026 – PRÊMIO:
 Em 2026, A TESE de DOUTORADO do egresso Bruno Barros - IC/UFF, “Variations of the Minimum Spanning Tree Problem: Algorithmic Approaches and Complexity Study”, orientado pelos Profs. Luiz Satoru Ochi & Rian Pinheiro (UFAL) foi classificado entre os finalistas do - Concurso de Teses de Doutorado do SBPO 2026-Simpósio Brasileiro de Pesquisa Operacional 2026.**
 
