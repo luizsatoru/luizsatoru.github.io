@@ -25,9 +25,11 @@ news_limit: 5
 
  **Professor Titular do [Instituto de Computação - IC/UFF](http://www.ic.uff.br) & [Coordenador do LabIC - Laboratório de Inteligência Computacional do IC-UFF](https://www.facebook.com/groups/588329561328235)**
  
- [**Pesquisador-PQ com Bolsa de Produtividade do CNPq - Nível 1C, Comitê Ciência da Computação**](http://lattes.cnpq.br/9171815778534257)
+ [**Pesquisador-PQ com Bolsa de Produtividade do CNPq - Nível B, Comitê Ciência da Computação**](http://lattes.cnpq.br/9171815778534257)
 
  [**Veja Também o meu Google Scholar**](https://scholar.google.com/citations?hl=pt-BR&user=w3KB2MoAAAAJ)
+
+[**Prêmio: 2026-RECEBEU O PRÊMIO - FELLOW DA SOBRAPO - SOCIEDADE BRASILEIRA DE PESQUISA OPERACIONAL EM 2026!!!!**]([https://eventos.galoa.com.br/sbpo-2026/page/7035-inicio]. 
 
  [**Prêmio & GRANT CIENTISTA DO ESTADO DO RIO DE JANEIRO - CNE pela FAPERJ desde 2008 até o momento!!!!**](http://www.faperj.br). 
  
