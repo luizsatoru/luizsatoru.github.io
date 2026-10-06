@@ -36,6 +36,9 @@ news_limit: 5
 
 05.	**Mello, Alexandre dos Santos; Haddad, Matheus N.; Ochi, Luiz Satoru; Coelho, Igor Machado; Frota, Yuri; and Nogueira, Loana Tito. (2026). “Avanços no Problema de Roteamento de Veículos Elétricos: Uma Nova
 Formulação Exata e um GRASP para Frota Heterogênea com Entregas Fracionárias”. A ser publicado nos Anais do LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
+
+05.	**Francisco, Flávio Mateus Pereira; Dias, Theodoro Ribeiro.; and Ochi, Luiz Satoru. (2026). “De Inovação Emergente a Infraestrutura Crítica: A Evolução da Imigração Digital”. A ser publicado nos Anais do LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
+
 ## **2025**
 
 ## **Accepted/Published**
