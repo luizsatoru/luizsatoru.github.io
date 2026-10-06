@@ -43,7 +43,9 @@ Formulação Exata e um GRASP para Frota Heterogênea com Entregas Fracionárias
 
 08. **Guaraná, Victor Hugo Corpas dos Santos, and Ochi, Luiz Satoru. (2026). “Algoritmo Evolutivo HBRKGA para Problema de Roteamento de Veículos com Caminhões e Drones”. A ser publicado nos Anais do LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
 
-   
+ 09. **Bruno José S. Barros - Tese classificado na fase finalista no concurso de Teses de Doutorado do SBPO2026- orientadores: Ochi, Luiz Satoru; Pinheiro, Rian Gabriel Santos and Souza, Ueverton. (2026). “Variações do Problema da Árvore Geradora Mínima: Abordagens Algorítmicas e Estudo de Complexidade”. A ser publicado nos Anais do LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
+
+      
 ## **2025**
 
 ## **Accepted/Published**
