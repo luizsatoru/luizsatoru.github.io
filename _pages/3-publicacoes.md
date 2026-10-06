@@ -41,7 +41,7 @@ Formulação Exata e um GRASP para Frota Heterogênea com Entregas Fracionárias
 
 07.	**Gomes, Alan da Silva; Ochi, Luiz Satoru; and Coelho, Igor Machado. (2026). “Heurísticas para Roteamento com Steiner em Cenários de Eventos Climáticos Extremos”. A ser publicado nos Anais do LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
 
-08. **Guaraná, Victor Hugo Corpas dos Santos, and Ochi, Luiz Satoru. (2026). “Heurísticas para Roteamento com Steiner em Cenários de Eventos Climáticos Extremos”. A ser publicado nos Anais do LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
+08. **Guaraná, Victor Hugo Corpas dos Santos, and Ochi, Luiz Satoru. (2026). “Algoritmo Evolutivo HBRKGA para Problema de Roteamento de Veículos com Caminhões e Drones”. A ser publicado nos Anais do LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
 
    
 ## **2025**
