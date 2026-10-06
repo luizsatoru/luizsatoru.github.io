@@ -28,11 +28,11 @@ news_limit: 5
 
 1. **Beltrão, Augusto Pizano Vieira; Brito, Jose André M; Semaan, G.; Fadel, Augusto and Ochi, Luiz Satoru (2026). “BRKGA applied to the cluster ensemble problem”.RAIRO - Operations Research,2026, volume 60(4), pp. 1931-1957**. DOI: https://doi.org/10.1051/ro/2026050
    
-2. **Paramahansa W. Polo Vieyra ; Ochi, Luiz Satoru; and Martinhon, Carlos A J (2026). “Estratificação por Aptidão em Algoritmos Evolutivos: Teoria Estrutural e Resultados Experimentais” . Aceito como trabalho completo para o LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
+2. **Paramahansa W. Polo Vieyra ; Ochi, Luiz Satoru; and Martinhon, Carlos A J (2026). “Estratificação por Aptidão em Algoritmos Evolutivos: Teoria Estrutural e Resultados Experimentais” .  A ser publicado nos Anais do LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
 
-3. **LOPES, Michelangelo José de Mello Lima e Souza; Fabio Protti; and Ochi, Luiz Satoru;  (2026). “Problemas de Roteirização de Veículos Multi-Depósito com Drones: replicabilidade, revalidação e estratégias de clusterização” . Aceito como trabalho completo para o LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
+3. **LOPES, Michelangelo José de Mello Lima e Souza; Fabio Protti; and Ochi, Luiz Satoru;  (2026). “Problemas de Roteirização de Veículos Multi-Depósito com Drones: replicabilidade, revalidação e estratégias de clusterização” . A ser publicado nos Anais do LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
 
-04.	**Santos, João R Weissmann; Ochi, Luiz Satoru; Sotelo, David and Frota, Yuri Abitibol (2026). “Problema de escalonamento de sondas de perfuração com restrições orçamentárias: abordagens exatas e heuristicas”. Aceito para o LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
+04.	**Santos, João R Weissmann; Ochi, Luiz Satoru; Sotelo, David and Frota, Yuri Abitibol (2026). “Problema de escalonamento de sondas de perfuração com restrições orçamentárias: abordagens exatas e heuristicas”. A ser publicado nos Anais do LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
 
 05.	**Mello, Alexandre dos Santos; Haddad, Matheus N.; Ochi, Luiz Satoru; Coelho, Igor Machado; Frota, Yuri; and Nogueira, Loana Tito. (2026). “Avanços no Problema de Roteamento de Veículos Elétricos: Uma Nova
 Formulação Exata e um GRASP para Frota Heterogênea com Entregas Fracionárias”. A ser publicado nos Anais do LVIII SBPO 2026 (Qualis A4) – UFMG/BH/MG, 2026**
