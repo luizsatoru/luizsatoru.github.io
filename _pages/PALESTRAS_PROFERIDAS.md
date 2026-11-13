@@ -22,7 +22,9 @@ news_limit: 5
 
 ## **ALGUMAS APRESENTAÇÕES DE PALESTRAS RECENTES**
 
-**2026 – Palestra FAPERJ/CNE – Palestras Previstas nos campus da IFF (Instituto Federal Fluminense),Campus de Campos-RJ para alunos escolas publicas do estado RJ “CIDADES & REGIÕES INTELIGENTES E SUSTENTÁVEIS – CRIS; DESAFIO: COMO INSERIR SUA CIDADE, SEU BAIRRO, SUA ESCOLA, NO CONTEXTO DE CRIS?”. Previstas para Novembro/Dezembro 2026.**
+**2026 – Palestra2- FAPERJ/CNE – Palestras Proferida a convite do Prof Dr. André Velasques - nos campus da IFF (Instituto Federal Fluminense),Campus de Campos-RJ para alunos escolas publicas do estado RJ “CIDADES & REGIÕES INTELIGENTES E SUSTENTÁVEIS – CRIS; DESAFIO: COMO INSERIR SUA CIDADE, SEU BAIRRO, SUA ESCOLA, NO CONTEXTO DE CRIS?”. Novembro 2026.**
+
+**2026 – Palestra1- FAPERJ/CNE – Palestras Proferida a convite do Prof Dr. André Velasques - nos campus da IFF (Instituto Federal Fluminense),Campus de Campos-RJ para alunos escolas publicas do estado RJ “CIDADES & REGIÕES INTELIGENTES E SUSTENTÁVEIS – CRIS; DESAFIO: COMO INSERIR SUA CIDADE, SEU BAIRRO, SUA ESCOLA, NO CONTEXTO DE CRIS?”. Novembro 2026.**
 
 **2026 – Palestra FAPERJ/CNE – **[Palestra no CNMAC2026 - UNESP - PRESIDENTE PRUDENTE/SP, “Problemas de Logística & Transportes Inteligentes: Soluções via Otimização & Inteligência Computacional", De 14 a 18 de Setembro 2026, A  convite do CNMAC/SBMAC](https://www.cnmac.org.br/novo/index.php/CNMAC/conteudo/2026/e_5/0/50)**.
 
